@@ -1,0 +1,990 @@
+Amenity Type,Name,Latitude,Longitude
+bar,Lassi,25.4299814,81.8610072
+bar,pravin bar,25.4583316,81.8639091
+bar,aashish,25.4548525,81.8619289
+bar,raju internationals,25.4571147,81.8656686
+bar,beer bar mosowo,25.4492569,81.8578098
+bar,Barcode,25.4550626,81.8349598
+cafe,cyber cafe,25.4389955,81.8585493
+cafe,jungle canteen,25.4943395,81.8624154
+cafe,SHIVAM CAFE,25.4540569,81.8673507
+cafe,sanam cafe,25.4554516,81.8633732
+cafe,amitabh cafe,25.4515721,81.8720321
+cafe,star world cafe,25.4517357,81.8723434
+cafe,nilgiri cafe,25.4506044,81.8737826
+cafe,prayagraj cafe,25.4456327,81.8830037
+cafe,murli ram,25.4485167,81.8616121
+cafe,nescafe,25.4483036,81.8583077
+cafe,DEEPAK CANTEEN,26.1867562,81.6801770
+cafe,CAFE 96,25.4921714,81.8645434
+cafe,Old School Cafe,25.4547275,81.8334642
+cafe,Coffee Machine,25.4571116,81.8352448
+cafe,Cafe Coffee Day,25.4524789,81.8369485
+cafe,Parinda Cafe,25.4065675,81.8679108
+cafe,The Rutba,24.5429210,81.2967838
+cafe,O-Cafe,26.2249032,81.2404120
+cafe,Nescafe,26.2240432,81.2405572
+cafe,SUVISTO SHAKES,25.4622300,81.8408364
+cafe,MAHI CAFE,25.4638380,81.8590260
+cafe,Pradeep Cafe,26.3117434,82.7330267
+cafe,Chai Sutta Bar,26.2533939,82.0709106
+cafe,Rasna Buzz,25.4554364,81.8346715
+cafe,Starbucks,25.4526592,81.8340924
+fast_food,McDonald's,25.4504642,81.8363247
+fast_food,Softy Corner,25.4500252,81.8346828
+fast_food,Tuck In,25.4542380,81.8349230
+fast_food,Maurya Food shop,25.4638906,81.8685714
+fast_food,kabab roll,25.4395737,81.8601102
+fast_food,kinara cafe,25.4308661,81.8696222
+fast_food,Night Food Market,25.4509157,81.8738052
+fast_food,KFC,25.4494547,81.8396055
+fast_food,bablu ka burger,25.4562764,81.8719369
+fast_food,shivam dhaba,25.4546405,81.8748663
+fast_food,manan k samose,25.4555483,81.8736007
+fast_food,vivek,25.4560368,81.8637866
+fast_food,akhil food,25.4516574,81.8736040
+fast_food,ashwin khana,25.4515030,81.8740761
+fast_food,aradhana pizza,25.4501805,81.8746119
+fast_food,agnus,25.4644911,81.8497076
+fast_food,F1  FOOD CORNER,25.4631397,81.8514024
+fast_food,chinese special,25.4499854,81.8594878
+fast_food,MAN LUBHAVNI,25.4571872,81.8562956
+fast_food,Burger King,25.4547575,81.8348243
+fast_food,Kamdhenu Sweets,25.4503500,81.8323071
+fast_food,Kushwaha Sweets And Namkeen,25.4016604,81.8692986
+fast_food,Banarasi Chaat Bhandar,25.4518973,81.8349147
+fast_food,Domino's,25.4499169,81.8342057
+fast_food,Hari Ram & Sons,25.4363350,81.8340632
+fast_food,Shri Radhe Ras Kunj Sweet House,25.4364805,81.8340787
+fast_food,Burger Games,25.3986363,81.8740825
+fast_food,Amul,25.3985122,81.8743780
+fast_food,Domino's,25.4558061,81.8354896
+fast_food,Pawan Namkeen,25.4364995,81.8409951
+fast_food,Sulaki Lal Sri Nath & Sons,25.4364808,81.8410678
+fast_food,Kamdhenu Confectionary,25.4530143,81.8367566
+fast_food,Belgian Waffle Co,25.4525146,81.8369570
+fast_food,AGGRAHRI FAST FOOD,25.3797685,81.8461126
+fast_food,Raj Sweets Shop,25.4646157,81.8665323
+fast_food,DEENA NATH CORNER,25.4641834,81.8653992
+fast_food,Banarasi Sweets,25.3940224,81.8609955
+fast_food,Nirala Sweet House,25.4368027,81.8228033
+fast_food,Pehelwan Juice Corner,25.4520481,81.8351929
+fast_food,sonam fast food,26.3510197,82.2292754
+fast_food,Deepak Fast Food Corner,26.2753346,82.4711766
+fast_food,Rajendra chaat Corner,26.2751780,82.4711322
+fast_food,Burger Singh,26.2181935,81.2434028
+fast_food,Nirvana Foods,25.4654700,81.8715912
+fast_food,Abhi fast food corner,25.4638403,81.8655001
+fast_food,Vaishnavi Fast food,26.3117913,82.7310086
+fast_food,anu food,26.3151430,82.7329784
+fast_food,Jai,26.3130730,82.7366084
+fast_food,raja fast,26.3150570,82.7369626
+fast_food,masala fast food,26.3150240,82.7399212
+fast_food,Subway,25.4555766,81.8340272
+fast_food,La Pino's Pizza,25.4555771,81.8340099
+fast_food,Pahalwan Juice Stuff,25.4320255,81.8224764
+ice_cream,Night Food Market,25.4510376,81.8737839
+ice_cream,Lovely Icecream,26.2746039,82.4720060
+ice_cream,Kamal Ice cream(super market),26.2263860,81.2389651
+ice_cream,Kamal Ice cream,26.2185531,81.2434819
+ice_cream,Robin & Baskin,25.4546929,81.8344152
+restaurant,Hot Stuff,25.4527005,81.8346442
+restaurant,SAGAR RATNA,25.4572438,81.8600908
+restaurant,Bridges Restaurant,25.4539899,81.8348188
+restaurant,Midway Treat Restaurant,24.9230633,81.6863035
+restaurant,Shakti dhaba,25.2965602,82.4048177
+restaurant,Night Food Market,25.4513777,81.8738372
+restaurant,Prayag Dhaba,25.4244733,81.9549917
+restaurant,Rahi Restaurant,25.4247331,81.9560108
+restaurant,ajay dhaba,25.4555483,81.8746979
+restaurant,shaloo foods,25.4561013,81.8710948
+restaurant,sheenu chaat,25.4571289,81.8736109
+restaurant,juli restaraunt,25.4512381,81.8726547
+restaurant,shkib,25.4568659,81.8651072
+restaurant,sagar ratna,25.4481680,81.8612474
+restaurant,maharani  zayka,25.4498963,81.8626464
+restaurant,balaji,25.4587024,81.8568297
+restaurant,ramada,25.4586730,81.8587279
+restaurant,kahna shyam,25.4565644,81.8598892
+restaurant,breakfast centre,25.0182224,82.3601259
+restaurant,Forty Wings,25.4033317,81.8682416
+restaurant,Kadir Sweets,25.4029389,81.8691933
+restaurant,Shaam Restaurant,25.4071555,81.8674795
+restaurant,Alveena Food City,25.4012194,81.8689299
+restaurant,Sethi Punjabi Dhaba,25.3907765,81.8627541
+restaurant,Pizza Hut,25.4505795,81.8304807
+restaurant,Tandoor,25.4504020,81.8315022
+restaurant,Busybee,25.4026598,81.8686437
+restaurant,Higgins IX CI,25.4110742,81.8429396
+restaurant,Habib Hotel,25.3990652,81.8632979
+restaurant,Mishthi,25.3997775,81.8670336
+restaurant,BIKANER,25.4514360,81.8324604
+restaurant,Pizza Hut,25.4559442,81.8355087
+restaurant,Rustic Kitchen,25.4571074,81.8352164
+restaurant,Curry Leaf,25.4551480,81.8374386
+restaurant,Kailash Parbat,25.4519558,81.8349982
+restaurant,CHICAGO PIZZA,25.4520503,81.8352836
+restaurant,Royal Castle,25.4065503,81.8679293
+restaurant,New Zaika,25.4025606,81.8695416
+restaurant,Al Zaika,25.4023521,81.8695444
+restaurant,Mustfa Chicken Biryani,25.4029997,81.8692041
+restaurant,Clock Tower,26.2753215,82.4711415
+restaurant,Underground Cafe,26.2752273,82.4714497
+restaurant,Abhisek Fastfood Corner,26.2714313,82.4679498
+restaurant,Pizza Hut,26.2187975,81.2414488
+restaurant,Ratnasagar,25.4642037,81.8697354
+restaurant,Hot Pizza Ace,25.4633995,81.8649332
+restaurant,Anjali Restaurant,25.4623529,81.8663355
+restaurant,Sangam Bhauri Chokha Corner,26.2713297,82.4674623
+restaurant,jaiswal dosa,25.4463673,81.8521893
+restaurant,Lucky Restaurent,26.3131277,82.7334572
+restaurant,Anu food,26.3126076,82.7416851
+restaurant,Raj bhojnalya,26.3091471,82.7429973
+restaurant,G,26.3117197,82.7337101
+restaurant,Nate Bhoj,26.3091850,82.7426841
+restaurant,Anand food,26.3132223,82.7350224
+restaurant,Tasty foody,26.3128732,82.7391876
+restaurant,*,26.3146034,82.7347176
+restaurant,masti,26.3150284,82.7426925
+restaurant,Raju Dhaba,26.3141557,82.7391961
+restaurant,Masala Restaurent,26.3134044,82.7376214
+restaurant,Yadav restaurent,26.3101640,82.7368172
+restaurant,Lata food,26.3078873,82.7368764
+restaurant,Swadistya,26.3088435,82.7380955
+restaurant,YUM,26.3082060,82.7408724
+restaurant,Awantika Restaurant,26.2654591,82.0733727
+restaurant,La pino'z pizza,26.2641184,82.0744097
+restaurant,Shrvn Bati Choke,26.2632883,82.0713928
+restaurant,Khawaza fire works,26.2609116,82.0731751
+restaurant,Rahul Special Momos,26.2640745,82.0740397
+restaurant,Janta restaurant,26.2754207,82.0775066
+restaurant,Mela Restaurant,25.4514020,81.8348756
+restaurant,Dhaba Special,25.2666213,82.4916082
+restaurant,Fika,25.4492806,81.8396079
+restaurant,The Indian Food Plaza,25.3921262,81.8637123
+restaurant,Haldiram Bhujiawala,25.4555439,81.8341134
+restaurant,William John's Pizza,25.4552933,81.8350288
+restaurant,CAFÉ 60 FEET,25.4310062,81.8035913
+restaurant,Punjabi Dhaba,24.8255926,81.6569452
+restaurant,Baba Dhaba And Restaurant,25.3557289,81.8345556
+restaurant,Muktanand Restaurant,25.4520214,81.8325737
+restaurant,Pind Balluchi,25.4523915,81.8329197
+restaurant,Basu's Kitchen,25.4556441,81.8356801
+restaurant,Aryan,25.4546540,81.8348355
+college,GDBinani PG College Mirzapur,25.1347712,82.5837674
+college,ECC,25.4278749,81.8455740
+college,Jamuna christian Inter College,25.4269006,81.8424545
+college,Banaras Hindu University (BHU) Rajiv Gandhi South Campus,25.0474623,82.5955628
+college,St Anthony Inter College,25.9220681,81.9871872
+college,KP Hindu Inter College,25.9245794,81.9958664
+college,DAV Inter College,25.9153964,81.9857777
+college,IshawarDeen chhedilal Inter College,25.2824656,81.7837182
+college,Dev Indravati PG Collage,26.3838773,82.5193776
+college,Satyawati Degree College,26.4225938,82.4032429
+college,Dr.A.P.J. Abdul Kalam Polytechnic College,25.4021586,81.8661369
+college,MNNIT FIELD,25.4934602,81.8659358
+college,AU CRICKET GROUND,25.4606770,81.8507455
+college,AU HOCKEY FIELD,25.4591200,81.8516844
+college,AU FOOTBALL GROUND,25.4592390,81.8508497
+college,KPUC GATE,25.4638240,81.8603780
+college,Radiant College,26.3111095,82.7322860
+college,GGIC Rajapur (Government Girls Inter College),25.3837236,81.1476114
+college,United Institute of Medical Sciences,25.3975720,81.7573210
+kindergarten,MAP,26.2288262,81.2482871
+kindergarten,SP Memorial Primary School,25.4638800,81.8637470
+kindergarten,Kidzee school,26.2211758,81.2320231
+kindergarten,bachpan school,26.2211417,81.2414444
+language_school,prayas coaching,25.8549409,81.4317031
+library,Prakhar Library,25.4634204,81.8694258
+library,Vinayak Digital Library,25.4624131,81.8660854
+library,Vivekananda Library,26.3143395,82.7422626
+library,Study IQ,26.3069148,82.7371449
+library,Focus,26.3145414,82.7328641
+library,Vinaayak Mehta Library,26.2642691,82.0750796
+library,GIC LIBRARY,26.2635463,82.0717077
+research_institute,J C BOSE RESEARCH INSTITUTE,25.4575978,81.8572520
+training,Krishna Coaching Institute,25.4653342,81.8617836
+school,Poorva Madhyamik Vidyalaya,26.0117004,82.6200762
+school,Jamia Arifia,25.4891099,81.6273379
+school,VIDDESWAR ACADMY,26.2653894,82.6694487
+school,mahila sewa sadan inter college,25.4392297,81.8598465
+school,G C STUDY POINT,25.4427989,81.8606813
+school,Primary School,25.3988181,81.8624972
+school,Jagat Taran Golden Jubilee School,25.4539878,81.8589719
+school,Sarswan Middle School,26.2547775,82.4913004
+school,Sarswan Primary School,26.2506935,82.4888657
+school,Ram Baran Singh Mahila Maha Vidyalaya,26.2652428,82.4900412
+school,Swarg. Raj Singh Inter Collage (Janta Inter Collage),26.2100234,82.2161681
+school,primary School,26.3680777,82.5120575
+school,St. Thomas School Gyanpur,25.3416207,82.4801506
+school,Saraswati Shishu Mandir,25.4232958,81.8231352
+school,MQ Islamic School,25.4241104,81.8052668
+school,ML CONVENT SCHOOL,25.4556312,81.8777388
+school,mpvm,25.4497955,81.8600114
+school,j.c bose institue,25.4576206,81.8569272
+school,St. Mary's Convent Inter College,25.4575978,81.8455433
+school,Majidia Islamia Inter College,25.4295784,81.8263182
+school,Atheletics ground,25.3768568,81.8526759
+school,kho kho ground,25.3777098,81.8532124
+school,assembly ground,25.3772445,81.8529710
+school,KENDRIYA VIDYALAYA COD CHHEOKI PRAYAGRAJ,25.3773996,81.8527081
+school,Colony ground,25.3759407,81.8515279
+school,PLAYING GROUND,25.3794086,81.8446829
+school,LAKSHYA COACHING CLASSES,25.3779388,81.8441505
+school,AKSH COACHING CLASSES,25.3787482,81.8446038
+school,Scholar's Home Bal Siksha Sansthan,26.2732341,82.4698801
+school,ASSEMBLY GROUND,25.4625916,81.8405524
+school,HOLY TRINITY SCHOOL ALLAHABAD,25.4620292,81.8614059
+school,GD PUBLIC SCHOOL,25.4652799,81.8617506
+school,C.A.V. Inter College,25.4485955,81.8449649
+school,Cricket Ground,25.4477174,81.8444478
+school,Narendra Inter college,26.3088283,82.7333133
+school,DD Central,26.3087999,82.7339906
+school,Saraybhogi primary school,25.7712723,82.3290009
+school,Bethel Academy School,25.3613416,81.8387521
+university,United University,25.3957121,81.7583556
+university,ALLAHABAD UNIVERSITY,25.4649427,81.8603052
+university,DIAMOND JUBILEE HOSTEL GROUND,25.4624693,81.8592971
+university,UNIVERSITY PARK,25.4653472,81.8606365
+fuel,indian oil,25.4388788,81.8582634
+fuel,तेलियरगंज पेट्रोल पंप,25.4982624,81.8628931
+fuel,Essar,25.4183563,82.0160124
+fuel,Essar Siddhi Vinayak Oil And Energy,24.8252134,81.6571102
+fuel,Indian Oil,26.3658473,82.5107809
+fuel,Indian Oil Petrol Pump,25.1509743,82.3388427
+fuel,Vijay,25.7867525,82.2316079
+fuel,GAYATRI,25.3776359,81.8447178
+fuel,Saini Truck Stop,25.6100814,81.4195120
+fuel,GHANSHYAM PETROL PUMP,25.3510857,82.2285834
+fuel,INDIAN OIL,25.3405993,82.2541342
+fuel,HP Petrol Pump Sarju Prasad Sarju Prasad Mahabir Prasad,26.2651535,82.0725631
+fuel,Bharat Petroleum,25.4428630,81.8670851
+atm,SBI ATM,25.4659730,81.8619700
+atm,PNB ATM,25.4669710,81.8629450
+atm,SBI ATM,25.4610640,81.8261850
+atm,Punjab National Bank,25.3900038,81.8634397
+atm,HDFC Bank,25.4016688,81.8693103
+atm,State Bank of India,25.4017337,81.8693735
+atm,HDFC Bank,25.4020271,81.8697262
+atm,State Bank of India,25.4011670,81.8684867
+atm,INDIAN BANK ZONAL OFFICE,25.4570374,81.8352544
+atm,SBI ATM,25.3769574,81.8488699
+atm,Punjab National ATM,25.4646294,81.8706560
+bank,Punjab National Bank,25.4622069,81.8563931
+bank,Axis Bank,25.4510273,81.8304552
+bank,Allahabad Bank,25.4620946,81.8653888
+bank,State Bank of India,25.4619518,81.8459346
+bank,State Bank of India,25.4657182,81.8569019
+bank,Bank of Baroda,25.4389773,81.8582096
+bank,VIJAYA BANK,25.4920966,81.8648709
+bank,State Bank of India,25.4303516,81.8289879
+bank,Punjab National Bank,25.4302684,81.8282172
+bank,भारतीय स्टेट बैंक,25.4947383,81.8621768
+bank,Bank of Baroda,25.4096906,81.9108845
+bank,Punjab National Bank,26.4270799,82.5332629
+bank,ICICI Bank,25.4575837,81.8353170
+bank,Bank of Baroda,25.4684687,81.8563101
+bank,SBI,25.4508371,81.8748722
+bank,Allahabad Bank,25.4480711,81.8590286
+bank,bank of jhaplu,25.4567230,81.8658677
+bank,munuwar rana,25.4575064,81.8642422
+bank,bankofbaroda,25.8525248,81.4309574
+bank,State Bank of India lalganj branch,25.0190209,82.3628360
+bank,Punjab National Bank,25.3908930,81.8635954
+bank,Bank of India,25.3907074,81.8636433
+bank,HDFC Bank,25.3921424,81.8637170
+bank,State Bank of India,25.3880304,81.8659736
+bank,IDFC First Bank,25.4511585,81.8296072
+bank,Central Bank of India,25.4497735,81.8362295
+bank,Bank of Baroda,25.4507995,81.8331265
+bank,IDFC First Bank,25.4013801,81.8691015
+bank,Union Bank of India,25.4378512,81.8405429
+bank,Bank of Baroda,25.4380087,81.8407068
+bank,AU Small Finance Bank,25.4557056,81.8361265
+bank,State Bank of India,25.3768992,81.8489718
+bank,Allahabad Bank,25.4720869,81.8682392
+bank,ICICI Bank,25.3924517,81.8638002
+bank,Bank of Baroda,25.3922360,81.8637364
+bank,State Bank of India,24.9983342,82.0757170
+bank,Punjab National Bank,26.2720615,82.4689125
+bank,HDFC bank,26.2243930,81.2405744
+bank,United Bank Of India,25.4657711,81.8719984
+bank,Allahabad Bank,25.4635254,81.8658128
+bank,State Bank of India,25.4656341,81.8568128
+bank,Shubham Banking Seva Kendra,26.2730429,82.4699582
+bank,SBI,26.2703444,82.4690031
+bank,Punjab National Bank of Dostpur,26.2702763,82.4692681
+bank,STATE BANK OF INDIA,25.4422000,81.8837572
+bank,State Bank of India,26.3104868,82.7345646
+bank,PNB,26.3093032,82.7411386
+bank,Maharashtra Bank,26.3098058,82.7345057
+bank,Bank of Baroda,26.2639163,82.0742575
+bank,City Union Bank,25.4517323,81.8325850
+bank,HDFC Bank,25.4479110,81.8343737
+bank,Canara Bank,25.4514279,81.8301846
+clinic,Bajaj Hospital Diagnosis Services,25.4551349,81.8350008
+clinic,gupta medical store,25.4394997,81.8597543
+clinic,Pasonya Nursing Home,24.5531823,81.3043696
+clinic,Dr. Deepak Agarwal Clinic,25.4549816,81.8574438
+clinic,"Shree Nursing Home, Rewa",24.5439295,81.3025054
+clinic,"Dwivedi Medical and Research Center Pvt Ltd,",25.4661464,81.8443251
+clinic,Priti Nursing And Maternity Home,25.4502705,81.8590102
+clinic,Shree Krishna Nursing Home,26.2160493,81.2422067
+clinic,Deep Ganga Clinic,25.4613291,81.8438295
+clinic,Bk Nursing Home,25.3901604,82.5673360
+clinic,Kunwar Das Sewashram Nursing Home,25.7355930,82.6994187
+clinic,"Sharma Nursing Home, Raebareli",26.2191335,81.2409181
+clinic,Rajhans Nursing Home,25.3868750,82.5805774
+clinic,Narayan Nursing Home,25.7468347,82.6938939
+clinic,Adarsh Clinic and Surgical Center,25.4125248,82.0312985
+clinic,Kalra Nursing Home,25.4266104,81.8268836
+clinic,City Nursing and Maternity Home,25.4429561,81.8284290
+clinic,Charu Nursing Home,25.9172500,81.9930951
+clinic,Dev Nursing Home,25.4633446,81.8484825
+clinic,Jankikund Chikitsalaya,25.1656969,80.8633152
+clinic,Sardar Nursing Home,26.2555240,82.0630310
+clinic,Santusti Nursing and Surgical Centre,25.3987077,82.5677691
+clinic,Kalptaru Chikitsalya,25.7454716,82.6816966
+clinic,Nirmal Nursing Home,25.4757592,82.5690023
+clinic,Sangeeta Nursing Home,25.7279201,82.6898500
+clinic,Vishal Medicare Centre,25.4615794,82.4083479
+clinic,"Sri Sai Nursing Home, Varanasi",25.3344185,82.7890876
+clinic,Allahabad Nursing Home,25.4654018,81.8332046
+clinic,Dr. N D Tahiliani Memorial Clinic And Minimal Inva,25.4680377,81.8243661
+clinic,Kamla Polyclinic,25.4497628,81.8604552
+clinic,Shri Hari Netralaya,25.4546773,81.8513656
+clinic,Eye Clinic,25.4384364,81.8394688
+clinic,Jijivisha Medicare and Trauma Centre,25.4470887,81.8615844
+clinic,Raj Nursing Home,25.2882993,82.4267406
+clinic,Annu Nursing Home and Maternity Centre,26.4118646,82.5460989
+clinic,Radha Krishna Nursing and Maternity Home,26.2228831,81.2293779
+clinic,Dispensary No.2,25.4642043,81.8264642
+clinic,City Nursing Home and Trauma Centre,26.2161828,81.2424763
+clinic,Sachan Nursing Home,25.4509899,81.8619747
+clinic,Tanu Nursing Home,25.7175285,81.5209707
+clinic,Dua Nursing andMaternity Home,25.4509687,81.7807775
+clinic,Mayocare Heart Clinic,25.4500332,81.7662426
+clinic,Raj Ganga Nursing Home,25.9191419,81.9844577
+clinic,Dayal Nursing Home and Maternity Home,25.4495004,81.7621120
+clinic,Raj Nursing Home,25.4559940,81.8527398
+clinic,Srijan Poly Clinic,25.3956777,81.8627411
+clinic,Jeevan Rekha Nursing Home,24.9915414,82.0689514
+clinic,Arpan Nursing Home,26.2262798,81.2204131
+clinic,Chiranjiv Nursing Home,25.4413515,81.8650706
+clinic,Anand Poly clinic and Trauma Centre,25.2845053,82.4361156
+clinic,Wazirunnisa Mother Care Nursing Home,25.3867334,82.5821934
+clinic,Dispensary No.1,25.4782611,81.8606785
+clinic,Dr. Preeti Maternity Clinic,25.4253080,81.9124220
+clinic,Sachan Poly Clinic,25.4839218,81.8769177
+clinic,Dr. OP. Singh Clinic,25.4088946,81.9177673
+clinic,Kalyan Clinic,25.2098447,80.9159527
+clinic,Alok Mishra Gastro Clinic,25.4541694,81.8603227
+clinic,Jagdeesh Clinic,25.2150229,80.9154697
+clinic,Kamla Memorial Clinic,25.4391012,81.8381289
+clinic,Mishra Clinic,24.9265262,82.6758657
+clinic,"ECHS Polyclinic, Boda Bagh Rewa",24.5525213,81.3038197
+clinic,Ajay Clinic,24.8180648,81.5369231
+clinic,Arthritis Homoeopathic Clinic,25.4559036,81.8731280
+clinic,DR CHAUHAN EYE CLINIC,25.4004424,81.8678011
+clinic,Medi-Kiran,25.4663303,81.8308580
+clinic,KESARWANI CLINIC,25.3797806,81.8456445
+clinic,Ajay Poly Clinic,25.2232689,82.5111671
+dentist,Prayag Dental Clinic,25.4551270,81.8413590
+dentist,Dentist Hospital,25.2141844,80.9179667
+dentist,Rastogi Dental Hospital,25.4581097,81.8382351
+dentist,Naini Dental Hospital,25.4012539,81.8689730
+dentist,Dental Hospital,25.4549389,81.8710772
+dentist,"Shaury Dental Hospital, Baldauganj Karwi",25.2182741,80.9249137
+dentist,Shaury Dental Hospital,25.2132410,80.9178160
+dentist,Pushpa Dental Hospital,24.5445537,81.3214513
+dentist,Hari Dental Hospital,24.6815800,81.7197680
+dentist,Shubham Dental Clinic,25.4065360,81.8678942
+dentist,Maruti Dental Clinic,25.4521330,81.8350271
+doctors,dubay clinic,25.4395135,81.8598341
+doctors,Dr.Surendra Agarwal,25.2170718,80.9197973
+doctors,Center For Sight,25.4558325,81.8345712
+hospital,Sri Narayan Ashram Hospital,25.4969605,81.8684147
+hospital,Priti Hospital,25.4573983,81.8541354
+hospital,"Jeevan Jyoti Hospital, Allahabad",25.4362940,81.8465893
+hospital,Sanjay Gandhi Memorial Hospital,24.5335430,81.2972506
+hospital,"S.R.N. Hospital, M.L. N. Medical College",25.4456103,81.8448926
+hospital,Shakuntla Multi Speciality Hospital,25.4248667,81.9247846
+hospital,Santosham Health Care,24.5753764,80.8518943
+hospital,Kshitij Hospital and Research Centre,24.5432457,81.3010758
+hospital,Bhola Hospital,25.4534639,81.8558676
+hospital,M R Singhal Memorial Nursing Home,24.5456142,81.3125329
+hospital,Shanti Hospital and Trauma Centre,24.5456081,81.3161512
+hospital,Keerti Orthopaedic Home,24.5767394,80.8492141
+hospital,Dr K L Agrawal Memorial Hospital,24.5480405,81.3059936
+hospital,Ambedkar Scan Hospital (Pvt.) Ltd.,25.1339452,82.5781942
+hospital,Karunashray Hospital,26.2629362,82.0750688
+hospital,Samarpit Hospital,25.7470184,82.6795542
+hospital,Dwarka Hospital,25.4374870,81.8450908
+hospital,Akash Hospital,25.3848185,82.5858783
+hospital,"Parth Hospital, Jaunpur",25.7367334,82.6761398
+hospital,Ranjana Hospital,25.4382354,81.8445128
+hospital,Nitin Surgical Center,26.4355638,82.5496562
+hospital,"Rama Hospital, Allahabad",25.4522940,81.8608300
+hospital,"Geeta Hospital, Sultanpur",26.2513059,82.0689379
+hospital,Guru Kripa Jagriti Hospital And Research Centre,25.4583031,81.8403155
+hospital,Shikhar Hospital,25.4412243,81.8162088
+hospital,Jahangir Memorial Charitable Hospital,25.4025358,81.8692489
+hospital,Madnani Medicare Pvt Ltd,25.4423942,81.8092552
+hospital,Shivam Akshayavat Hospital,25.3852492,81.8741452
+hospital,"Jeevan Deep Hospital, Bhadohi",25.3869981,82.5924790
+hospital,Shakuntala Hospital,25.4537711,81.8426618
+hospital,"Virendra Hospital, Allahabad",25.4539839,81.8402796
+hospital,Svasti Hospital,25.4767798,81.8500690
+hospital,City Hospital and Orthopaedic and Taruma Center,25.4517419,81.8617031
+hospital,Arvind Surgical and Research Centre Pvt.Ltd.,25.4680026,81.8288192
+hospital,Viveka Nand Hospital and Research Centre,25.1379724,82.5761953
+hospital,Siddharth Multi Speciality Hospital Science and Research Center,25.7354553,82.6797527
+hospital,Simhans Hospital,26.2345992,81.2409367
+hospital,"Phoenix Hospital, Allahabad",25.4559399,81.8616736
+hospital,Sardar Patel Hospital,25.4431995,81.8715656
+hospital,Soumya Hospital,25.3945146,82.5669940
+hospital,Tej Bahadur Sapru Hospital,25.4729624,81.8458180
+hospital,"Jain Hospital, Allahabad",25.4485522,81.8539810
+hospital,Maa Sharada Hospital,25.4394217,81.8572433
+hospital,Hnm Shah Hospital,25.4327624,81.8176049
+hospital,Krishna Heart Care and Maternity Home,25.7399794,82.6845337
+hospital,J P Memorial Hospital,25.7568582,82.6940880
+hospital,"Sangam Hospital, Allahabad",25.4410889,81.8629107
+hospital,"Priya Hospital, Allahabad",25.4502288,81.7779974
+hospital,"Navjeevan Hospital, Sultanpur",26.2456502,82.0673682
+hospital,Amardeep Hospital & Research Centre,25.4375479,81.8433035
+hospital,"Nav Jyoti Hospital, Allahabad",25.4327503,81.7877697
+hospital,Sushila Maternity And Nursing Home,25.4598731,81.8658860
+hospital,Abhilasha Hospital And Research Centre Pvt.Ltd,25.4458415,81.8525072
+hospital,R.K. Hospital and Trauma Research Centre,26.0532970,82.6870026
+hospital,Vandana Super Speciality Hospital,25.4613007,81.8338403
+hospital,Sunita Hospital,25.7396424,82.6656336
+hospital,"Sarodaya Hospital, Allahabad",25.4544846,81.8572352
+hospital,Aman Hospital,25.4592004,81.8383109
+hospital,Anand Hospital,25.4639609,81.8480064
+hospital,Ruma Hospital,25.9305332,82.0049501
+hospital,Tilak Hospital and Maternity Home,25.4443541,81.8734278
+hospital,The Relief Orthopaedic Center,26.2196384,81.2416332
+hospital,Shri Shyamlal Memorial Hospital,25.3804683,82.5691846
+hospital,"Shraddha Hospital, Jaunpur",25.7392249,82.6874994
+hospital,Tamanna Hospital,25.4577165,81.8638489
+hospital,"Harsh Hospital and Maternity Home, Allahabad",25.4315028,81.8501569
+hospital,"Prabhat Hospital, Allahabad",25.5324295,81.8539981
+hospital,Prachi Hospital Pvt Ltd,25.5275209,81.8537596
+hospital,Swaraj Hospital,26.2664083,82.0744157
+hospital,Sushila Devi Memorial Hospital,26.0574549,82.6841958
+hospital,Pashupati Nursing Home,25.4526682,81.8558304
+hospital,"Raghuveer Hospital, Raebareli",26.1639279,80.9699236
+hospital,Dr. D. D. Tripathi Memorial Hospital,25.1558133,82.5830014
+hospital,Parvati Hospital Pvt Ltd,25.4542981,81.8613920
+hospital,G.S Chandraul Hospital and Reasearch Centre,25.4490511,81.7508575
+hospital,Isha Hosital,25.7330029,82.6725617
+hospital,Dr. Agrawals Life Line Hospital,25.4305145,81.8182694
+hospital,Apex Eye Hospital,25.7355797,82.6953149
+hospital,Ojha Hospital,25.4550780,81.8636557
+hospital,"Ganga Hospital, Allahabad",25.4652873,81.8488520
+hospital,Vineeta Hospital Pvt Ltd,25.5225384,81.8654629
+hospital,J.P. Memorial Hospital- Allahabad,25.4467048,81.8536506
+hospital,Canossa Hospital,25.8951054,81.9491571
+hospital,Nirmal Hospital and Laproscopic Surgery Centre,26.2081662,81.2423535
+hospital,Amir Bano Memorial Hospital,25.4814152,81.6709769
+hospital,Heartline Cardiac Care Centre,25.4528057,81.8382450
+hospital,Gomti Hospital and Research Centre Pvt Ltd,26.2730487,82.0772918
+hospital,"Sundaram Hospital, Allahabad",25.2884224,81.9295375
+hospital,Vijay Memorial Hospital,25.4527421,81.7801378
+hospital,"Seva Sadan Hospital, Kaushambi",25.5601363,81.4858512
+hospital,Gaurav Charitable Hospital,26.2471333,82.0680146
+hospital,Yashlok Hospital and Research Hospital,25.4601867,81.8657197
+hospital,Saraswati Heart Care,25.4530579,81.8561448
+hospital,Sri Sitaram Memorial Hospital,25.2851738,81.9339886
+hospital,"Jaya Hospital, Allahabad",25.4434163,81.8666491
+hospital,Aashadeep Hospital,26.2525501,82.2279064
+hospital,"Pooja Hospital, Allahabad",25.4529673,81.8619901
+hospital,Harsh Maternity And Nursing Home,25.1537090,82.5721331
+hospital,Jyoti Institute Of Medical and Rehabilitation Sciences(Jimars),25.4573823,81.8597652
+hospital,Kumar Surgical Nursing Home,25.7496613,82.6933063
+hospital,J.C. Maternity Centre,25.4741040,81.8517905
+hospital,"Baba Hospital, Raebareli",26.3501557,81.0447907
+hospital,Kriti Cancer Institute and Research Centre,25.4491387,81.8545359
+hospital,Maa Tara Hospital,25.7380913,82.6632856
+hospital,Saket Hospital,25.4578400,81.8711485
+hospital,Hayat Hospital & Maternity Center,25.4024268,81.8696527
+hospital,Drs Hospital,25.4503565,81.7667388
+hospital,Aashirwad Hospital And Research Centre,25.7376672,82.6737405
+hospital,Kamla Hospital,25.7380768,82.6853894
+hospital,Asha Hospital,25.4662808,81.8269953
+hospital,Karma Health Centre,25.3474587,81.8309348
+hospital,Laxmi Health Care and Hospital,25.7801071,82.6904869
+hospital,Mrittunjai Hospital,25.1456148,82.5711018
+hospital,Ram Krishna Sewashram,25.1517029,82.5304690
+hospital,Vandna Hospital,26.2361256,82.0656809
+hospital,"District Hospital, Sultanpur",26.2627557,82.0699660
+hospital,Narayan Swaroop Hospital,25.4498431,81.7643604
+hospital,Kamla Nehru Memorial Hospital,25.4591151,81.8613611
+hospital,Government Hospital Mangawana,24.6590071,81.5498641
+hospital,PHC Amiliya,24.5520185,82.1264103
+hospital,Government hospital Rimari,24.7798399,81.0522114
+hospital,"Government Hospital,Khatai",24.5310842,82.5708523
+hospital,CH AMILIHA,24.5374368,81.6527409
+hospital,Government hospital Sihawal,24.5620148,82.2454548
+hospital,Government Hospital,24.6703762,81.8680653
+hospital,PHC Jhinna,24.4490322,81.2158708
+hospital,Goverment hospital,24.7785109,82.0934460
+hospital,Government hospital Sajjanpur,24.5567917,80.9755576
+hospital,Government hospital CHACHAI,24.7763374,81.2991902
+hospital,GOV. Hospital,24.8851037,80.9580293
+hospital,"Government Hospital,Birsinghpur",24.8018922,80.9700014
+hospital,"Government Hospital, Berahna",24.8298723,81.0224748
+hospital,Government hospital Jaitwara,24.7361756,80.8644866
+hospital,CH Teonthar,24.9807215,81.6430749
+hospital,Government Hospital SONGAR,25.9098683,82.7515923
+hospital,MAHARAJA BALAVANT SINGH COMBINED DISTRIC HOSPITAL,25.3956644,82.5650775
+hospital,Government Hospital Khaga,25.7704506,81.1026433
+hospital,"District Combined Hospital,Kaushambi",25.5254054,81.3811626
+hospital,District Male Hospital Pratapgarh,25.9218299,81.9990201
+hospital,District Women Hospital Jaunpur,25.7592013,82.6968142
+hospital,Government Hospital Anapur,25.6193924,81.6880770
+hospital,Government Hospital Kadipur,26.1672645,82.3709553
+hospital,Govt. Hospital,25.3295693,82.4653718
+hospital,District Women Hospital Pratapgarh,25.9221279,81.9986835
+hospital,Government Hospital Kot,25.5221057,81.0996138
+hospital,Government Hospital Chak Goraiya,25.1334662,82.8158741
+hospital,Government Hospital Diyara,26.2184670,82.2821856
+hospital,"Government Hospital,Danoo Pur",25.4215976,82.7122906
+hospital,Government Hospital Biyawal,25.3377645,81.3499604
+hospital,Manohar Das EYE Hospital,25.4402567,81.8277544
+hospital,District Women Hospital,25.1522759,82.5767586
+hospital,Government Hospital Halliya,24.8279468,82.3259385
+hospital,Government Hospital,25.4912268,82.8273245
+hospital,Government Hospital AMEYMAFI,26.1926847,81.9201538
+hospital,Government Hospital Hatiya,25.8477220,82.2924364
+hospital,MAHARAJA CHET SINGH DISTRICT HOSPITAL,25.3300687,82.4654724
+hospital,Government Hospital Tiwaran,25.5154329,82.6785283
+hospital,Government Hospital Sathariya,25.6605677,82.2352450
+hospital,Moti Lal Nehru District Hospital,25.4392781,81.8285215
+hospital,Government Hospital RAMGANJ,26.1161015,82.0410302
+hospital,Sarkari Hospital,25.1855540,82.6310129
+hospital,District Women Hospital Rae Bareli,26.2219470,81.2372392
+hospital,Government Hospital,26.3852081,81.2710740
+hospital,"Government Hospital,Sirathu",25.6474311,81.3198325
+hospital,District Male Hospital Mirzapur,25.1544088,82.5771099
+hospital,Government Hospital,25.9765307,82.7512108
+hospital,Government T.B. Hospital,25.4997681,81.8638247
+hospital,Vijaya Hospital,25.2705135,82.7175129
+hospital,Prakash Hospital,25.2699123,82.7185358
+hospital,Savitri Hospital,25.5281738,81.8539012
+hospital,Saraswati Hospital,25.4371350,81.8495489
+hospital,Dua Eye Hospital,25.4617973,81.8343315
+hospital,Narayan Hospital,25.2407540,81.9511813
+hospital,Harsh Hospital,25.4462260,81.8513037
+hospital,Divyaroshni Healthcare Hospital,25.4538532,81.8287271
+hospital,Srm Hospital,25.3928078,81.8415411
+hospital,Balaji Hospital,25.4522464,81.8754118
+hospital,Global Eye Institute Of Optometry,25.4149498,81.8622496
+hospital,Saujanya Hospital,25.4380966,81.9448510
+hospital,Day and Night Hospital,25.3883985,81.8655549
+hospital,Nitin Hospital,25.4243952,81.9166825
+hospital,Ram Kripa Hospital,25.2015561,80.8734010
+hospital,Sanjeeveni Hospital,25.3710461,81.5035521
+hospital,Lav Asha Homeopathic Hospital,25.3870321,81.8760138
+hospital,Sehar Hospital,25.4201104,81.8203849
+hospital,Gama Hospital,25.4181117,82.0168496
+hospital,Abhishek Hospital,25.4382939,81.9445669
+hospital,Sanchita Hospital,25.3916212,81.9855914
+hospital,Geeta Hospital,25.4508612,81.8633760
+hospital,Priyanshu Hospital,25.5236604,81.8635059
+hospital,Khalil Memorial Hospital,25.5240056,81.8628694
+hospital,Akash Hospital,25.4019850,81.8387037
+hospital,Abhishek Hospital,25.4509049,81.9540922
+hospital,Srujan Hospital,25.2339589,81.7884697
+hospital,Nelu Hospital,25.4254753,81.9199500
+hospital,Genesis Hospital,25.3641431,81.8806360
+hospital,J K Charitable Hospital,25.4213375,81.3112121
+hospital,Manohar Das Eye Hospital,25.4410709,81.8271627
+hospital,Sangam Hospital,25.4292556,81.9119268
+hospital,Gupta Hospital,25.3813947,81.3248318
+hospital,Nishtha Hospital,25.4288679,81.9330948
+hospital,Dr Renu Srivastav Hospital,25.2138143,80.9082876
+hospital,Saroj Hospital,25.4523347,81.8652883
+hospital,New Tejmati Hospital,25.5286670,81.3964670
+hospital,Ashirwad Hospital,25.3839362,81.9600568
+hospital,Shyama Hospital,25.4280582,81.9133898
+hospital,Diwakar home,25.2223181,80.9174150
+hospital,Awami Hospital,25.4138395,81.8413476
+hospital,KMC Hospital,25.4261667,81.8160399
+hospital,Kirti Hospital,25.4627550,81.9595320
+hospital,Ishi Hospital,25.4755837,81.8556080
+hospital,Adarsh Hospital,25.4134092,82.0207496
+hospital,Haiza Hospital,25.4470513,81.8739577
+hospital,Vasudev Hospital,25.4277359,81.9165058
+hospital,Aryan Hospital,25.4397526,81.9906500
+hospital,Srijan Hospital,25.4342516,81.8564318
+hospital,"New Hospital, Pachhauhan",25.5243217,80.9159954
+hospital,Manas Hospital,25.2851799,81.8021312
+hospital,Tanvi Hospital,25.4163810,81.9259227
+hospital,Aarav Brain and Spine Hospital,25.4560263,81.8605871
+hospital,Mgm Hospital,25.4349630,81.7605380
+hospital,"Bs Mehta Eye Hospital, Allahabad",25.4582730,81.8309560
+hospital,Rama Hospital,25.2782143,81.9686325
+hospital,Akshayvat Hospital,25.3898250,81.8773642
+hospital,Harsh Hospital and Maternity Centre,25.3954569,81.8728768
+hospital,Jawahar Hospital,25.4408369,81.8174620
+hospital,Sai Hospital,25.3952126,81.8791742
+hospital,Janata Hospital,25.4353356,81.9071495
+hospital,"Ayan Hospital, Kareli",25.4259448,81.8192878
+hospital,Vasaa Hospital,25.4522178,81.8753068
+hospital,City Hospital,25.0675719,81.0979091
+hospital,Vijaya Hospital & Trauma Centre,25.4481651,81.8327085
+hospital,Vivekanand Hospital,25.2724139,81.8017832
+hospital,Amar Jyoti Hospital,25.2827580,81.9634561
+hospital,FMC Hospital,25.3152351,81.9224389
+hospital,"Bani Hospital, Kotwa",25.4396875,81.9915882
+hospital,"District Hospital, Khoh, Chitrakoot",25.2058984,80.9846888
+hospital,Mangalam Hospital,25.4221920,81.9252478
+hospital,Vidyawati Hospital,25.5238863,81.8642808
+hospital,Bhumi Hospital,25.3840322,81.8404546
+hospital,Jeevan Deep Hospital,25.3147827,81.9232142
+hospital,J. M. Hospital,25.3685133,81.8397003
+hospital,Global Eye Hospital,25.4368037,81.8480338
+hospital,Raj Hospital,25.2762732,81.7992444
+hospital,Sachan Hospital,25.3227665,81.8236973
+hospital,Iffco Hospital,25.5360830,82.0629450
+hospital,Fatima Memorial Hospital,25.4235650,81.8214010
+hospital,Gayatri Hospital,25.4449666,81.8655277
+hospital,Sarthak Hospital & Fracture Clinic,25.4219169,81.9319388
+hospital,Aasha Hospital,25.3964830,81.8610897
+hospital,Ashwani Hospital,25.4313079,81.9052803
+hospital,Prakash Hospital,25.2731340,81.9777463
+hospital,Shankar Hospital,25.4158157,81.8637674
+hospital,Nigaha Hospital,25.4389469,81.1844526
+hospital,Vandana Hospital,25.4803387,81.6537240
+hospital,Vedant Hospital,25.5425230,81.8921780
+hospital,Bagwati Hospital,25.4394355,81.8578003
+hospital,Amar Memorial Hospital,25.4835843,81.9795278
+hospital,Jansuvidha Hospital,25.4468425,81.9503839
+hospital,Lotus Hospital,25.4318447,81.9035617
+hospital,Shivam Hospital,25.3710060,82.1143143
+hospital,J.K. Hospital,25.4368704,81.8512959
+hospital,S. S. C Hospital,25.3815360,81.8628506
+hospital,Sanjeevani Hospital and Trauma Centre,25.3261490,81.4578060
+hospital,Panchsheel Hospital,25.4559557,81.8578098
+hospital,K.D.Memorial Hospital,25.4317530,81.8046200
+hospital,Sarthak Hospital,25.4218951,81.9324259
+hospital,Hayes Mission Memorial Hospital,25.4138123,81.8449322
+hospital,Vijay Hospital,25.4552704,81.8713003
+hospital,Neelima Hospital,25.2245897,80.9208026
+hospital,Prabhawati Hospital,25.4256662,81.9124812
+hospital,Government Ayurvedic Hospital,25.2313912,80.9234735
+hospital,Kanchan Singh Hospital,25.3845107,81.1473679
+hospital,Dr.Mahendra Tripathi Hospital,25.2491271,81.2963130
+hospital,New Muskan Hospital,25.5094044,81.3818159
+hospital,"Swaroop Rani Hospital, Allahabad",25.4518950,81.4289259
+hospital,"Ojas Hospital, Mahuwari",25.3574355,81.8850736
+hospital,Ashutosh Hospital & Trauma Centre,25.4579215,81.8616140
+hospital,Triveni Hospital,25.4248375,81.9249025
+hospital,Surya Hospital,25.3961824,81.8701322
+hospital,Berui Hospital,25.3893016,81.4735145
+hospital,Ashirwad Hospital,25.4968506,81.8622913
+hospital,"Akshatdham Physiotherapy Hospital, Jhunsi Allahabad",25.4253647,81.9152818
+hospital,Kesharwani Hospital & Research Institute,25.4324027,81.8457465
+hospital,Saryu Hospital,25.4289000,81.9123028
+hospital,Kamla Hospital,25.4316967,81.9034381
+hospital,Gauri Devi Hospital,25.2154551,82.0803088
+hospital,New Ojus Hospital,25.3465349,81.8945467
+hospital,Krishna Hospital,25.4625214,81.8425879
+hospital,Dufferin Hospital,25.4396577,81.8270452
+hospital,Unani Hospital,25.4253981,81.8182801
+hospital,"Homeopathic Hospital, Shahpur",25.3840477,81.1897341
+hospital,Shri Mahavir Clinic,25.4697296,81.8428384
+hospital,Shiree Jee. Hospital,25.2152909,80.9329047
+hospital,Murka Sarkari Hospital,25.1981809,81.5066167
+hospital,Ayushi Hospital,25.4341047,81.8148321
+hospital,Adarsh Hospital,25.4505861,81.8552305
+hospital,Hinouta Hospital,25.4399044,81.2149441
+hospital,Care Hospital,25.4287398,81.8161335
+hospital,Alka Hospital,25.4613291,81.8650796
+hospital,City Hospital,25.4236777,81.9072118
+hospital,Jagdish Hospital,25.4356527,81.7567907
+hospital,Vidyawati Hospital,25.2194003,82.0844749
+hospital,Mrityunjay Hospital,25.5001737,81.8563686
+hospital,Narayan Hospital,25.4512740,81.8331650
+hospital,Jageshwar Hospital,25.2129486,80.9505987
+hospital,Aman's Hospital,25.1667394,81.5165074
+hospital,Shri Kamedgiri Hospital,25.1880765,80.8715267
+hospital,Siddhi Vinayak Hospital,25.3488454,81.8607730
+hospital,Ojha Hospital,25.4543639,81.8624484
+hospital,Aadya Hospital,25.4282806,81.9350397
+hospital,Aanchal Hospital,25.4277663,81.8216437
+hospital,Mohak Hospital,25.4760522,81.8485389
+hospital,Onkar Hospital,25.5200969,82.0355906
+hospital,Surbhi Hospital,25.4301120,81.8468066
+hospital,Ojas Clinic and Hospital,25.3895338,81.8835772
+hospital,Vikash Hospital,25.3712627,81.5035065
+hospital,Janhit Hospital,25.3178464,81.9189388
+hospital,Vardan Hospital,25.5241135,81.8533742
+hospital,Vikas Hospital and Ultrasound Centres,25.3775274,81.5088235
+hospital,Meena Hospital,25.4034020,81.8400838
+hospital,Sadguru Netra Chikitsalaya,25.1640386,80.8666166
+hospital,Jeevan Sahara Hospital,25.4305559,81.7934122
+hospital,SS Hospital,25.4282064,81.9148584
+hospital,Pooja Hospital,25.3910220,81.8476873
+hospital,Kalyan Hospital,25.2083225,80.9129335
+hospital,Usha Hospital and Maternity Centre,25.4587093,81.8654845
+hospital,Government Hospital,26.1303858,82.8138697
+hospital,Bhargava Hospital,25.7851858,82.8269968
+hospital,Arma Clinic and Hospital,26.1325873,82.8134594
+hospital,Aarushi Clinic & Hospital,26.0554641,82.8029103
+hospital,Kachhwa Christian Hospital,25.2095222,82.7146077
+hospital,Sewa Hospital,25.1313825,82.5655466
+hospital,Patel Hospital,24.8884202,82.6955288
+hospital,Sewa Hospital,26.0529221,82.6874616
+hospital,Deep Ganga Hospital,25.2088210,82.7205375
+hospital,Janani Hospital and Trauma Centre,25.2930502,82.4120347
+hospital,Shubham Hospital and Nursing Home,25.0752920,82.7346402
+hospital,Shri Sai Hospital and Dental Care,25.0123088,82.3534872
+hospital,Jai Shankar Hospital,25.1475101,82.5430396
+hospital,Prabhawati Hospital,25.2904068,82.4194962
+hospital,Hriday Rog Hospital,25.1343525,82.5579949
+hospital,Yashoda Hospital and Heart Chest Care Centre,25.7421703,82.6868267
+hospital,Sarita Hospital,25.2517659,82.7078779
+hospital,Jan Jeevan Hospital,25.1562249,82.5022372
+hospital,Anand Hospital,25.2643224,82.5544490
+hospital,"Primary Health Centre, Pandari",25.0853783,82.7393347
+hospital,Upkar Institute Of Paramedical Science,24.9376214,82.6707687
+hospital,Sri Krishna Hospital,25.1425432,82.5651108
+hospital,Prasad Hospital and Research Centre,25.2803953,82.4380605
+hospital,Saket Hospital,25.2103729,82.7156593
+hospital,Krishna Hospital,25.1529914,82.5785469
+hospital,Surya Hospital,26.0482406,82.6817687
+hospital,Maa Seeta Hospital and Fracture Clinic,25.1433480,82.5810040
+hospital,Om Prakash Pandey Hospital,26.2999225,82.8015274
+hospital,Khamaria Hospital,25.2383227,82.5133362
+hospital,Shree Siddhivinayak Hospital,25.2391447,82.2230086
+hospital,Arogya Hospital,25.2908460,82.4176048
+hospital,Gopal Hospital,25.1537386,82.5833630
+hospital,Jeevan Raksha Hospital,25.7501958,82.7016531
+hospital,Elite Hospital,25.1536954,82.5821520
+hospital,Anand Hospital and Maternity Home,25.1527479,82.5803747
+hospital,Shri Mata Hospital,25.1493600,82.5896440
+hospital,City Hospital,25.1514288,82.5721034
+hospital,Metropolis Healthcare Ltd.,25.1436250,82.5816000
+hospital,Shreya Hospital,25.1341609,82.5774038
+hospital,Raj Hospital,25.1954228,82.7543392
+hospital,"Bangali Hospital, Dhera",24.6040792,81.7592873
+hospital,"Primary Hospital, Bithauli",24.5668162,82.0425324
+hospital,Government Hospital,24.5662241,81.6112838
+hospital,Chahak Children Hospital,24.5417470,81.3027766
+hospital,Guru Kripa Hospital Dr. Madhu Jain,24.5349627,81.2950594
+hospital,S.P Sharma Hospital,24.6032724,81.7552655
+hospital,"Blossom Childrens Hospital, Dr. Mohd.Tariq Kamaal",24.5340084,81.2925996
+hospital,Adarsh Nursing Home,24.5449857,81.3247830
+hospital,Government Hospital,24.4803944,82.0528818
+hospital,"Government Hospital, Barigawan",24.4816841,81.8665903
+hospital,Sadguru Eye Hospital,24.6531806,81.5417735
+hospital,Dewas Hospital,24.7781513,81.4919832
+hospital,Sanjeevani Hospital and Maternity Hospital,24.5414250,81.2974192
+hospital,Teerth Memorial Nursing Home & Research Centre,24.5467520,81.3031400
+hospital,"City Hospital, Rewa, Dr. Mukta Sharma",24.5310000,81.3025690
+hospital,GEC Hospital,24.5550410,81.3119020
+hospital,Dr. Tripathi Hospital,24.6025927,81.7529930
+hospital,Vanshal Hospital,24.5458214,81.3442548
+hospital,Rainbow Hospital and Research Centre,24.5467914,81.3040351
+hospital,"Varoadaan Hospital, Rewa",24.5329905,81.3054582
+hospital,Anupam Maternity Home and Eye Hospital,24.5425904,81.3051493
+hospital,Dr. Geeta Bannerji Clinic & Hospital,24.5506860,81.3051820
+hospital,Vighnaharta Hospital &Trauma Centre,24.5440152,81.3322698
+hospital,Adarsh Hospital,24.5449513,81.3264470
+hospital,Rewa Hospital and Research Centre,24.5393915,81.3149319
+hospital,Vindhya Hospital and Research Centre,24.5391287,81.2855601
+hospital,Eye Hospital,24.5404218,81.2969442
+hospital,Chauraisha Hospital,24.5314270,81.3021420
+hospital,Orthopaedic Hospital,24.5388639,81.3162646
+hospital,Arya Hospital,24.5270680,81.3013220
+hospital,Jindal Hospital,24.5491680,81.3068100
+hospital,Government Hospital,24.5933511,82.2402085
+hospital,Dr. R.P. Parauha Hospital,24.5633864,81.3059571
+hospital,Chirayu Hospital and Research Centre Assistants,24.5432719,81.3002593
+hospital,Shekhawati Hospital,24.5362320,81.2950760
+hospital,Shri Ganesh Eye Hospital & Laser Centre,24.5427713,81.2977458
+hospital,"Vindhya Hospital and Research Centre, Rewa",24.5397890,81.2858620
+hospital,Sai Kripa Nursing Home Hospital,24.5525659,81.3044394
+hospital,Rewa Hospital and Maternity Centre,24.5553636,81.3448773
+hospital,A.D Ravendra Singh,24.9952259,81.6278607
+hospital,Sharma Hospitals,24.6036950,81.7580290
+hospital,"SubCentre, Sahsepur",25.2396887,82.5400581
+hospital,Mahila Swasthya Kendra,26.3682772,82.5121353
+hospital,MIOTS,25.4231809,81.8207891
+hospital,Prayag Medicare,25.4265647,81.8213236
+hospital,"Government Hospital, Kot",24.8987622,81.7267330
+hospital,saket hospital(old),25.4565604,81.8724457
+hospital,ram bahar hospital,25.4486124,81.8631387
+hospital,yashraj clinic,25.4562645,81.8661688
+hospital,alka hospital,25.4566907,81.8640202
+hospital,saket nursing home,25.4479161,81.8627580
+hospital,living,25.8509317,81.4367805
+hospital,mgm hospital grounds,25.4613550,81.4178848
+hospital,United Medicity,25.3962564,81.7567664
+hospital,Dr Rishi KAnt Dubey,25.4535460,81.8831234
+hospital,Government Hospital,26.2748124,82.4672074
+hospital,CHOOTE LAL BIND HOSPITAL,25.3382721,82.2593063
+hospital,ALKA HOSPITAL,25.4610187,81.8655850
+hospital,Sandhya Hospital,26.2700771,82.4692236
+hospital,Chitra Eye Hospital,26.3091812,82.7377445
+hospital,Yogya Hospital,26.3136984,82.7414885
+hospital,Ayush Clinic,26.3133581,82.7327127
+hospital,Safal Hospital,26.3093140,82.7421592
+hospital,Manas Hospital,26.3103689,82.7379157
+hospital,Ashok Clinic,26.3058316,82.7316700
+hospital,Kumar Hospital,26.3110962,82.7439970
+hospital,Aarogya Hospital,26.3144969,82.7394591
+hospital,Suman Hospital,26.2728374,82.0760323
+pharmacy,Balson and Sons,25.4570525,81.8598440
+pharmacy,Rama Pharmacy,25.4578081,81.8604743
+pharmacy,Raj Medical Centre,25.4553360,81.8349800
+pharmacy,Warshi medical store,26.3416975,82.8338832
+pharmacy,Kesarwani Medical Store,25.3988819,81.8660657
+pharmacy,Obligo Medical Store,25.3989323,81.8661350
+pharmacy,Kings & Co.,25.4506084,81.8347766
+pharmacy,Mahesh Medical Store,25.4057037,81.8727756
+pharmacy,Kirti Chemist,25.4507665,81.8347685
+pharmacy,Supplyco Medical Store,25.2136618,80.9081074
+pharmacy,Maa Pitambra,25.4002398,81.8681375
+pharmacy,Z.R. Medical Store,25.4367274,81.8227942
+pharmacy,Astha Medical Store,25.3996331,81.8712613
+pharmacy,New Jai Durga Enterprises,25.3996143,81.8710681
+pharmacy,Gaurav Medical Store,25.3924356,81.8632567
+pharmacy,Aggarwal Medical Store,25.3925491,81.8611427
+veterinary,Prayag Poultry Care Zone,25.4064042,81.8681171
+cinema,PVR Cinemas,25.4548463,81.8344064
+cinema,Chandrlok,25.4379077,81.8442304
+cinema,Mansarovar,25.4384929,81.8404756
+cinema,VKNS Cinemas,26.2666991,82.0748513
+cinema,Palace Cinema,25.4501987,81.8323015
+events_venue,Deepak Guest House,25.4009826,81.8682792
+events_venue,Mother’s Lawn,25.3944963,81.8568354
+events_venue,Band & Sons,25.3998070,81.8670167
+events_venue,Royal Darbar,25.4523887,81.8329291
+events_venue,Shubhanjali Palace,25.1324971,82.5776945
+fountain,SVP Fountain,25.4464493,81.8691258
+fountain,bank road crossing,25.4682990,81.8546445
+fountain,crossing,25.4699967,81.8624486
+fountain,Palika fountain,26.2619951,82.0747101
+fountain,Khurshid fountain,26.2650235,82.0748384
+social_centre,Coral Club,25.4480260,81.8240390
+studio,Sangam Studio,26.2720811,82.4687186
+fire_station,Fire Station,25.4478206,81.8398891
+police,Chowk Police Station,25.4372308,81.8330585
+police,Mirzapur City Kotwali,25.1495833,82.5681398
+police,Police Lines Allahabad,25.4626401,81.8432613
+police,Police station Karchana,25.2851550,81.9352180
+police,allapur police chauki,25.4577599,81.8697520
+police,MAHILA THANA,25.2137673,80.9059314
+police,PURANI KOTWALI MAIDAN,25.2134118,80.9076259
+police,Police Chowki,25.4636452,81.8691271
+police,police station,26.3098124,82.7379881
+post_office,Allahabad City Post Office,25.4415640,81.8358936
+post_office,Indian Post,25.4659454,81.8643957
+post_office,new bairahana post office,25.4381821,81.8579050
+post_office,India Post,25.3946463,81.8604901
+post_office,Pratapgarh Head Post Office,25.9222593,81.9896706
+post_office,DTDC Courier,25.4025814,81.8702212
+post_office,Post Office,26.3087278,82.7368962
+post_office,Head Post Office sultanpur,26.2609438,82.0736675
+toilets,सुलभ शौचालय,25.4190396,81.8205054
+waste_disposal,AWP,25.4179287,81.8199845
+internet_cafe,Akshat internet cafe,25.4560944,81.8737773
+internet_cafe,varun cafe,25.4567879,81.8748663
+internet_cafe,pranjal cafe,25.4553824,81.8744632
+internet_cafe,Xcellence Infotech,25.4023112,81.8664132
+internet_cafe,vijay cybercafe,26.2266916,81.2347593
+internet_cafe,Blue Sky Cyber Cafe,26.2685688,82.0760403
+internet_cafe,Raaj Computers & Jan Seva Kendra,25.3838019,81.1468182
+marketplace,bazar,25.8520758,81.4340795
+marketplace,"Jay Maa Durge Sabji Mandi, Museevan",25.5741591,80.9490490
+marketplace,Al Rashid Market,26.2759084,82.4718626
+marketplace,Vegetable Market,26.2617238,82.0686512
+marketplace,Chowk Ghanta Ghar,26.2607386,82.0699072
+place_of_worship,Sidhheshwar Dham,25.9405942,81.9594536
+place_of_worship,Old Temple,26.0061960,82.6160474
+place_of_worship,New Bairhana Mosque,25.4383709,81.8576908
+place_of_worship,kali mandir,25.4389135,81.8583305
+place_of_worship,kali mai ka mandir,25.4395285,81.8611474
+place_of_worship,PRAYAG प्रयाग,25.4430158,81.8669352
+place_of_worship,Shrine Syed Makhdoom Ashraf Jahangir Samnani,26.4352202,82.7713412
+place_of_worship,Temple,26.2315190,81.2369540
+place_of_worship,Mandir,25.1611936,80.8661729
+place_of_worship,Sharda Maa Sthaan,25.4229332,81.8252101
+place_of_worship,Bhakti Dham Mandir,25.7702022,81.4935431
+place_of_worship,Nehru Ghat,25.4302038,81.8616448
+place_of_worship,Sadhu kai Kuti (Kutiyawa),26.2485024,82.4865610
+place_of_worship,Dueoharin Mai,26.2522889,82.4881001
+place_of_worship,Kali Mai,26.2530406,82.4911665
+place_of_worship,Baram Baba,26.2508911,82.4870813
+place_of_worship,Chaurasi Baba,26.1968246,82.2111794
+place_of_worship,Mandawa (Hanuman Mandir),26.2453014,82.2237690
+place_of_worship,jamuneshwar mahadev mandir,25.4175267,81.8209209
+place_of_worship,Pahalwaan Veer Baba,25.4200680,81.8206816
+place_of_worship,Shree Krishna Pranaami Mandir,25.4284062,81.8289071
+place_of_worship,Maa Kalyani Devi Shakti Peeth,25.4315094,81.8340154
+place_of_worship,ganesh ji mandir,25.7673297,82.6716149
+place_of_worship,Bargad Ghat,25.4192682,81.8278972
+place_of_worship,Jamia Darussalam,25.4247433,81.8070071
+place_of_worship,Makkah Masjid,25.4254546,81.8073659
+place_of_worship,MQ Islamic School Masjid,25.4241416,81.8051516
+place_of_worship,Abu Hurayrah Masjid,25.4267819,81.8073823
+place_of_worship,hauma ji,24.5382768,81.2930088
+place_of_worship,HANUMAN MANDIR,25.4561194,81.8796682
+place_of_worship,krishna mandir,25.4546917,81.8775094
+place_of_worship,Attraction Point 3 (Shri Bade Hanuman Ji Mandir),25.4335836,81.8791610
+place_of_worship,akshay vat temple,25.4325314,81.8777211
+place_of_worship,Attraction Point 4 (Shri Adi Shankar Vimana Mandapam),25.4351846,81.8795208
+place_of_worship,st. john's church,25.4574805,81.8447350
+place_of_worship,ganesh mandir,25.4568935,81.8609538
+place_of_worship,shyam mandir,25.4582853,81.8559853
+place_of_worship,ram mandir,25.4478153,81.8631657
+place_of_worship,jain mandir,25.4579790,81.8600523
+place_of_worship,shani mandir,25.4569247,81.8635781
+place_of_worship,haji ali  dargaah,25.4564027,81.8652399
+place_of_worship,shiv bhajwan mandir,25.8524596,81.4306731
+place_of_worship,Ram Leela Ground,26.4137810,82.7769246
+place_of_worship,Yeshu Darbar,25.4188127,81.8501615
+place_of_worship,Hanuman Mandir,25.3988608,81.8739100
+place_of_worship,Hanuman Mandir,25.3773639,81.5246024
+place_of_worship,Shiv Shakti Dham,25.3775038,81.5122166
+place_of_worship,mosque,25.3756015,81.8506643
+place_of_worship,church,25.3760425,81.8501627
+place_of_worship,shiva temple,25.3741256,81.8503015
+place_of_worship,gurudwara,25.3783544,81.8475154
+place_of_worship,Purani Dashmi ram temple,25.1378649,82.5711188
+place_of_worship,Shri Ram Tek Temple,25.1380089,82.5712511
+place_of_worship,Chetganjeshvar Mahadev Mandir,25.2230036,82.5113531
+place_of_worship,Shiva Temple,26.3460934,82.2357053
+place_of_worship,Masjid of Babupur,25.5502150,82.0819689
+place_of_worship,Jhunsi Eid Gaah,25.4339155,81.9011858
+place_of_worship,Shiv Temple,26.2757395,82.4715260
+place_of_worship,Shiv Temple,26.2735626,82.4700889
+place_of_worship,Nagvasuki temple,25.4567203,81.8834736
+place_of_worship,Hanuman Ji Mandir,26.2207984,81.2369719
+place_of_worship,SHIV TEMPLE,25.4580229,81.8751195
+place_of_worship,Kali Maata Mandir,25.4645421,81.8669907
+place_of_worship,Masjid Hashimpur,25.4615596,81.8663780
+place_of_worship,SHANI DEV MANDIR,25.4583919,81.8743161
+place_of_worship,masjid,26.3112698,82.7350706
+place_of_worship,Mathia Mandir,26.3136846,82.7322377
+place_of_worship,Mahadev Mandir,26.3138264,82.7345024
+place_of_worship,Hanuman Mandir,26.3084103,82.7383497
+place_of_worship,Hari,26.3076894,82.7422527
+place_of_worship,Mata,26.3149909,82.7387628
+place_of_worship,jai ho,26.3130068,82.7353394
+place_of_worship,Janiki Mandir,26.3095214,82.7342327
+place_of_worship,ananta mandir,26.3079010,82.7388883
+place_of_worship,Hanuman Mandir,26.2489347,82.0686288
+place_of_worship,Sita Mata Dham,25.7714538,82.3299511
+place_of_worship,Shiv Temple,25.6389923,82.5605543
+place_of_worship,Chaura Mata Mandir,25.6382313,82.5629849
+place_of_worship,Attraction Point 1 (Sangam Ghat Prayagraj),25.4292236,81.8850181
+place_of_worship,Attraction Point 2 (Ganga Ghat Prayagraj),25.4319911,81.8843915
+place_of_worship,Attraction Point 5 (Triveni sangam boat bathing),25.4274773,81.8854753
+place_of_worship,Attraction Point 6 (KULVRIKSH GANGA AARTI STHAL),25.4331562,81.8816203
+place_of_worship,Attraction Point 7 (Bhagwan Adi Shankaracharya Ghat),25.4346428,81.8830960
+public_building,Sanjay Tower,25.4551110,81.8414040
