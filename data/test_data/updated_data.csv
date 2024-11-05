@@ -1,0 +1,1280 @@
+Amenity Type,Name,Latitude,Longitude,road,suburb,state_district,road_count,suburb_count,district_count,scaled_suburb,population
+bar,mohini bar,28.6332767,77.2238762,Connaught Lane,Chanakya Puri Tehsil,,10,199,0,7.158273381294964,10007
+bar,The Gem Bar,28.6415015,77.2160786,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+bar,OMG Bar & Kitchen,28.6314049,77.2204463,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+bar,My Love ,28.6384132,77.2104056,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+bar,Sam's bar,28.6411301,77.212683,Arya Nagar Road;Sang Trashan Marg,Karol Bagh Tehsil,Central Delhi,5,82,318,2.949640287769784,5320
+bar,The Beer Cafe - Biggie,28.6339043,77.2208954,Radial Road 5,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+bar,Route 04,28.5998657,77.2261108,Khan Market,Chanakya Puri Tehsil,,9,199,0,7.158273381294964,9007
+bar,Beer Cafe,28.6307208,77.2210523,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bar,Perch wine & coffee bar,28.5999612,77.2262647,Khan Market,Chanakya Puri Tehsil,,9,199,0,7.158273381294964,9007
+bar,My Bar,28.6306047,77.2198405,Radial Road 1,Chanakya Puri Tehsil,,5,199,0,7.158273381294964,5007
+bar,Tafree,28.6314083,77.220584,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+bar,Tamasha,28.6296803,77.2220055,Connaught Lane,Connaught Place,,10,278,0,10.0,10010
+bar,Elma'ls Bar & lounge,28.5844433,77.2266538,Fifth Avenue Road,Lodhi Colony,South East Delhi,4,17,255,0.6115107913669064,4255
+bar,एक Bar,28.5748429,77.2380497,Dron Marg,Defence Colony,South East Delhi,5,6,255,0.2158273381294964,5255
+bar,Excuse Me Boss,28.6311254,77.2209039,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+bar,Kill The Bill,28.6310486,77.2207857,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+bar,The Beer Cafe,28.6301159,77.2197367,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bar,Lord of the Drinks,28.6318318,77.2168187,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bar,Teddy Boy Gastro Bar,28.6301911,77.2197452,Radial Road 1,Chanakya Puri Tehsil,,5,199,0,7.158273381294964,5007
+bar,Public Affair,28.5999324,77.226627,Subramaniyam Bharti Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+bar,38 Barracks,28.6329337,77.2226935,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bar,Hawkers,28.6345412,77.2213209,Radial Road 5,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+bar,Ministry of Beer,28.6334057,77.222623,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bar,The beer cafe,28.6291592,77.2197557,Connaught Lane,Connaught Place,,10,278,0,10.0,10010
+bar,Kevs,28.5886555,77.1691254,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+bar,Bira,28.6344996,77.2175963,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bar,Bistro 57,28.6467989,77.1893561,Tank Road,Karol Bagh,Central Delhi,5,36,318,1.2949640287769784,5319
+cafe,Bon Temps Cafe,28.6428339,77.186576,Bazaar Marg,Rajendra Nagar,West Delhi,5,5,44,0.17985611510791366,5044
+cafe,Internet,28.6410051,77.2125387,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+cafe,Madan Café,28.6407272,77.2111472,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+cafe,Starbucks,28.6321974,77.2177075,Radial Road 2,Connaught Place,,3,278,0,10.0,3010
+cafe,Cafe Turtle,28.6002007,77.2273465,Khan Market,Chanakya Puri Tehsil,,9,199,0,7.158273381294964,9007
+cafe,Starbucks,28.5681853,77.2192919,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+cafe,Madras Coffee House,28.6318506,77.2163093,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+cafe,Stri Shakti Canteen,28.6626659,77.2339069,Lothiyan Road,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+cafe,Amour Bistro,28.6016349,77.1859966,Malcha Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+cafe,Starbucks,28.6302915,77.2204826,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+cafe,Festa Cafe ,28.6409134,77.2104527,Rajguru Marg,Karol Bagh Tehsil,Central Delhi,7,82,318,2.949640287769784,7320
+cafe,kitchen cafe roof top,28.6409875,77.2128901,Main Bazaar,Paharganj,Central Delhi,3,38,318,1.3669064748201438,3319
+cafe,Café office office,28.6269741,77.2202933,Tolstoy Marg,Connaught Place,,5,278,0,10.0,5010
+cafe,Out Of The Box (OTB),28.5997702,77.2261911,Khan Market,Chanakya Puri Tehsil,,9,199,0,7.158273381294964,9007
+cafe,Devan's at Lodhi,28.5798966,77.2220134,Najaf Khan Road,Lodhi Colony,South East Delhi,1,17,255,0.6115107913669064,1255
+cafe,Everest Bakery Cafe,28.6417215,77.2147806,Gali Chandi Wali,Paharganj,Central Delhi,2,38,318,1.3669064748201438,2319
+cafe,Chaayos,28.6314625,77.2206262,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+cafe,Brownie Cafe,28.645479,77.2163699,Arakashan Road,Basti Ara Kashan,Central Delhi,5,5,318,0.17985611510791366,5318
+cafe,Satguru’s tea stall,28.6504719,77.2303091,Chawri Bazar,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+cafe,Cafe Coffee Day,28.5849603,77.2266279,Fifth Avenue Road,Lodhi Colony,South East Delhi,4,17,255,0.6115107913669064,4255
+cafe,Keventer's Milkshake,28.6334848,77.2181289,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+cafe,Cafe Lota,28.6131498,77.2426321,Bhairon Marg,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+cafe,The Walled City,28.6491519,77.232748,Urdu Bazaar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+cafe,Chaayos,28.6315876,77.2222789,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+cafe,Hwealth Cafe,28.5744593,77.2291993,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+cafe,The chai kafe,28.6343655,77.2179596,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+cafe,Cafe Coffee Day,28.64467,77.2402214,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+cafe,Cafe Coffee Day,28.6339716,77.2180188,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+cafe,Jain coffee house,28.650606,77.2295833,Ballimaran,Old Delhi,Central Delhi,2,106,318,3.8129496402877696,2321
+cafe,The Junkyard Cafe,28.6303838,77.2207212,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+cafe,Café Underpass Courtyard,28.5784821,77.2383126,Defence Colony Flyover,Lajpat Nagar,South East Delhi,4,120,255,4.316546762589928,4259
+cafe,Wagh Bakri Tea Lounge,28.6343528,77.2220221,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+cafe,Mittal Teas,28.6299698,77.2229648,Connaught Lane,Connaught Place,,10,278,0,10.0,10010
+cafe,Cafe Coffee Day,28.6330613,77.2198505,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+cafe,Cafe Coffee Day,28.6383221,77.1805949,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+cafe,Blue Tokai,28.6309899,77.2218384,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+cafe,Cafe Coffee Day,28.6343112,77.2194624,,Connaught Place,,0,278,0,10.0,10
+cafe,Cafe Coffee Day,28.6336036,77.2178165,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+cafe,OTB Café,28.6343601,77.2182711,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+cafe,Open Hand Cafe (top top ;),28.6405754,77.2117485,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+cafe,The Construction Company,28.587778,77.1675315,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Cafe Coffee Day,28.6514487,77.1591527,Patel Road,Patel Nagar,West Delhi,8,18,44,0.6474820143884892,8044
+cafe,DePaul's,28.6288925,77.2186728,Janpath,Connaught Place,,24,278,0,10.0,24010
+cafe,#ashery,28.6342664,77.2180918,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+cafe,L'Opéra,28.6090339,77.2296678,Pandara Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+cafe,Coffee Spot,28.5671729,77.213153,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+cafe,Travel Yoga Cafe,28.6357531,77.2205669,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+cafe,Manish Cafe,28.6296999,77.1797945,Professor Ram Nath Vij Marg,New Rajendra Nagar,West Delhi,4,16,44,0.5755395683453237,4044
+cafe,Starbucks,28.600863,77.2270634,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+cafe,Cafe Coffee Day,28.6267988,77.2197099,Janpath,Connaught Place,,24,278,0,10.0,24010
+cafe,Blue Tokai Coffee Roasters,28.6301326,77.2199077,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+cafe,Cafe Coffee Day,28.6339819,77.2185238,,Connaught Place,,0,278,0,10.0,10
+cafe,Café Turtle,28.5903723,77.2524954,Jaipur Estate,,South East Delhi,7,0,255,0.0,7255
+cafe,Bloom Café & Cakery,28.5998699,77.2263436,Khan Market,Chanakya Puri Tehsil,,9,199,0,7.158273381294964,9007
+cafe,Cafe Delhi Heights,28.6002371,77.2274371,Subramaniyam Bharti Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+cafe,Oval Bean Cafe,28.6331479,77.2196843,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+cafe,Blue Tokai,28.5997174,77.2261777,Khan Market,Chanakya Puri Tehsil,,9,199,0,7.158273381294964,9007
+cafe,The Big Chill,28.5997717,77.2261395,Khan Market,Chanakya Puri Tehsil,,9,199,0,7.158273381294964,9007
+cafe,Cafe Coffee Day,28.633884,77.2184716,,Connaught Place,,0,278,0,10.0,10
+cafe,Starbucks,28.6452103,77.1954815,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+cafe,Jugmug,28.6534474,77.2399354,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+cafe,Barista,28.632997,77.2190193,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+cafe,"Blue Tokai (coffee , pastries, wifi)",28.6310504,77.2219404,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+cafe,Café Brownie (coffee),28.645817,77.2154412,Arakashan Road,Basti Ara Kashan,Central Delhi,5,5,318,0.17985611510791366,5318
+cafe,Chai 24/7,28.6347571,77.2184665,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+cafe,Coffee Break,28.5908601,77.2563801,Mahatma Gandhi Marg,,South East Delhi,64,0,255,0.0,64255
+cafe,Xero Degrees,28.6328859,77.2227714,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+cafe,Barista,28.6482157,77.2001362,Link Road,Karol Bagh Tehsil,Central Delhi,3,82,318,2.949640287769784,3320
+cafe,Love Bite Cafe,28.588688,77.1691745,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Igniter Cafe,28.588414,77.1686436,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Café 69,28.5886031,77.1689683,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Ricos,28.5885827,77.1690539,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Awarapan Cafe,28.5884966,77.1688106,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Pandit Ji Partha Hut,28.5881876,77.1682611,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Immortal Gaming Cafe,28.5879768,77.1688142,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Cafe Mitro,28.5878444,77.1675983,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Bottle House,28.5878311,77.1675464,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,The Bowton House Café,28.5877303,77.1672874,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,The Big House Café,28.588064,77.1679012,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Rustic Cafe,28.5880537,77.1679015,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Pandit Ji Tea Stall,28.5876277,77.1686816,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Mum Café and Bakery,28.5877898,77.1684033,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Nerds Of Comedy,28.5880515,77.1682334,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Sista’s,28.5880081,77.1677761,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Pipeline pizzeria,28.5879971,77.1677583,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,The Chai Latte,28.5882442,77.168369,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Goyal Tea Junction,28.5875478,77.1686825,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Cafe Unbound,28.5875721,77.1685498,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Tirupati Bhawan,28.6333646,77.2226483,Connaught Lane,Chanakya Puri Tehsil,,10,199,0,7.158273381294964,10007
+cafe,Alfa,28.5875537,77.1686987,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+cafe,Free of Gluten,28.5870102,77.1704721,Mahatma Gandhi Marg,Delhi Cantonment,,64,85,0,3.057553956834532,64003
+cafe,Sabharwal Tea Stall,28.5931893,77.1645815,NH48,Dhaula Kuan,,4,6,0,0.2158273381294964,4000
+cafe,Del Bite,28.6440611,77.2014836,,Karol Bagh Tehsil,Central Delhi,0,82,318,2.949640287769784,320
+cafe,cvsv,28.6610786,77.2273116,Shyama Prasad Mukherji Marg,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+cafe,The Garden Restaurant,28.6188178,77.178503,Vande Mataram Marg,Chanakya Puri Tehsil,,3,199,0,7.158273381294964,3007
+fast_food,Domino's,28.6457998,77.1722681,Patel Road,Patel Nagar,West Delhi,8,18,44,0.6474820143884892,8044
+fast_food,Art Of Spices,28.6438105,77.1910019,Ganga Ram Hospital Road,Karol Bagh Tehsil,West Delhi,4,82,44,2.949640287769784,4046
+fast_food,Aggarwal Sweets,28.6388435,77.1838163,Bazaar Marg,Rajendra Nagar,West Delhi,5,5,44,0.17985611510791366,5044
+fast_food,McDonald's,28.6424922,77.1762685,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+fast_food,McDonald's,28.6562865,77.2341095,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+fast_food,Haldiram's,28.6563937,77.2316218,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+fast_food,Nizam's Kathi Kabab,28.6350182,77.219418,Radial Road 4,Connaught Place,,9,278,0,10.0,9010
+fast_food,Parathe Wali Gali,28.6561924,77.2306625,Paranthe Wali Gali street,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+fast_food,KFC,28.6331146,77.2179776,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Comesum,28.5883459,77.2536911,Jaipur Estate,,South East Delhi,7,0,255,0.0,7255
+fast_food,Natraj Dahibhalla,28.656457,77.2300677,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+fast_food,Gole Hatti,28.657401,77.2231422,Khari Baoli Road,Old Delhi,Central Delhi,2,106,318,3.8129496402877696,2321
+fast_food,Subway,28.6405917,77.2108939,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+fast_food,Domino's,28.6301576,77.2197258,Radial Road 1,Chanakya Puri Tehsil,,5,199,0,7.158273381294964,5007
+fast_food,The Embassy,28.6336816,77.2210924,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+fast_food,Bikanere,28.5853563,77.1915395,Satya Marg,Chanakyapuri,,2,16,0,0.5755395683453237,2000
+fast_food,Mughlai chain of restaurants,28.5839783,77.1915598,Vinay Marg,Chanakyapuri,,2,16,0,0.5755395683453237,2000
+fast_food,Jai Maha Kali,28.6467705,77.2129317,Galli Number 6,Karol Bagh Tehsil,Central Delhi,3,82,318,2.949640287769784,3320
+fast_food,McDonald's,28.6322738,77.2162739,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,khandani pakode wala,28.5696026,77.1938516,Rajmata Vijayaraje Sindhia Marg,Sarojini Nagar,,1,20,0,0.7194244604316546,1000
+fast_food,nirulas,28.5683377,77.1889265,Africa Avenue,,,8,0,0,0.0,8000
+fast_food,McDonald's,28.630206,77.2200866,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,Saravana Bhavan,28.6320509,77.2163058,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,Jalebi Wala,28.6560137,77.2334875,Dariba Kalan,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+fast_food,McDonald's,28.5679494,77.24126,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+fast_food,KFC,28.6297305,77.2201372,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,Jain Chawal Wale,28.6317854,77.2159495,Jain Mandir Marg,Connaught Place,,3,278,0,10.0,3010
+fast_food,Saravana Bhavan,28.6270891,77.2197178,Janpath,Connaught Place,,24,278,0,10.0,24010
+fast_food,Haldiram's,28.63412,77.2222423,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+fast_food,Saravana Bhavan,28.6321991,77.2163026,,Chanakya Puri Tehsil,,0,199,0,7.158273381294964,7
+fast_food,Subway,28.5702091,77.2375367,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+fast_food,Shree Balaji Chaat Bhandar,28.6563366,77.2318879,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+fast_food,McDonald's,28.5761428,77.1950445,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+fast_food,Burger King,28.576488,77.1949983,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+fast_food,Subway,28.5761271,77.1950032,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+fast_food,The Burger Club,28.5762197,77.1950079,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+fast_food,Burger Singh,28.6342788,77.2176384,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+fast_food,Khan Chacha,28.6006978,77.2273002,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+fast_food,Burger King,28.6429706,77.2226296,Bhavbhuti Marg,,Central Delhi,6,0,318,0.0,6318
+fast_food,Subway,28.6316182,77.2222311,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+fast_food,Bottle Opener,28.5859501,77.2136701,Jor Bagh Road,Lodhi Colony,South East Delhi,3,17,255,0.6115107913669064,3255
+fast_food,Pure Veg Foods,28.6421748,77.2183515,Babu Ram Solanki Marg,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+fast_food,Coffee Home,28.6310681,77.2147904,Baba Kharak Singh Marg,Connaught Place,,10,278,0,10.0,10010
+fast_food,Subway,28.6315538,77.2162363,Baba Kharak Singh Marg,Connaught Place,,10,278,0,10.0,10010
+fast_food,Domino's,28.6333172,77.2226137,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+fast_food,Roll Box,28.6440134,77.20095,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+fast_food,Beliram Degchiwala,28.5688043,77.2473905,,Lajpat Nagar,South East Delhi,0,120,255,4.316546762589928,259
+fast_food,Domino's,28.5670067,77.2468669,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+fast_food,Wat-a-Burger!,28.5665923,77.2466439,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+fast_food,Dolma Aunty Momos,28.5691758,77.2405932,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+fast_food,Nirula's,28.633622,77.2222396,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+fast_food,Ya Allah Chala De Hotel,28.6496555,77.232837,Urdu Bazaar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+fast_food,Domino's,28.5700423,77.2410573,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+fast_food,Garden Chef,28.5899247,77.2195873,Second Avenue,Lodhi Colony,South East Delhi,2,17,255,0.6115107913669064,2255
+fast_food,Food Track,28.5755451,77.2092905,Aurobindo Marg,Kidwai Nagar,,6,8,0,0.28776978417266186,6000
+fast_food,Domino's,28.6451021,77.1696998,Patel Road,Patel Nagar,West Delhi,8,18,44,0.6474820143884892,8044
+fast_food,Domino's,28.5692288,77.220737,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+fast_food,qureshi kabab,28.6305945,77.220264,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,Tea Tchai to take away,28.6407857,77.213179,Tooti Chowk (Subzi Mandi),Paharganj,Central Delhi,2,38,318,1.3669064748201438,2319
+fast_food,Dilpasand Byriani Taufiq Byriani Wala,28.6471993,77.2359366,Dakhni Rai Street,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+fast_food,Zaika Muradabadi,28.5686807,77.2443637,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+fast_food,Amazing chole stand,28.6440465,77.2124248,Arya Nagar Road;Sang Trashan Marg,Karol Bagh Tehsil,Central Delhi,5,82,318,2.949640287769784,5320
+fast_food,Chicago Pizza,28.5708038,77.2399593,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+fast_food,Domino's,28.5689024,77.188864,Africa Avenue,,,8,0,0,0.0,8000
+fast_food,Halka Fulka,28.6347974,77.2201885,Radial Road 4,Connaught Place,,9,278,0,10.0,9010
+fast_food,"34, Chowringhee Lane",28.6288935,77.2187659,Janpath,Connaught Place,,24,278,0,10.0,24010
+fast_food,Mcdonald,28.6305923,77.2172927,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,Lodhi Knights,28.5816234,77.2206837,,Lodhi Colony,South East Delhi,0,17,255,0.6115107913669064,255
+fast_food,Concept Shawarma,28.578258,77.2387357,Defence Colony Flyover,Lajpat Nagar,South East Delhi,4,120,255,4.316546762589928,4259
+fast_food,Super Hit Pizza,28.5845777,77.2264117,Fifth Avenue Road,Lodhi Colony,South East Delhi,4,17,255,0.6115107913669064,4255
+fast_food,Taco Bell,28.6302271,77.2202118,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,Cigarette shop,28.6249306,77.23039,Firoz Shah Road,Connaught Place,,1,278,0,10.0,1010
+fast_food,Haldiram's,28.6279832,77.2198697,Janpath,Connaught Place,,24,278,0,10.0,24010
+fast_food,Domino's,28.5827409,77.2526157,Jathedar Harbans Singh Bhogal Marg,,South East Delhi,1,0,255,0.0,1255
+fast_food,Baba Ka Dhaba,28.6248527,77.2156648,Jantar Mantar Road,Connaught Place,,2,278,0,10.0,2010
+fast_food,Kutty's,28.6249403,77.2156614,Jantar Mantar Road,Connaught Place,,2,278,0,10.0,2010
+fast_food,Domino's,28.6438875,77.2406405,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+fast_food,Tau,28.6348478,77.2194897,,Connaught Place,,0,278,0,10.0,10
+fast_food,Daryaganj,28.6301065,77.2174139,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+fast_food,KFC,28.6455023,77.1690752,Patel Road,Patel Nagar,West Delhi,8,18,44,0.6474820143884892,8044
+fast_food,Domino's,28.566179,77.2329027,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+fast_food,Bikanervala,28.570877,77.2389934,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+fast_food,Krishna di Kulfi,28.6077887,77.2299971,Shri Barada Ukil Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+fast_food,Cafe Delhi heights®,28.6563599,77.2401467,Mahatma Gandhi Marg,Old Delhi,Central Delhi,64,106,318,3.8129496402877696,64321
+fast_food,The Qila cafe,28.6594311,77.2422113,Mahatma Gandhi Marg,Old Delhi,Central Delhi,64,106,318,3.8129496402877696,64321
+fast_food,Shiv Dhaba,28.6433132,77.214524,Tilak Gali,Karol Bagh Tehsil,Central Delhi,2,82,318,2.949640287769784,2320
+fast_food,Subway,28.571436,77.2382812,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+fast_food,Burger King,28.6487643,77.1910046,Ajmal Khan Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+fast_food,McDonald's,28.6481265,77.1903707,Ajmal Khan Road,Karol Bagh Tehsil,Central Delhi,8,82,318,2.949640287769784,8320
+fast_food,Roshan Di Kulfi,28.6504443,77.1923023,Ajmal Khan Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+fast_food,Wow Momos,28.6504097,77.1922798,Ajmal Khan Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+fast_food,Punjab Sweet Corner,28.6465831,77.189438,Ajmal Khan Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+fast_food,Khan Chacha,28.6341122,77.2209068,Radial Road 5,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+fast_food,Kamal's,28.6023974,77.2405965,Oberoi Flyover,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+fast_food,Laziz Kabab,28.6006559,77.2257406,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+fast_food,Burger King,28.6331974,77.2198123,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Onli Eggs,28.63318,77.2197729,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Madras Coffee House,28.6331724,77.2196516,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Sub91,28.6331663,77.2197446,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Wow! Momo,28.6331519,77.2197157,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Rolls King,28.6342866,77.2215574,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+fast_food,Shakes & Snacks Corner,28.6335298,77.2220619,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+fast_food,Food Hub,28.6334888,77.2196554,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Mother Dairy,28.6323267,77.21918,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Food On The Go,28.6324163,77.2190679,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Bikanervala,28.6568301,77.2244423,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+fast_food,Jumbo King,28.5697762,77.2380617,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+fast_food,Food Track,28.5697954,77.237749,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+fast_food,Bhogal's Chhole Bhature,28.6293136,77.220411,Janpath,Connaught Place,,24,278,0,10.0,24010
+fast_food,Haldiram's,28.5811477,77.2421618,Sardar Balak Singh Bhatiya Marg,,South East Delhi,3,0,255,0.0,3255
+fast_food,McDonald's,28.5812912,77.241878,Sardar Balak Singh Bhatiya Marg,,South East Delhi,3,0,255,0.0,3255
+fast_food,Wow! Momo,28.6431435,77.2214256,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+fast_food,Haldiram's,28.6431932,77.2214202,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+fast_food,Diner & Burger,28.6430902,77.2214359,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+fast_food,KFC,28.6429353,77.2214586,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+fast_food,Sai Juice Corner,28.564025,77.2196882,D Block Road,Masjid Moth,South East Delhi,3,4,255,0.14388489208633093,3255
+fast_food,Kathi Roll Corner 44,28.5694952,77.2393039,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+fast_food,Concept Shawarma,28.5687188,77.2413418,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+fast_food,Jumbo King,28.6444124,77.1882702,Ajmal Khan Road,Karol Bagh Tehsil,Central Delhi,8,82,318,2.949640287769784,8320
+fast_food,Jumbo King,28.6253125,77.2338358,Sikandra Road,Connaught Place,,3,278,0,10.0,3010
+fast_food,Pasta Bowl,28.6332285,77.219734,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Metro Trip,28.6333802,77.2194422,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Bake N Brew Cafe,28.6333849,77.219661,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Bake N More,28.633353,77.2196492,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Joie Cafe,28.6334612,77.219466,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Hungry Kya?,28.633415,77.2196719,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Burgitos,28.6334041,77.219449,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Foodies Point,28.6334328,77.2194567,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Metro Walkers,28.6333051,77.2196356,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Food on the Go,28.6325951,77.2191445,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Hira Sweets,28.6324451,77.2194261,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Metro Trip Café,28.6326411,77.2191628,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Jumbo King,28.6325757,77.2193318,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Joie Cafe,28.6325182,77.2193042,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Burger King,28.6327056,77.2191535,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Bakers Pride,28.6325862,77.2197653,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Bake n More,28.6325515,77.2193179,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Kake-Da-Hotel,28.6349668,77.2220253,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+fast_food,Haldiram's,28.6448879,77.1930892,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+fast_food,McDonald's,28.6303945,77.2200943,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,McDonald's,28.6302373,77.2218751,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,r,28.6306564,77.221806,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,Burger Singh,28.6324593,77.2190911,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+fast_food,Southy,28.6296343,77.2323808,Babar Road,Connaught Place,,6,278,0,10.0,6010
+fast_food,Food Bus of India.,28.5683747,77.2196408,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+fast_food,Wow! Momo,28.6293719,77.2319366,Tansen Marg,Connaught Place,,5,278,0,10.0,5010
+fast_food,Burger King,28.569146,77.2438626,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+fast_food,Saravana Bhavan,28.6324882,77.2161512,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+fast_food,Subway,28.6391518,77.2084471,Panchkuian Road,Connaught Place,,16,278,0,10.0,16010
+fast_food,Haldiram's,28.6482341,77.2001091,Link Road,Karol Bagh Tehsil,Central Delhi,3,82,318,2.949640287769784,3320
+fast_food,The Waffle Co.,28.5884323,77.1686362,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+fast_food,Burger Singh,28.588561,77.168842,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+fast_food,Chai Samosa Stories,28.5878191,77.1683809,,Delhi Cantonment,,0,85,0,3.057553956834532,3
+fast_food,Chowringhee,28.5882233,77.1683218,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+fast_food,The Smart Mart,28.5876554,77.1696751,Mahatma Gandhi Marg,Delhi Cantonment,,64,85,0,3.057553956834532,64003
+fast_food,Dhoom Machale Momos,28.5876245,77.168865,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+fast_food,Systumm,28.5878558,77.1690366,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+fast_food,Taste of Spices,28.5870775,77.1703094,Mahatma Gandhi Marg,Delhi Cantonment,,64,85,0,3.057553956834532,64003
+fast_food,Silver Spoon Food Point,28.58721,77.1705383,Mahatma Gandhi Marg,Delhi Cantonment,,64,85,0,3.057553956834532,64003
+fast_food,Tea Moments,28.587092,77.1706094,Mahatma Gandhi Marg,Delhi Cantonment,,64,85,0,3.057553956834532,64003
+fast_food,Barira's Rolls,28.5871285,77.1705926,Mahatma Gandhi Marg,Delhi Cantonment,,64,85,0,3.057553956834532,64003
+fast_food,KFC,28.6455843,77.209833,Deshbandhu Gupta Road,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+fast_food,Mahadev Food Corner,28.5931062,77.1646281,NH48,Dhaula Kuan,,4,6,0,0.2158273381294964,4000
+fast_food,Madras Coffee Hoise,28.5691787,77.2389307,Shaheed Mohan Dutta Marg,Lajpat Nagar,South East Delhi,3,120,255,4.316546762589928,3259
+fast_food,Girija Soaltee Momo's,28.5696167,77.2393669,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+fast_food,Somveer Chat Bhandar,28.5699825,77.2395368,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+fast_food,Aneja Restaurant,28.5894472,77.2525209,Jaipur Estate,,South East Delhi,7,0,255,0.0,7255
+fast_food,BM Snacks,28.626621,77.2328795,Safdar Hashmi Marg,Connaught Place,,3,278,0,10.0,3010
+fast_food,Domino's,28.6440102,77.2012615,,Karol Bagh Tehsil,Central Delhi,0,82,318,2.949640287769784,320
+fast_food,Domino's,28.6330025,77.2226872,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+fast_food,Haldiram's,28.5763116,77.1950031,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+fast_food,KFC,28.5764429,77.1950404,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+fast_food,Archies,28.5763677,77.1950447,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+fast_food,Sagar Raina,28.5764424,77.195001,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+fast_food,Barbeque Nation,28.5682188,77.2216909,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+fast_food,Recharge Zone,28.6327701,77.2221893,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+fast_food,Snacks Time,28.6465675,77.1877558,Saraswati Marg,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+fast_food,Deepak Juice & Shakes,28.6467732,77.1879984,Saraswati Marg,Karol Bagh Tehsil,Central Delhi,8,82,318,2.949640287769784,8320
+fast_food,Burger Singh,28.5895332,77.1690955,Benito Juarez Marg,Dhaula Kuan,,68,6,0,0.2158273381294964,68000
+fast_food,V Canteen,28.6264316,77.2122984,Jai Singh Road,Connaught Place,,1,278,0,10.0,1010
+fast_food,KFC,28.5692578,77.2428433,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+food_court,FRUIT & CHATT CORNER,28.6297651,77.2224663,Connaught Lane,Connaught Place,,10,278,0,10.0,10010
+food_court,Food Croner,28.630164,77.2230255,Connaught Lane,Connaught Place,,10,278,0,10.0,10010
+ice_cream,Shake Sahab,28.6348833,77.2221046,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+ice_cream,Kermal Mahal Kulfi,28.6474152,77.2288691,Sitaram Bazar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+ice_cream,kuremal mohanlal kulfiwale,28.6476472,77.2269058,Sitaram Bazar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+ice_cream,Naturals,28.5714856,77.2373191,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+ice_cream,Bistro 57,28.6351241,77.2212339,Radial Road 5,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+ice_cream,Crème Borne,28.6351364,77.2218513,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+ice_cream,Keventers,28.5699324,77.2199272,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+ice_cream,Keventers,28.6316576,77.2161886,Jain Mandir Marg,Connaught Place,,3,278,0,10.0,3010
+ice_cream,Keventers,28.6495788,77.1916033,Ajmal Khan Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+ice_cream,Keventers,28.6274773,77.2195781,Janpath,Connaught Place,,24,278,0,10.0,24010
+ice_cream,Keventers,28.6421293,77.1859843,Bazaar Marg,Rajendra Nagar,West Delhi,5,5,44,0.17985611510791366,5044
+ice_cream,Cold Love Artisanal Ice Cream,28.6301157,77.2199015,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+ice_cream,Baskin-Robbins,28.607961,77.2296189,Shri Barada Ukil Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+ice_cream,Gianis,28.6079309,77.2296182,Shri Barada Ukil Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+ice_cream,Baskin-Robbins,28.6346493,77.2218207,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+ice_cream,Kuremal's Kulfi,28.6350396,77.2219494,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+ice_cream,Giani's,28.6349855,77.2220055,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+ice_cream,Creamy Fun,28.6347065,77.2222726,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+ice_cream,Kuremal's Kulfi,28.6296135,77.2324003,Babar Road,Connaught Place,,6,278,0,10.0,6010
+ice_cream,Gianis,28.5885311,77.168857,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+ice_cream,Waffle O'Clock,28.5880117,77.1678041,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+ice_cream,Nic,28.587163,77.1690583,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+ice_cream,Naturals,28.6343083,77.2221112,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+ice_cream,Hello's Shakes And Softy,28.6454704,77.1888422,Ajmal Khan Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+pub,MyBar,28.6405551,77.2107627,Main Bazaar,Paharganj,Central Delhi,3,38,318,1.3669064748201438,3319
+pub,Tipsy Room,28.5876445,77.1671767,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Flavours Restaurant,28.5663466,77.2340571,Moolchand Flyover,Lajpat Nagar,South East Delhi,2,120,255,4.316546762589928,2259
+restaurant,Hotel Metropolis,28.6407045,77.2105994,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Piccadelhi,28.635243,77.2196937,Radial Road 4,Connaught Place,,9,278,0,10.0,9010
+restaurant,Bangla Foods,28.6334431,77.2084285,Bangla Sahib Road,Connaught Place,,3,278,0,10.0,3010
+restaurant,Spice Route,28.6253844,77.2181175,Tolstoy Marg,Connaught Place,,5,278,0,10.0,5010
+restaurant,Good Earth,28.5995254,77.226395,Subramaniyam Bharti Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+restaurant,Nathus Sweets,28.6297269,77.2320267,Babar Road,Chanakya Puri Tehsil,,6,199,0,7.158273381294964,6007
+restaurant,Bengali Sweet House,28.629465,77.2318985,Babar Road,Chanakya Puri Tehsil,,6,199,0,7.158273381294964,6007
+restaurant,Club India Restaurant,28.6409319,77.2137081,Ramdwara Road,Paharganj,Central Delhi,6,38,318,1.3669064748201438,6319
+restaurant,New Mt. Everest Restaurant,28.641034,77.213836,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Andhra Bhawan Canteen,28.6169212,77.225998,rotary no 4,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+restaurant,Karim's,28.6494286,77.2337411,Kalan Mahal Road,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+restaurant,Moti Mahal,28.6461911,77.2400153,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+restaurant,Berco's,28.6323764,77.2172154,Radial Road 2,Connaught Place,,3,278,0,10.0,3010
+restaurant,All American Diner,28.589224,77.225738,Lodhi Road,,South East Delhi,10,0,255,0.0,10255
+restaurant,Indian Coffee House,28.6306895,77.2160507,Baba Kharak Singh Marg,Connaught Place,,10,278,0,10.0,10010
+restaurant,Hira Sweets,28.6353527,77.220063,Radial Road 4,Connaught Place,,9,278,0,10.0,9010
+restaurant,Sayam Roof Top Restaurant,28.6411417,77.2137445,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Keshav Restaurant,28.6337495,77.2230833,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+restaurant,The exotic rooftop restaurant,28.6409844,77.2137687,Ramdwara Road,Paharganj,Central Delhi,6,38,318,1.3669064748201438,6319
+restaurant,쉼터,28.6414451,77.2132453,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Tadka,28.6403009,77.2131013,Ramdwara Road,Paharganj,Central Delhi,6,38,318,1.3669064748201438,6319
+restaurant,Nathu Sweets,28.6025805,77.2409575,path r1,,South East Delhi,2,0,255,0.0,2255
+restaurant,Nando's,28.6309879,77.2197896,Radial Road 1,Chanakya Puri Tehsil,,5,199,0,7.158273381294964,5007
+restaurant,Nagaland Cafe,28.5734423,77.2062342,Maharaja Agrasen Marg,Kidwai Nagar,,2,8,0,0.28776978417266186,2000
+restaurant,The Colonnade,28.6342635,77.2190699,,Connaught Place,,0,278,0,10.0,10
+restaurant,Gola,28.6352724,77.220127,Radial Road 4,Connaught Place,,9,278,0,10.0,9010
+restaurant,Fat Lulu's,28.5996402,77.2262942,Khan Market,Chanakya Puri Tehsil,,9,199,0,7.158273381294964,9007
+restaurant,Odeon sweets,28.6334275,77.2080471,Shaheed Baghat Singh Marg,Chanakya Puri Tehsil,,4,199,0,7.158273381294964,4007
+restaurant,Imly,28.645305,77.1785622,T. Sohan Lal Marg,Karol Bagh Tehsil,Central Delhi,2,82,318,2.949640287769784,2320
+restaurant,Malhotra,28.6410445,77.2105515,Rajguru Marg,Karol Bagh Tehsil,Central Delhi,7,82,318,2.949640287769784,7320
+restaurant,Sam's Cafe,28.6410923,77.2126799,Arya Nagar Road;Sang Trashan Marg,Karol Bagh Tehsil,Central Delhi,5,82,318,2.949640287769784,5320
+restaurant,Zaffran,28.6337656,77.2213244,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+restaurant,Barbeque Nation,28.6303156,77.2206535,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Nepali Food,28.6411171,77.2144269,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Malhotra,28.6408661,77.2103053,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Pind Balluchi,28.6303463,77.217545,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+restaurant,Rajdhani,28.6298048,77.2204846,,Connaught Place,,0,278,0,10.0,10
+restaurant,Neelam Restaurant,28.6420621,77.2179887,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Smokeys,28.6005777,77.2273349,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+restaurant,Fa Yian The Chinese Restaurant,28.6328293,77.2172007,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Wow Cafe,28.6412137,77.2147624,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Gulati,28.6078499,77.2300673,Shri Barada Ukil Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+restaurant,U-Like,28.6452167,77.2110064,Rajguru Marg,Karol Bagh Tehsil,Central Delhi,7,82,318,2.949640287769784,7320
+restaurant,NATRAJ restaurant,28.6424044,77.2103819,Rajguru Marg,Karol Bagh Tehsil,Central Delhi,7,82,318,2.949640287769784,7320
+restaurant,Latitude,28.6021414,77.2279557,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+restaurant,Biryani Blues,28.6298227,77.2205834,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Alkauser ( best biryani),28.6018922,77.1936521,Kautilya Marg,Chanakyapuri,,1,16,0,0.5755395683453237,1000
+restaurant,Aljawahir,28.6495389,77.2335887,Urdu Bazaar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+restaurant,Alslam Chicken,28.6482081,77.2336645,Chitli Qabar Bazar,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+restaurant,Embassy Restaurant ( Samosa),28.6336538,77.2211826,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+restaurant,Malabar Hotel,28.6423302,77.2182562,Babu Ram Solanki Marg,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+restaurant,Hotel Madras Dx,28.642273,77.218265,Babu Ram Solanki Marg,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+restaurant,Hyderabadi Dum Biriyaani,28.6424057,77.2182489,Babu Ram Solanki Marg,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+restaurant,South Indian Foods,28.6424536,77.2182429,Babu Ram Solanki Marg,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+restaurant,Safari Restro Lounge,28.6321017,77.2077833,Baird Lane,Connaught Place,,1,278,0,10.0,1010
+restaurant,Rishi Vaishno Dhaba,28.6405446,77.217099,Basant Road,Paharganj,Central Delhi,1,38,318,1.3669064748201438,1319
+restaurant,Sonu,28.6409944,77.2127435,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Kwality,28.6299114,77.2172701,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+restaurant,Adyar Ananda Bhavan,28.6465886,77.1957658,Arya Samaj Road,Karol Bagh Tehsil,Central Delhi,4,82,318,2.949640287769784,4320
+restaurant,Everest kitchen,28.6411046,77.2135151,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Shri Krishna Daba,28.6478146,77.2399952,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+restaurant,Kathmandu Food Cafe,28.6418156,77.2126057,Arya Nagar Road;Sang Trashan Marg,Karol Bagh Tehsil,Central Delhi,5,82,318,2.949640287769784,5320
+restaurant,Lazeez Affaire,28.6353146,77.2206088,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,Kovil,28.6333695,77.2212936,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+restaurant,Radjhani Thali,28.630182,77.2204075,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,The Big Chill,28.6006451,77.2275063,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+restaurant,Thalee,28.6409867,77.2108048,Rajguru Marg,Karol Bagh Tehsil,Central Delhi,7,82,318,2.949640287769784,7320
+restaurant,Pizza Hut,28.6275145,77.2198691,Janpath,Connaught Place,,24,278,0,10.0,24010
+restaurant,Mughlai Junction,28.6307517,77.2205444,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,saravan bhavan,28.6249108,77.2194157,Janpath,Connaught Place,,24,278,0,10.0,24010
+restaurant,Pindi,28.6078554,77.2296194,Pandara Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+restaurant,The Immigrant Cafe,28.6341541,77.218784,,Connaught Place,,0,278,0,10.0,10
+restaurant,Hari Prakash Food Point,28.6027056,77.1865603,Dharma Marg,Chanakya Puri Tehsil,,6,199,0,7.158273381294964,6007
+restaurant,Ingerpuri,28.6579615,77.2233418,Church Mission Road,Old Delhi,Central Delhi,4,106,318,3.8129496402877696,4321
+restaurant,Kake di Hatti,28.6580128,77.2233194,Church Mission Road,Old Delhi,Central Delhi,4,106,318,3.8129496402877696,4321
+restaurant,Jagjit Restaurant,28.657558,77.2231804,Church Mission Road,Old Delhi,Central Delhi,4,106,318,3.8129496402877696,4321
+restaurant,Wok In The Clouds,28.6005614,77.2273808,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+restaurant,Indian Accent,28.5917587,77.2379033,Lodhi Road,,South East Delhi,10,0,255,0.0,10255
+restaurant,Sanjay Chur Chur Naan,28.5641526,77.234189,Moolchand Flyover,Lajpat Nagar,South East Delhi,2,120,255,4.316546762589928,2259
+restaurant,Moolchand Parantha,28.5640022,77.2341903,Gurumukh Nihal Singh Marg,Lajpat Nagar,South East Delhi,1,120,255,4.316546762589928,1259
+restaurant,Masala House,28.6026965,77.2410926,path r1,,South East Delhi,2,0,255,0.0,2255
+restaurant,Sagar Ratna,28.6353446,77.2203635,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Alkauser,28.5651736,77.1672697,Palam Marg,,,6,0,0,0.0,6000
+restaurant,Krishna Cafe,28.6411123,77.2136081,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Me Waffle n More,28.5745561,77.229256,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+restaurant,Pind Balluchi,28.6291804,77.219755,Connaught Lane,Connaught Place,,10,278,0,10.0,10010
+restaurant,Chili's,28.6315666,77.2223238,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+restaurant,Rodeo,28.633169,77.2179864,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+restaurant,Oriental Garden Chinese,28.6339281,77.217254,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+restaurant,Xero degrees,28.6337075,77.2169847,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Padmanabham,28.6271703,77.2197132,Janpath,Connaught Place,,24,278,0,10.0,24010
+restaurant,sharavana bhavan,28.632007,77.2176823,Radial Road 2,Connaught Place,,3,278,0,10.0,3010
+restaurant,Bawarchi khana,28.6578827,77.1888491,Sh B D Kohli Marg,Karol Bagh,Central Delhi,1,36,318,1.2949640287769784,1319
+restaurant,Diamond restaurant,28.6410202,77.2126034,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Grand Singh restaurant,28.6407001,77.211572,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Pind Balluchi,28.5676803,77.2472215,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+restaurant,The Golden Dragon,28.5670801,77.2469115,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+restaurant,Pizza Hut,28.5674361,77.2466759,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+restaurant,Mother India,28.6353515,77.2190315,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,United Coffee House,28.6323784,77.2213733,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+restaurant,Véda,28.6350577,77.2181263,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Unplugged Courtyard,28.6344013,77.2214575,Radial Road 5,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+restaurant,Hard Rock Cafe,28.6291307,77.2197582,Connaught Lane,Connaught Place,,10,278,0,10.0,10010
+restaurant,Local,28.6298758,77.2210617,Kasturba Gandhi Marg,Connaught Place,,3,278,0,10.0,3010
+restaurant,Triveni Terrace Cafe,28.627319,77.2326929,Tansen Marg,Connaught Place,,5,278,0,10.0,5010
+restaurant,Rajasthali,28.6347294,77.2203803,Radial Road 4,Connaught Place,,9,278,0,10.0,9010
+restaurant,Hotmess,28.6325274,77.2223125,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,Bagundi,28.6317221,77.22247,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,German Bakery,28.6407442,77.211775,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Zen,28.6342714,77.2192315,,Connaught Place,,0,278,0,10.0,10
+restaurant,The Big Chill,28.6342817,77.2190663,,Connaught Place,,0,278,0,10.0,10
+restaurant,The Burger Club,28.5700511,77.2417581,,Lajpat Nagar,South East Delhi,0,120,255,4.316546762589928,259
+restaurant,Bistrot 55,28.6409128,77.2136434,Tooti Chowk (Subzi Mandi),Paharganj,Central Delhi,2,38,318,1.3669064748201438,2319
+restaurant,Thali Wala,28.5678415,77.1890504,Africa Avenue,,,8,0,0,0.0,8000
+restaurant,Nirula's,28.567241,77.1889413,Africa Avenue,,,8,0,0,0.0,8000
+restaurant,The Art House Cafe,28.6305595,77.2212797,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Shake Square,28.634703,77.2205246,,Connaught Place,,0,278,0,10.0,10
+restaurant,The Feast House,28.643686,77.1882167,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+restaurant,fish point,28.6497142,77.2343609,Urdu Bazaar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+restaurant,Faculty of Food,28.5877629,77.1674682,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Big Yellow Door,28.5877769,77.1673736,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Jamun,28.5846582,77.2231435,Third Avenue,Lodhi Colony,South East Delhi,1,17,255,0.6115107913669064,1255
+restaurant,Sorento,28.6209452,77.2180853,Ashoka Road,Connaught Place,,2,278,0,10.0,2010
+restaurant,Palatini Pizzeria,28.6022338,77.1861298,Dharma Marg,Chanakya Puri Tehsil,,6,199,0,7.158273381294964,6007
+restaurant,Moti Mahal Delux,28.6016675,77.186001,Malcha Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+restaurant,Lazeez Affaire,28.6021801,77.1861058,Dharma Marg,Chanakya Puri Tehsil,,6,199,0,7.158273381294964,6007
+restaurant,Fujiya,28.6016518,77.1861386,Malcha Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+restaurant,Suri Saab,28.5786205,77.2385021,Defence Colony Flyover,Lajpat Nagar,South East Delhi,4,120,255,4.316546762589928,4259
+restaurant,Ashok Chaat Bhandar,28.6491686,77.2267524,Sitaram Bazar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+restaurant,Amristari Kulcha King,28.6477274,77.1960745,Abdul Rahman Marg,Karol Bagh Tehsil,Central Delhi,1,82,318,2.949640287769784,1320
+restaurant,La Piazza,28.5689762,77.1848546,Vivekanand Marg,Ramakrishna Puram,,4,16,0,0.5755395683453237,4000
+restaurant,AKU’s The Brrgrr Co.,28.5732664,77.2306604,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+restaurant,Sandoz,28.6344467,77.2220056,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,Vegetarian Restaurant,28.6599133,77.2235649,Church Mission Road,Old Delhi,Central Delhi,4,106,318,3.8129496402877696,4321
+restaurant,Minar,28.6345679,77.2219125,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,Caffè Tonino,28.6350184,77.2195254,,Connaught Place,,0,278,0,10.0,10
+restaurant,National Restaurant,28.6345219,77.2225088,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,Singh’s café & restaurant,28.6411587,77.2134007,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+restaurant,Parikrama - The Revolving Restaurant,28.6287272,77.2229395,Kasturba Gandhi Marg,Connaught Place,,3,278,0,10.0,3010
+restaurant,Shyam Bakery,28.6302728,77.1796827,Professor Ram Nath Vij Marg,New Rajendra Nagar,West Delhi,4,16,44,0.5755395683453237,4044
+restaurant,Rohan Hotel,28.6310878,77.1828001,Vande Mataram Marg,Delhi Cantonment,,3,85,0,3.057553956834532,3003
+restaurant,Nik Baker's,28.6304108,77.2198181,Radial Road 1,Chanakya Puri Tehsil,,5,199,0,7.158273381294964,5007
+restaurant,Barbeque Nation,28.6303516,77.2207134,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Blues,28.6303321,77.2206386,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Castle's Barbeque,28.6303565,77.22068,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Taste of China,28.6303371,77.2206681,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Ardor 2.1,28.6302128,77.2201334,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,DS Dosa Factory,28.6303457,77.2208085,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Talli Station Rajendra Place,28.6433841,77.1777613,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+restaurant,Kallu Nihari,28.6421676,77.2373339,Asaf Ali Road,,Central Delhi,5,0,318,0.0,5318
+restaurant,Aka Gaka,28.5729599,77.2302558,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+restaurant,Moets,28.5732343,77.2306804,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+restaurant,Veg Gulati,28.6077855,77.2299247,Shri Barada Ukil Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+restaurant,Have more,28.6077919,77.2297742,Shri Barada Ukil Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+restaurant,Ichiban,28.6077837,77.2298805,Shri Barada Ukil Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+restaurant,Amici,28.5737385,77.2299867,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+restaurant,Sagar Ratna - South Indian,28.5733288,77.2301396,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+restaurant,Sagar ratna - north Indian and chinese,28.5731243,77.2302153,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+restaurant,San Gimignano,28.6254773,77.2184377,Janpath,Connaught Place,,24,278,0,10.0,24010
+restaurant,Salerm Javed,28.6009386,77.2272031,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+restaurant,Anglow,28.6002956,77.2272837,Subramaniyam Bharti Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+restaurant,Chido,28.6323157,77.2226574,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,Bhaja Govindam,28.6412498,77.2359617,Asaf Ali Road,,Central Delhi,5,0,318,0.0,5318
+restaurant,Dasaprakash,28.6346728,77.2180409,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Harlequin,28.6346501,77.2195319,,Connaught Place,,0,278,0,10.0,10
+restaurant,Andhra Canteen,28.6336017,77.2221648,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+restaurant,Mount Fuji,28.6330893,77.2221821,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,Ghoomar,28.6349675,77.2201154,Radial Road 4,Connaught Place,,9,278,0,10.0,9010
+restaurant,Hotel Adarsh Vegetarian,28.6563053,77.224223,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+restaurant,Chaska Ram,28.6564638,77.2303234,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+restaurant,The Brijwasi,28.6567781,77.2242219,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+restaurant,Bikanerwala,28.6567782,77.2244765,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+restaurant,Carnatic Cafe,28.5840349,77.2267153,Fifth Avenue Road,Lodhi Colony,South East Delhi,4,17,255,0.6115107913669064,4255
+restaurant,Dhaba,28.6342696,77.2190501,,Connaught Place,,0,278,0,10.0,10
+restaurant,Guppy,28.5847048,77.2238058,Fourth Avenue Road,Lodhi Colony,South East Delhi,4,17,255,0.6115107913669064,4255
+restaurant,Bhola dhaba,28.5836613,77.2460571,Hospital Road,,South East Delhi,4,0,255,0.0,4255
+restaurant,Nazeer Foods,28.6429888,77.2214491,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+restaurant,IRCTC Food Plaza,28.6430383,77.2214437,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+restaurant,Jan-Aahar,28.642164,77.2215364,Bhavbhuti Marg,,Central Delhi,6,0,318,0.0,6318
+restaurant,Diggin,28.6331447,77.2179838,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+restaurant,Food Bus of India,28.5694739,77.2385975,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+restaurant,Berco's,28.6321001,77.2213271,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+restaurant,QBA,28.6321251,77.2212883,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+restaurant,Bheemeshwara,28.6315631,77.2162842,Baba Kharak Singh Marg,Connaught Place,,10,278,0,10.0,10010
+restaurant,Bikkgane Biryani,28.6315236,77.2161783,Jain Mandir Marg,Connaught Place,,3,278,0,10.0,3010
+restaurant,SodaBottleOpenerWala,28.6000592,77.2261957,Khan Market,Chanakya Puri Tehsil,,9,199,0,7.158273381294964,9007
+restaurant,South Indian Food,28.6024732,77.2280844,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+restaurant,Qureshi kabab,28.6025531,77.2281292,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+restaurant,Guru Kirpa Restaurant,28.6562798,77.2329761,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+restaurant,Swagat,28.6410098,77.2104547,Rajguru Marg,Karol Bagh Tehsil,Central Delhi,7,82,318,2.949640287769784,7320
+restaurant,Brahmin's Pure veg,28.6459236,77.215431,Arakashan Road,Basti Ara Kashan,Central Delhi,5,5,318,0.17985611510791366,5318
+restaurant,The Art of Dumpling,28.6332625,77.2166944,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Gumbad Cafe,28.6516779,77.2327739,Chipwara Kalan,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+restaurant,The Chimney,28.5843006,77.1912731,Tikendrajit Marg,Chanakyapuri,,4,16,0,0.5755395683453237,4000
+restaurant,Bawarchi,28.5842699,77.191336,Tikendrajit Marg,Chanakyapuri,,4,16,0,0.5755395683453237,4000
+restaurant,Gokulam,28.6289157,77.2197583,Janpath,Connaught Place,,24,278,0,10.0,24010
+restaurant,Punjab Grill,28.6284596,77.2197378,Janpath,Connaught Place,,24,278,0,10.0,24010
+restaurant,Pizza Hut,28.6390971,77.2085475,Panchkuian Road,Connaught Place,,16,278,0,10.0,16010
+restaurant,Fat Tiger,28.6392155,77.2083548,Panchkuian Road,Connaught Place,,16,278,0,10.0,16010
+restaurant,California Burrito,28.6481858,77.2001834,Link Road,Karol Bagh Tehsil,Central Delhi,3,82,318,2.949640287769784,3320
+restaurant,Off Campus,28.5884383,77.1687482,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,QD All Day Diner,28.5886052,77.1690217,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Pizza Hut,28.5883016,77.1685409,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Café Sandoz,28.5887593,77.169349,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Wrap O Burger,28.5884365,77.1686906,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,China Bowl,28.587754,77.1673336,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Brickyard,28.5877126,77.1672986,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Hello! Canteen,28.5879326,77.1676506,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Azhar Biryani,28.5879227,77.1676561,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Rolls Studio,28.5880583,77.1678622,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Dakshin Ratna,28.5876755,77.1672039,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,KC Restaurant,28.5881049,77.1683271,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Mom Hand Momos,28.5876693,77.1686234,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Crazy Kitchen,28.5880647,77.1679162,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,High On Burger,28.5880774,77.168354,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Amigos Hub,28.5880853,77.1683903,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Shreya's Spices And Chutney,28.5878984,77.1684629,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Pulpssy,28.5879312,77.1684346,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Sfizio Pizza,28.5879809,77.1684121,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Zackary Chicken Biryani,28.587692,77.1684552,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,The Hungry Bear,28.587654,77.1684893,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Niku's,28.5881502,77.1681711,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Om Balaji Dhaba,28.5876558,77.1689393,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Udgam,28.5876392,77.1689042,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Baby Doll Chaap,28.5875782,77.1687615,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Anna Dosa Point,28.5875653,77.1687263,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+restaurant,Sandoz,28.5653465,77.2398396,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+restaurant,Relax Restaurant,28.5702867,77.2397201,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+restaurant,Foodiez,28.6296858,77.2260475,Barakhamba Road,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+restaurant,Foodieez,28.6289688,77.2247681,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+restaurant,Himachal Bhawan Dining Hall,28.6260814,77.2330264,Sikandra Road,Connaught Place,,3,278,0,10.0,3010
+restaurant,The House Of Commons,28.6329669,77.2226585,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,The G.T. Road,28.6329706,77.2226985,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,The Imperial Spice,28.633035,77.2226864,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+restaurant,Make My Lagan,28.5682868,77.2209969,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+restaurant,Pizza Hut,28.5761092,77.1950425,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+restaurant,Crossroads,28.644963,77.1897926,Gurudwara Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+restaurant,Flavours Of China,28.6344804,77.2175301,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+restaurant,Tres,28.5846884,77.2234573,Fourth Avenue Road,Lodhi Colony,South East Delhi,4,17,255,0.6115107913669064,4255
+restaurant,Hooter,28.6467726,77.1878823,Saraswati Marg,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+restaurant,Chawlas2,28.6469386,77.1879658,Saraswati Marg,Karol Bagh Tehsil,Central Delhi,8,82,318,2.949640287769784,8320
+restaurant,Radhey Krishna Udupi Restaurant,28.6470426,77.1881214,Saraswati Marg,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+restaurant,Jawahar Authentic Mughal Restraurant,28.5684526,77.2455576,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+college,DCAC,28.5778727,77.1845461,Shaheed Navneet Swaraj Marg,Netaji Nagar,,2,6,0,0.2158273381294964,2000
+college,CSIR-NIScPR,28.6384835,77.173365,Dr K S Krishnan Road,Patel Nagar,West Delhi,1,18,44,0.6474820143884892,1044
+college,P.G.D.A.V. College,28.5665107,77.2513052,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+college,Dyal Singh College,28.5907293,77.2309735,Lodhi Road,,South East Delhi,10,0,255,0.0,10255
+college,मोतीलाल नेहरू कॉलेज,28.5772735,77.1609638,Benito Juarez Marg,Moti Bagh,,68,19,0,0.6834532374100719,68000
+kindergarten,The Hope Project,28.5903058,77.2419,Lala Lajpat Rai Path,,South East Delhi,7,0,255,0.0,7255
+kindergarten,Petals School,28.5803757,77.257053,Baba Banda Singh Bahadur Setu,South Extension,South East Delhi,3,38,255,1.3669064748201438,3256
+kindergarten,Klub dé Niños,28.5689757,77.1627474,,Delhi Cantonment,,0,85,0,3.057553956834532,3
+kindergarten,Baby Doux,28.6028862,77.2220107,Doctor Avul Pakir Jainulabdeen Abdul Kalam Marg,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+language_school,NEC,28.5704608,77.2371259,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+language_school,Mundo Latino,28.5689101,77.2257334,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+language_school,LearnningTree,28.5836421,77.2176258,Jor Bagh Lane,Lodhi Colony,South East Delhi,1,17,255,0.6115107913669064,1255
+library,Marwari Public Library,28.6563835,77.2314822,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+library,Shree Mahavir Jain Public Library,28.6563695,77.2309239,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+library,Delhi Public Library,28.5666919,77.2486547,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+library,Lal Bahadur Shastri Library,28.566689,77.2485614,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+library,Delhi Public Library,28.5844558,77.2248024,Fourth Avenue Road,Lodhi Colony,South East Delhi,4,17,255,0.6115107913669064,4255
+library,Palika Library,28.6295291,77.2337334,Babar Road,Connaught Place,,6,278,0,10.0,6010
+training,Chanakya IAS Academy,28.5882606,77.1685592,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+training,Barry John Acting Studio,28.5650693,77.2485237,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+music_school,Global Music Institute,28.567241,77.2482732,,,South East Delhi,0,0,255,0.0,255
+music_school,Fitness Mantra,28.5692469,77.2486371,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+music_school,Lilanoor Center For Voice And Music,28.5640924,77.2201443,D Block Road,Masjid Moth,South East Delhi,3,4,255,0.14388489208633093,3255
+school,Secondary School,28.5978094,77.1808404,San Martin Marg,Chanakya Puri Tehsil,,3,199,0,7.158273381294964,3007
+school,Govt. Girls Senior Secondary School,28.573859,77.1842457,Shaheed Sudhir Tyagi Marg,Netaji Nagar,,3,6,0,0.2158273381294964,3000
+school,DPS International School,28.5697886,77.1783234,Kaifi Azmi Marg,Ramakrishna Puram,,3,16,0,0.5755395683453237,3000
+school,Jose Martin Sarvodya Vidyalya,28.5712962,77.1781517,Kaifi Azmi Marg,Ramakrishna Puram,,3,16,0,0.5755395683453237,3000
+school,"Army Public School, Dhaula Kuan",28.6016242,77.1686468,Vande Mataram Marg,Delhi Cantonment,,3,85,0,3.057553956834532,3003
+school,Shyama Prasad Vidyalaya,28.5968399,77.2253633,14-17 Lodhi Estate,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+school,Government Senior Secondary School,28.6535437,77.1658655,Balraj Khanna Marg,Patel Nagar,West Delhi,5,18,44,0.6474820143884892,5044
+school,Sarvodaya Kanya Vidyalaya,28.652348,77.1655973,Balraj Khanna Marg,Patel Nagar,West Delhi,5,18,44,0.6474820143884892,5044
+school,Govt. Boys HB School,28.6541792,77.1660801,Balraj Khanna Marg,Patel Nagar,West Delhi,5,18,44,0.6474820143884892,5044
+school,DAV School,28.6471225,77.1680059,Balraj Khanna Marg,Patel Nagar,West Delhi,5,18,44,0.6474820143884892,5044
+school,Vidya Bhawan Senior Secondary School,28.6387283,77.1763691,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+school,Sindhi Higher Secondary School,28.6357621,77.1778604,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+school,Manav Sthali School,28.6352772,77.1782466,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+school,Andh Kanya Vidyalaya,28.6368309,77.1803119,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+school,DI Khan Bharati Sabha Higher Secondary School,28.6307618,77.1795502,Professor Ram Nath Vij Marg,New Rajendra Nagar,West Delhi,4,16,44,0.5755395683453237,4044
+school,Bapu Adarsh Vidyalaya,28.6306394,77.1804675,Professor Ram Nath Vij Marg,New Rajendra Nagar,West Delhi,4,16,44,0.5755395683453237,4044
+school,Swami Dayanand Govt. Sarvodaya Vidyalaya,28.6397954,77.1856155,Bazaar Marg,Rajendra Nagar,West Delhi,5,5,44,0.17985611510791366,5044
+school,GD Salwan Public School,28.6403133,77.1858677,Bazaar Marg,Rajendra Nagar,West Delhi,5,5,44,0.17985611510791366,5044
+school,M B Boys School,28.6350118,77.2002755,Mandir Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+school,Raisina Bengali School,28.6362148,77.2008393,Mandir Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+school,MAAC,28.5692131,77.2175752,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+school,S.D. Public,28.6473887,77.169391,Balraj Khanna Marg,Patel Nagar,West Delhi,5,18,44,0.6474820143884892,5044
+school,Mount Carmel School (Senior Wing),28.5760199,77.1652909,Road No 5,Moti Bagh,,3,19,0,0.6834532374100719,3000
+school,DAV Public School,28.5743511,77.1727645,Major Somnath Marg,Ramakrishna Puram,,3,16,0,0.5755395683453237,3000
+school,Kendriya Vidyalaya,28.5721181,77.1638274,Rao Tula Ram Marg,Moti Bagh,,5,19,0,0.6834532374100719,5000
+school,Government Boys Senior Secondary School,28.5730899,77.2335349,Dron Marg,Defence Colony,South East Delhi,5,6,255,0.2158273381294964,5255
+school,Lady Irwin Senior Secondary School,28.5722588,77.2359084,Dron Marg,Defence Colony,South East Delhi,5,6,255,0.2158273381294964,5255
+school,Kaviraj Khazan Chand Quetta Dayachand Arya Vedic Senior Secondary School,28.5866396,77.2523949,,,South East Delhi,0,0,255,0.0,255
+school,Government Sarvoday Bal Vidyalaya,28.6327017,77.2303905,Deen Dayal Upadhyay Road,,Central Delhi,3,0,318,0.0,3318
+school,SDMC Primary Model School,28.5768012,77.2397878,Shri Vijay Monga Marg,Lajpat Nagar,South East Delhi,2,120,255,4.316546762589928,2259
+school,SDMC Primary Coeducational School,28.5695905,77.248199,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+school,Swami Hariharanand Public School,28.6627534,77.2403662,Ring Road,Old Delhi,Central Delhi,2,106,318,3.8129496402877696,2321
+school,Navyug School,28.633435,77.2008328,Mandir Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+school,Masjid-e-Quba Madrasa Islamia,28.5806388,77.1899811,Vinay Marg Underpass,,,1,0,0,0.0,1000
+school,Government Coeducational Senior Secondary School,28.5762957,77.2391399,Defence Colony Flyover,Lajpat Nagar,South East Delhi,4,120,255,4.316546762589928,4259
+school,New Horizon School,28.5947172,77.2477028,Sabz Burj Circle,,South East Delhi,1,0,255,0.0,1255
+school,Navyug School,28.5872412,77.2165688,Jor Bagh Road,Lodhi Colony,South East Delhi,3,17,255,0.6115107913669064,3255
+school,Satyawati Sood Arya Girls senior secondary school,28.5870203,77.2516215,Rahim Khan Road,,South East Delhi,3,0,255,0.0,3255
+school,Nios Study center,28.5871452,77.2514966,Rahim Khan Road,,South East Delhi,3,0,255,0.0,3255
+school,YMCA Public School,28.5872431,77.2511171,Rahim Khan Road,,South East Delhi,3,0,255,0.0,3255
+school,South Delhi public school,28.578312,77.2369986,Dron Marg,Lajpat Nagar,South East Delhi,5,120,255,4.316546762589928,5259
+school,M C D primary co-ed model school,28.5853022,77.2440823,Birbal Road,,South East Delhi,9,0,255,0.0,9255
+school,MCD Primary Co-Ed School,28.662549,77.206525,Rani Jhansi Flyover,Civil Lines Tehsil,Central Delhi,1,7,318,0.2517985611510791,1318
+school,Carmel Convent School,28.6013333,77.1881167,Malcha Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+school,Hemani Public School,28.5684003,77.2475193,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+bicycle_parking,Hungarian Embassy - Delhi,28.5855109,77.1877136,Niti Marg,Chanakyapuri,,2,16,0,0.5755395683453237,2000
+fuel,HP,28.5737882,77.2089741,Maharaja Agrasen Marg,Kidwai Nagar,,2,8,0,0.28776978417266186,2000
+fuel,Indian Oil,28.6175988,77.2497911,Mahatma Gandhi Marg,,Central Delhi,64,0,318,0.0,64318
+fuel,Indraprastha Gas Limited,28.6186155,77.2493074,Mahatma Gandhi Marg,,Central Delhi,64,0,318,0.0,64318
+fuel,Indian Oil,28.5703117,77.1865562,Bikaji Cama Place Flyover,Moti Bagh,,1,19,0,0.6834532374100719,1000
+fuel,Indian oil,28.568231,77.253059,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+fuel,Bharat Petroleum,28.5924259,77.2375948,Lodhi Road,,South East Delhi,10,0,255,0.0,10255
+fuel,Indian Oil Petrol Pump,28.6337158,77.2178321,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+fuel,Bharat Petroleum,28.5739842,77.2574979,Mathura Road,Lajpat Nagar,South East Delhi,7,120,255,4.316546762589928,7259
+fuel,Indian Oil,28.602014,77.2371519,Dr. Zakir Hussain Marg,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+fuel,Bharat Petroleum,28.6288906,77.210219,Baba Kharak Singh Marg,Connaught Place,,10,278,0,10.0,10010
+fuel,Bharat Petroleum,28.6043402,77.2244859,Shahjahan Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+fuel,Indian Oil,28.5870134,77.2413569,Lala Lajpat Rai Path,,South East Delhi,7,0,255,0.0,7255
+fuel,Bharat Petroleum,28.5804633,77.1793308,Shanti Path,Moti Bagh,,2,19,0,0.6834532374100719,2000
+fuel,Hindustan Petroleum,28.6318815,77.2215358,,Connaught Place,,0,278,0,10.0,10
+fuel,Bharat Petroleum,28.5745515,77.2378394,Dron Marg,Defence Colony,South East Delhi,5,6,255,0.2158273381294964,5255
+fuel,Bharat Petroleum,28.624526,77.2188215,Janpath,Connaught Place,,24,278,0,10.0,24010
+fuel,Indian Oil,28.6264672,77.2199591,Tolstoy Marg,Connaught Place,,5,278,0,10.0,5010
+fuel,HP,28.5913816,77.2120833,Safdarjung Road,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+fuel,Indian Oil,28.5843665,77.1721419,Mahatma Gandhi Marg,Moti Bagh,,64,19,0,0.6834532374100719,64000
+fuel,Indian Oil,28.5869597,77.2121034,Aurobindo Marg,Chanakya Puri Tehsil,South East Delhi,6,199,255,7.158273381294964,6262
+fuel,Indian Oil,28.587331,77.1714396,Benito Juarez Marg Underpass,Dhaula Kuan,,1,6,0,0.2158273381294964,1000
+fuel,Indraprastha Gas Station,28.5675278,77.1756357,Tamil Sangam Marg,Ramakrishna Puram,,2,16,0,0.5755395683453237,2000
+fuel,"파하르간지, 여행자의거리",28.6483622,77.213419,Galli Number 10,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+fuel,Indian Oil,28.5776067,77.1746902,Rao Tula Ram Marg,Moti Bagh,,5,19,0,0.6834532374100719,5000
+fuel,Bharat Petroleum,28.6415227,77.2258674,Vivekanand Marg,,Central Delhi,4,0,318,0.0,4318
+fuel,HP,28.6378975,77.2413599,Bahadur Shah Zafar Marg,,Central Delhi,2,0,318,0.0,2318
+fuel,Bharat Petroleum,28.6425083,77.1764239,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+fuel,Indian Oil,28.6346388,77.2212509,Radial Road 5,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+fuel,Indian Oil,28.617889,77.2487546,Mahatma Gandhi Marg,Chanakya Puri Tehsil,Central Delhi,64,199,318,7.158273381294964,64325
+fuel,Bharat Petroleum,28.5894992,77.2459159,Mathura Road,,South East Delhi,7,0,255,0.0,7255
+fuel,Indian Oil,28.657125,77.1960191,New Rohtak Road,Karol Bagh,Central Delhi,4,36,318,1.2949640287769784,4319
+fuel,Bharat Petroleum,28.596205,77.2049622,Mustafa Kemal Ataturk Marg,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+fuel,Angra HP Centre,28.5908405,77.1960832,Vinay Marg,Chanakyapuri,,2,16,0,0.5755395683453237,2000
+fuel,Indian Oil,28.5647065,77.1776294,Tamil Sangam Marg,Ramakrishna Puram,,2,16,0,0.5755395683453237,2000
+fuel,HP COCO Fuel Station,28.5996071,77.1958058,Niti Marg,Chanakyapuri,,2,16,0,0.5755395683453237,2000
+fuel,Bharat Petroleum,28.6417754,77.2338061,Asaf Ali Road,,Central Delhi,5,0,318,0.0,5318
+fuel,HP,28.5891733,77.2466782,Mathura Road,,South East Delhi,7,0,255,0.0,7255
+fuel,IGL,28.6417761,77.2259725,Vivekanand Marg,,Central Delhi,4,0,318,0.0,4318
+fuel,HP,28.6512729,77.2046862,Rani Jhansi Road,Karol Bagh Tehsil,Central Delhi,5,82,318,2.949640287769784,5320
+fuel,HP,28.5962658,77.204452,Mustafa Kemal Ataturk Marg,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+parking,TBS Parking,28.59806,77.1809515,San Martin Marg,Chanakya Puri Tehsil,,3,199,0,7.158273381294964,3007
+parking,Parliament Visitor Parking,28.6162015,77.2100168,Raisina Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+parking,Palika Bhawan,28.5710889,77.1845461,Shaheed Sudhir Tyagi Marg,Netaji Nagar,,3,6,0,0.2158273381294964,3000
+parking,DSUI Parking,28.5947727,77.1621077,NH48,Dhaula Kuan,,4,6,0,0.2158273381294964,4000
+taxi,Allied Car Rental Taxi Stand,28.5899699,77.215799,Amrita Shergil Lane,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+taxi,K.D. Taxi Service,28.602535,77.186738,,Chanakya Puri Tehsil,,0,199,0,7.158273381294964,7
+taxi,Dhanoa Tourist Taxi Service,28.6021703,77.1871411,,Chanakya Puri Tehsil,,0,199,0,7.158273381294964,7
+taxi,Swami Taxi Service,28.5658314,77.1666541,Amar Shaheed Prem Nath Dogra Marg,Ramakrishna Puram,,1,16,0,0.5755395683453237,1000
+taxi,Yadav Taxi Services,28.5747681,77.168121,Rao Tula Ram Marg,Moti Bagh,,5,19,0,0.6834532374100719,5000
+taxi,Capital Taxi Service,28.5856787,77.2135638,Jor Bagh Road,Lodhi Colony,South East Delhi,3,17,255,0.6115107913669064,3255
+taxi,Avon Tourist Taxi Service,28.6262475,77.2074638,Ashoka Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+taxi,General Taxi Stand,28.5690541,77.164522,,Ramakrishna Puram,,0,16,0,0.5755395683453237,0
+taxi,Western Court Taxi Service,28.6247552,77.219051,Janpath,Connaught Place,,24,278,0,10.0,24010
+atm,ICICI Bank,28.6458869,77.1723786,Patel Road,Patel Nagar,West Delhi,8,18,44,0.6474820143884892,8044
+atm,HDFC Bank,28.6345525,77.2176037,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+atm,Yes Bank,28.6272942,77.2195527,Janpath,Connaught Place,,24,278,0,10.0,24010
+atm,Central Bank of India,28.6278063,77.2195823,Janpath,Connaught Place,,24,278,0,10.0,24010
+atm,ICICI Bank,28.6286284,77.2197267,Janpath,Connaught Place,,24,278,0,10.0,24010
+atm,State Bank of India,28.6261056,77.2197715,Tolstoy Marg,Connaught Place,,5,278,0,10.0,5010
+atm,Yes Bank,28.6413641,77.2152163,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+atm,Citi Bank ATM,28.6565694,77.2319328,H.C. Sen Marg,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+atm,Kotak Bank ATM,28.6565435,77.2319301,H.C. Sen Marg,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+atm,ICICI Bank ATM,28.6559387,77.2352453,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+atm,AXIS Bank,28.6412802,77.2147522,Gali Chandi Wali,Paharganj,Central Delhi,2,38,318,1.3669064748201438,2319
+atm,HDFC,28.6017433,77.2413799,path r,,South East Delhi,2,0,255,0.0,2255
+atm,Standard Chartered,28.6012973,77.2408638,Underpass,,South East Delhi,1,0,255,0.0,1255
+atm,Kotak Mahindra Bank,28.6311221,77.2164451,Baba Kharak Singh Marg,Connaught Place,,10,278,0,10.0,10010
+atm,HDFC Bank,28.6565174,77.2246065,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+atm,Canara Bank,28.5652278,77.1671988,Palam Marg,,,6,0,0,0.0,6000
+atm,Kotak Mahindra Bank,28.5650324,77.1672942,Palam Marg,,,6,0,0,0.0,6000
+atm,Yes Bank,28.5649944,77.1673028,Palam Marg,,,6,0,0,0.0,6000
+atm,Andhra Bank,28.5651928,77.1674642,Palam Marg,,,6,0,0,0.0,6000
+atm,Axis Bank,28.6236459,77.2193948,Janpath,Connaught Place,,24,278,0,10.0,24010
+atm,Bank of Baroda,28.62898,77.2173598,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+atm,ICICI Bank,28.6325327,77.2179816,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+atm,Oriental Bank of Commerce,28.6317679,77.2220318,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+atm,Standard Chartered,28.6329277,77.2173766,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+atm,State Bank of India,28.6297028,77.2171284,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+atm,Bank of Baroda,28.6343883,77.2183155,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+atm,Union Bank of India,28.6477737,77.1839471,Baba Ramdev Marg,Karol Bagh,Central Delhi,1,36,318,1.2949640287769784,1319
+atm,Kotak Mahindra Bank,28.6499529,77.1832307,Tank Road,Karol Bagh Tehsil,Central Delhi,5,82,318,2.949640287769784,5320
+atm,Axis Bank,28.6499265,77.1832978,Tank Road,Karol Bagh Tehsil,Central Delhi,5,82,318,2.949640287769784,5320
+atm,Syndicate Bank,28.5684294,77.1870021,Mahatma Gandhi Marg,Moti Bagh,,64,19,0,0.6834532374100719,64000
+atm,Union Bank of India,28.5712997,77.1842925,Shaheed Sudhir Tyagi Marg,Netaji Nagar,,3,6,0,0.2158273381294964,3000
+atm,Yes Bank,28.6352021,77.2184123,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+atm,Punjab & Sind Bank,28.6353937,77.2196262,Radial Road 4,Connaught Place,,9,278,0,10.0,9010
+atm,Canara Bank,28.6352636,77.2186749,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+atm,IndusInd Bank,28.6352382,77.218477,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+atm,State Bank of India,28.6331482,77.2197969,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+atm,Oriental Bank of Commerce,28.632874,77.2220034,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+atm,Housing Development Finance Corporation,28.5649455,77.24678,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+atm,State Bank of India,28.5686876,77.2443379,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+atm,Bank of Maharashtra,28.6345008,77.219561,,Connaught Place,,0,278,0,10.0,10
+atm,Punjab National Bank,28.6413467,77.2053065,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+atm,State Bank of India,28.6248081,77.2193721,Janpath,Connaught Place,,24,278,0,10.0,24010
+atm,State Bank of India,28.570786,77.1634244,Palam Marg,Moti Bagh,,6,19,0,0.6834532374100719,6000
+atm,Canara Bank,28.6348369,77.219416,,Connaught Place,,0,278,0,10.0,10
+atm,ICICI Bank,28.6315991,77.2230533,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+atm,India Post Payments Bank,28.5896634,77.2190663,Lodhi Road,Chanakya Puri Tehsil,South East Delhi,10,199,255,7.158273381294964,10262
+atm,Central Bank of India,28.6008973,77.2264443,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+atm,Kotak Mahindra Bank ATM,28.5841013,77.2437489,Birbal Road,,South East Delhi,9,0,255,0.0,9255
+atm,Indusind bank atm,28.5831576,77.2444791,Birbal Road,,South East Delhi,9,0,255,0.0,9255
+atm,Punjab National Bank,28.6326523,77.2219806,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+atm,State Bank of India,28.6583791,77.2033814,Rani Jhansi Road,Civil Lines Tehsil,Central Delhi,5,7,318,0.2517985611510791,5318
+atm,Indian Bank,28.6429636,77.2217381,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+atm,State Bank of India,28.642959,77.221716,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+atm,Canara Bank,28.6429654,77.2217571,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+bank,Axis Bank,28.64725,77.194235,Arya Samaj Road,Karol Bagh,Central Delhi,4,36,318,1.2949640287769784,4319
+bank,Canara Bank,28.57316,77.2584634,Mahatma Gandhi Marg,,South East Delhi,64,0,255,0.0,64255
+bank,State Bank Of India,28.6563806,77.234434,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,Andhra Bank,28.6168699,77.225769,rotary no 4,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+bank,Bank of India,28.6563624,77.2310003,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,ICICI Bank,28.656061,77.2329064,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,DCB Bank,28.6562423,77.2348625,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,HDFC Bank,28.6563318,77.2330386,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,ICICI Bank,28.601773,77.2413829,path r,,South East Delhi,2,0,255,0.0,2255
+bank,Federal Bank,28.6319496,77.2217935,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+bank,State Bank of India,28.6322316,77.2223143,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bank,Punjab National Bank,28.6316411,77.2215631,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+bank,Canara Bank,28.6223326,77.2361501,Bhagwan Das Road,Connaught Place,,2,278,0,10.0,2010
+bank,State Bank of India,28.6266262,77.2145324,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+bank,State Bank of India,28.5786627,77.1648102,Benito Juarez Marg,Moti Bagh,,68,19,0,0.6834532374100719,68000
+bank,Punjab National Bank,28.5801467,77.1645356,Benito Juarez Marg,Moti Bagh,,68,19,0,0.6834532374100719,68000
+bank,Kotak Mahindra Bank,28.6296084,77.2241064,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,ICICI Bank,28.6291812,77.2248562,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,Standard Chartered,28.6296576,77.2239758,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,HSBC,28.6298916,77.2237716,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,Punjab National Bank,28.630268,77.2232644,Connaught Lane,Connaught Place,,10,278,0,10.0,10010
+bank,Axis Bank,28.6305309,77.222709,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,ICICI Mutual Funds,28.6293464,77.2239496,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,Yes Bank,28.6019799,77.189294,Nyaya Marg,Chanakyapuri,,2,16,0,0.5755395683453237,2000
+bank,Punjab National Bank,28.6038119,77.1849985,,Chanakya Puri Tehsil,,0,199,0,7.158273381294964,7
+bank,State Bank of India,28.5828891,77.1632054,South Campus (internal Road),Moti Bagh,,1,19,0,0.6834532374100719,1000
+bank,Syndicate Bank,28.6225443,77.2360014,Bhagwan Das Road,Connaught Place,,2,278,0,10.0,2010
+bank,Yes Bank,28.5705121,77.2368766,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+bank,ICICI Bank,28.570565,77.2367354,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+bank,Axis Bank,28.5717636,77.2373866,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+bank,Kotak Mahindra Bank,28.5714609,77.2375931,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+bank,Kotak Mahindra Bank,28.5752151,77.2295991,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+bank,Punjab National Bank,28.6312513,77.2218705,,Chanakya Puri Tehsil,,0,199,0,7.158273381294964,7
+bank,Union Bank of India,28.6314468,77.2205311,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+bank,Bank of Baroda,28.6289357,77.2174179,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+bank,Axis Bank,28.5645258,77.2408202,Gurudwara Road,Lajpat Nagar,South East Delhi,8,120,255,4.316546762589928,8259
+bank,IndusInd Bank,28.5645188,77.2407129,Gurudwara Road,Lajpat Nagar,South East Delhi,8,120,255,4.316546762589928,8259
+bank,Punjab National Bank,28.5674837,77.1591119,Paschimi Marg,Delhi Cantonment,,1,85,0,3.057553956834532,1003
+bank,State Bank of India,28.5651309,77.2489725,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+bank,Kotak Mahindra Bank,28.5651242,77.2488717,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+bank,Punjab National Bank,28.632967,77.2179001,,Connaught Place,,0,278,0,10.0,10
+bank,ICICI Bank,28.632608,77.2179719,Rajiv Chowk,Connaught Place,,41,278,0,10.0,41010
+bank,Oriental Bank of Commerce,28.6317429,77.222079,Radial Road 7,Connaught Place,,10,278,0,10.0,10010
+bank,Bandhan Bank,28.5730786,77.2380576,Lala Lajpat Rai Path,Lajpat Nagar,South East Delhi,7,120,255,4.316546762589928,7259
+bank,RBL Bank,28.5682201,77.247038,,Lajpat Nagar,South East Delhi,0,120,255,4.316546762589928,259
+bank,State Bank of India,28.6336342,77.2169575,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Kotak Mahindra Bank,28.6326368,77.2167019,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Citibank,28.6298283,77.213752,Baba Kharak Singh Marg,Connaught Place,,10,278,0,10.0,10010
+bank,Bank of India,28.5773944,77.1742996,Rao Tula Ram Marg,Moti Bagh,,5,19,0,0.6834532374100719,5000
+bank,ICICI Bank,28.6297605,77.217177,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+bank,State Bank of India,28.5670536,77.233944,Lala Lajpat Rai Path,Lajpat Nagar,South East Delhi,7,120,255,4.316546762589928,7259
+bank,HDFC Bank,28.5681417,77.2470469,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+bank,Yes Bank,28.6442725,77.2006899,,Karol Bagh Tehsil,Central Delhi,0,82,318,2.949640287769784,320
+bank,Central Bank of India,28.6440948,77.2010082,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+bank,Kotak Mahindra Bank,28.5678931,77.24731,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+bank,ICICI Bank,28.5678156,77.2464153,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+bank,Punjab National Bank,28.6351302,77.2210229,Vivekanand Marg,Chanakya Puri Tehsil,Central Delhi,4,199,318,7.158273381294964,4325
+bank,Bank of India,28.5922707,77.2222351,K. K. Birla Lane,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+bank,Punjab National Bank,28.5678322,77.2463727,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+bank,Utkarsh Small Finance Bank,28.5677989,77.246465,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+bank,State Bank of India,28.637461,77.1814651,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+bank,HDFC Bank,28.6293059,77.2319758,Tansen Marg,Connaught Place,,5,278,0,10.0,5010
+bank,HDFC Bank,28.5649509,77.2468083,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+bank,Canara Bank,28.6198985,77.2106056,Sansad Marg,Chanakya Puri Tehsil,,15,199,0,7.158273381294964,15007
+bank,State Bank of India,28.5662032,77.2307872,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+bank,UCO Bank,28.622931,77.2119161,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+bank,Bank of Maharashtra,28.6345172,77.2195629,,Connaught Place,,0,278,0,10.0,10
+bank,IDBI Bank,28.5699781,77.2381686,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+bank,Andhra Bank,28.5692311,77.244004,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+bank,Vijaya Bank,28.5674172,77.1882654,Africa Avenue,,,8,0,0,0.0,8000
+bank,Bank of India,28.6473546,77.1879785,Tank Road,Karol Bagh,Central Delhi,5,36,318,1.2949640287769784,5319
+bank,State Bank of India,28.6539198,77.191078,Deshbandhu Gupta Road,Karol Bagh,Central Delhi,6,36,318,1.2949640287769784,6319
+bank,Punjab National Bank,28.6522781,77.1918029,Bank Street,Karol Bagh,Central Delhi,1,36,318,1.2949640287769784,1319
+bank,Yes Bank,28.5705502,77.2270818,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+bank,Equitas Small Finance Bank,28.568353,77.247529,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+bank,Bank of Baroda(Also Vijaya and Dena),28.5688113,77.2478166,,Lajpat Nagar,South East Delhi,0,120,255,4.316546762589928,259
+bank,Canara Bank,28.6015923,77.1868853,Malcha Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+bank,Bank of India,28.6348608,77.2186893,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Syndicate Bank,28.6302163,77.2415659,Bahadur Shah Zafar Marg,,Central Delhi,2,0,318,0.0,2318
+bank,Western Union & Express Money,28.6412335,77.2144015,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+bank,State Bank of India,28.596518,77.1769969,Manas Marg,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+bank,HDFC Bank,28.6295032,77.2221292,Kasturba Gandhi Marg,Connaught Place,,3,278,0,10.0,3010
+bank,Chanderlok Building Bank Of India Govt Business Department,28.6244261,77.2197964,Janpath,Connaught Place,,24,278,0,10.0,24010
+bank,Indian Overseas Bank,28.6241327,77.2139025,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+bank,UCO Bank,28.6243135,77.2301541,Vakeel Lane,Connaught Place,,1,278,0,10.0,1010
+bank,Yes Bank,28.6274298,77.2198655,Janpath,Connaught Place,,24,278,0,10.0,24010
+bank,Canara Bank,28.6282217,77.2198897,Janpath,Connaught Place,,24,278,0,10.0,24010
+bank,Canara Bank,28.6349683,77.2190751,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bank,Canara Bank,28.6430476,77.2407235,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+bank,Kotak Mahindra Bank,28.6630786,77.232378,Lothiyan Road,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+bank,Punjab & Sind Bank,28.6638459,77.2316323,Lothiyan Road,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+bank,Kotak Mahindra Bank,28.6441723,77.2406365,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+bank,Punjab National Bank,28.6459957,77.2405293,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+bank,Canara Bank,28.6348361,77.2194004,,Connaught Place,,0,278,0,10.0,10
+bank,ICICI Bank,28.6316309,77.2230707,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bank,Punjab & Sind Bank,28.629755,77.220236,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Punjab National Bank,28.6303447,77.2220792,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Canara Bank,28.6564863,77.224811,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,Punjab National Bank,28.6566813,77.2251553,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,Axis Bank,28.6568022,77.2236461,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,Bank of Baroda,28.5661983,77.2326048,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+bank,UCO Bank,28.5661974,77.2327215,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+bank,Canara Bank,28.5662111,77.2324505,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+bank,Bank of India,28.6313034,77.1980381,Mandir Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+bank,Federal Bank,28.6322114,77.2225531,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bank,Indian Bank,28.5720919,77.2375139,Lala Lajpat Rai Path,Lajpat Nagar,South East Delhi,7,120,255,4.316546762589928,7259
+bank,State Bank of India,28.5712465,77.238772,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+bank,Punjab National Bank,28.6002254,77.2274818,Subramaniyam Bharti Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+bank,Axis Bank,28.5847422,77.2476127,Hospital Road,,South East Delhi,4,0,255,0.0,4255
+bank,Canara Bank,28.6325263,77.2222745,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bank,South Indian Bank,28.6563989,77.2265968,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,Jammu and Kashmir Bank,28.6568737,77.224514,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,Bandhan Bank,28.6568061,77.2238005,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,Karur Vysya Bank,28.6568221,77.2238605,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,RBL Bank,28.6567912,77.2250193,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,Indian Bank,28.6564251,77.2257507,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+bank,Canara Bank,28.6299855,77.2260606,Barakhamba Road,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+bank,Kotak Mahindra Bank,28.5840892,77.2437777,Birbal Road,,South East Delhi,9,0,255,0.0,9255
+bank,IndusInd Bank,28.5831632,77.2444573,Birbal Road,,South East Delhi,9,0,255,0.0,9255
+bank,Yes Bank,28.5843349,77.2430943,Birbal Road,,South East Delhi,9,0,255,0.0,9255
+bank,HDFC Bank,28.5840688,77.2431217,Birbal Road,,South East Delhi,9,0,255,0.0,9255
+bank,HDFC Bank,28.6006831,77.2276217,Subramaniyam Bharti Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+bank,State Bank of India,28.6317223,77.216345,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,State Bank of India,28.6445453,77.1904718,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+bank,Kotak Mahindra Bank,28.6441476,77.1712831,Patel Road,Patel Nagar,West Delhi,8,18,44,0.6474820143884892,8044
+bank,Karnataka Bank,28.6336824,77.2169663,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Bank of India,28.6349355,77.2189047,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Punjab National Bank,28.6346813,77.2183109,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Bank of Baroda,28.6329073,77.216686,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,CSB Bank,28.6327615,77.2166213,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Federal Bank,28.645968,77.196814,Arya Samaj Road,Karol Bagh Tehsil,Central Delhi,4,82,318,2.949640287769784,4320
+bank,ICICI Bank,28.6286352,77.2197381,Janpath,Connaught Place,,24,278,0,10.0,24010
+bank,HDFC Bank,28.6328496,77.2227651,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bank,Union Bank of India,28.6327451,77.2227537,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bank,HDFC Bank,28.6444389,77.2004624,,Karol Bagh Tehsil,Central Delhi,0,82,318,2.949640287769784,320
+bank,Punjab National Bank,28.586802,77.1691626,Mahatma Gandhi Marg,Delhi Cantonment,,64,85,0,3.057553956834532,64003
+bank,Indraprastha Sehkari Bank,28.6575262,77.2033099,Rani Jhansi Road,Civil Lines Tehsil,Central Delhi,5,7,318,0.2517985611510791,5318
+bank,Punjab National Bank,28.6459492,77.209867,Sardar Thana Marg,Karol Bagh Tehsil,Central Delhi,3,82,318,2.949640287769784,3320
+bank,State Bank of India,28.6300407,77.2254919,Barakhamba Road,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+bank,HDFC Bank,28.6299332,77.2258282,Barakhamba Road,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+bank,Canara Bank,28.6290813,77.2249334,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,Aditya Birla Capital,28.6290137,77.2252225,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,RBL Bank,28.6288659,77.2256733,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,Dhanlaxmi Bank,28.6291263,77.2249525,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+bank,ICICI Bank,28.568094,77.2258103,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+bank,Axis bank,28.5683733,77.2174909,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+bank,ICICI Bank,28.645047,77.2012362,,Karol Bagh Tehsil,Central Delhi,0,82,318,2.949640287769784,320
+bank,ICICI Bank,28.6439521,77.2013826,,Karol Bagh Tehsil,Central Delhi,0,82,318,2.949640287769784,320
+bank,Bank of Baroda,28.64426,77.2014351,,Karol Bagh Tehsil,Central Delhi,0,82,318,2.949640287769784,320
+bank,HDFC Bank,28.63814,77.2109771,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+bank,South Indian Bank,28.6339108,77.2215847,Radial Road 6,Chanakya Puri Tehsil,,12,199,0,7.158273381294964,12007
+bank,Bank of India,28.6325936,77.2167018,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Indian Bank,28.6325537,77.216701,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,J&K Bank,28.6324968,77.2167179,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Central Bank of India,28.6324472,77.2167369,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+bank,Indian Overseas Bank,28.6329143,77.2221806,Outer Circle,Chanakya Puri Tehsil,,102,199,0,7.158273381294964,102007
+bank,HDFC Bank,28.6474998,77.1923348,Gurudwara Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+bank,Bandhan Bank,28.6476251,77.1921758,Gurudwara Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+bank,Indian Bank & Allahabad Bank,28.6475785,77.1921406,Gurudwara Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+bank,AU Small Finance Bank,28.6474358,77.192031,Gurudwara Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+bank,Indian Overseas Bank,28.6474774,77.1920662,Gurudwara Road,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+bank,Punjab National Bank,28.6458277,77.1920817,Abdul Aziz Road,Karol Bagh Tehsil,Central Delhi,2,82,318,2.949640287769784,2320
+bank,ICICI Bank,28.5814829,77.2427347,,,South East Delhi,0,0,255,0.0,255
+bank,ICICI Bank,28.5814829,77.2427347,,,South East Delhi,0,0,255,0.0,255
+bank,City Union Bank,28.5685852,77.2476224,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+bank,ESAF Small Finance Bank,28.5682951,77.2470844,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+bank,Axis Bank,28.5680466,77.246961,,Lajpat Nagar,South East Delhi,0,120,255,4.316546762589928,259
+bank,IndusInd Bank,28.5680466,77.246961,,Lajpat Nagar,South East Delhi,0,120,255,4.316546762589928,259
+bank,Catholic Syrian Bank,28.5679561,77.2473418,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+bank,Ujjiwan Small Finance Bank,28.5684558,77.2471542,,,South East Delhi,0,0,255,0.0,255
+money_transfer,Western Union,28.6296448,77.2243993,Barakhamba Road,Connaught Place,,16,278,0,10.0,16010
+money_transfer,Western Union,28.6414981,77.2167598,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+money_transfer,Krissh Travel World,28.6022363,77.1870641,Dharma Marg,Chanakya Puri Tehsil,,6,199,0,7.158273381294964,6007
+clinic,R D Jindal Charitable Clinic,28.6454365,77.2251207,Asaf Ali Road,,Central Delhi,5,0,318,0.0,5318
+clinic,Dr. Krishan Gola,28.6467122,77.212921,Galli Number 6,Karol Bagh Tehsil,Central Delhi,3,82,318,2.949640287769784,3320
+clinic,President Estate Clinic,28.6208562,77.2004083,North Avenue,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+clinic,CGHS Dispensary R.K.Puram Sec-8,28.5715124,77.1671368,Major Somnath Marg,Ramakrishna Puram,,3,16,0,0.5755395683453237,3000
+clinic,ESI Dispensary Factory Road,28.5751776,77.1906756,Cross Road Number 3,Sarojini Nagar,,2,20,0,0.7194244604316546,2000
+clinic,NDMC Dispensary,28.6001742,77.230795,Golf Links Central Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+clinic,Vishwa Yuvak Kendra,28.6039009,77.1952236,Pandit Uma Shankar Dikshit Marg,Chanakyapuri,,1,16,0,0.5755395683453237,1000
+clinic,New Delhi Municipal Council Polyclinic,28.633024,77.2111811,Shaheed Baghat Singh Marg,Chanakya Puri Tehsil,,4,199,0,7.158273381294964,4007
+clinic,CGHS Dispensary L Block Sarojini Nagar New Delhi India,28.5758536,77.1913276,Lane L,Sarojini Nagar,,1,20,0,0.7194244604316546,1000
+clinic,CGHS Wellness Centre Lodhi Road II,28.5809522,77.2249977,Fourth Avenue Road,Lodhi Colony,South East Delhi,4,17,255,0.6115107913669064,4255
+clinic,CGHS Wellness Centre Chankyapuri,28.5859822,77.1962103,Satya Marg,Chanakyapuri,,2,16,0,0.5755395683453237,2000
+clinic,Dharam Marg Dispensary Complex,28.6033779,77.189242,Dharma Marg,Chanakya Puri Tehsil,,6,199,0,7.158273381294964,6007
+clinic,CGHS Dispensary South Avenue,28.6092512,77.1998329,South Avenue,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+clinic,Babar Road Allopathic Dispensary,28.6295482,77.234083,Babar Road,Connaught Place,,6,278,0,10.0,6010
+clinic,Kidwai Nagar Allopathic Dispensary,28.5735641,77.2174125,Barapullah Elevated Road,South Extension,South East Delhi,1,38,255,1.3669064748201438,1256
+clinic,Netaji Nagar Allopathic Dispensary,28.5756033,77.1876419,Shaheed Navneet Swaraj Marg,Netaji Nagar,,2,6,0,0.2158273381294964,2000
+clinic,CGHS Dispensary Lodhi Road Aliganj,28.5822643,77.2198427,Second Avenue,Lodhi Colony,South East Delhi,2,17,255,0.6115107913669064,2255
+clinic,Bapudham Allopathic Dispensary,28.595138,77.1773,San Martin Marg,Chanakya Puri Tehsil,,3,199,0,7.158273381294964,3007
+clinic,DGD New Ranjeet Nagar,28.6457952,77.159466,Suman Lata Bhadola Marg,Patel Nagar,West Delhi,1,18,44,0.6474820143884892,1044
+clinic,CGHS Dispensary Pandara Road,28.603382,77.2279162,Humayun Road,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+clinic,DGD Delhi High Court,28.6090129,77.2360929,Sher Shah Road,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+clinic,DGD Prem Nagar,28.6626656,77.1624984,Shivaji Marg,Patel Nagar,North West Delhi,2,18,2,0.6474820143884892,2002
+clinic,CGHS Dispensary North Avenue,28.622596,77.1994817,North Avenue,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+clinic,Dispensary Pusa,28.6364792,77.1634061,Sahyadri Avenue,Patel Nagar,West Delhi,1,18,44,0.6474820143884892,1044
+clinic,CGHS Dispensary R.K.Puram Sec-12,28.5733539,77.1760096,Kaifi Azmi Marg,Ramakrishna Puram,,3,16,0,0.5755395683453237,3000
+clinic,CGHS Dispensary Laxmibai Nagar,28.5754186,77.2051091,2nd Cross Road,Kidwai Nagar,,2,8,0,0.28776978417266186,2000
+clinic,CGHS Dispensery Moti Bagh,28.5817248,77.168648,Road No 5,Moti Bagh,,3,19,0,0.6834532374100719,3000
+clinic,CGHS Wellness Centre Nanakpura,28.5843695,77.177838,F Mohan Senapati Marg,Delhi Cantonment,,2,85,0,3.057553956834532,2003
+clinic,H.C.M. Lane Allopathic Dispensary,28.6227119,77.2227032,Harish Chandra Mathur Lane,Connaught Place,,1,278,0,10.0,1010
+clinic,CGHS Wellness Centre Kali Bari,28.6288565,77.2001398,Udyan Marg,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+clinic,CGHS Wellness Centre R.K.Puram Sec-6,28.5652408,77.1735025,Kama Koti Marg,Ramakrishna Puram,,2,16,0,0.5755395683453237,2000
+clinic,"M.C.W. Center, NDMC Dispensary, Sarojini Nagar",28.575289,77.200555,Cross Road Number 3,Sarojini Nagar,,2,20,0,0.7194244604316546,2000
+clinic,Golf Link Allopathic Dispensary,28.6002912,77.2306526,Golf Links Central Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+clinic,CGHS Dispensary Zakir Husain Road,28.6055299,77.2346183,Dr. Zakir Hussain Marg,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+clinic,NGO Parivar Sewa Clinic,28.6520034,77.1855285,Arya Samaj Road,Karol Bagh,Central Delhi,4,36,318,1.2949640287769784,4319
+clinic,"DGD, Suiwalan",28.6447506,77.2351031,Chitli Qabar Bazar,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+clinic,"Unani Dispensary, Ballimaran",28.6545609,77.2255581,Ballimaran,Old Delhi,Central Delhi,2,106,318,3.8129496402877696,2321
+clinic,"CGHS, Dev Nagar",28.6543709,77.1835213,Hardhyan Singh Marg,Civil Lines Tehsil,Central Delhi,1,7,318,0.2517985611510791,1318
+clinic,"DGD, Nabi Karim",28.650165,77.21111,Jhandewalan Road,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+clinic,"CGHS, Pusa Road",28.644386,77.189502,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+clinic,"CGHS, New Rajinder Nagar",28.6357855,77.1841395,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+clinic,"ESI Dispensary, Chuna Mandi Paharganj",28.6427947,77.2098113,Tilak Gali,Karol Bagh Tehsil,Central Delhi,2,82,318,2.949640287769784,2320
+clinic,"DGD, RegarPura",28.6486581,77.1860862,Tank Road,Karol Bagh,Central Delhi,5,36,318,1.2949640287769784,5319
+clinic,"CGHS Dispensary, C.G. Road",28.642259,77.2084424,Chitragupta Road,Karol Bagh Tehsil,Central Delhi,1,82,318,2.949640287769784,1320
+clinic,"DGD, Anand Parbat",28.660396,77.18014,Gadodia Road,Civil Lines Tehsil,Central Delhi,1,7,318,0.2517985611510791,1318
+clinic,MCD Nehru Nagar,28.5718287,77.2527073,Ashram Railway Flyover,Lajpat Nagar,South East Delhi,1,120,255,4.316546762589928,1259
+clinic,Urban UPC Dispensary,28.588109,77.255874,Mahatma Gandhi Marg,,South East Delhi,64,0,255,0.0,64255
+clinic,Saaol Heart Center,28.6376486,77.1778655,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+clinic,Dr. P.N. Behl Skin Clinic,28.6432419,77.2424546,Medical Association Road,,Central Delhi,2,0,318,0.0,2318
+clinic,New Delhi Medical Centre,28.6458317,77.1784997,T. Sohan Lal Marg,Karol Bagh Tehsil,Central Delhi,2,82,318,2.949640287769784,2320
+clinic,Jan Kalyan Health Care Centre,28.649289,77.199157,Deshbandhu Gupta Road,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+clinic,Crysta IVF Fertility Center,28.5652971,77.2405555,Shaheed Mohan Dutta Marg,Lajpat Nagar,South East Delhi,3,120,255,4.316546762589928,3259
+clinic,Proderm Skin & Hair clinic,28.5673384,77.216987,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+clinic,Medi Derma Laser Clinic,28.5878707,77.168874,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+clinic,Habilite Clinics,28.5689114,77.2480083,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+clinic,Kharbanda Polyclinic,28.5680466,77.246961,,Lajpat Nagar,South East Delhi,0,120,255,4.316546762589928,259
+dentist,Anand Dental Care,28.6426317,77.2126592,Arya Nagar Road;Sang Trashan Marg,Karol Bagh Tehsil,Central Delhi,5,82,318,2.949640287769784,5320
+dentist,Dr. Poonam Batra,28.565899,77.1909467,Chaudhary Jhandu Singh Marg,Safdarjung Enclave,,2,4,0,0.14388489208633093,2000
+dentist,Doctor Dubey's Dental Clinic,28.5773235,77.2390168,Shri Vijay Monga Marg,Lajpat Nagar,South East Delhi,2,120,255,4.316546762589928,2259
+dentist,Muskaan Clinic,28.5675911,77.2480073,,Lajpat Nagar,South East Delhi,0,120,255,4.316546762589928,259
+dentist,Dr. S. K. Sapra,28.5653711,77.2391091,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+dentist,Indident Dental Clinic And Implantology Research Centre,28.6449856,77.2021219,,Karol Bagh Tehsil,Central Delhi,0,82,318,2.949640287769784,320
+dentist,Doctor Khanna Dental Clinic,28.5775886,77.1950195,,Sarojini Nagar,,0,20,0,0.7194244604316546,0
+doctors,Dr. Gandhi,28.6292249,77.2322767,Tansen Marg,Connaught Place,,5,278,0,10.0,5010
+doctors,Dr. Kundan Lal,28.6293653,77.2319405,Tansen Marg,Connaught Place,,5,278,0,10.0,5010
+doctors,Doctor Yadav's Medicare,28.5881105,77.1687372,,Delhi Cantonment,,0,85,0,3.057553956834532,3
+doctors,BLK Clinic,28.5688158,77.1991063,,Safdarjung Enclave,,0,4,0,0.14388489208633093,0
+doctors,Dr. Goyal's Clinic,28.5701242,77.2396269,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+doctors,Centre For Behavioural Sciences,28.5722116,77.24167,Vaishno Devi Marg,Lajpat Nagar,South East Delhi,4,120,255,4.316546762589928,4259
+doctors,Young Forever Hair Replacement Studio,28.5666637,77.246144,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+doctors,Dhar Medical Centre,28.5684908,77.2471857,,Lajpat Nagar,South East Delhi,0,120,255,4.316546762589928,259
+doctors,Dr Lal Path Labs,28.5679532,77.2468901,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+hospital,Delhi Heart and Lung Institute Super Speciality Hospital,28.6416777,77.2052683,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+hospital,Goyal MRI & Diagnostic Centre,28.5647144,77.1893283,Africa Avenue,,,8,0,0,0.0,8000
+hospital,Surbhi hospital,28.6491348,77.2164415,Qutab Road,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+hospital,Gamca,28.5703187,77.2369366,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+hospital,Sir Ganga Ram Kolmet Hospital,28.643492,77.187296,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+hospital,Doctor Rajendra Prasad Centre for Opthalmic Sciences,28.5667966,77.2088857,Aurobindo Marg,South Extension,South East Delhi,6,38,255,1.3669064748201438,6256
+hospital,Safdarjung H back gate,28.5663672,77.207556,Aurobindo Marg,South Extension,South East Delhi,6,38,255,1.3669064748201438,6256
+hospital,City Hospital,28.6439995,77.1912841,Ganga Ram Hospital Road,Karol Bagh Tehsil,West Delhi,4,82,44,2.949640287769784,4046
+hospital,Institute of Brain and Spine,28.5656044,77.2442543,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+hospital,Max Medcentre,28.5645418,77.2399229,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+hospital,Diyos,28.5660178,77.1946519,Chaudhary Jhandu Singh Marg,Safdarjung Enclave,,2,4,0,0.14388489208633093,2000
+hospital,Metro Hospital and Heart Institute,28.5647231,77.2437868,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+hospital,AIIMS Emergency,28.567441,77.2096335,Aurobindo Marg,South Extension,South East Delhi,6,38,255,1.3669064748201438,6256
+hospital,Dr B R Sur Homoeopathic Medical college and Hospital,28.5862718,77.1684265,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+hospital,"Vardhman Mahavir Medical College (VMMC) & Safdarjung Hospital, New Delhi",28.5685701,77.2064068,AIIMS Flyover,Kidwai Nagar,,2,8,0,0.28776978417266186,2000
+hospital,Prem Chiktsa Kendra,28.5739982,77.1773627,Mahatma Gandhi Marg,Ramakrishna Puram,,64,16,0,0.5755395683453237,64000
+hospital,Kalawati Saran Children's Hospital,28.6357652,77.2110664,Bangla Sahib Road,Chanakya Puri Tehsil,,3,199,0,7.158273381294964,3007
+hospital,"Sports Injury Centre, Safdarjung Hospital (Part of SJH), New Delhi",28.5681531,77.2054264,Mahatma Gandhi Marg,Kidwai Nagar,,64,8,0,0.28776978417266186,64000
+hospital,Maulana Azad Institute of Dental Sciences,28.6371532,77.236999,Mir Dard Marg,,Central Delhi,1,0,318,0.0,1318
+hospital,Charak Palika Hospital NDMC,28.5853147,77.1770243,F Mohan Senapati Marg,Delhi Cantonment,,2,85,0,3.057553956834532,2003
+hospital,Central Hospital (Northern Railways),28.6365867,77.2173905,Basant Lane,Connaught Place,,1,278,0,10.0,1010
+hospital,Lady Hardinge Medical College & Associated Hospitals,28.634138,77.212909,Shaheed Baghat Singh Marg,Chanakya Puri Tehsil,,4,199,0,7.158273381294964,4007
+hospital,Free Maternity & Child Welfare Centeri,28.6472649,77.2308534,Sarak Prem Narain,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+hospital,Sunder Lal Jain Eye Hospital,28.6495013,77.2098206,Sardar Thana Marg,Karol Bagh Tehsil,Central Delhi,3,82,318,2.949640287769784,3320
+hospital,Kasturba Hospital,28.649831,77.2359282,Urdu Bazaar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+hospital,VMMC & SAFDARJANG HOSPITAL,28.5686672,77.2067292,AIIMS Flyover,Kidwai Nagar,,2,8,0,0.28776978417266186,2000
+hospital,NGO Lok Kalyan Samiti,28.629808,77.2387009,Deen Dayal Upadhyay Road,,Central Delhi,3,0,318,0.0,3318
+hospital,Dr. N. C. Joshi Memorial Hospital,28.6529654,77.1994853,Joshi Lane,Karol Bagh,Central Delhi,1,36,318,1.2949640287769784,1319
+hospital,Shree Jeewan Hospital,28.6579998,77.1943948,Mandir Marg,Civil Lines Tehsil,Central Delhi,7,7,318,0.2517985611510791,7318
+hospital,Mohan Eye Institute,28.6431266,77.1906871,Ganga Ram Hospital Road,Karol Bagh Tehsil,West Delhi,4,82,44,2.949640287769784,4046
+hospital,Navjoyti Eye Centre,28.6435226,77.2424612,Medical Association Road,,Central Delhi,2,0,318,0.0,2318
+hospital,Sharma Medical Center,28.6494565,77.209831,Sardar Thana Marg,Karol Bagh Tehsil,Central Delhi,3,82,318,2.949640287769784,3320
+hospital,Ayurvedic and Unani Tibbia College Hospital,28.656252,77.195998,New Rohtak Road,Karol Bagh,Central Delhi,4,36,318,1.2949640287769784,4319
+hospital,Neera Eye Centre,28.6424432,77.2427645,Bharat Ram Road,,Central Delhi,1,0,318,0.0,1318
+hospital,Mahavir International Eye Hospital,28.6598583,77.2157522,Bahadurgarh Road,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+hospital,Manav Medicare Centre,28.5706874,77.2199599,Mahatma Gandhi Marg,South Extension,South East Delhi,64,38,255,1.3669064748201438,64256
+hospital,Parivar Sewa Sansthan,28.5672773,77.2473565,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+hospital,MCW Sewa Nagar,28.577053,77.226043,Gurdwara Road,South Extension,South East Delhi,1,38,255,1.3669064748201438,1256
+hospital,Nijhara Hospital,28.646316,77.165748,Patel Road,Patel Nagar,West Delhi,8,18,44,0.6474820143884892,8044
+hospital,Sabharwal Hospital,28.6443841,77.2385497,Sir Sayed Ahmed Road,,Central Delhi,2,0,318,0.0,2318
+hospital,Dehli Hospital,28.6418873,77.2450734,Ansari Road,Old Delhi,Central Delhi,2,106,318,3.8129496402877696,2321
+hospital,Apollo Spectra Hospitals,28.6583838,77.1936638,New Rohtak Road,Karol Bagh,Central Delhi,4,36,318,1.2949640287769784,4319
+hospital,Safdarjung Hospital,28.5773794,77.1774582,Moti Bagh Flyover,Ramakrishna Puram,,1,16,0,0.5755395683453237,1000
+hospital,Aashlok Hospital,28.566466,77.198976,NIT,Safdarjung Enclave,,1,4,0,0.14388489208633093,1000
+hospital,Sanjeevan Hospital,28.6412816,77.2429413,Ansari Road,Old Delhi,Central Delhi,2,106,318,3.8129496402877696,2321
+hospital,Jeewan Hospital,28.643625,77.188255,Pusa Road,Karol Bagh Tehsil,Central Delhi,10,82,318,2.949640287769784,10320
+hospital,Khadija National Hospital,28.6437984,77.2381596,Sir Sayed Ahmed Road,,Central Delhi,2,0,318,0.0,2318
+hospital,DGD Prem Nagar,28.66261,77.1624729,Shivaji Marg,Patel Nagar,North West Delhi,2,18,2,0.6474820143884892,2002
+hospital,Arvind Medicare,28.6311711,77.2170294,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+hospital,General Williams Hospital,28.6267808,77.2182706,Tolstoy Marg,Connaught Place,,5,278,0,10.0,5010
+hospital,Sanjay Gandi Hospital,28.6337619,77.1700493,Dev Prakash Shastri Road,Delhi Cantonment,West Delhi,2,85,44,3.057553956834532,2047
+hospital,Oncoplus Hospital,28.5697622,77.2267424,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+hospital,Guru Harkrishan Polyclinic Bangla Sahib,28.6267693,77.2092035,Hanuman Road,Connaught Place,,3,278,0,10.0,3010
+hospital,Birla Fertility & IVF,28.5653248,77.2420254,Path in I Block Park in Lajpat Nagar 3,Lajpat Nagar,South East Delhi,1,120,255,4.316546762589928,1259
+hospital,Banwari Lal Charitable Trust Diagnostic Centre,28.6420044,77.2042941,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+nursing_home,Tibetan Medical and Astro Institute,28.5878402,77.2515367,,,South East Delhi,0,0,255,0.0,255
+pharmacy,R. S. Medicos,28.6467075,77.2129328,Galli Number 6,Karol Bagh Tehsil,Central Delhi,3,82,318,2.949640287769784,3320
+pharmacy,Bhagwati Medicos,28.6467013,77.2132438,Arakashan Road,Basti Ara Kashan,Central Delhi,5,5,318,0.17985611510791366,5318
+pharmacy,Sawhney Medicos,28.6023889,77.1868863,Malcha Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+pharmacy,Anand Medical Stores,28.6023768,77.1869003,Malcha Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+pharmacy,Kunal Medicos,28.5659914,77.1765755,Kama Koti Marg,Ramakrishna Puram,,2,16,0,0.5755395683453237,2000
+pharmacy,Apollo Pharmacy,28.6337914,77.217038,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+pharmacy,Medicine House,28.6338871,77.2173285,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+pharmacy,Nath Brothers,28.6338668,77.2173585,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+pharmacy,S.S. Medicos,28.5880799,77.1687667,,Delhi Cantonment,,0,85,0,3.057553956834532,3
+pharmacy,Apollo Pharmacy,28.5752251,77.2415558,Late Shri Tilak Raj Malhotra Marg,Lajpat Nagar,South East Delhi,1,120,255,4.316546762589928,1259
+pharmacy,Medicine Care,28.5679314,77.2473791,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+pharmacy,Mahesh Chemists,28.567774,77.2472784,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+pharmacy,Unique Chemist,28.5680128,77.2459237,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+pharmacy,Healthy Life Pharmacy,28.566497,77.2484873,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+pharmacy,Apollo Pharmacy,28.5691403,77.2376172,Sri Ramsharanam Marg,Lajpat Nagar,South East Delhi,1,120,255,4.316546762589928,1259
+pharmacy,Luthra Chemist,28.5896915,77.2525296,,,South East Delhi,0,0,255,0.0,255
+pharmacy,Parkash Medicos,28.5895222,77.2525243,,,South East Delhi,0,0,255,0.0,255
+pharmacy,Preet Medicos,28.6002519,77.2270265,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+pharmacy,Youplus,28.600626,77.2271952,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+pharmacy,Anand Drug Store,28.6001324,77.2274321,Subramaniyam Bharti Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+pharmacy,Chemist Shop,28.5916336,77.2434618,Mathura Road,,South East Delhi,7,0,255,0.0,7255
+pharmacy,Sitara pharmacy,28.582994,77.2450769,Hospital Road,,South East Delhi,4,0,255,0.0,4255
+pharmacy,Life Line Medicos,28.5829724,77.2449404,Hospital Road,,South East Delhi,4,0,255,0.0,4255
+pharmacy,U.A. Medicos,28.5828995,77.2448449,Birbal Road,,South East Delhi,9,0,255,0.0,9255
+pharmacy,Medicine House,28.5875719,77.1689867,,Delhi Cantonment,,0,85,0,3.057553956834532,3
+pharmacy,Vinod Medicos,28.6377937,77.2114515,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+pharmacy,Apollo Pharmacy,28.6337258,77.2085135,Bangla Sahib Road,Chanakya Puri Tehsil,,3,199,0,7.158273381294964,3007
+pharmacy,SR Medicos,28.6478782,77.1886384,Saraswati Marg,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+pharmacy,Geeta Medicos,28.6480158,77.1887282,Saraswati Marg,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+pharmacy,Lucknow medical agencies,28.5685642,77.245554,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+veterinary,Jain Bird Hospital,28.6554584,77.2360764,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+veterinary,Dr Choudary Pet Clinic,28.5784813,77.1651434,Road No 5,Moti Bagh,,3,19,0,0.6834532374100719,3000
+veterinary,Veterinary Hospital Moti Bagh,28.5824205,77.1834899,Shanti Path,Moti Bagh,,2,19,0,0.6834532374100719,2000
+arts_centre,Cervantes Institute,28.6298829,77.2158822,Hanuman Road,Connaught Place,,3,278,0,10.0,3010
+arts_centre,Gandhi Hindustani Sahitya Sabha,28.6392225,77.2452524,Jawaharlal Nehru Marg,,Central Delhi,2,0,318,0.0,2318
+arts_centre,Studio Safdar,28.6467991,77.1596549,Patel Road,Patel Nagar,West Delhi,8,18,44,0.6474820143884892,8044
+arts_centre,Natya Ballet Centre,28.6314464,77.2049627,Bhai Vir Singh Marg,Connaught Place,,4,278,0,10.0,4010
+cinema,PVR Plaza Cinema,28.6350924,77.2196937,Radial Road 4,Connaught Place,,9,278,0,10.0,9010
+cinema,Delite Diamond,28.641256,77.2360463,Asaf Ali Road,,Central Delhi,5,0,318,0.0,5318
+cinema,Imperial,28.6411555,77.2108258,Rajguru Marg,Karol Bagh Tehsil,Central Delhi,7,82,318,2.949640287769784,7320
+cinema,Sangam,28.5726765,77.1733639,Major Somnath Marg,Ramakrishna Puram,,3,16,0,0.5755395683453237,3000
+cinema,Liberty Cinema,28.6594215,77.190059,New Rohtak Road,Karol Bagh,Central Delhi,4,36,318,1.2949640287769784,4319
+cinema,PVR Rivoli Cinema,28.6309944,77.2163377,Baba Kharak Singh Marg,Connaught Place,,10,278,0,10.0,10010
+cinema,PVR ECX  Chanakyapuri Cinema,28.584378,77.1910554,Tikendrajit Marg,Chanakyapuri,,4,16,0,0.5755395683453237,4000
+cinema,PVR 3C’s Cinema,28.5676983,77.2410235,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+cinema,Odeon Inox,28.6343154,77.221088,Radial Road 5,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+cinema,Inox,28.5812001,77.2420522,Sardar Balak Singh Bhatiya Marg,,South East Delhi,3,0,255,0.0,3255
+community_centre,ndmc community centre,28.572508,77.1993749,Shri Vinayak Mandir Marg,Sarojini Nagar,,2,20,0,0.7194244604316546,2000
+community_centre,ndmc community centre,28.5704357,77.1965682,Mahatma Gandhi Marg,Kidwai Nagar,,64,8,0,0.28776978417266186,64000
+community_centre,PK Road Basant Lane,28.6357899,77.2151512,Panchkuian Road,Chanakya Puri Tehsil,Central Delhi,16,199,318,7.158273381294964,16325
+community_centre,Young Women's Christian Association,28.6254293,77.2146906,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+community_centre,Nizamuddin East Recreation Center,28.5900741,77.2527857,Jaipur Estate,,South East Delhi,7,0,255,0.0,7255
+conference_centre,ICAR's Conference Facilities,28.6268551,77.1612005,Dev Prakash Shastri Road,Delhi Cantonment,West Delhi,2,85,44,3.057553956834532,2047
+fountain,India Gate Fountain,28.612833,77.2310481,Shahjahan Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+nightclub,GB Road,28.6504541,77.2206601,Shraddhanand Road,Old Delhi,Central Delhi,5,106,318,3.8129496402877696,5321
+nightclub,Kitty Su,28.6313526,77.2271001,Fire Brigade Lane,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+nightclub,Soho Club Delhi,28.5966575,77.1960599,Panchsheel Marg,Chanakyapuri,,1,16,0,0.5755395683453237,1000
+studio,Softline Films,28.5690042,77.2481498,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+theatre,DT,28.5831328,77.1896241,Tikendrajit Marg,Chanakyapuri,,4,16,0,0.5755395683453237,4000
+theatre,Akshara,28.6259776,77.2032745,Baba Kharak Singh Marg,Chanakya Puri Tehsil,,10,199,0,7.158273381294964,10007
+theatre,The Attic,28.6300536,77.2172723,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+theatre,Bahumukh,28.6243192,77.2344502,Bhagwan Das Lane,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+theatre,Muktadhara Auditorium,28.6311731,77.204936,Bhai Vir Singh Marg,Connaught Place,,4,278,0,10.0,4010
+theatre,Stein Auditorium,28.5890626,77.2252522,Lodhi Road,,South East Delhi,10,0,255,0.0,10255
+theatre,Amaltas,28.5890358,77.2252913,Lodhi Road,,South East Delhi,10,0,255,0.0,10255
+theatre,Lilanoor Theater,28.5640738,77.2201259,D Block Road,Masjid Moth,South East Delhi,3,4,255,0.14388489208633093,3255
+courthouse,delhi high court block 2,28.6080709,77.2357617,Justice Sunanda Bhandare Marg,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+courthouse,Court of Special Railway Magistrate,28.6605496,77.2294324,Shyama Prasad Mukherji Marg,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+fire_station,Fire Station,28.5685669,77.1843122,Swami Vivekananda Marg,Ramakrishna Puram,,1,16,0,0.5755395683453237,1000
+fire_station,Fire Station Chanakyapuri,28.602644,77.1903646,Nyaya Marg,Chanakyapuri,,2,16,0,0.5755395683453237,2000
+fire_station,Fire Station Jor Bagh,28.5863038,77.2131096,Aurobindo Marg,Chanakya Puri Tehsil,South East Delhi,6,199,255,7.158273381294964,6262
+police,Prasad Nagar Police Station,28.6478735,77.180705,Govind Lal Sikka Marg,Anand Parbat,Central Delhi,1,1,318,0.03597122302158273,1318
+police,Rajendra Nagar Police Station,28.634698,77.1826937,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+police,Police Residential Complex,28.6349617,77.1837505,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+police,Lahori Gate Police Station,28.6558358,77.2190161,Shraddhanand Road,Old Delhi,Central Delhi,5,106,318,3.8129496402877696,5321
+police,Kotwali Police Station,28.6585978,77.2310844,H.C. Sen Marg,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+police,Jama Masjid Police Station,28.6524641,77.2337052,Bazar Gulian,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+police,Cycle Market Police Post,28.6559206,77.2347384,Esplande Road,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+police,police station,28.5820097,77.195299,G-Avenue,Chanakyapuri,,1,16,0,0.5755395683453237,1000
+police,Police Station Hazrat Nizamudin Railway station,28.5879796,77.2536138,Jaipur Estate,,South East Delhi,7,0,255,0.0,7255
+police,Police Station Karol Bagh,28.652398,77.1930248,Deshbandhu Gupta Road,Karol Bagh,Central Delhi,6,36,318,1.2949640287769784,6319
+police,Police Station New Delhi Railway Station,28.6437003,77.2189266,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+police,Police Station Old Delhi Railway Station,28.6603874,77.2293263,Shyama Prasad Mukherji Marg,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+police,"Police Post, Khan Market",28.6003274,77.2262488,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+police,No entry for foreigners,28.6141383,77.2094455,Vijay Chowk,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+police,No entry for foreigners going towards the government buildings,28.6138782,77.2095121,Kartavya Path,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+police,No entry for foreigners going towards the government buildings,28.6153345,77.2093428,Vijay Chowk,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+police,No entry for foreigners going towards the government buildings,28.616791,77.2119024,Raisina Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+police,No entry,28.6182909,77.2092642,Red Cross Road,Chanakya Puri Tehsil,,3,199,0,7.158273381294964,3007
+police,No entry,28.6185156,77.2088448,Lok Sabha Marg,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+police,No entry for foreigners,28.6189133,77.208869,Red Cross Road,Chanakya Puri Tehsil,,3,199,0,7.158273381294964,3007
+police,"Gate 35, No entry for foreigners",28.6176525,77.1985707,Church Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+police,No entry for foreigners,28.617356,77.2020072,Church Road,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+police,Railway Police Force Station,28.6452469,77.2188823,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+police,Police Station Barakhamba Road,28.6308823,77.2253541,Fire Brigade Lane,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+police,DCP Residence,28.6274655,77.232869,Sikandra Road,Connaught Place,,3,278,0,10.0,3010
+police,Police assistance booth,28.6012604,77.2273752,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+police,Facilitation Kiosk,28.5758546,77.1973707,Lane D,Sarojini Nagar,,1,20,0,0.7194244604316546,1000
+police,Police Booth,28.5757026,77.195241,Lane G,Sarojini Nagar,,10,20,0,0.7194244604316546,10000
+police,Prepaid Auto Service,28.6316262,77.219012,Way to Palika Car Parking,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+police,Tourist Police Booth,28.6420284,77.2182954,Babu Ram Solanki Marg,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+post_box,Netaji Nagar Post Office,28.5744997,77.1872498,unnamed road,Netaji Nagar,,5,6,0,0.2158273381294964,5000
+post_office,Head Post Office (GPO),28.5895467,77.219296,Lodhi Road,Chanakya Puri Tehsil,South East Delhi,10,199,255,7.158273381294964,10262
+post_office,Pahar Ganj 110055,28.6398522,77.2130306,Ramdwara Road,Paharganj,Central Delhi,6,38,318,1.3669064748201438,6319
+post_office,B Block South Motibagh,28.5808948,77.1726168,Mahatma Gandhi Marg,Moti Bagh,,64,19,0,0.6834532374100719,64000
+post_office,डाक निदेशालय,28.6225106,77.2128841,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+post_office,Vasant Vihar Sub-Post Office,28.5679304,77.1594144,C-7,Delhi Cantonment,,1,85,0,3.057553956834532,1003
+post_office,DHL,28.5684939,77.1890877,Africa Avenue,,,8,0,0,0.0,8000
+post_office,Post office,28.6401359,77.2130761,Ramdwara Road,Paharganj,Central Delhi,6,38,318,1.3669064748201438,6319
+post_office,DTDC,28.5878238,77.1685104,Benito Juarez Marg,Delhi Cantonment,,68,85,0,3.057553956834532,68003
+post_office,Trackon Couriers,28.6445726,77.200248,,Karol Bagh Tehsil,Central Delhi,0,82,318,2.949640287769784,320
+drinking_water,Drinking Water Station,28.6434,77.2192801,New Delhi Railway Station Flyover,,Central Delhi,12,0,318,0.0,12318
+drinking_water,Drinking Water Station,28.6282709,77.2064206,Bhai Vir Singh Marg,Connaught Place,,4,278,0,10.0,4010
+drinking_water,Drinking Water Station,28.65166,77.2347281,unnamed road,Old Delhi,Central Delhi,5,106,318,3.8129496402877696,5321
+drinking_water,Drinking Water Station,28.6390079,77.2456619,Mahatma Gandhi Marg,,Central Delhi,64,0,318,0.0,64318
+drinking_water,Drinking Water Station,28.6402763,77.2510218,unnamed road,,Central Delhi,5,0,318,0.0,5318
+drinking_water,not for free,28.5915672,77.220445,K. K. Birla Lane,Chanakya Puri Tehsil,,2,199,0,7.158273381294964,2007
+drinking_water,Pi-Lo Smart Water ATM,28.6323521,77.2190973,Radial Road 3,Connaught Place,,13,278,0,10.0,13010
+drinking_water,Katara Asharfi Pyau,28.656534,77.2281727,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+shelter,ITO,28.6282054,77.245021,Indraprastha Marg,Indraprastha Estate,Central Delhi,2,2,318,0.07194244604316546,2318
+shelter,ITO,28.6282118,77.2451545,Indraprastha Marg,Indraprastha Estate,Central Delhi,2,2,318,0.07194244604316546,2318
+shelter,Gupta Market,28.5651182,77.2396466,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+shelter,Gupta Market,28.5651042,77.2397903,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+shelter,Gupta Market,28.5647732,77.239687,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+shelter,Gupta Market,28.5647473,77.2398788,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+telephone,M. Business Centre,28.6023212,77.1869652,Dharma Marg,Chanakya Puri Tehsil,,6,199,0,7.158273381294964,6007
+toilets,SBM Toilets,28.6266017,77.2333412,Safdar Hashmi Marg,Connaught Place,,3,278,0,10.0,3010
+toilets,SBM Toilets,28.6521926,77.2426343,Mahatma Gandhi Marg,Old Delhi,Central Delhi,64,106,318,3.8129496402877696,64321
+toilets,Deluxe Toilet,28.6422347,77.2234684,Bhavbhuti Marg,,Central Delhi,6,0,318,0.0,6318
+toilets,Deluxe Toilets,28.6590947,77.228276,Rai Kedarnath Marg,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+toilets,Public toilet,28.5782637,77.1897032,Africa Avenue,,,8,0,0,0.0,8000
+toilets,Deluxe Toilet,28.6458338,77.2085439,Deshbandhu Gupta Road,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+toilets,Sulabh Toilet Complex,28.5921611,77.1623218,NH48,Dhaula Kuan,,4,6,0,0.2158273381294964,4000
+toilets,Sulabh Toilet Complex,28.5887901,77.2571086,unnamed road,Sarai Kale Khan,South East Delhi,5,1,255,0.03597122302158273,5255
+toilets,Deluxe Toilet,28.6424334,77.2228478,Bhavbhuti Marg,,Central Delhi,6,0,318,0.0,6318
+toilets,Sulabh Toilet Complex,28.6435802,77.1885162,unnamed road,Karol Bagh Tehsil,West Delhi,5,82,44,2.949640287769784,5046
+crematorium,Dayanand Muktidham Electric Crematorium,28.5889464,77.2408863,Lala Lajpat Rai Path,,South East Delhi,7,0,255,0.0,7255
+grave_yard,Samata Sthal,28.6403435,77.2446605,Jawaharlal Nehru Marg,,Central Delhi,2,0,318,0.0,2318
+internet_cafe,Information And Reservation Centre,28.6381965,77.2107523,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+internet_cafe,Photostat,28.6469772,77.1880174,Saraswati Marg,Karol Bagh,Central Delhi,8,36,318,1.2949640287769784,8319
+marketplace,Lajpat Rai Market,28.6573574,77.2359806,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+marketplace,Shankar Market,28.6379089,77.1807881,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+marketplace,Central Market,28.5689166,77.2421596,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+marketplace,Lajpat Nagar Central Market,28.5689873,77.2408267,Feroze Gandhi Road,Lajpat Nagar,South East Delhi,19,120,255,4.316546762589928,19259
+marketplace,Khari Baoli Spice Market,28.6572038,77.2228524,Khari Baoli Road,Old Delhi,Central Delhi,2,106,318,3.8129496402877696,2321
+place_of_worship,Idgah,28.6537629,77.2056378,Rani Jhansi Road,Civil Lines Tehsil,Central Delhi,5,7,318,0.2517985611510791,5318
+place_of_worship,Sunehri Masjid,28.6504594,77.2396485,Nishadraj Marg,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+place_of_worship,Nili Chhatri Mandir,28.6626518,77.2424315,Ring Road,Old Delhi,Central Delhi,2,106,318,3.8129496402877696,2321
+place_of_worship,Arya Samaj Mandir,28.5773239,77.2026242,2nd Cross Road,Sarojini Nagar,,2,20,0,0.7194244604316546,2000
+place_of_worship,Moluddin Chishti Dargah,28.6077134,77.1808184,Way to Moluddin Chishti Dargah,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+place_of_worship,Sanatan Dharam Mandir,28.6361213,77.1836935,Shankar Road,New Rajendra Nagar,West Delhi,12,16,44,0.5755395683453237,12044
+place_of_worship,Gurudwara Moti Bagh Sahib,28.586024,77.1712306,Mahatma Gandhi Marg,Delhi Cantonment,,64,85,0,3.057553956834532,64003
+place_of_worship,Mata Ka Mandir,28.5658169,77.2479782,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+place_of_worship,Gurdwara Damdama Sahib,28.5947837,77.2525408,Delhi - Meerut Expressway,,South East Delhi,1,0,255,0.0,1255
+place_of_worship,Sri Ramakrishna Temple,28.639534,77.2097862,Ramakrishna Ashram Marg,Chanakya Puri Tehsil,,1,199,0,7.158273381294964,1007
+place_of_worship,Firoz Shah's Mosque,28.6463013,77.2153689,Arakashan Road,Basti Ara Kashan,Central Delhi,5,5,318,0.17985611510791366,5318
+place_of_worship,Lakshmi Narayan Temple,28.6327513,77.1989712,Mandir Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+place_of_worship,Kali Mandir,28.6359878,77.2250742,Deen Dayal Upadhyay Road,,Central Delhi,3,0,318,0.0,3318
+place_of_worship,temple,28.5818399,77.1983395,Palika Avas,Sarojini Nagar,,1,20,0,0.7194244604316546,1000
+place_of_worship,vinayak mandir,28.5713909,77.1993122,Shri Vinayak Mandir Marg,Sarojini Nagar,,2,20,0,0.7194244604316546,2000
+place_of_worship,Chabad House,28.6405645,77.2116448,Main Bazaar,Paharganj,Central Delhi,3,38,318,1.3669064748201438,3319
+place_of_worship,Gauri Shankar Hindu Temple,28.6558115,77.2356623,Chandni Chowk,Old Delhi,Central Delhi,31,106,318,3.8129496402877696,31321
+place_of_worship,Shani Jaynti And Shani Amavasya Hindu Temple,28.6449129,77.1977647,Panchkuian Road,Chanakya Puri Tehsil,Central Delhi,16,199,318,7.158273381294964,16325
+place_of_worship,Prachin Hanuman Mandir,28.6303505,77.2150219,Baba Kharak Singh Marg,Connaught Place,,10,278,0,10.0,10010
+place_of_worship,Abdus Salam Masjid,28.6337722,77.216499,Panchkuian Road,Connaught Place,,16,278,0,10.0,16010
+place_of_worship,Alami Markaz Banglewali masjid,28.5917254,77.2433836,Mathura Road,,South East Delhi,7,0,255,0.0,7255
+place_of_worship,The Church of Jesus Christ of Latter-day Saints,28.564685,77.239101,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+place_of_worship,Jain Sweitamna Temple,28.6551074,77.2309146,Chel Puri,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+place_of_worship,Shri Shiv Mandir Sanatan Dharm Sabha,28.5656809,77.2244304,August Kranti Marg,Masjid Moth,South East Delhi,1,4,255,0.14388489208633093,1255
+place_of_worship,Shri Narayan Mandir,28.5753478,77.2291371,Bhishma Pitamah Marg,South Extension,South East Delhi,13,38,255,1.3669064748201438,13256
+place_of_worship,Gurudwara Sri Guru Singh Sabha,28.6498482,77.2002456,Faiz Road,Karol Bagh,Central Delhi,1,36,318,1.2949640287769784,1319
+place_of_worship,Arya Samaj Mandir,28.6281206,77.2128732,Hanuman Road,Connaught Place,,3,278,0,10.0,3010
+place_of_worship,Jai Mata Mandir,28.6491995,77.1846567,Ganga Mandir Marg,Karol Bagh,Central Delhi,1,36,318,1.2949640287769784,1319
+place_of_worship,Satsang Guru Nanak Darbar,28.567162,77.2401753,Shaheed Mohan Dutta Marg,Lajpat Nagar,South East Delhi,3,120,255,4.316546762589928,3259
+place_of_worship,Baptist Church,28.6528915,77.192125,Deshbandhu Gupta Road,Karol Bagh Tehsil,Central Delhi,6,82,318,2.949640287769784,6320
+place_of_worship,Dargah Sharif Hazrat,28.6259543,77.2326032,Safdar Hashmi Marg,Connaught Place,,3,278,0,10.0,3010
+place_of_worship,Prachin Shiv Shakti Gorakhnath Mandir,28.5668103,77.2487837,Mahatma Gandhi Marg,Lajpat Nagar,South East Delhi,64,120,255,4.316546762589928,64259
+place_of_worship,Dargah Hazrat Khwaja,28.5956054,77.2407239,Lala Lajpat Rai Path,,South East Delhi,7,0,255,0.0,7255
+place_of_worship,Shri Hari Mandir,28.5732231,77.2445457,Vaishno Devi Marg,Lajpat Nagar,South East Delhi,4,120,255,4.316546762589928,4259
+place_of_worship,Shri Shani Dev Mandir,28.5728705,77.2434369,Vaishno Devi Marg,Lajpat Nagar,South East Delhi,4,120,255,4.316546762589928,4259
+place_of_worship,Shiv Mandir,28.5735096,77.2405364,Vaishno Devi Marg,Lajpat Nagar,South East Delhi,4,120,255,4.316546762589928,4259
+place_of_worship,Free Church,28.6260798,77.215349,Sansad Marg,Connaught Place,,15,278,0,10.0,15010
+place_of_worship,Hazrat Nizam-ud-din,28.5922696,77.2417175,Lodhi Road,,South East Delhi,10,0,255,0.0,10255
+place_of_worship,Moti Masjid,28.6337969,77.2183681,,Connaught Place,,0,278,0,10.0,10
+place_of_worship,Dargah Shah Abdul Salam Faridi (RA),28.6337417,77.2162906,Outer Circle,Connaught Place,,102,278,0,10.0,102010
+place_of_worship,St. Peter’s Jacobite Syrian Orthodox,28.6291093,77.2048696,Bhai Vir Singh Marg,Connaught Place,,4,278,0,10.0,4010
+place_of_worship,Sri Raghavendra Swamy Math,28.5772838,77.1743602,Rao Tula Ram Marg,Moti Bagh,,5,19,0,0.6834532374100719,5000
+place_of_worship,Shri Aadi Shakti Maa Jhandewalis Temple,28.6491472,77.2041529,Rani Jhansi Road,Karol Bagh Tehsil,Central Delhi,5,82,318,2.949640287769784,5320
+place_of_worship,Amrood wali Masjid,28.6455366,77.2313735,Sitaram Bazar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+place_of_worship,Shrine of Turkman Bayabani Masjid,28.6449544,77.2320731,Sitaram Bazar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+place_of_worship,Anjuman Masjid,28.6459121,77.2324827,Sitaram Bazar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+place_of_worship,Chatta Sheikh Manglo Masjid,28.6488977,77.2323795,Chitli Qabar Bazar,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+place_of_worship,Lal Masjid,28.6494137,77.2322166,Urdu Bazaar Road,Old Delhi,Central Delhi,6,106,318,3.8129496402877696,6321
+place_of_worship,Masjid Saguwa Wali,28.6470106,77.2380032,Dakhni Rai Street,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+place_of_worship,Masjid Dai Wali,28.646861,77.239701,Dakhni Rai Street,Old Delhi,Central Delhi,3,106,318,3.8129496402877696,3321
+place_of_worship,Noor Masjid,28.5862597,77.2495252,Baba Banda Singh Bahadur Setu,South Extension,South East Delhi,3,38,255,1.3669064748201438,3256
+place_of_worship,Balmiki Mandir,28.5857239,77.2497278,Mathura Road,,South East Delhi,7,0,255,0.0,7255
+place_of_worship,Shahi Masjid,28.5821485,77.2468068,Masjid Road,,South East Delhi,1,0,255,0.0,1255
+place_of_worship,Sanatan Dharam Mandir,28.5802121,77.2454367,Birbal Road,,South East Delhi,9,0,255,0.0,9255
+place_of_worship,Sanatan Dharam Guffa Wala Mandir,28.5858069,77.2434717,Baba Banda Singh Bahadur Setu,South Extension,South East Delhi,3,38,255,1.3669064748201438,3256
+place_of_worship,Durga Mandir,28.6423129,77.1923077,Ganga Ram Hospital Road,Karol Bagh Tehsil,West Delhi,4,82,44,2.949640287769784,4046
+place_of_worship,Masjid Nabi Baqsh,28.6414974,77.2403946,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+place_of_worship,Hazrat Nizamuddin Railway Station Masjid,28.5885885,77.2532872,Jaipur Estate,,South East Delhi,7,0,255,0.0,7255
+place_of_worship,Saint Thomas Church,28.6395552,77.2035058,Mandir Marg,Chanakya Puri Tehsil,,7,199,0,7.158273381294964,7007
+place_of_worship,Shri Sanatan Dharam Sabha,28.5727447,77.2321657,,Defence Colony,South East Delhi,0,6,255,0.2158273381294964,255
+place_of_worship,Gurdwasa Sri Guru Singh Saba,28.5730504,77.2323475,,Defence Colony,South East Delhi,0,6,255,0.2158273381294964,255
+place_of_worship,Raghunath Mandir,28.5898539,77.2524156,Jaipur Estate,,South East Delhi,7,0,255,0.0,7255
+place_of_worship,Blue and yellow mosque,28.6462826,77.2242535,Lal Kuan Bazar,Old Delhi,Central Delhi,1,106,318,3.8129496402877696,1321
+place_of_worship,Mughal era mosque,28.6461658,77.222939,Shraddhanand Road,Old Delhi,Central Delhi,5,106,318,3.8129496402877696,5321
+place_of_worship,Shiv Shakti Mandir,28.6579312,77.236635,Netaji Subhash Marg,Old Delhi,Central Delhi,11,106,318,3.8129496402877696,11321
+place_of_worship,Jame mosque New Delhi,28.6186329,77.2099133,Red Cross Road,Chanakya Puri Tehsil,,3,199,0,7.158273381294964,3007
+place_of_worship,Hindu temple,28.5859703,77.2480454,Mathura Road,,South East Delhi,7,0,255,0.0,7255
+place_of_worship,Mosque,28.6505059,77.2211136,Shraddhanand Road,Old Delhi,Central Delhi,5,106,318,3.8129496402877696,5321
+place_of_worship,Mosque,28.6508835,77.2208886,Shraddhanand Road,Old Delhi,Central Delhi,5,106,318,3.8129496402877696,5321
+place_of_worship,Mosque,28.6412878,77.2146318,Main Bazar Road,Paharganj,Central Delhi,24,38,318,1.3669064748201438,24319
+place_of_worship,White Hindu temple,28.6393851,77.212892,Ramdwara Road,Paharganj,Central Delhi,6,38,318,1.3669064748201438,6319
+place_of_worship,Shri Hanuman Mandir,28.6332604,77.2060741,Shaheed Baghat Singh Marg,Chanakya Puri Tehsil,,4,199,0,7.158273381294964,4007
+place_of_worship,Shree Gopal Mandir,28.6011353,77.227067,Prithviraj Lane,Chanakya Puri Tehsil,,16,199,0,7.158273381294964,16007
+place_of_worship,Vishwa Shanti Stupa,28.6023804,77.2533994,Mahatma Gandhi Marg,Chanakya Puri Tehsil,South East Delhi,64,199,255,7.158273381294964,64262
+place_of_worship,Jandi Mandir,28.5713132,77.2386276,Veer Savarkar Marg,Lajpat Nagar,South East Delhi,22,120,255,4.316546762589928,22259
+place_of_worship,Shri Jhulalal Durga Mandir,28.6447618,77.199696,Panchkuian Road,Karol Bagh Tehsil,Central Delhi,16,82,318,2.949640287769784,16320
+place_of_worship,South Indian Temple,28.6466793,77.1926872,Abdul Aziz Road,Karol Bagh,Central Delhi,2,36,318,1.2949640287769784,2319
+place_of_worship,Dargah Hazrat Baba Rangeele Shah Chisthi Nizami,28.6259209,77.2112242,Bangla Sahib Lane,Connaught Place,,1,278,0,10.0,1010
+place_of_worship,Sindhi Sat Sangat Darbar,28.5683851,77.2475123,Shiv Mandir Marg,Lajpat Nagar,South East Delhi,21,120,255,4.316546762589928,21259
+public_bath,Deluxe Bath,28.6422819,77.2234166,Bhavbhuti Marg,,Central Delhi,6,0,318,0.0,6318
+public_bath,Deluxe Bath,28.6424339,77.2228736,Bhavbhuti Marg,,Central Delhi,6,0,318,0.0,6318
+public_building,NIC,28.5904163,77.2308121,Lodhi Road,,South East Delhi,10,0,255,0.0,10255
