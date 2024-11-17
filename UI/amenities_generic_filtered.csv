@@ -1,0 +1,215 @@
+Amenity Type,Name,Latitude,Longitude
+cafe,Cafe Indra,28.0158728,73.3272931
+cafe,Film City Cafe,28.0161397,73.3271232
+cafe,Prachina Cafe,28.0228235,73.3182397
+restaurant,Redrock Resort & Restaurant,27.4283623,72.3745766
+restaurant,Gallops,28.0218626,73.3200972
+restaurant,Rajwara,27.9993577,73.3339652
+restaurant,Shan Ed Id,28.0179845,73.3101890
+restaurant,Chandra Niwas,28.0159877,73.3272598
+restaurant,Shri Shiv Sagar Restaurant,28.0190231,73.3165422
+restaurant,Amberwalla,28.0145988,73.3139354
+restaurant,Gabbar,28.0289803,73.3292961
+restaurant,Hotel Radhe Krishna palace,27.9935141,73.3224662
+restaurant,Al-Karim,27.9918513,73.3212966
+restaurant,Kai Kabila Restaurant,27.9940964,73.3223518
+restaurant,Tanvi Cafe,28.0093492,73.3000525
+restaurant,Laxmi Hotel,28.0145082,73.3140350
+restaurant,Seversl inexpensive Dhabas,28.0202616,73.3177819
+restaurant,Gahlot Restaurant,28.0199296,73.3177160
+restaurant,Jeeman,28.0192380,73.3166767
+school,Dayananda Public School,28.0225169,73.3280000
+school,Shri jasnath shikshan sansthan,27.7337048,73.6733428
+school,Saint Paul’s School,27.0943800,72.2956724
+fuel,BP Jamsar,28.2491389,73.4064752
+fuel,Jetharam Dudi,28.0241767,73.2907992
+fuel,Indian Oil,27.3795133,72.3482973
+fuel,Bharat,28.9153723,73.8603708
+fuel,Essar,27.3058071,73.6025723
+fuel,Essar,27.3924439,73.5507770
+fuel,Indian Oil,27.4817700,73.5034902
+fuel,Bharat,27.5132563,73.4926964
+fuel,HP,27.6253303,73.4181498
+fuel,H P,27.6529553,73.3792602
+fuel,Indian Oil,27.8211154,73.3023698
+fuel,HP,27.0761713,72.2532994
+bank,United Bank of India,27.1998808,73.7320445
+bank,bank of baroda,27.1987603,73.7405106
+clinic,"Get Well Nursing Home, Bikaner",28.0102211,73.3429115
+clinic,Surana Nursing Home,28.0040758,73.3274786
+clinic,Marothi Clinic,27.5565283,73.4738952
+clinic,Bafna Clinic,27.9829047,73.3010771
+clinic,R K Orthopaedic and Trauma Centre,28.0162760,73.3361820
+clinic,GESI Clinic,28.0146724,73.3233432
+clinic,Harsh Clinic,28.0209016,73.2992635
+clinic,Guru Kripa Homoeo Clinic,28.0146317,73.3137530
+clinic,Dr. M.G. Periwal Clinic,27.5585699,73.4720116
+clinic,Ambika Clinic,28.0262125,73.3186948
+clinic,Dr. Gurupal Clinic,28.5123333,72.8100994
+clinic,Dr. Santosh Chandak Child Clinic,27.9883995,73.3013617
+clinic,Swasthya Seva Clinic,28.0509786,73.2879698
+clinic,Taparia Nursing Home,27.5565656,73.4740839
+clinic,Dr Ashok Sharma's Clinic,28.0093268,73.3312701
+clinic,Dr. Manak Gujrani Clinic,28.0040216,73.3269418
+clinic,Roshni Gupta Clinic,28.5052088,72.8130828
+clinic,Janta Clinic,28.0030086,73.2712978
+clinic,Dr. Mohammad Salim Clinic,28.0018441,73.3278728
+clinic,Amba Eye Care,28.7002330,72.5951586
+clinic,Swami Homeo Clinic,28.0171380,73.3153140
+clinic,Purohit Medicose,27.5574074,73.4720313
+clinic,Narul Clinic,28.4881772,73.7412674
+clinic,Saaol Heart Centre,27.9937631,73.3363194
+clinic,Jai Kachhawa Clinic,28.0220150,73.3132543
+clinic,Dr. Mohit Bansal's Clinic,28.0140937,73.3244915
+clinic,Mind Care Clinic,28.0135343,73.3241127
+clinic,Yash Clinic,27.2138029,73.7306171
+clinic,Naveen Clinic,27.1989840,73.7465066
+clinic,Rathore Clinic,27.2184066,73.7155467
+clinic,Dr. Sahab Clinic,27.1240223,72.3776722
+clinic,Dr. Dinesh Sharma Clinic,27.1263760,72.3685410
+clinic,S.G Vyas Clinic,27.1220280,72.3770788
+dentist,Pareek Dental Clinic,27.5592540,73.4790008
+dentist,Periwal Dental Clinic & Implant Centre,27.5589366,73.4765123
+dentist,Sunder Dental Hospital,27.5567168,73.4720812
+dentist,Shri Jain Dental Clinic & Implant Centre,27.5565617,73.4715110
+dentist,Jodhpur Dental Care,27.1271340,72.3679600
+doctors,Dr. Lokesh Sarswat,27.5515594,73.4764526
+doctors,Dr. Ram Saraswat,28.7071912,72.5987133
+doctors,Dr. Manoj Meena,27.9975200,73.3324070
+doctors,Dr. Ghanshyam Panwar,28.0273210,73.3181790
+doctors,Dr. Ramesh Poonia,27.8416291,72.9607188
+doctors,Dr. M.Y. Joiya Kolayat,27.8413749,72.9608827
+doctors,Dr. Ashok Singhl,27.9890591,73.3025953
+doctors,Dr. Shyam Bajaj,27.5610416,73.4804534
+doctors,Dr. Deep Chand,28.0068928,73.3497701
+doctors,Dr. Vedprakash,28.0244980,73.3760700
+doctors,Dr. Anita Beniwal,27.1927401,73.7149013
+doctors,Dr. R.K. Suthar,27.2018726,73.7242299
+doctors,Dr. Pradeep Chaudhary,27.1847908,73.7403208
+doctors,Dr. Kailash Khoja,27.1896798,73.7283286
+doctors,Dr. Mukesh Chouhan,27.1302316,72.3591874
+hospital,SP Med. College's Diagnostics,28.0068594,73.3303338
+hospital,J.D.Bagree Institute Of Surgical Sciences,28.0047291,73.3361920
+hospital,Haldi Ram Moolchand Hospital,28.0112440,73.3300227
+hospital,Kalra Health Care Pvt Ltd,27.9998083,73.3338073
+hospital,Bhaskar Hospital and Research Center Pvt Ltd,27.2031426,73.7216735
+hospital,Bikaner Eye Hospital and Research Centre,28.0103560,73.3133031
+hospital,Rawat Hospital,28.0030839,73.3276785
+hospital,MN Hospital and Research Centre,28.0273702,73.3253002
+hospital,Tulsi Dharnia Memorial Cancer Hospital,28.0154116,73.3333111
+hospital,Shri Asharam Memorial Navjeevan Hospital,27.2035946,73.7244992
+hospital,ASG Eye Hospitals,28.0103264,73.3187695
+hospital,"District Hospital, Bikaner",28.0205207,73.3024282
+hospital,Vyas Eye Care Center,28.0039680,73.3275671
+hospital,Shivam Hospital and Pathri Nivaran Kendra,27.1908071,73.7372996
+hospital,Chalana Hospital and Research Centre,28.0116098,73.3543758
+hospital,Dr.Tanveer Malawat Hospital and Research Centre,28.0095792,73.3188754
+hospital,Dr. Meenakshi Gomber,28.0256428,73.2985269
+hospital,Pratap Prasuti Grih,28.0051983,73.3099477
+hospital,"Government Hospital, 5 Dol",28.8159982,72.8363792
+hospital,Government Hospital Rajasar Bhatiyan,28.4920280,73.3478030
+hospital,"Government Hospital, Mahajan",28.7847428,73.8468217
+hospital,Governmet Hospital Sheikhsar,28.6047033,73.9744808
+hospital,Kalu Government Hospital,28.3762764,73.8877349
+hospital,"Government Hospital, Godu",27.9991770,72.2693290
+hospital,"Government Hospital,Barsingsar",27.8260150,73.2067144
+hospital,"Government Hospital, Badnun",27.9243920,73.7764250
+hospital,"District Hospital, Bikaner",28.0205156,73.3028960
+hospital,"Government Hospital, Kesar Desar Jatan",27.8562040,73.4899440
+hospital,"Government Hospital, Kelansar",27.3445923,72.9341173
+hospital,"Government Hospital, Jangloo",27.6774004,73.2364868
+hospital,"Government Hospital, Koodsoo",27.5447356,73.3467786
+hospital,Governmet Hospital Sadoo Bari,27.6386501,73.9901709
+hospital,"Government Hospital, Alai",27.3293082,73.5819848
+hospital,Governmet Hospital Shribalaji,27.4246629,73.5514241
+hospital,"Government Hospital, Mundwa",27.0608610,73.8207060
+hospital,"Government Hospital, Champasar",27.2657175,73.0659439
+hospital,"Government Hospital, Chawandiya",27.1726820,73.4198990
+hospital,"Government Hospital, Nagaur",27.2079840,73.7372150
+hospital,"Government Hospital, Karlu",27.0055600,73.6954690
+hospital,"Government Hospital, Bodwa",27.0751250,73.9527620
+hospital,Government Hospital Taausar,27.1599450,73.7388100
+hospital,"Government Hospital, Aau",27.2037579,72.8468997
+hospital,District Hospital Nagaur,27.2255210,73.6968390
+hospital,Global Hospital and Research Centre,28.0455930,73.3278160
+hospital,Goodwill Eye & General Hospital,28.0003042,73.3297509
+hospital,Apple Children Hospital,28.0200130,73.2953030
+hospital,Dhanvantari Hospital,28.4882988,73.7387545
+hospital,Surana Nursing Home,27.5591689,73.4725798
+hospital,Bhiwani Hospital,28.0020454,73.3452330
+hospital,Rajasthan Nursing Home,28.0016854,73.3230837
+hospital,Beniwal Hospital,28.0156574,73.3363100
+hospital,Nipun Hospital,27.8495041,72.9650510
+hospital,Dr. Vijay Tundwal Hospital,28.0228778,73.3769603
+hospital,ESI Hospital,28.0234808,73.2878197
+hospital,Rajasthan Nursing Home,28.0077449,73.3158387
+hospital,Shri Krishna NeuroSpine and Multispeciality Hospital,28.0102202,73.3436011
+hospital,Shri Ram Hospital,28.0138182,73.3239605
+hospital,City Hospital,28.4935229,73.7457891
+hospital,Shubham Nursing Home,28.0221341,73.2995086
+hospital,Navjeevan Hospital & Research Centre,28.0214033,73.2892907
+hospital,Kaswan Hospital,28.0140848,73.3287922
+hospital,Vardaan Hospital,28.0062968,73.3421349
+hospital,Government T.B. Hospital,28.0082000,73.3271570
+hospital,Laxmi Hospital,27.5602283,73.4719462
+hospital,Somani Nursing Home,27.5540286,73.4778353
+hospital,Bishnoi Hospital,27.9933071,73.3197725
+hospital,LN Hospital,27.9865635,73.2844440
+hospital,Balaji Hospital,28.0088122,73.3310970
+hospital,Baheti Eye Hospital,27.5589099,73.4727302
+hospital,Sanjeevani Hospital,28.0268457,73.3023550
+hospital,New Apollo Hospital and Multi Speciality Centre,28.0150806,73.3233999
+hospital,Choudhary Eye Hospital and Opticals,28.4836679,73.7439295
+hospital,Rawat ENT Hospital,28.0035819,73.3270772
+hospital,Bikana Hospital & Research Centre,28.0242636,73.2967181
+hospital,Aarogyam Multi Speciality Hospital,28.0111760,73.3160460
+hospital,Mathur Hospital & Research Centre,28.0104227,73.3171330
+hospital,Sugni Devi Jaisraj Baid Hospital and Research Centre,28.0066880,73.3079520
+hospital,Floral Hospital,27.9974216,73.3143267
+hospital,Shanti Memorial Hospital,27.9999227,73.3235193
+hospital,Rajasthan Naturopathy Hospital,27.9923203,73.3025743
+hospital,P.M.C.T. Hospital,27.5626662,73.4806281
+hospital,Soni Hospital,27.5600799,73.4724590
+hospital,Binnani Hospital and IVF Centre,27.9946366,73.3300873
+hospital,Dr. Shyam Agrawal Child Care Hospital,28.0220392,73.2974431
+hospital,Rajni Hospital,28.0217884,73.2964670
+hospital,N.W. Railway Divisional Hospital,28.0320412,73.3063543
+hospital,Marwar Hospital,28.0146421,73.3222724
+hospital,Arya Hospital,27.9873413,73.3348765
+hospital,Marudhar Hospital,27.1908388,73.7382772
+hospital,ASG Eye Hospital,27.2045966,73.7230042
+hospital,Divya Sai Hospital,27.1978530,73.7527430
+hospital,Bhutra Health Care Centre,27.2031381,73.7257817
+hospital,Dental Hospital,27.1994657,73.7459993
+hospital,T.B. Hospital,27.2032575,73.7236905
+hospital,Sri Hariram Dental Care and General Hospital,27.2041708,73.7226325
+hospital,Shree Ram Hospital,27.1949350,73.7409910
+hospital,Sufiya Hospital,27.1715310,73.6432798
+hospital,Marwar Child Care Centre,27.2016066,73.7243458
+hospital,Mahadev Hospital,27.2035450,73.7257420
+hospital,Kala Nursing Home,27.2014163,73.7241418
+hospital,Life Line Hospital,27.2061030,73.7216771
+hospital,Bisu Hospital,27.2055327,73.7218484
+hospital,Harshit Hospital,27.1902600,73.7327412
+hospital,Drishti Eye Hospital,27.2041846,73.7230964
+hospital,Army Hospital,27.2021151,73.7169946
+hospital,Shri Hari Ram Hospital & Research Centre,27.2063803,73.7215259
+hospital,Dr. J K Charan Hospital,27.1984593,73.7508306
+hospital,Dr. Saroj Paliwal Hospital and Infertility Centre,27.1214537,72.3812504
+hospital,Shree Shyam Nursing Home,27.1237362,72.3781535
+hospital,City Light Hospital,27.1259210,72.3809900
+hospital,Kalapurnam General Hospital,27.1153438,72.4154398
+hospital,Shiv Ganga Hospital,27.1303957,72.3678327
+hospital,PBM Hospital PMR Public Medicine and Rehabilitation Wing Building,28.0054657,73.3280749
+arts_centre,IGNP Karyakaram,28.0492775,73.3193828
+cinema,Carnival Cinema,27.9936222,73.3205860
+conference_centre,High Court,28.0212107,73.3218063
+fountain,Saif's fountain,27.9914808,73.3216896
+courthouse,District court,27.1995040,73.7270819
+police,Police station,27.9939460,73.3334857
+post_office,Head post office,27.1997757,73.7297624
+post_office,Head Post office,28.0208354,73.3159852
+marketplace,Yogi & Yogasan,28.0094004,73.3192161
+place_of_worship,Sai Baba Temple,27.9941172,73.3377737
+place_of_worship,Nandishwar Mahadev Temple,28.0212710,73.2794309
+place_of_worship,Lakshminath (Hindu Temple),28.0045979,73.3002664

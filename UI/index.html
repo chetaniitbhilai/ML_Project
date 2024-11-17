@@ -3,89 +3,111 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Location Search</title>
+    <title>Location and Radius Input</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f0f0f0;
+        #map {
+            height: 400px;
+            margin-top: 20px;
         }
         .container {
-            max-width: 600px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
+            margin-top: 20px;
         }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        label {
+        #resultImage {
             display: block;
-            margin: 10px 0 5px;
-            font-weight: bold;
-        }
-        input[type="number"], input[type="text"] {
+            margin-top: 20px;
             width: 100%;
-            padding: 10px;
-            margin: 8px 0 12px 0;
-            border-radius: 5px;
-            border: 1px solid #ccc;
-        }
-        input[type="submit"] {
-            background-color: #007BFF;
-            color: #fff;
-            padding: 12px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            width: 100%;
-            font-size: 16px;
-        }
-        input[type="submit"]:hover {
-            background-color: #0056b3;
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 600px;
         }
     </style>
 </head>
 <body>
 
     <div class="container">
-        <h1>Find Amenities</h1>
-        <form id="locationForm">
-            <label for="longitude">Longitude:</label>
-            <input type="number" id="longitude" name="longitude" step="any" required>
-
-            <label for="latitude">Latitude:</label>
-            <input type="number" id="latitude" name="latitude" step="any" required>
-
-            <label for="radius">Radius (in km):</label>
-            <input type="number" id="radius" name="radius" step="any" required>
-
-            <input type="submit" value="Submit">
+        <h2 class="text-center">Enter Location and Radius</h2>
+        <form id="locationForm" class="mt-4">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label for="longitude" class="form-label">Longitude</label>
+                        <input type="number" class="form-control" id="longitude" step="any" required>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label for="latitude" class="form-label">Latitude</label>
+                        <input type="number" class="form-control" id="latitude" step="any" required>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label for="radius" class="form-label">Radius (in km)</label>
+                        <input type="number" class="form-control" id="radius" step="any" required>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Show Location and Radius</button>
+            <button type="button" id="sendToBackend" class="btn btn-secondary">Send to Backend</button>
         </form>
+        
+        <div id="map"></div>
+        <!-- Image placeholder to show after backend processing -->
+        
     </div>
 
+    
+    <img id="resultImage" src="output_graph.png" alt="Graph Result" />
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
-        const form = document.getElementById('locationForm');
-        
-        form.addEventListener('submit', async (event) => {
-            event.preventDefault();
+        var map = L.map('map').setView([51.505, -0.09], 13);
 
-            const longitude = parseFloat(document.getElementById('longitude').value);
-            const latitude = parseFloat(document.getElementById('latitude').value);
-            const radius = parseFloat(document.getElementById('radius').value);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
 
-            const data = {
-                longitude: longitude,
-                latitude: latitude,
-                radius_km: radius
-            };
+        document.getElementById('locationForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            var longitude = parseFloat(document.getElementById('longitude').value);
+            var latitude = parseFloat(document.getElementById('latitude').value);
+            var radius = parseFloat(document.getElementById('radius').value);
+
+            map.eachLayer(function(layer) {
+                if (layer instanceof L.Marker || layer instanceof L.Circle) {
+                    map.removeLayer(layer);
+                }
+            });
+
+            map.setView([latitude, longitude], 13);
+
+            var marker = L.marker([latitude, longitude]).addTo(map)
+                .bindPopup("<b>Location</b><br>Latitude: " + latitude + "<br>Longitude: " + longitude)
+                .openPopup();
+
+            var radiusInMeters = radius * 1000;
+
+            var circle = L.circle([latitude, longitude], {
+                color: 'blue',
+                fillColor: 'blue',
+                fillOpacity: 0.2,
+                radius: radiusInMeters
+            }).addTo(map);
+        });
+
+        document.getElementById('sendToBackend').addEventListener('click', async function() {
+            var longitude = parseFloat(document.getElementById('longitude').value);
+            var latitude = parseFloat(document.getElementById('latitude').value);
+            var radius = parseFloat(document.getElementById('radius').value);
+
+            var data = { latitude, longitude, radius };
 
             try {
-                const response = await fetch('https://your-backend-url.com/api/locations', {
+                const response = await fetch('http://localhost:5000/run_pipeline', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
@@ -93,17 +115,21 @@
                     body: JSON.stringify(data)
                 });
 
-                if (!response.ok) {
-                    throw new Error('Failed to send data');
-                }
+                if (response.ok) {
+                    const result = await response.json();
+                    console.log(result);
 
-                const responseData = await response.json();
-                console.log(responseData);
+                    // Display the generated graph image
+                    const resultImage = document.getElementById('resultImage');
+                    resultImage.src = 'http://localhost:5000/get_graph';  // Request the graph image from the backend
+                    resultImage.style.display = 'block';  // Show the image
+                } else {
+                    console.error('Failed to fetch data from the backend');
+                }
             } catch (error) {
                 console.error('Error:', error);
             }
         });
     </script>
-
 </body>
 </html>
