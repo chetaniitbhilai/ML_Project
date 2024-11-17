@@ -1,215 +1,485 @@
 Amenity Type,Name,Latitude,Longitude,road,suburb,state_district
+bar,Saga jodhpur,26.2706354,73.030141,Old residency road,,Jodhpur
+cafe,Pushkar Royal cafe,26.4859906,74.5548751,Jaipur Ghat,,Ajmer
+cafe,Sunset Cafe,26.4868372,74.5562137,Jaipur Ghat,,Ajmer
+cafe,Sheesh Mahal,26.2962017,73.0240979,Sardar Dhaan Mandi,,Jodhpur
+cafe,Café Royale,26.2953602,73.0240593,نئی سرک,Paota,Jodhpur
+cafe,Best Chai,26.2938721,73.0239938,Nai Sarak,Paota,Jodhpur
+cafe,Cafe Nature's Blessing,26.4851418,74.5666976,Pushkar Road,,Ajmer
+cafe,Bismillah food cafe,29.4000555,71.6649215,Model Town Rd,,Bahawalpur Division
+cafe,Misrilal hotel Lassi,26.2944084,73.0241828,نئی سرک,Paota,Jodhpur
+cafe,balaji,26.2686516,72.9978993,garden road,,Jodhpur
+cafe,Shiva Cafe,26.4900062,74.5564586,Varah Ghat,,Ajmer
+cafe,Murkh Vanar,26.4901882,74.55692,Varah Ghat,,Ajmer
+cafe,Nayaran Café & Restaurant,26.4894458,74.5567516,Badi Basti,,Ajmer
+cafe,Coffee Temple,26.4893537,74.5558718,Banshi Ghat,,Ajmer
+cafe,Cafe Coffee Day,26.275235,73.0394597,NH62,Rai Ka Bagh,Jodhpur
+cafe,Babu khan tea snter,26.3001865,73.0321091,Nagori Gate Chauraha,Paota,Jodhpur
+cafe,Coffee Day,26.289678,73.0288053,NH25,Rai Ka Bagh,Jodhpur
+cafe,Funky Monkey,26.4894701,74.5571219,Purani Basti,,Ajmer
+cafe,Lovely Cafe,26.4902175,74.557351,Varah Ghat,,Ajmer
 cafe,Cafe Indra,28.0158728,73.3272931,NH89,,Bikaner
 cafe,Film City Cafe,28.0161397,73.3271232,NH89,,Bikaner
+cafe,Cafe Cave cc,26.4664304,74.6055071,NH58,,Ajmer
+cafe,Star Town Cafe,26.4695589,74.6068666,NH58,,Ajmer
+cafe,Tamasha The cafe,26.4663402,74.6058543,NH58,,Ajmer
+cafe,Shankara Café & Restro,26.5112362,74.6329324,MakadWali Road,,Ajmer
+cafe,RockYard Cafe,26.5104128,74.6308594,MakadWali Road,,Ajmer
+cafe,cafe 007 mailsi,29.7977816,72.1837229,Mailsi-Vehari Road,,
+cafe,Bakers 31,29.3715587,71.6757086,Noor Mahal Road,,Bahawalpur Division
+cafe,Pink Floyd Cafe,26.4902613,74.5575041,Varah Ghat,,Ajmer
+cafe,Sams art cafe,26.296864,73.0227755,Layakam Mohalla,,Jodhpur
+cafe,Brown Sugar,26.2710068,73.0202716,NH62,,Jodhpur
+cafe,Rigveda',26.2709842,73.0201858,NH62,,Jodhpur
+cafe,Rasraj,26.2717256,73.0225601,NH62,,Jodhpur
+cafe,tea and me cafe,26.888491,74.7734181,SH2D,,Didwalna-Kuchaman
+cafe,Blueberrys Cafe at Yogis,26.296596,73.0211055,Manak Chowk,,Jodhpur
+cafe,JEEN BHAWANI KIRANA STORE KHEENWAJ,27.5328726,74.6750687,KHEENWAJ-PANDORAI ROAD,,Didwalna-Kuchaman
+cafe,Bellezza Cafe,26.4790616,74.6466681,Police Line Road,,Ajmer
 cafe,Prachina Cafe,28.0228235,73.3182397,Junagarh Fort Road,,Bikaner
+fast_food,Al Maida,29.3907183,71.6721242,Circular Road,,Bahawalpur Division
+fast_food,Baba Nasir Chawal,29.38787,71.687379,Univesity Chowk Rd,,Bahawalpur Division
+fast_food,Lahori Chicken Shawarma,29.3945888,71.6646207,Gulzar Sadiq Rd,,Bahawalpur Division
+fast_food,McDonald's,26.2892262,73.0286876,NH25,Rai Ka Bagh,Jodhpur
+fast_food,Jai Ambe Misthan $ Namken Shop,26.9223845,71.9200508,SH40,,Jaisalmer
+fast_food,"Jain Hotel, dhawaa",26.0606827,72.750934,NH25,,Jodhpur(Rural)
+fast_food,King of Omelettes,26.295825,73.0236207,Sardar Dhaan Mandi,,Jodhpur
+fast_food,Falafel Wrap Stalls,26.4896275,74.5551169,Badi Basti,,Ajmer
+fast_food,Food club ,29.1411302,71.2267502,National Highway,,Bahawalpur Division
+fast_food,Ganga Restaurant (Laffa & Falafel),26.4895841,74.5549886,Badi Basti,,Ajmer
+food_court,Zanzibar FOOD CLUB,29.3907342,71.6781798,Circular Road,,Bahawalpur Division
+food_court,Sharma Food Court,26.4815502,74.6453752,SH100,,Ajmer
+ice_cream,Ice Touch Ice Cream,29.3906834,71.6723889,Circular Road,,Bahawalpur Division
+ice_cream,Havmor Parlour,26.2717295,73.0224485,NH62,,Jodhpur
+restaurant,Heart Rock Cafe,26.4886223,74.5578553,Badi Basti,,Ajmer
+restaurant,Khans,29.3911157,71.6822778,Circular Road,,Bahawalpur Division
+restaurant,Alpine Pizzeria,26.4879314,74.556551,Bangla Ghat,,Ajmer
+restaurant,Amber,26.4882599,74.5492524,Brahma Temple Road,,Ajmer
+restaurant,Aroma Royal,26.4890459,74.5484391,Brahma Temple Road,,Ajmer
+restaurant,Hotel Akash,26.4887801,74.5493921,Badi Basti,,Ajmer
+restaurant,Mamta,26.4878389,74.5492435,Brahma Temple Road,,Ajmer
+restaurant,Moon Dance,26.4876191,74.5580408,Badi Basti,,Ajmer
+restaurant,Om Shiva Garden Resaurant,26.4880942,74.5570631,Badi Basti,,Ajmer
+restaurant,Shiva Buffet,26.4882291,74.5574607,Badi Basti,,Ajmer
+restaurant,Krishna Softee & Softee,26.2621259,73.0038552,Shastri Circle,,Jodhpur
+restaurant,Jharoka Restaurant,26.2968832,73.0229599,Layakam Mohalla,,Jodhpur
+restaurant,Honey & Spice,26.4897864,74.5548857,Badi Basti,,Ajmer
+restaurant,The Sixth Sense;Hotel Amar,26.4897791,74.5541598,Badi Basti,,Ajmer
+restaurant,Jhankar,26.2965755,73.0225174,Tripoliya Road,,Jodhpur
+restaurant,Indique,26.2964113,73.0240235,Layakam Mohalla,,Jodhpur
+restaurant,Surendra Tea Stall and Cafe,27.5727725,74.6837202,Meethari Marwar to Didwana Road SH 60,,Didwalna-Kuchaman
+restaurant,marwar residency,26.3060629,73.0572641,Paota C Road,Paota,Jodhpur
+restaurant,On the Rocks,26.2817132,73.0378539,NH62,Rai Ka Bagh,Jodhpur
+restaurant,Mishrilala Sweets and Lassi,26.2944201,73.0245241,نئی سرک,Paota,Jodhpur
+restaurant,Shahi Samosa,26.2937794,73.0242029,Nai Sarak,Paota,Jodhpur
 restaurant,Redrock Resort & Restaurant,27.4283623,72.3745766,NH11,,Phalodi
-restaurant,Gallops,28.0218626,73.3200972,Junagarh Fort Road,,Bikaner
-restaurant,Rajwara,27.9993577,73.3339652,Sudharshana Nagar,,Bikaner
-restaurant,Shan Ed Id,28.0179845,73.310189,Mahatma Gandhi Road,,Bikaner
-restaurant,Chandra Niwas,28.0159877,73.3272598,NH89,,Bikaner
-restaurant,Shri Shiv Sagar Restaurant,28.0190231,73.3165422,Mahatma Gandhi Road,,Bikaner
-restaurant,Amberwalla,28.0145988,73.3139354,Mahatma Gandhi Road,,Bikaner
-restaurant,Gabbar,28.0289803,73.3292961,Junagarh Fort Road,,Bikaner
-restaurant,Hotel Radhe Krishna palace,27.9935141,73.3224662,Sudarshana Nagar,,Bikaner
-restaurant,Al-Karim,27.9918513,73.3212966,NH89,Gangashahr,Bikaner
-restaurant,Kai Kabila Restaurant,27.9940964,73.3223518,NH89,,Bikaner
-restaurant,Tanvi Cafe,28.0093492,73.3000525,NH89,,Bikaner
-restaurant,Laxmi Hotel,28.0145082,73.314035,Mahatma Gandhi Road,,Bikaner
-restaurant,Seversl inexpensive Dhabas,28.0202616,73.3177819,Mahatma Gandhi Road,,Bikaner
-restaurant,Gahlot Restaurant,28.0199296,73.317716,Mahatma Gandhi Road,,Bikaner
-restaurant,Jeeman,28.019238,73.3166767,Mahatma Gandhi Road,,Bikaner
+restaurant,college canteen,26.2871638,73.0345048,KN College Pathway,Rai Ka Bagh,Jodhpur
+restaurant,Basant Mango Bar,29.9296782,73.8714063,Gandhi Chowk,,Sri Ganganagar
+restaurant,Gypsy,26.2755449,73.0078391,SardarPura C Road,,Jodhpur
+restaurant,Hanwant Mahal,26.2771952,73.0445396,SH61,,Jodhpur
+restaurant,Kalinga Restaurant,26.2841436,73.0212814,Station Road,,Jodhpur
+restaurant,Kesar Heritage Restaurant,26.2971521,73.0209559,Manak Chowk,,Jodhpur
+restaurant,Tyagi's Roof top,26.4903306,74.5554376,Badi Basti,,Ajmer
+restaurant,Nirvana restaurant,26.2940055,73.0226044,Sardar Dhaan Mandi,,Jodhpur
+restaurant,shree krishna restaurant,26.4893107,74.5568993,Badi Basti,,Ajmer
+restaurant,Restaurante Priya Niwas,26.2885442,73.0258724,نئی سرک,Paota,Jodhpur
+restaurant,Jeeman restaurant,26.2962665,73.0144626,Badri Narayan Ki Gali,,Jodhpur
+restaurant,Baba Restaurant,26.4898314,74.5559177,Varah Ghat,,Ajmer
+restaurant,Shree Ambika Dairy / Amul ice-cream parlour ,26.2028383,73.9412132,NH25,,Beaware
+restaurant,Royal Taj,29.4745899,71.6480536,National Highway,,Bahawalpur Division
+restaurant,Little Italy,26.4864595,74.5625803,Ajmer Road,,Ajmer
+restaurant,Nirvana,26.4898034,74.5559327,Badi Basti,,Ajmer
+restaurant,The Laughing Buddha,26.4890991,74.552373,Badi Basti,,Ajmer
+restaurant,Honey Dew,26.4886542,74.552141,Brahma Temple Road,,Ajmer
+restaurant,Rishi Excellency Jodhpur | Multi cuisine Restro |,26.348866,73.0377834,Mandore Road,,Jodhpur
+restaurant,Dehra Fort,26.5672766,72.3330073,NH125,,Phalodi
+college,JB Teacher Training college,29.8807752,74.2123721,SH7A,,Sri Ganganagar
+college,Shridevi Mahila Polytechnic College,29.6385515,74.3165494,Abohar Road,,Hanumangarh
+college,Maulana Azad Muslim Teachers Training College(Educational Institute),26.2740292,72.9866261,Dev Nagar Circle,,Jodhpur
+college,Jain Girls College,29.9011225,73.8916502,SH36,,Sri Ganganagar
+college,"Narabada Devi Bihani Government PG College, Nohar",29.190605,74.7921699,SH106,,Hanumangarh
+college,Lachoo Memorial College Cricket Ground,26.2676304,72.999671,garden road,,Jodhpur
+college,Jinnah college,29.4059433,71.6680238,Model Town Road,,Bahawalpur Division
+college,post graduate college,29.3907955,71.6971828,University Road,,Bahawalpur Division
+college,Government Lohia College,28.2899265,74.9672473,SH69,,Churu
+college,Govt  Post graduate college,29.1175171,71.2708305,Mandi Yazman-Ahmad Pur Road,,Bahawalpur Division
+college,Govt Girls College,29.1473178,71.2525397,Kutchery Road,,Bahawalpur Division
+driving_school,Shree Bajrang motor Driving school,26.3115339,73.0949281,NH25,,Jodhpur
+kindergarten,Anganwadi,29.113004,74.9773441,,,Hanumangarh
+library,General Libarary,29.391131,71.685019,Univesity Chowk Rd,,Bahawalpur Division
+library,k.n college library,26.2871006,73.0355229,KN College Pathway,Rai Ka Bagh,Jodhpur
+library,City Library,28.4402011,74.4905751,SH6,,Churu
+library,MBM Engineering College Computer lab,26.268033,73.0353016,computer iab road,,Jodhpur
+library,LIBRARY 7LC,29.400447,73.6013522,RAILWAY NAHAR BRIDGE RD,,Anupgarh
+library,vision library,26.8888765,74.7718701,SH2D,,Didwalna-Kuchaman
+library,Saraswati Library,26.4799911,74.6462883,SH100,,Ajmer
+library,Success Point Library,26.479801,74.6463705,SH100,,Ajmer
+library,Tagore Library,26.4777525,74.647125,Police Line Road,,Ajmer
+music_school,J.P. Music School,26.4904668,74.5572167,Varah Ghat,,Ajmer
+school,Gregorios,26.2616007,73.0363552,Sardar Club Street,,Jodhpur
+school,Best College,29.3859699,71.6587568,Tipu Shaheed Road,,Bahawalpur Division
+school,Girls College,29.6238394,71.9204584,Circular Road North,,
+school,Army Public School,29.37079,71.680083,Noor Mahal Road,,Bahawalpur Division
+school,Elementary College for Women,29.387355,71.706347,Street #2,,Bahawalpur Division
+school,FG inter College,29.38272,71.670642,Noor Mahal Road,,Bahawalpur Division
+school,Govt Degeree College for Women,29.383535,71.665363,Dubai Mahal Road,,Bahawalpur Division
+school,Govt FG Boys School,29.37624,71.678581,Malokshah Rd,,Bahawalpur Division
+school,Govt FG Girls School,29.375639,71.677079,Malokshah Rd,,Bahawalpur Division
+school,Govt Girls College,29.399071,71.694889,Jhangiwali Rd,,Bahawalpur Division
+school,Govt Satellite Town School,29.387312,71.708407,Imad Road,,Bahawalpur Division
+school,Govt Secondary High School For Girls,29.387999,71.710081,Imad Road,,Bahawalpur Division
+school,Model Middle School,29.388256,71.707592,Imad Road,,Bahawalpur Division
+school,Sadic Public School,29.377527,71.65266,Ahmedpur Road,,Bahawalpur Division
+school,Tibia College,29.4032665,71.6741767,Qabristan Road,,Bahawalpur Division
+school,Virtual University,29.397526,71.693172,Jhangiwali Rd,,Bahawalpur Division
+school,Goverment school,26.3081417,73.0484232,Shakti Nagar to Bhadasiya,Paota,Jodhpur
+school,Goverment Women School  Lal Medan,26.3004151,73.0414662,Paota C Road,Paota,Jodhpur
+school,Government senior secondary school,27.5724982,74.6840669,Meethari Marwar to Didwana Road SH 60,,Didwalna-Kuchaman
+school,Gyandan Campus,29.6847034,74.298293,SH7A,,Hanumangarh
+school,Govt Girls Sr Sec School,29.5805791,74.3237867,SH36;7,,Hanumangarh
+school,Little Heart Public Secondary School,29.588454,74.3203041,SH36,,Hanumangarh
+school,Vyapar Mandal Sr Sec School Hanumangarh,29.5789343,74.3378154,SH99,,Hanumangarh
+school,"Sardar Doon Public School, Jalori Gate",26.279757,73.0154095,Gole Building Circle,,Jodhpur
+school,School Premisses,26.2741855,72.9871223,Dev Nagar Circle,,Jodhpur
+school,Sri Bhanwar lal Kala Bal Mandir,27.6932451,74.4610531,SH20A,,Churu
+school,Shri Sohanlal Manihar Girls Sr. Sec. School,26.2844416,73.0087601,Geeta Bhavan Road,,Jodhpur
+school,SBD Govt College,28.4358269,74.518719,SH7,,Churu
+school,Mahila Mahavidyalaya,28.4483188,74.514082,SH7,,Churu
+school,Govt Girls School,28.4415336,74.4926592,SH6,,Churu
+school,Akal Academy,29.6861536,73.5375886,NH911,,Sri Ganganagar
+school,Jaloki Primary School,29.6377059,73.5919928,Padampur–Jaitsar Road,,Sri Ganganagar
+school,22 PTD Goverment Senior Secondary School,29.3932975,73.2144706,NH911,,Anupgarh
+school,25 PTD Government Primary School,29.3743626,73.1969074,Border Road,,Anupgarh
+school,Burjwala Primary School,29.8906903,73.4454794,SH7B,,Sri Ganganagar
+school,Naggi Primary School,29.9086059,73.4125995,Border Road,,Sri Ganganagar
+school,Government Girls High School,29.5978924,72.9495316,Dahranwala Haroonabad Road,,Bahawalpur Division
+school,Bahar cooking school,26.4903983,74.551568,unnamed road,,Ajmer
+school,Saraswati dance & music school,26.4896655,74.5517332,Halwai Gati,,Ajmer
+school,Rehman Public School,29.9558299,72.3029856,65/WB link road,,
+school,Govt. Boys Elementry School,29.7683212,73.2652571,Graveyard Road,,Bahawalpur Division
+school,The Best Public School Dinan Bashnoian Wala,29.7632,73.262466,Dunga Bunga - Rampura Rd,,Bahawalpur Division
+school,Umair Raza Public School,29.76704,73.267381,Dunga Bunga - Rampura Rd,,Bahawalpur Division
+school,Govt. Girls Elementry School,29.766107,73.263671,Dunga Bunga - Rampura Rd,,Bahawalpur Division
+school,Government High School Girls,29.9972328,73.2588758,Police Line Road,,Bahawalpur Division
+school,The City Scool,29.3592797,71.694956,Bahawalpur-Mandi Yazman Road,,Bahawalpur Division
+school,Beconhouse School Bahawalpur,29.3600367,71.6927379,Bahawalpur-Mandi Yazman Road,,Bahawalpur Division
+school,Punjab College Bahawalpur,29.3590284,71.6942006,Bahawalpur-Mandi Yazman Road,,Bahawalpur Division
+school,New Bal Vidhya Bhawan School,26.2867585,73.0135038,Corna House Road,,Jodhpur
+school,Best Brain International School,26.2851352,73.0146518,Indira Chowk Road,,Jodhpur
+school,Allied School Ahmad Campus,29.4057941,71.6663951,Model Town Road,,Bahawalpur Division
+school,Government Technical High School,29.3944332,71.6837557,Circular Road,,Bahawalpur Division
 school,Dayananda Public School,28.0225169,73.328,NH89,,Bikaner
+school,GCET CTN,29.811913,72.8698589,Bahawalnagar-Chistian Road,,Bahawalpur Division
+school,GCET CTN,29.8133489,72.869501,Bahawalnagar-Chistian Road,,Bahawalpur Division
+school,Al Rahman Public School,29.7602561,71.0658306,Rohilanwali-ByPass Road,,Dera Ghazi Khan Division
+school,ACE International School,26.2820355,73.0298764,Police Line Road,Rai Ka Bagh,Jodhpur
+school,Ummed Kanya Senior Secondry School,26.2970746,73.0237426,Layakam Mohalla,,Jodhpur
+school,Pakistan public high school,29.1532464,71.2611393,Khakwani Town St,,Bahawalpur Division
+school,Al Sadiq public high school,29.1535065,71.2611111,Ghala Mandi Road,,Bahawalpur Division
+school,School cricket ground,26.5280755,73.298523,jodhpur to bhopalgar,,Jodhpur(Rural)
+school,"Central acedemy,jodhpur",26.3114102,73.0884852,NH25,,Jodhpur
+school,"rajkiya ucch madhyamik vidhylaya , basni tamboliya",26.3349183,73.0825812,NH25,,Jodhpur
+school,Barefoot College,26.6451629,74.9389834,Jaipur Kishangarh Expressway,,Ajmer
+school,sirat public school,29.1569067,71.2453748,Kotla Mosa Khan Road,,Bahawalpur Division
+school,The Smart School,29.1410566,71.2478561,Kutchery Road,,Bahawalpur Division
 school,Shri jasnath shikshan sansthan,27.7337048,73.6733428,,,Bikaner
+school,Dare Arqam,29.2330507,71.06374,N-115,,Bahawalpur Division
 school,Saint Pauls School,27.09438,72.2956724,NH11,,Phalodi
-fuel,BP Jamsar,28.2491389,73.4064752,NH62,,Bikaner
-fuel,Jetharam Dudi,28.0241767,73.2907992,SH3,,Bikaner
-fuel,Indian Oil,27.3795133,72.3482973,NH11,,Phalodi
-fuel,Bharat,28.9153723,73.8603708,NH62,,Bikaner
-fuel,Essar,27.3058071,73.6025723,NH62,,Nagaur
-fuel,Essar,27.3924439,73.550777,NH62,,Nagaur
-fuel,Indian Oil,27.48177,73.5034902,NH62,,Bikaner
-fuel,Bharat,27.5132563,73.4926964,Nokha Bypass,,Bikaner
-fuel,HP,27.6253303,73.4181498,NH62,,Bikaner
-fuel,H P,27.6529553,73.3792602,NH62,,Bikaner
-fuel,Indian Oil,27.8211154,73.3023698,NH62,,Bikaner
-fuel,HP,27.0761713,72.2532994,NH11,,Phalodi
-bank,United Bank of India,27.1998808,73.7320445,SH19,,Nagaur
-bank,bank of baroda,27.1987603,73.7405106,SH19;90,,Nagaur
-clinic,"Get Well Nursing Home, Bikaner",28.0102211,73.3429115,Sudarshan Nagar Vallabh Garden Road,,Bikaner
-clinic,Surana Nursing Home,28.0040758,73.3274786,NH89,,Bikaner
-clinic,Marothi Clinic,27.5565283,73.4738952,MDR37,,Bikaner
-clinic,Bafna Clinic,27.9829047,73.3010771,NH89,Gangashahr,Bikaner
-clinic,R K Orthopaedic and Trauma Centre,28.016276,73.336182,NH89,,Bikaner
-clinic,GESI Clinic,28.0146724,73.3233432,NH89,,Bikaner
-clinic,Harsh Clinic,28.0209016,73.2992635,SH3,,Bikaner
-clinic,Guru Kripa Homoeo Clinic,28.0146317,73.313753,Mahatma Gandhi Road,,Bikaner
-clinic,Dr. M.G. Periwal Clinic,27.5585699,73.4720116,SH20,,Bikaner
-clinic,Ambika Clinic,28.0262125,73.3186948,Junagarh Fort Road,,Bikaner
-clinic,Dr. Gurupal Clinic,28.5123333,72.8100994,NH911A,,Bikaner
-clinic,Dr. Santosh Chandak Child Clinic,27.9883995,73.3013617,NH89,Gangashahr,Bikaner
-clinic,Swasthya Seva Clinic,28.0509786,73.2879698,Lalgarh link SH 3,,Bikaner
-clinic,Taparia Nursing Home,27.5565656,73.4740839,MDR37,,Bikaner
-clinic,Dr Ashok Sharma's Clinic,28.0093268,73.3312701,NH89,,Bikaner
-clinic,Dr. Manak Gujrani Clinic,28.0040216,73.3269418,NH89,,Bikaner
-clinic,Roshni Gupta Clinic,28.5052088,72.8130828,NH911,,Bikaner
-clinic,Janta Clinic,28.0030086,73.2712978,Moonlit School Road,,Bikaner
-clinic,Dr. Mohammad Salim Clinic,28.0018441,73.3278728,NH89,,Bikaner
-clinic,Amba Eye Care,28.700233,72.5951586,SH94,,Bikaner
-clinic,Swami Homeo Clinic,28.017138,73.315314,Mahatma Gandhi Road,,Bikaner
-clinic,Purohit Medicose,27.5574074,73.4720313,SH20,,Bikaner
-clinic,Narul Clinic,28.4881772,73.7412674,SH6A,,Bikaner
-clinic,Saaol Heart Centre,27.9937631,73.3363194,Sudarshana Nagar Inner Road,,Bikaner
-clinic,Jai Kachhawa Clinic,28.022015,73.3132543,Junagarh Fort Road,,Bikaner
-clinic,Dr. Mohit Bansal's Clinic,28.0140937,73.3244915,NH89,,Bikaner
-clinic,Mind Care Clinic,28.0135343,73.3241127,NH89,,Bikaner
-clinic,Yash Clinic,27.2138029,73.7306171,MDR 69,,Nagaur
-clinic,Naveen Clinic,27.198984,73.7465066,SH19;90,,Nagaur
-clinic,Rathore Clinic,27.2184066,73.7155467,SH19,,Nagaur
-clinic,Dr. Sahab Clinic,27.1240223,72.3776722,SH28,,Jodhpur(Rural)
-clinic,Dr. Dinesh Sharma Clinic,27.126376,72.368541,SH28,,Jodhpur(Rural)
-clinic,S.G Vyas Clinic,27.122028,72.3770788,SH28,,Jodhpur(Rural)
+school,Government Middle School,29.9938161,74.833684,NH254,,Bathinda
+school,15bb school,29.7317994,73.700229,NH911,,Sri Ganganagar
+school,GCT - TEVTA,29.3721528,71.7152051,University Road,,Bahawalpur Division
+school,Primary School,27.4745902,74.8773143,SH7,,Sikar
+school,Genius Little Flower Public School,29.4809638,74.0684747,,,Hanumangarh
+school,Genius Public Senior Secondary School,29.4809576,74.0684242,,,Hanumangarh
+school,Vyapar Mandal Public School,29.4809917,74.0660398,,,Hanumangarh
+school,Queen Mary's Girl's School,26.4687432,74.6052247,NH58,,Ajmer
+university,"Maulana Azad University, Jodhpur",26.2740486,72.987252,Dev Nagar Circle,,Jodhpur
+university,Tantia University,29.8699913,73.9370605,SH36,,Sri Ganganagar
+bicycle_repair_station,Chishti Auto Leasing,29.392,71.6934829,Farid Gate Road,,Bahawalpur Division
+bicycle_repair_station,Mastana Tyre Tube Repair,26.2881831,73.0232994,New Link Road,,Jodhpur
+parking,bus park,26.4860878,74.6711016,Jaipur Road,,Ajmer
+parking,Bus Stop & Parking,26.1479466,73.0472894,NH62,,Jodhpur(Rural)
+atm,SBI ATM,29.5742035,74.3280029,SH99,,Hanumangarh
+atm,UCO Bank ATM,29.573933,74.3279386,SH99,,Hanumangarh
+atm,State Bank ATM,29.583021,74.3226171,SH36;7,,Hanumangarh
+atm,Canara Bank,26.6515851,74.0419282,SH39,Merta Road,Nagaur
+atm,State Bank,26.6508325,74.038664,SH39,Merta Road,Nagaur
+atm,State bank,26.2936075,73.0177516,Katla Bazar,,Jodhpur
+atm,State Bank of India,26.2936368,73.0176176,Katla Bazar,,Jodhpur
+atm,State Bank ATM,26.2891032,73.0140708,Corna House Road,,Jodhpur
+atm,Punjab National Bank,26.2839592,73.0225635,Station Road,,Jodhpur
+atm,ICCI atm,26.2873251,73.015049,Baba Ramdev Mohalla,,Jodhpur
+atm,Axis Bank ATM,26.287577,73.0150096,Baba Ramdev Mohalla,,Jodhpur
+atm,IDBI bank,26.292702,73.0244609,Nai Sarak,Paota,Jodhpur
+atm,HDFC,26.2928743,73.0247878,نئی سرک,Paota,Jodhpur
+atm,Punjab National Bank,26.2929953,73.0247641,Fish Street,Paota,Jodhpur
+atm,SBI,26.2945768,73.0318945,Fish Street,Paota,Jodhpur
+atm,Axis Bank ATM,26.2966279,73.0225777,Tripoliya Road,,Jodhpur
+atm,State Bank of India,26.2919039,73.0250401,نئی سرک,Paota,Jodhpur
+atm,Bank of Baroda ATM,26.2929836,73.0163098,Katla Bazar,,Jodhpur
+atm,State Bank of India,26.285278,73.0223348,NH25,Rai Ka Bagh,Jodhpur
+atm,Bank of Baroda ATM,26.2845656,73.0222862,Station Road,,Jodhpur
+atm,Bank of Baroda ATM,26.2879201,73.0250034,NH25,Rai Ka Bagh,Jodhpur
+atm,Union Bank ATM,26.2873556,73.0225873,NH25,,Jodhpur
+atm,ICICI Bank ATM,26.286859,73.0228309,NH25,Rai Ka Bagh,Jodhpur
+atm,HDFC Bank ATM,26.286833,73.0228673,NH25,Rai Ka Bagh,Jodhpur
+atm,SBI,26.4882654,74.5493617,Brahma Temple Road,,Ajmer
+atm,Bank of Baroda,26.4896963,74.5556753,Badi Basti,,Ajmer
+atm,ICICI,26.4891949,74.5570454,Badi Basti,,Ajmer
+atm,Union bank of India,26.5893333,74.8677829,SH7E,,Ajmer
+atm,SBI 7LC,29.4052014,73.6033237,GURUDWARA SAHIB ROAD,,Anupgarh
+atm,HDFC,28.088914,74.0083061,NH-11,,Bikaner
+bank,State Bank of India,26.2929805,73.0354853,Mandore Road,Paota,Jodhpur
+bank,Punjap National Bank,26.488514,74.5493477,Brahma Temple Road,,Ajmer
+clinic,Primary Health Center,29.8911704,73.4456605,SH7B,,Sri Ganganagar
+clinic,Jagadamba medical store,29.1851019,73.2041083,NH911,,Anupgarh
+clinic,Sadia Tariq Clinic,29.4072837,71.6726532,Model Town Road,,Bahawalpur Division
+dentist,Shree Vinayak Dental Clinic,26.4763473,74.6479905,Police Line Road,,Ajmer
+dentist,Dr. Bothra's SMILE Designing Center,26.2749934,73.0050316,Residency Road,,Jodhpur
+dentist,Tela Dental Clinic,26.4755238,74.6344829,SH100,,Ajmer
+dentist,Jain Dental Hospital,29.535525,73.4477979,NH911,,Sri Ganganagar
+dentist,Sevak Dental Clinic,29.189687,73.1934439,NH911,,Sri Ganganagar
+dentist,Setia Dental Clinic,29.3195364,73.9037478,NH62,,Sri Ganganagar
+dentist,Jaipur Dental Hospital,29.319273,73.903463,NH62,,Sri Ganganagar
+dentist,Dencity Dental Care,29.3230003,73.9035928,NH62,,Sri Ganganagar
+dentist,Satguru Dental Clinic,29.7069979,73.6275337,NH911,,Sri Ganganagar
+dentist,Sidana Dental Clinic,29.8419574,73.4565702,SH7B,,Sri Ganganagar
+dentist,Sidhu Dental Clinic,29.1948138,73.2065086,NH911,,Sri Ganganagar
+dentist,Manglam Dental Hospital,29.185941,73.2068298,NH911,,Sri Ganganagar
+dentist,Dr Mishra's Dental Clinic,29.3244757,73.9057856,NH62,,Sri Ganganagar
+dentist,Gumber Dental Hospital and Trauma Centre,29.8426596,73.4557262,SH7B,,Sri Ganganagar
+dentist,Ahuja Dental and Perio-Implant Surgery Clinic,29.9195247,73.8664707,2,,Sri Ganganagar
+dentist,Godara Dental Clinic,29.025148,73.073279,NH911,,Sri Ganganagar
+dentist,Bansal Dental Hospital,29.906356,74.1803508,SH7B,,Sri Ganganagar
+dentist,Shivam Dental Clinic and Hospital,29.2435421,73.5216142,SH94,,Sri Ganganagar
+dentist,Satyam Dental Care,29.1858637,74.9793555,SH106,,Hanumangarh
+dentist,Saharan Dental Hospital,29.1852596,74.7717613,NH703,,Hanumangarh
+dentist,Shri Ram Dental Hospital,29.1904727,74.7676055,SH36,,Hanumangarh
+dentist,Chopra Dental Clinic,29.264369,74.4041368,SH7,,Hanumangarh
+dentist,Dental Care Clinic,29.2599979,74.4029754,SH7,,Hanumangarh
+dentist,Smile Dental Clinic,29.26466,74.40306,SH7,,Hanumangarh
+dentist,Bhadu Dental Clinic,29.2638383,74.4062705,SH7,,Hanumangarh
+dentist,Choudhary Dental Clinic,29.2599794,74.4061567,SH7,,Hanumangarh
+dentist,Jain Udai Dental Clinic,29.611838,74.2862977,SH36,,Hanumangarh
+dentist,Dr. Shobhit's Dental Clinic,29.263776,74.4084503,SH7,,Hanumangarh
+dentist,Daya Dental Clinic,29.1906443,74.7677582,SH36,,Hanumangarh
+dentist,Chugh Dental Care,29.5529217,74.5035668,SH76;99,,Hanumangarh
 dentist,Pareek Dental Clinic,27.559254,73.4790008,SH20,,Bikaner
 dentist,Periwal Dental Clinic & Implant Centre,27.5589366,73.4765123,SH20,,Bikaner
 dentist,Sunder Dental Hospital,27.5567168,73.4720812,MDR37,,Bikaner
 dentist,Shri Jain Dental Clinic & Implant Centre,27.5565617,73.471511,MDR37,,Bikaner
+dentist,Prajapati Dental Care,27.7085072,74.4653283,SH20A,,Churu
+dentist,Atharv Dental and General Clinic,28.2900536,74.9659917,SH69,,Churu
+dentist,Krishna Dental Clinic,27.7032528,74.4679184,SH20A,,Churu
+dentist,Marudhar Dental Clinic,27.6945957,74.4655723,SH20A,,Churu
+dentist,Dilsukh Dental Clinic,28.072398,74.6227645,Joshi Street,,Churu
+dentist,Smile Dental Clinic,27.9973645,74.9593492,NH11,,Sikar
+dentist,Sharma Clinic and Dental Care Centre,27.3980066,74.5701446,SH7D;60;84,,Nagaur
+dentist,Marwar Dental Hospital,26.6498802,74.0360962,SH39,Merta Road,Nagaur
+dentist,Dr. Anil's Kothari Dental Hospital,26.6492265,74.0359719,SH39,Merta Road,Nagaur
+dentist,Jain Dental Care,26.8962664,74.3235485,SH59,,Nagaur
+dentist,Charbhuja Dental Care,26.6489991,74.0301281,SH39,Merta Road,Nagaur
+dentist,Astha Dental Cilinic,26.6497954,74.0330204,SH39,Merta Road,Nagaur
+dentist,Bhopalgarh Dental Clinic & Implant Centre,26.650579,73.496761,SH86C,,Jodhpur(Rural)
+dentist,Krishna Dental Care,26.3819806,73.5401446,MDR121,,Jodhpur(Rural)
+dentist,Apex Dental,26.2199694,73.0194914,Jodhpur Bypass,Basani,Jodhpur
+dentist,Kanta Dental Care,26.2262309,73.017071,NH62,,Jodhpur
+dentist,Lodha Dental Care,26.2646696,73.0005108,Pushkar Estate Road,,Jodhpur
+dentist,Varsha Dental Hospital,26.2311746,73.0187387,NH62,,Jodhpur
+dentist,Solanki Dental Clinic,26.7296861,72.9031492,Osian Market Road,,Jodhpur(Rural)
+dentist,Manas Orthodontic Centre,26.2695899,73.0052455,Medical College Road,,Jodhpur
 dentist,Jodhpur Dental Care,27.127134,72.36796,SH28,,Jodhpur(Rural)
+dentist,IG Dental Hospital,26.1797361,73.7083508,SH62,,Jodhpur(Rural)
+dentist,Madhav Dental clinic,26.0386966,74.0227223,NH458,,Pali
+dentist,Roots Dental Care,26.4526786,74.667928,Shreenagar Road,,Ajmer
+dentist,Advance Dental Speciality Clinic,26.483814,74.646914,SH100,,Ajmer
+dentist,Goyal Janana and Dental Hospital,26.4507086,74.6363895,Station Road,,Ajmer
+dentist,Al Rehman Dental,29.1373782,71.2629436,THQ Road,,Bahawalpur Division
+doctors,Hakeem Ubaid,29.8281877,71.3494671,Lodhran-Shuajabad Road,,
+doctors,Akashdeep House 8A,29.1333164,73.2879926,,,Anupgarh
+doctors,Dr. Ravi Trehan - Hanumangarh,29.6071799,74.2929988,SH36,,Hanumangarh
+doctors,Dr. Devender Grover,29.9025318,73.8776911,SH36,,Sri Ganganagar
+doctors,Dr. Dinesh Bhatdwaj,29.705231,73.6335467,NH911,,Sri Ganganagar
+doctors,Dr. Parveen Bishnoi,29.917794,73.8956803,SH7B,,Sri Ganganagar
+doctors,Dr. Som Bhatia,29.9023519,73.8845847,SH36,,Sri Ganganagar
+doctors,Dr. Sapna Baweja Sharma,29.3172176,73.903299,NH62,,Sri Ganganagar
+doctors,Dr. Vijay Setia,29.9219524,73.8711179,Kotwali Road,,Sri Ganganagar
+doctors,Dr. Ravi Bhagat,29.9214154,73.8688131,Kotwali Road,,Sri Ganganagar
+doctors,Dr. Tarachand Verma,29.9269772,73.8631157,NH911,,Sri Ganganagar
+doctors,Dr. Rishu Sharma,29.7073205,73.628206,NH911,,Sri Ganganagar
+doctors,Dr. Arun Kalra,29.920778,73.869414,Kotwali Road,,Sri Ganganagar
+doctors,Dr. Raj Kaushik,29.9268367,73.8628033,NH911,,Sri Ganganagar
+doctors,Dr. Pawan Goyal,29.1930594,73.2056703,NH911,,Sri Ganganagar
+doctors,Dr. S. K. Kothari,29.4857251,74.0748116,,,Hanumangarh
+doctors,Dr. Sandeep Sihag,29.5763386,74.3351877,SH99,,Hanumangarh
+doctors,Dr. S. L. Pareek,29.576736,74.338627,SH99,,Hanumangarh
+doctors,Dr. Gotam Swami,29.1827883,74.7773764,NH703,,Hanumangarh
+doctors,Dr. Jagtar Singh Khosa,29.5770468,74.3349011,SH99,,Hanumangarh
+doctors,Dr. Sameer Saharan,29.5726242,74.3228788,SH36;7,,Hanumangarh
+doctors,Dr. BK Sharma,29.5828053,74.3221274,SH36;7,,Hanumangarh
 doctors,Dr. Lokesh Sarswat,27.5515594,73.4764526,MDR37,,Bikaner
 doctors,Dr. Ram Saraswat,28.7071912,72.5987133,SH94,,Bikaner
 doctors,Dr. Manoj Meena,27.99752,73.332407,Sudarshana Nagar,,Bikaner
 doctors,Dr. Ghanshyam Panwar,28.027321,73.318179,Junagarh Fort Road,,Bikaner
 doctors,Dr. Ramesh Poonia,27.8416291,72.9607188,panchu kishnasar  kolayat road,,Bikaner
+doctors,Dr. Sitaram,28.0963304,74.0073979,SH93,,Bikaner
 doctors,Dr. M.Y. Joiya Kolayat,27.8413749,72.9608827,panchu kishnasar  kolayat road,,Bikaner
 doctors,Dr. Ashok Singhl,27.9890591,73.3025953,NH89,Gangashahr,Bikaner
 doctors,Dr. Shyam Bajaj,27.5610416,73.4804534,SH20,,Bikaner
 doctors,Dr. Deep Chand,28.0068928,73.3497701,Sudarshan Nagar Vallabh Garden Road,,Bikaner
 doctors,Dr. Vedprakash,28.024498,73.37607,Vallabh Garden Road,,Bikaner
+doctors,Dr. M.L. Shyamsukha,28.2931685,74.9646496,bhartiya road,,Churu
+doctors,Dr. C.L. Gahlot,28.2930924,74.972147,SH69,,Churu
+doctors,Dr. Nirmal Pareek,28.4330762,74.5027552,SH6,,Churu
+doctors,Dr. V P Purohit,28.0693481,74.6232587,Joshi Street,,Churu
+doctors,Dr. Kapil Verma,28.2881395,74.9744991,SH69,,Churu
+doctors,Dr. Goyal,28.0673915,74.617733,SH107,,Churu
+doctors,Dr. Rajendra Sharma,27.699808,74.473372,SH20A,,Churu
+doctors,Dr. Arun,28.293504,74.963335,bhartiya road,,Churu
+doctors,Dr. Ravi Agarwal,28.2920239,74.9724388,SH69,,Churu
+doctors,Dr. Anil Chawla,28.2931206,74.9733747,SH69,,Churu
+doctors,Dr. Chanderbhan - Paediatrician,28.4379884,74.4856677,SH6,,Churu
+doctors,Dr. Shivraj Singh - Pediatrician,27.9939291,74.9593463,NH11,,Sikar
 doctors,Dr. Anita Beniwal,27.1927401,73.7149013,MDR37A,,Nagaur
+doctors,Dr. Kana Ram Choudhary,27.4012258,74.5636898,SH7D;60;84,,Nagaur
 doctors,Dr. R.K. Suthar,27.2018726,73.7242299,SH19,,Nagaur
 doctors,Dr. Pradeep Chaudhary,27.1847908,73.7403208,SH19;90,,Nagaur
+doctors,Dr. Fogatiya,27.6445243,74.390054,SH20B,,Nagaur
+doctors,Dr. Vikram Singh,26.8866087,74.7654491,SH2D,,Nagaur
 doctors,Dr. Kailash Khoja,27.1896798,73.7283286,MDR37A,,Nagaur
+doctors,Dr. Ram Khetawat,26.2609642,72.9790153,NH25,Nandanvan,Jodhpur
+doctors,Dr. Ganpat,26.2284723,73.025261,NH62,,Jodhpur
+doctors,Dr. KB Garg,26.180025,73.7082966,SH62,,Jodhpur(Rural)
+doctors,Dr. Swaroop Ram Seervi,26.1890142,73.7073215,NH25,,Jodhpur(Rural)
+doctors,Dr. Pravesh Vyas,26.2614533,72.9798085,NH25,Nandanvan,Jodhpur
+doctors,Dr. Sandeep Sharma,26.2596301,72.9800143,NH25,Nandanvan,Jodhpur
+doctors,Dr. N.K. Arora,26.2968994,73.0263245,Fish Street,Paota,Jodhpur
+doctors,Dr. CS Aseri,26.186431,73.7069857,NH25,,Jodhpur(Rural)
+doctors,Dr. Amita Bhargav,26.2683535,73.006506,Medical College Road,,Jodhpur
+doctors,Dr. Dipti Sharma,26.3006547,73.028512,Nagori Gate Chauraha,Paota,Jodhpur
+doctors,Dr. Jethani,26.2651999,73.0044194,Shastri Circle,,Jodhpur
 doctors,Dr. Mukesh Chouhan,27.1302316,72.3591874,SH28,,Jodhpur(Rural)
-hospital,SP Med. College's Diagnostics,28.0068594,73.3303338,NH89,,Bikaner
-hospital,J.D.Bagree Institute Of Surgical Sciences,28.0047291,73.336192,Sudarshan Nagar Vallabh Garden Road,,Bikaner
-hospital,Haldi Ram Moolchand Hospital,28.011244,73.3300227,NH89,,Bikaner
-hospital,Kalra Health Care Pvt Ltd,27.9998083,73.3338073,Sudharshana Nagar,,Bikaner
-hospital,Bhaskar Hospital and Research Center Pvt Ltd,27.2031426,73.7216735,SH19,,Nagaur
-hospital,Bikaner Eye Hospital and Research Centre,28.010356,73.3133031,NH89,,Bikaner
-hospital,Rawat Hospital,28.0030839,73.3276785,NH89,,Bikaner
-hospital,MN Hospital and Research Centre,28.0273702,73.3253002,Junagarh Fort Road,,Bikaner
-hospital,Tulsi Dharnia Memorial Cancer Hospital,28.0154116,73.3333111,NH89,,Bikaner
-hospital,Shri Asharam Memorial Navjeevan Hospital,27.2035946,73.7244992,SH19,,Nagaur
-hospital,ASG Eye Hospitals,28.0103264,73.3187695,NH89,,Bikaner
-hospital,"District Hospital, Bikaner",28.0205207,73.3024282,SH3,,Bikaner
-hospital,Vyas Eye Care Center,28.003968,73.3275671,NH89,,Bikaner
-hospital,Shivam Hospital and Pathri Nivaran Kendra,27.1908071,73.7372996,SH19;90,,Nagaur
-hospital,Chalana Hospital and Research Centre,28.0116098,73.3543758,Vallabh Garden Road,,Bikaner
-hospital,Dr.Tanveer Malawat Hospital and Research Centre,28.0095792,73.3188754,NH89,,Bikaner
-hospital,Dr. Meenakshi Gomber,28.0256428,73.2985269,SH3,,Bikaner
-hospital,Pratap Prasuti Grih,28.0051983,73.3099477,NH89,,Bikaner
-hospital,"Government Hospital, 5 Dol",28.8159982,72.8363792,SH94,,Anupgarh
-hospital,Government Hospital Rajasar Bhatiyan,28.492028,73.347803,SH6A,,Anupgarh
-hospital,"Government Hospital, Mahajan",28.7847428,73.8468217,NH62,,Bikaner
-hospital,Governmet Hospital Sheikhsar,28.6047033,73.9744808,shaikhasar to khodala,,Bikaner
-hospital,Kalu Government Hospital,28.3762764,73.8877349,SH6A,,Bikaner
-hospital,"Government Hospital, Godu",27.999177,72.269329,NH911,,Bikaner
-hospital,"Government Hospital,Barsingsar",27.826015,73.2067144,,,Bikaner
-hospital,"Government Hospital, Badnun",27.924392,73.776425,,,Bikaner
-hospital,"District Hospital, Bikaner",28.0205156,73.302896,Mahatma Gandhi Road,,Bikaner
-hospital,"Government Hospital, Kesar Desar Jatan",27.856204,73.489944,Amritsar–Jamnagar Expressway,,Bikaner
-hospital,"Government Hospital, Kelansar",27.3445923,72.9341173,,,Phalodi
-hospital,"Government Hospital, Jangloo",27.6774004,73.2364868,panchu kishnasar  kolayat road,,Bikaner
-hospital,"Government Hospital, Koodsoo",27.5447356,73.3467786,SH87A,,Bikaner
-hospital,Governmet Hospital Sadoo Bari,27.6386501,73.9901709,,,Churu
-hospital,"Government Hospital, Alai",27.3293082,73.5819848,NH62,,Nagaur
-hospital,Governmet Hospital Shribalaji,27.4246629,73.5514241,NH62,,Nagaur
-hospital,"Government Hospital, Mundwa",27.060861,73.820706,SH39,,Nagaur
-hospital,"Government Hospital, Champasar",27.2657175,73.0659439,Amritsar–Jamnagar Expressway,,Jodhpur(Rural)
-hospital,"Government Hospital, Chawandiya",27.172682,73.419899,SH19,,Nagaur
-hospital,"Government Hospital, Nagaur",27.207984,73.737215,SH19;90,,Nagaur
-hospital,"Government Hospital, Karlu",27.00556,73.695469,,,Nagaur
-hospital,"Government Hospital, Bodwa",27.075125,73.952762,NH58,,Nagaur
-hospital,Government Hospital Taausar,27.159945,73.73881,Nagaur Bypass,,Nagaur
-hospital,"Government Hospital, Aau",27.2037579,72.8468997,MDR35,,Jodhpur(Rural)
-hospital,District Hospital Nagaur,27.225521,73.696839,NH62,,Nagaur
-hospital,Global Hospital and Research Centre,28.045593,73.327816,Lalgarh link SH 3,Lalgarh,Bikaner
-hospital,Goodwill Eye & General Hospital,28.0003042,73.3297509,Sudarshana Nagar,,Bikaner
-hospital,Apple Children Hospital,28.020013,73.295303,SH3,,Bikaner
-hospital,Dhanvantari Hospital,28.4882988,73.7387545,SH6A,,Bikaner
-hospital,Surana Nursing Home,27.5591689,73.4725798,SH20,,Bikaner
-hospital,Bhiwani Hospital,28.0020454,73.345233,Sudarshan Nagar Vallabh Garden Road,,Bikaner
-hospital,Rajasthan Nursing Home,28.0016854,73.3230837,NH89,,Bikaner
-hospital,Beniwal Hospital,28.0156574,73.33631,NH89,,Bikaner
-hospital,Nipun Hospital,27.8495041,72.965051,panchu kishnasar kolayat road,,Bikaner
-hospital,Dr. Vijay Tundwal Hospital,28.0228778,73.3769603,Vallabh Garden Road,,Bikaner
-hospital,ESI Hospital,28.0234808,73.2878197,SH3,,Bikaner
-hospital,Rajasthan Nursing Home,28.0077449,73.3158387,NH89,,Bikaner
-hospital,Shri Krishna NeuroSpine and Multispeciality Hospital,28.0102202,73.3436011,Sudarshan Nagar Vallabh Garden Road,,Bikaner
-hospital,Shri Ram Hospital,28.0138182,73.3239605,NH89,,Bikaner
-hospital,City Hospital,28.4935229,73.7457891,NH62,,Bikaner
-hospital,Shubham Nursing Home,28.0221341,73.2995086,SH3,,Bikaner
-hospital,Navjeevan Hospital & Research Centre,28.0214033,73.2892907,SH3,,Bikaner
-hospital,Kaswan Hospital,28.0140848,73.3287922,NH89,,Bikaner
-hospital,Vardaan Hospital,28.0062968,73.3421349,Sudarshan Nagar Vallabh Garden Road,,Bikaner
-hospital,Government T.B. Hospital,28.0082,73.327157,NH89,,Bikaner
-hospital,Laxmi Hospital,27.5602283,73.4719462,SH20,,Bikaner
-hospital,Somani Nursing Home,27.5540286,73.4778353,MDR37,,Bikaner
-hospital,Bishnoi Hospital,27.9933071,73.3197725,NH89,Gangashahr,Bikaner
-hospital,LN Hospital,27.9865635,73.284444,NH89,Gangashahr,Bikaner
-hospital,Balaji Hospital,28.0088122,73.331097,NH89,,Bikaner
-hospital,Baheti Eye Hospital,27.5589099,73.4727302,SH20,,Bikaner
-hospital,Sanjeevani Hospital,28.0268457,73.302355,SH3,,Bikaner
-hospital,New Apollo Hospital and Multi Speciality Centre,28.0150806,73.3233999,NH89,,Bikaner
-hospital,Choudhary Eye Hospital and Opticals,28.4836679,73.7439295,SH6A,,Bikaner
-hospital,Rawat ENT Hospital,28.0035819,73.3270772,NH89,,Bikaner
-hospital,Bikana Hospital & Research Centre,28.0242636,73.2967181,SH3,,Bikaner
-hospital,Aarogyam Multi Speciality Hospital,28.011176,73.316046,NH89,,Bikaner
-hospital,Mathur Hospital & Research Centre,28.0104227,73.317133,NH89,,Bikaner
-hospital,Sugni Devi Jaisraj Baid Hospital and Research Centre,28.006688,73.307952,NH89,,Bikaner
-hospital,Floral Hospital,27.9974216,73.3143267,NH89,Gangashahr,Bikaner
-hospital,Shanti Memorial Hospital,27.9999227,73.3235193,NH89,,Bikaner
-hospital,Rajasthan Naturopathy Hospital,27.9923203,73.3025743,NH89,Gangashahr,Bikaner
-hospital,P.M.C.T. Hospital,27.5626662,73.4806281,SH20,,Bikaner
-hospital,Soni Hospital,27.5600799,73.472459,SH20,,Bikaner
-hospital,Binnani Hospital and IVF Centre,27.9946366,73.3300873,Sudarshana Nagar,,Bikaner
-hospital,Dr. Shyam Agrawal Child Care Hospital,28.0220392,73.2974431,SH3,,Bikaner
-hospital,Rajni Hospital,28.0217884,73.296467,SH3,,Bikaner
-hospital,N.W. Railway Divisional Hospital,28.0320412,73.3063543,Junagarh Fort Road,,Bikaner
-hospital,Marwar Hospital,28.0146421,73.3222724,NH89,,Bikaner
-hospital,Arya Hospital,27.9873413,73.3348765,Sudarshana Nagar Inner Road,,Bikaner
-hospital,Marudhar Hospital,27.1908388,73.7382772,SH19;90,,Nagaur
-hospital,ASG Eye Hospital,27.2045966,73.7230042,SH19,,Nagaur
-hospital,Divya Sai Hospital,27.197853,73.752743,SH19;90,,Nagaur
-hospital,Bhutra Health Care Centre,27.2031381,73.7257817,SH19,,Nagaur
-hospital,Dental Hospital,27.1994657,73.7459993,SH19;90,,Nagaur
-hospital,T.B. Hospital,27.2032575,73.7236905,SH19,,Nagaur
-hospital,Sri Hariram Dental Care and General Hospital,27.2041708,73.7226325,SH19,,Nagaur
-hospital,Shree Ram Hospital,27.194935,73.740991,SH19;90,,Nagaur
-hospital,Sufiya Hospital,27.171531,73.6432798,MDR37A,,Nagaur
-hospital,Marwar Child Care Centre,27.2016066,73.7243458,SH19,,Nagaur
-hospital,Mahadev Hospital,27.203545,73.725742,SH19,,Nagaur
-hospital,Kala Nursing Home,27.2014163,73.7241418,SH19,,Nagaur
-hospital,Life Line Hospital,27.206103,73.7216771,SH19,,Nagaur
-hospital,Bisu Hospital,27.2055327,73.7218484,SH19,,Nagaur
-hospital,Harshit Hospital,27.19026,73.7327412,MDR37A,,Nagaur
-hospital,Drishti Eye Hospital,27.2041846,73.7230964,SH19,,Nagaur
-hospital,Army Hospital,27.2021151,73.7169946,SH19,,Nagaur
-hospital,Shri Hari Ram Hospital & Research Centre,27.2063803,73.7215259,SH19,,Nagaur
-hospital,Dr. J K Charan Hospital,27.1984593,73.7508306,SH19;90,,Nagaur
-hospital,Dr. Saroj Paliwal Hospital and Infertility Centre,27.1214537,72.3812504,SH28,,Jodhpur(Rural)
-hospital,Shree Shyam Nursing Home,27.1237362,72.3781535,SH28,,Jodhpur(Rural)
-hospital,City Light Hospital,27.125921,72.38099,NH11,,Jodhpur(Rural)
-hospital,Kalapurnam General Hospital,27.1153438,72.4154398,SH19,,Jodhpur(Rural)
-hospital,Shiv Ganga Hospital,27.1303957,72.3678327,SH28,,Jodhpur(Rural)
-hospital,PBM Hospital PMR Public Medicine and Rehabilitation Wing Building,28.0054657,73.3280749,NH89,,Bikaner
+doctors,Dr. Parbhu Dayal Sinar,26.2141269,73.0220492,Jodhpur Bypass,Basani,Jodhpur
+doctors,Dr. Balveer Choudhary,26.2681437,72.9942252,NH25,,Jodhpur
+doctors,Dr. Vinay Kapoor,26.3010285,74.7353108,SH102,Nasirabad Cantonment,Ajmer
+doctors,Dr. Kashmiri Lal,29.959259,74.966718,NH254,,Bathinda
+doctors,Hijama centre,29.3984833,71.6509656,Gulberg Road,,Bahawalpur Division
+doctors,Rescue 1122,29.1455983,71.248653,Kutchery Road,,Bahawalpur Division
+doctors,Dr Praveen Sharma,28.4334603,74.5023988,SH6,,Churu
+doctors,Dr. Surendra Joshi,26.4800063,74.6467316,SH100,,Ajmer
+hospital,Mahatma Gandhi Hospital,26.2831291,73.0185635,Station Road,,Jodhpur
+hospital,IUB Hospital,29.3755291,71.7542285,Canal Road,,Bahawalpur Division
+hospital,Sharda nurshing home,29.1919649,73.2058131,NH911,,Anupgarh
+hospital,"Kothari Hospital, Jodhpur",26.2698481,72.9736829,श्री सिद्धनाथ महादेव | Shri Siddhnath Road,Jwala Vihar,Jodhpur
+hospital,Rasheed Hospital,29.403834,71.665621,Model Town Road,,Bahawalpur Division
+hospital,Women Hospital,29.394221,71.677251,Women Hospital Rd,,Bahawalpur Division
+hospital,Government Satelite Hospital,26.2946711,73.0392178,Paota A Road,Paota,Jodhpur
+hospital,Govt Community Health Centre,27.5731561,74.6844997,Meethari Marwar to Didwana Road SH 60,,Didwalna-Kuchaman
+hospital,Government Veterionery Hospital ,27.5727429,74.6970913,Mithri to Phirwasi road,,Didwalna-Kuchaman
+hospital,Civil Hospital Hanumangarh,29.5760357,74.3370712,SH99,,Hanumangarh
+hospital,Makar Eye Hospital,29.5782526,74.3399318,SH99,,Hanumangarh
+hospital,Kamla Nehru Chest hospital,26.2733617,72.9855491,Amar Nagar Road,Jwala Vihar,Jodhpur
+hospital,Govt. hospital,26.3022903,73.0603578,Paota B Road,Paota,Jodhpur
+hospital,Banwari lal child hospital,28.442253,74.4962829,SH6,,Churu
+hospital,Dawar Eye Hospital,29.9180755,73.8865386,SH36,,Sri Ganganagar
+hospital,Sihag Hospital,29.915894,73.8798689,SH36,,Sri Ganganagar
+hospital,Giri Hospital,29.9182382,73.881539,2,,Sri Ganganagar
+hospital,Chaudhary X-Ray Point,29.9186153,73.8788118,2,,Sri Ganganagar
+hospital,Praja Devi Hospital,29.92534,73.8701695,Kotwali Road,,Sri Ganganagar
+hospital,Sahbir hospital,29.1347917,71.263955,Street 3,,Bahawalpur Division
+hospital,Shikrani Hospital,29.1384194,71.262057,THQ Road,,Bahawalpur Division
+hospital,Dr.Haider Hospital,29.6205579,71.9189476,Karoor Pakka Road,,
+pharmacy,Zephyr Agro Chemicals (Pvt),29.4265429,71.6657611,Multan Road,,Bahawalpur Division
+pharmacy,Malik Medical Store,29.4075481,71.6730324,Model Town Road,,Bahawalpur Division
+pharmacy,Muslim Pharmacy,29.4074285,71.6726048,Model Town Road,,Bahawalpur Division
+pharmacy,Rafi Medicine,29.4074217,71.6728205,Model Town Road,,Bahawalpur Division
+pharmacy,Shareef Pharmacy & Mart,29.4071822,71.6725627,Model Town Road,,Bahawalpur Division
+pharmacy,Umer Pharmacy,29.4068282,71.6728034,Model Town Road,,Bahawalpur Division
+pharmacy,Abdullah Pharmacy,29.4055779,71.6647956,Model Town Road,,Bahawalpur Division
+pharmacy,Meds Pharmacy,29.3953216,71.6650927,Model Town Rd,,Bahawalpur Division
+pharmacy,Citi Pharmacy,29.3908301,71.6800274,Circular Road,,Bahawalpur Division
+pharmacy,New National Medical Store,29.3915584,71.6825136,Circular Road,,Bahawalpur Division
+pharmacy,Asif Medical Store,29.3914772,71.6825058,Circular Road,,Bahawalpur Division
+pharmacy,hafiz pharmacy,29.3811417,71.7182184,University Road,,Bahawalpur Division
+pharmacy,+ pharmacy,29.4017032,71.6545406,Railway Road,,Bahawalpur Division
+pharmacy,Neelam Medical Hall,29.3848743,71.6907259,Univesity Chowk Rd,,Bahawalpur Division
+pharmacy,UP SWASTHYA KENDER 7LC,29.4010499,73.6010545,GOVT SCHOOL ROAD,,Anupgarh
+pharmacy,Yousaf Medical Store,29.145367,71.2416016,Kutchery Road,,Bahawalpur Division
+veterinary,Civil Veterinary Hospital,29.5414344,71.6320159,Karoor Pakka Road,,
+veterinary,Pakistan Veterinary Clinic,29.4065892,71.672366,Model Town Road,,Bahawalpur Division
+veterinary,TOLFA Animal Sanctuary,26.4300383,74.5500023,PMN INDIA Road,,Ajmer
+arts_centre,Hari Om Yoga Center,26.4859566,74.5547839,Balunda Ghat,,Ajmer
 arts_centre,IGNP Karyakaram,28.0492775,73.3193828,Lalgarh link SH 3,Lalgarh,Bikaner
+casino,Balooch snooker club,29.1354955,71.2649309,THQ Road,,Bahawalpur Division
+cinema,anand cinema,29.1948122,73.2035815,NH911,,Anupgarh
+cinema,MayaMandir Cineplex,26.483212,74.6650207,Jaipur Road,,Ajmer
+cinema,Glitz Cinema,26.4719903,74.6081418,NH58,,Ajmer
+cinema,Glitz Cinemas - Blue City Mall,26.2836156,73.0380004,NH62,Rai Ka Bagh,Jodhpur
+cinema,Sukhwant Palace,29.9298958,73.857151,SH7B,,Sri Ganganagar
+cinema,Kohinoor Cinema,26.2803987,73.0059946,NH25,,Jodhpur
+cinema,Shamah Cinema,29.4087716,71.6738052,Cicular Road,,Bahawalpur Division
 cinema,Carnival Cinema,27.9936222,73.320586,NH89,Gangashahr,Bikaner
+community_centre,Sardar club,26.2635001,73.0337388,Sardar Club Street,,Jodhpur
 conference_centre,High Court,28.0212107,73.3218063,Mahatma Gandhi Road,,Bikaner
+events_venue,Four Season Marriage Hall,29.5957915,72.8433922,76 Murad and other Villagr Connected Roads,,Bahawalpur Division
+fountain,Rajpurohit House,28.2940362,74.9690256,bhartiya road,,Churu
 fountain,Saif's fountain,27.9914808,73.3216896,Sudarshana Nagar,,Bikaner
+theatre,Open Theatre,26.2523251,72.9759076,NH25,Nandanvan,Jodhpur
+courthouse,Rajistan High Court,26.290352,73.0361059,NH25,Rai Ka Bagh,Jodhpur
+courthouse,farkhan warraich House,29.4946037,72.8515335,unnamed road,,Bahawalpur Division
 courthouse,District court,27.199504,73.7270819,SH19,,Nagaur
-police,Police station,27.993946,73.3334857,Sudarshana Nagar,,Bikaner
+police,Police Station,26.2655112,73.0337885,Residency Road,,Jodhpur
+post_office,Central Post Office,26.28605,73.0230635,NH25,Rai Ka Bagh,Jodhpur
+post_office,Post Office,29.6199921,71.9077313,Karoor Pakka Road,,
+post_office,General Post Office,26.4588761,74.6357671,NH58,,Ajmer
+post_office,GPO,29.39465,71.687121,University Road,,Bahawalpur Division
+post_office,Pushkar Bazar Post Office,26.4894364,74.5561788,Badi Basti,,Ajmer
+post_office,Post Ofice,28.4408945,74.4930052,SH6,,Churu
+post_office,Pakistan Post,29.6963317,72.5536505,Club road,,Bahawalpur Division
+post_office,Darbaar_shareef,29.7365697,73.2195602,Bahawalnager-Haroonabad Road,,Bahawalpur Division
 post_office,Head post office,27.1997757,73.7297624,SH19,,Nagaur
+post_office,Indian Post,26.2989756,73.0246588,Layakam Mohalla,,Jodhpur
+post_office,Dhananwa Post office,27.152137,74.5525525,SH19;90,,Didwalna-Kuchaman
+post_office,305901 Beawar,26.1048506,74.3213967,SH39,,Beaware
+post_office,Khunkhuna Post office,27.2776841,74.490765,नोजला का ढाणी रोड़,,Didwalna-Kuchaman
 post_office,Head Post office,28.0208354,73.3159852,Junagarh Fort Road,,Bikaner
+post_office,Jagdeeshpura Branch Post Office,27.471544,71.1691259,Jagdishpura Road,,Jaisalmer
+prison,District Jail,29.9977381,73.2673368,Jail Road,,Bahawalpur Division
+drinking_water,pond of sangasani,26.148104,73.1816654,SH61,,Jodhpur(Rural)
+drinking_water,Drinking Water Tank Jatawas,26.3189102,72.3626974,unnamed road,,Jodhpur(Rural)
+drinking_water,kn college water cooler,26.2867878,73.0360017,NH62,Rai Ka Bagh,Jodhpur
+drinking_water,Fauji Basti Chock Bahawalpur,29.385381,71.6906151,unnamed road,,Bahawalpur Division
+drinking_water,Muzamil Sardaee,29.9237596,71.5170246,National Highway,,
+drinking_water,Drinking Water,29.493174,72.8505243,unnamed road,,Bahawalpur Division
+telephone,PTCL Exchange,29.390831,71.710939,unnamed road,,Bahawalpur Division
+toilets,utility block,26.2865429,73.0353868,NH62,Rai Ka Bagh,Jodhpur
+toilets,Sulabh Saichalay complex,26.4870734,74.5516296,unnamed road,,Ajmer
+water_point,Sutlej River,29.4433874,71.6448564,National Highway,,Bahawalpur Division
+animal_breeding,Al Urooj Group of Industries,29.5940081,73.1634309,Road Chak 74/4R,,Bahawalpur Division
+crematorium,Mukti Dhaam,28.443772,74.5048632,SH7,,Churu
+grave_yard,Graveyard,29.6214891,71.910961,Karoor Pakka Road,,
+internet_cafe,Sahiram chahar bishnoi,26.1062816,72.6918614,NH25,,Balotra
+internet_cafe,Sahiram chahar bishnoi,26.1065247,72.6917577,NH25,,Balotra
+marketplace,Camel Market,26.4882784,74.54348,Jaat Bhawan Road,,Ajmer
+marketplace,Grain Market,29.5751174,74.3330012,SH99,,Hanumangarh
+marketplace,Ladies Market,28.4394464,74.4918841,SH6,,Churu
+marketplace,Lakhara Bazaar,26.294843,73.0201684,Kutto Ki Paul,,Jodhpur
+marketplace,Sardar market,26.2948104,73.0238553,Nai Sarak,,Jodhpur
+marketplace,Kapda Bazaar,26.293698,73.0174761,Katla Bazar,,Jodhpur
+marketplace,Mohanlal Verhomal (MV) Spices,26.2952242,73.02329,Sardar Dhaan Mandi,,Jodhpur
 marketplace,Yogi & Yogasan,28.0094004,73.3192161,NH89,,Bikaner
-place_of_worship,Sai Baba Temple,27.9941172,73.3377737,Sudarshana Nagar,,Bikaner
-place_of_worship,Nandishwar Mahadev Temple,28.021271,73.2794309,Moonlit School Road,,Bikaner
-place_of_worship,Lakshminath (Hindu Temple),28.0045979,73.3002664,NH89,,Bikaner
+marketplace,Green Market,29.4057879,71.6689098,Model Town Road,,Bahawalpur Division
+marketplace,Grain Market,29.9777027,74.7018866,ODR12,,Sri Muktsar Sahib
+marketplace,Fruit & Vegetable Market,29.1258964,71.7513419,Street 1,,Bahawalpur Division
+marketplace,Fruit & Vegetable Market,29.1451264,71.2414213,Kutchery Road,,Bahawalpur Division
+marketplace,Grain Market,29.1479558,71.2624332,Ghala Mandi Road,,Bahawalpur Division
+marketplace,Grain Market,29.1515032,71.2602226,Ghala Mandi,,Bahawalpur Division
+marketplace,Fruit & Vegetable Market,29.3130792,71.550501,Sammasatta Road,,Bahawalpur Division
+marketplace,Fruit & Vegetable Market,29.6319196,72.4788153,Hasilpur-Bahawalpur Road,,Bahawalpur Division
+place_of_worship,Chamuda DeviTemple,26.2962354,73.0170799,Layakam Mohalla,,Jodhpur
+place_of_worship,Gregorios,26.2617015,73.0364791,Sardar Club Street,,Jodhpur
+place_of_worship,Mandir,26.2644226,73.0351712,Sardar Club Street,,Jodhpur
+place_of_worship,Alkausar Mosque,29.393063,71.711712,Rafi Qamar Road,,Bahawalpur Division
+place_of_worship,Jamia Masjid Satellitetown,29.39096,71.712871,Rafi Qamar Road,,Bahawalpur Division
+place_of_worship,Jamia Mosque Sadiq,29.396654,71.7008779,Girls School Rd,,Bahawalpur Division
+place_of_worship,Mosque Dar us Salam,29.405208,71.700253,Jail Road,,Bahawalpur Division

@@ -1,311 +1,2906 @@
 Amenity Type,Name,Latitude,Longitude
-cafe,Unknown,28.0177596,73.2995508
-cafe,Cafe Indra,28.0158728,73.3272931
-cafe,Film City Cafe,28.0161397,73.3271232
-cafe,Prachina Cafe,28.0228235,73.3182397
-fast_food,Unknown,28.0106634,73.3327947
-fast_food,Unknown,28.0107771,73.3322712
+fast_food,Athicas Canteen,12.8942130,77.6025681
+fast_food,Darbar,28.4528666,77.0406221
+fast_food,Unknown,28.5099306,77.1682190
+fast_food,McDonald's,28.5574267,77.1635699
+fast_food,Unknown,26.6603126,79.1752507
+fast_food,Bikanervala,28.4689302,77.0638804
+fast_food,Unknown,28.4689088,77.0669775
+fast_food,Domino's,28.4113681,77.0432317
+fast_food,Meals House,12.8696335,77.6540449
+fast_food,Food n Drinks,12.8507304,77.6573836
+fast_food,Unknown,18.7924703,73.2974499
+fast_food,McDonald's,18.5457237,73.9062599
+fast_food,Nirula's,28.4106834,77.0431666
+fast_food,Haldiram's,21.1418145,79.0820420
+fast_food,Haldiram's,21.1414942,79.0608763
+fast_food,Verka Milk Bar,30.2898333,75.8337204
+fast_food,Srinidhi Sagar,12.9593353,77.6385869
+fast_food,Saravana Bhavan,13.0345162,80.2690082
+fast_food,KFC,12.9782444,77.6407376
+fast_food,Subway,12.9637134,77.6403936
+fast_food,Planet Yumm,12.9969184,80.2713903
+fast_food,KFC,17.4507642,78.3793915
+fast_food,Pizza Corner,17.4506168,78.3792198
+fast_food,TIBBS Frankies,19.0550612,72.8307379
+fast_food,Basket-Ball Canteen,17.4476500,78.3478760
+fast_food,Saravana Bhavan,12.8375981,79.7039669
+fast_food,Kalpakkam Canteen,12.5029186,80.1545529
+fast_food,Haldiram's,13.0453726,80.2669904
+fast_food,Domino's,28.6457998,77.1722681
+fast_food,Subway,13.0614085,80.2487161
+fast_food,Domino's,13.0354864,80.2496631
+fast_food,Pizza Hut,23.7474430,90.3702179
+fast_food,Star Kabab,23.7475099,90.3702012
+fast_food,Marrybrown,13.0717985,80.2029951
+fast_food,Subway,13.0266378,80.2326761
+fast_food,Saravana Bhavan,13.0443330,80.2644982
+fast_food,McDonald's,30.5500060,76.4868812
+fast_food,Om Sweets,28.4529218,77.0502790
+fast_food,Pupil,13.0010132,80.2709043
+fast_food,Cozee,13.0010049,80.2708185
+fast_food,Besant Fast Food,13.0005366,80.2667244
+fast_food,Bhatia Sweet Shop & Fast Food,30.7693916,76.7922462
+fast_food,Dosa Camp,13.0483946,77.5426609
+fast_food,Unknown,28.5190366,77.1613391
+fast_food,Domino's,12.8417186,77.6465145
+fast_food,Pav Bhaji,13.0024438,77.5838636
+fast_food,Fruit Shop on Greams Road,13.0603070,80.2546115
+fast_food,Hajiali Juice Centre,13.0603857,80.2548150
+fast_food,Sea Shell,13.0574642,80.2551093
+fast_food,Baba Chiken,30.8897197,75.8306755
+fast_food,Food Court,28.4939209,77.0932012
+fast_food,Bademiya Seekh Kebab Stall,18.9231497,72.8325111
+fast_food,McDonald's,28.5500151,77.2511173
+fast_food,Subway,28.5500689,77.2510928
+fast_food,Rajasthani Parotha Point,12.9514719,77.5774905
+fast_food,Arya Vysya Refreshments,12.9510029,77.5776381
+fast_food,Unknown,12.9512912,77.5774906
+fast_food,Chai,28.2450663,83.9637347
+fast_food,Ganesh Upahara,13.0468252,77.5494119
+food_court,The Bay,12.9939354,77.6609577
+food_court,Mess B,13.0188470,77.5629281
+food_court,Mess A,13.0189607,77.5625244
+food_court,Sharma Refreshment,30.8675382,75.8668252
+food_court,Food Court,28.6144090,77.2767565
+food_court,Food Court,18.7497964,73.5186464
+food_court,Transit,12.9343647,77.6110938
+food_court,McDonald's,31.2843072,75.6658622
+food_court,Dining Halls,13.2763312,75.3439575
+food_court,Food Court,29.3919468,79.4551000
+food_court,KMC Food Court,13.3532091,74.7859029
+food_court,IITM-RP Food Court,12.9903880,80.2427276
+food_court,Aharam - The Food Court,12.8761229,77.5961005
+food_court,Christ University Food Court,12.9346460,77.6067313
+food_court,RightO,12.4954054,76.8036841
+food_court,vinayaka food grains,13.2147764,79.0990026
+food_court,Food Court,15.3646062,75.1240170
+food_court,Saras Parlur,26.8619406,75.8065239
+food_court,pandit pani puri,27.7007887,84.4255385
+food_court,Pappu Hotel,30.5048006,76.6280408
+food_court,Murugan Idli Shop,12.9021275,79.4801260
+food_court,G.M. Rao Dhaba,17.6990473,77.5562026
+food_court,Unknown,17.4157378,78.5518155
+food_court,Unknown,27.5518860,83.8422129
+food_court,Unknown,27.7061944,84.3547083
+food_court,Unibic Foods,12.9694598,77.6416844
+food_court,Unknown,12.9353215,77.6944935
+food_court,GSB Canteen,23.7361427,90.4067393
+food_court,Sai Ram Hot Chips,13.0015441,77.6298704
+food_court,Jumde Bhajewala,20.8418342,79.3217881
+food_court,Janatha Hotel,12.9483365,77.5988241
+food_court,Puran Dhaka Biriyani,23.7558387,90.4111648
+food_court,Dhaka Kabab Ghor,23.7508345,90.4091425
+food_court,Cafetaria,15.5681829,74.0258829
+food_court,Chadpur Hotel,23.7152484,90.4258086
+food_court,Tripty Hotel,23.7338157,90.3828470
+food_court,Jadubhai Tehari House,23.7806615,90.4079772
+food_court,Babor Ali Biriani House,23.7178277,90.4253970
+food_court,KHANA KHAZANA,21.2431969,81.6143896
+food_court,Rajasthani Thali,21.2434044,81.6131723
+food_court,Bikaner,23.1684338,72.8170668
+food_court,Naval Officers Mess,28.5725158,77.1389666
+food_court,Unknown,13.0506655,77.6214043
+food_court,Ramadarshana Hotel,14.7874309,75.9859863
+food_court,Abhiruchi,14.7893053,75.9866917
+fast_food,Athicas Canteen,12.8942130,77.6025681
+fast_food,Darbar,28.4528666,77.0406221
+fast_food,Unknown,28.5099306,77.1682190
+fast_food,McDonald's,28.5574267,77.1635699
+fast_food,Unknown,26.6603126,79.1752507
+fast_food,Bikanervala,28.4689302,77.0638804
+fast_food,Unknown,28.4689088,77.0669775
+fast_food,Domino's,28.4113681,77.0432317
+fast_food,Meals House,12.8696335,77.6540449
+fast_food,Food n Drinks,12.8507304,77.6573836
+fast_food,Unknown,18.7924703,73.2974499
+fast_food,McDonald's,18.5457237,73.9062599
+fast_food,Nirula's,28.4106834,77.0431666
+fast_food,Haldiram's,21.1418145,79.0820420
+fast_food,Haldiram's,21.1414942,79.0608763
+fast_food,Verka Milk Bar,30.2898333,75.8337204
+fast_food,Srinidhi Sagar,12.9593353,77.6385869
+fast_food,Saravana Bhavan,13.0345162,80.2690082
+fast_food,KFC,12.9782444,77.6407376
+fast_food,Subway,12.9637134,77.6403936
+fast_food,Planet Yumm,12.9969184,80.2713903
+fast_food,KFC,17.4507642,78.3793915
+fast_food,Pizza Corner,17.4506168,78.3792198
+fast_food,TIBBS Frankies,19.0550612,72.8307379
+fast_food,Basket-Ball Canteen,17.4476500,78.3478760
+fast_food,Saravana Bhavan,12.8375981,79.7039669
+fast_food,Kalpakkam Canteen,12.5029186,80.1545529
+fast_food,Haldiram's,13.0453726,80.2669904
+fast_food,Domino's,28.6457998,77.1722681
+fast_food,Subway,13.0614085,80.2487161
+fast_food,Domino's,13.0354864,80.2496631
+fast_food,Pizza Hut,23.7474430,90.3702179
+fast_food,Star Kabab,23.7475099,90.3702012
+fast_food,Marrybrown,13.0717985,80.2029951
+fast_food,Subway,13.0266378,80.2326761
+fast_food,Saravana Bhavan,13.0443330,80.2644982
+fast_food,McDonald's,30.5500060,76.4868812
+fast_food,Om Sweets,28.4529218,77.0502790
+fast_food,Pupil,13.0010132,80.2709043
+fast_food,Cozee,13.0010049,80.2708185
+fast_food,Besant Fast Food,13.0005366,80.2667244
+fast_food,Bhatia Sweet Shop & Fast Food,30.7693916,76.7922462
+fast_food,Dosa Camp,13.0483946,77.5426609
+fast_food,Unknown,28.5190366,77.1613391
+fast_food,Domino's,12.8417186,77.6465145
+fast_food,Pav Bhaji,13.0024438,77.5838636
+fast_food,Fruit Shop on Greams Road,13.0603070,80.2546115
+fast_food,Hajiali Juice Centre,13.0603857,80.2548150
+fast_food,Sea Shell,13.0574642,80.2551093
+fast_food,Baba Chiken,30.8897197,75.8306755
+fast_food,Food Court,28.4939209,77.0932012
+fast_food,Bademiya Seekh Kebab Stall,18.9231497,72.8325111
+fast_food,McDonald's,28.5500151,77.2511173
+fast_food,Subway,28.5500689,77.2510928
+fast_food,Rajasthani Parotha Point,12.9514719,77.5774905
+fast_food,Arya Vysya Refreshments,12.9510029,77.5776381
+fast_food,Unknown,12.9512912,77.5774906
+fast_food,Chai,28.2450663,83.9637347
+fast_food,Ganesh Upahara,13.0468252,77.5494119
+food_court,The Bay,12.9939354,77.6609577
+food_court,Mess B,13.0188470,77.5629281
+food_court,Mess A,13.0189607,77.5625244
+food_court,Sharma Refreshment,30.8675382,75.8668252
+food_court,Food Court,28.6144090,77.2767565
+food_court,Food Court,18.7497964,73.5186464
+food_court,Transit,12.9343647,77.6110938
+food_court,McDonald's,31.2843072,75.6658622
+food_court,Dining Halls,13.2763312,75.3439575
+food_court,Food Court,29.3919468,79.4551000
+food_court,KMC Food Court,13.3532091,74.7859029
+food_court,IITM-RP Food Court,12.9903880,80.2427276
+food_court,Aharam - The Food Court,12.8761229,77.5961005
+food_court,Christ University Food Court,12.9346460,77.6067313
+food_court,RightO,12.4954054,76.8036841
+food_court,vinayaka food grains,13.2147764,79.0990026
+food_court,Food Court,15.3646062,75.1240170
+food_court,Saras Parlur,26.8619406,75.8065239
+food_court,pandit pani puri,27.7007887,84.4255385
+food_court,Pappu Hotel,30.5048006,76.6280408
+food_court,Murugan Idli Shop,12.9021275,79.4801260
+food_court,G.M. Rao Dhaba,17.6990473,77.5562026
+food_court,Unknown,17.4157378,78.5518155
+food_court,Unknown,27.5518860,83.8422129
+food_court,Unknown,27.7061944,84.3547083
+food_court,Unibic Foods,12.9694598,77.6416844
+food_court,Unknown,12.9353215,77.6944935
+food_court,GSB Canteen,23.7361427,90.4067393
+food_court,Sai Ram Hot Chips,13.0015441,77.6298704
+food_court,Jumde Bhajewala,20.8418342,79.3217881
+food_court,Janatha Hotel,12.9483365,77.5988241
+food_court,Puran Dhaka Biriyani,23.7558387,90.4111648
+food_court,Dhaka Kabab Ghor,23.7508345,90.4091425
+food_court,Cafetaria,15.5681829,74.0258829
+food_court,Chadpur Hotel,23.7152484,90.4258086
+food_court,Tripty Hotel,23.7338157,90.3828470
+food_court,Jadubhai Tehari House,23.7806615,90.4079772
+food_court,Babor Ali Biriani House,23.7178277,90.4253970
+food_court,KHANA KHAZANA,21.2431969,81.6143896
+food_court,Rajasthani Thali,21.2434044,81.6131723
+food_court,Bikaner,23.1684338,72.8170668
+food_court,Naval Officers Mess,28.5725158,77.1389666
+food_court,Unknown,13.0506655,77.6214043
+food_court,Ramadarshana Hotel,14.7874309,75.9859863
+food_court,Abhiruchi,14.7893053,75.9866917
+bar,The Dome,13.0065655,80.2055843
+bar,Navarang Bar,12.9907411,77.5577577
+bar,Esthell Continental Hotels,13.0072346,80.2594099
+bar,Golden Crown,18.9623007,72.8118145
+bar,High Spirits,18.5393901,73.9052966
+bar,Formula III Bar,12.9971601,77.5974721
+bar,Jacruz Bar,15.3957850,73.9164601
+bar,Vailankani Bar,15.3221653,74.0035096
+bar,Maria's Bar,15.3229351,74.0039989
+bar,The Irish Pub,27.6891618,86.7298510
+bar,Sangeeth Bar and Restaurant,12.9898878,77.5726957
+bar,Grand Palace,12.9476719,80.1380257
+bar,tasmac,12.9485945,80.1384653
+bar,RMV Club,13.0380950,77.5690860
+bar,Mix@36,18.5397983,73.9060086
+bar,Rythym Bar & Restaruant,17.4087002,78.5094080
+bar,crystal,17.4068456,78.4970193
+bar,Sula Vineyards,20.0046995,73.6869947
+bar,Tiger Hill Resorts,19.9335350,73.7301906
+bar,York Winery,20.0118774,73.6734335
+bar,anil,17.2491433,80.1418894
+bar,chandra,17.2479594,80.1516218
+bar,The Dome,18.9350690,72.8242843
+bar,Liquids,17.2644768,80.1448780
+bar,RK Rest & bar,17.2643575,80.1456163
+bar,Crystal,17.4062499,78.4962025
+bar,Unknown,13.0368708,77.5233568
+bar,Domlur Club,12.9643756,77.6371873
+bar,Eagle Bar,17.4051801,78.4649051
+bar,Sai Sri,17.2409787,80.1421396
+bar,Krishna,17.2505133,80.1548640
+bar,Golden Bar,17.2533453,80.1602913
+bar,Unknown,31.2136946,75.4230325
+bar,Delicious Bar & Restaurant,17.2488521,80.1477238
+bar,Naveen Bar & Restaurant,17.2491795,80.1462551
+bar,Aditya,17.2480958,80.1667912
+bar,Unknown,18.9281622,72.8277496
+bar,Fire & Ice,28.5909170,77.0580608
+bar,Lourdes Bar and Restaurant,15.3230302,73.9099361
+bar,Leda Lounge Restaurant,15.2772700,73.9162070
+bar,Boomerang Bar,15.2789420,73.9128129
+bar,Fiplee's Restaurant Pubs,15.2617815,73.9303776
+bar,Bhagini Bar,12.9892680,77.7125459
+bar,JK Residency,12.5064290,74.9927005
+bar,Sarovar Portico,12.9788613,77.6946259
+bar,La Cantina,17.4724977,78.3729059
+bar,Unknown,17.4414203,78.3585633
+bar,Trupti Bar & Restaurant,19.3891976,72.8253281
+bar,Rendezvous,12.9355492,77.6287026
+bar,Shiva Bar,12.8853969,77.5554477
+bar,Anupama Bar & Restaurant,17.4410530,78.4482272
+bar,Bar One,17.4377161,78.4485437
+bar,Green Deluxe Hotel,30.9260943,74.6127786
+bar,Roadtrip,12.9640379,77.6406718
+bar,Tasmac,12.9055133,80.0961112
+bar,Juice,28.6998789,77.2265694
+bar,Milk,28.7000437,77.2271676
+bar,Vita Milk Bar,30.3836077,76.7887771
+bar,KC'S Club,12.9368996,77.5172029
+bar,Masala,12.9100302,77.5509021
+bar,Bhagini,13.1458876,77.6180972
+bar,Tirumala Bar And Resturant,12.9560062,77.6979089
+bar,Banana Beach bar,12.9365646,77.6207273
+bar,Mookambika Bar& Resturant,12.9449911,77.6182720
+bar,B52 Bar,12.9362155,77.6259241
+bar,Sandy Lane,17.7201147,83.3354720
+bar,Salt Edition 1,12.9709206,77.6410529
+bar,Unknown,13.3437181,74.7471856
+bar,Manchester United,12.9345952,77.6094985
+bar,Club Nasha,28.2107156,83.9565679
+bar,Bar and restaurant,28.4541057,77.0512257
+bar,Shivleela,19.1033741,72.8493926
+bar,Satkar,19.1036483,72.8523908
+bar,Opus,12.9975797,77.5851079
+bar,The Heritage,12.2988029,76.6454853
+bar,Unknown,12.3276407,76.6940952
+bar,Cauvery Bar,12.3446084,76.6187893
+bar,Mishra's,22.5905786,88.4209203
+bar,Lakshmi bar,12.9244383,77.5654289
+bar,Indraprastha Bar and Restaurant,12.2824439,76.6256594
+bar,KTDC Beer Parlour,12.1094215,75.2097388
+bar,Internet Office,15.2638207,73.9176966
+bar,Shore Bar,15.5758360,73.7404611
+bar,S R Bar and Restaurant,12.9957432,75.3352375
+bar,Unknown,12.9960621,75.3286124
+bar,Bruice Bar & Restaurant,13.0229634,77.7138587
+bar,Manu Bar & Restaurant,13.0233955,77.7145913
+bar,Sreeraj Lassi Bar,13.0126649,77.6474598
+bar,Oasis Bar and Restuarant,12.8410461,77.6502896
+bar,City Club,13.2611806,76.4662541
+bar,Sundar Ashraya,13.9269599,75.5699020
+bar,Jewel Rock,13.9350149,75.5686695
+bar,Unknown,15.3542099,76.4903556
+bar,Unknown,31.7066805,76.9284393
+bar,Unknown,31.7117100,76.9295614
+bar,Hops 'N' Brew,28.4682424,77.0628965
+bar,Zura,28.4683522,77.0634735
+bar,Yo!China,28.4683679,77.0634930
+bar,Pushpak Bar,14.4656391,75.9225062
+bar,Sai International Bar,14.4712628,75.8973700
+bar,Unknown,30.7462020,76.8097110
+bar,Hill queen,30.3102626,78.0487629
+bar,Rio,17.4239402,78.4248213
+bar,Vesper House,27.6760597,85.3138375
+bar,Unknown,12.4155993,75.7377459
+bar,MSIL,12.4240020,75.7359226
+bar,East End,12.4176921,75.7449291
+bar,Unknown,12.4408022,75.7168766
+bar,Unknown,17.5348255,78.4889022
+bar,The Island,12.9752200,77.6471466
+bar,Unknown,26.6973962,77.8867738
+bar,Salsa Bar,27.7353383,85.3162267
+bar,Embassy,12.3049803,76.6438454
+bar,The Village,18.4771220,73.8950700
+bar,Unknown,17.4220890,78.3825960
+bar,The Forresta Kitchen & Bar,26.9224909,75.7923423
+bar,The Island,12.9421287,77.6977454
+bar,Tripti Bar,28.5486023,77.1278858
+bar,Bnr Bar,12.9683042,77.5846472
+bar,Archit Bar & Restaurant,19.4236400,72.8084107
+bar,Unknown,12.9848913,80.1873641
+bar,Epid,28.5543725,77.1945330
+bar,mohini bar,28.6332767,77.2238762
+bar,sam ,28.6825094,77.2631292
+bar,Akshaya Bar & Restorent,13.6064015,74.8601802
+bar,Kadamba Bar,12.9216283,77.5701608
+bar,Blue Frog,28.5271355,77.1857585
+bar,Unknown,15.2442567,73.9229181
+bar,Dimple Wines,17.4027325,78.4609035
+bar,Mars,28.6341141,77.3702984
+bar,barrique,28.4966352,77.0930125
+bar,Shiva Bar and Restaurant,13.0722711,77.5562439
+bar,Sindhu Bar and Restaurant,13.0689767,77.5581507
+bar,Naidu Bar and Restaurant,13.0598353,77.5776438
+bar,Ranganatha Bar and Restaurant,13.0600947,77.5766579
+bar,Nethravathi Bar and Restaurant,13.0717094,77.5678536
+bar,Sri Manjunatha Wines,13.0725801,77.5672904
+bar,Raksha Bar and Restaurant,13.0862742,77.5554523
+bar,Goara,15.6290322,73.7267270
+bar,Blue Waves,15.6348104,73.7220975
+bar,BoraBora Goa,15.6281075,73.7282156
+bar,Golden Goa,15.6541326,73.7160277
+bar,'Diyeng' Rice Beer.,22.2577887,85.8086516
+bar,Palash Bar,23.3502890,85.3262418
+bar,Gaon,23.3602446,85.3573797
+bar,RPM,28.5575936,77.1641580
+bar,theka daru,30.5551915,75.6659802
+bar,Unknown,14.4510136,75.9036418
+bar,Priya Bar and Restaurant,12.9564625,78.2714800
+bar,Hotel Prashanth Bar & Restaurant,12.6606027,75.6085405
+bar,Rotary Club,13.6364825,74.6875511
+bar,New Priya Bar & Restaurant,12.9736839,77.5304612
+bar,Skipper Bar & REstaurant,12.9787148,77.5743399
+bar,Durga Bar & Restaurant,12.9786625,77.5739751
+bar,Chang Bar & Restaurant,12.9610189,77.5268678
+bar,Happy Buddha Café,30.1269466,78.3260961
+bar,Bramhand Bar,21.1118101,79.1041176
+bar,Meera family juice bar,24.5811619,73.6805883
+bar,Tony's Shack,15.4983490,73.7672243
+bar,Yacht,19.0548533,72.8255119
+bar,Sams,15.1572174,73.9454405
+bar,Vernon's Beach Shack,15.1570476,73.9455064
+bar,Pearl's café,15.1569683,73.9455353
+bar,4 Seasons Bar & Restaurant,14.4593177,75.9315867
+bar,The Viceroy Club,15.1755609,73.9480329
+bar,Tide Exotica,15.0071411,74.0266501
+bar,Lakshman Palace,15.3322266,74.7750170
+bar,Juice & Ice Cream,15.6669478,73.7220622
+bar,Helenas Bar,15.5118683,73.7691810
+bar,The Mango Tree,15.5994314,73.7406223
+bar,Sportman's Bar,15.5386991,73.7641236
+bar,Rutuja bear bar,20.1233076,72.9149023
+bar,crazy dance bar,27.6719594,85.3152496
+bar,Ishwar restorant &bar,19.9389558,72.9347299
+bar,Raj beer Shop,19.9420218,72.9360908
+bar,Parikshit beer Shop,19.9418025,72.9347470
+bar,Suraj beer Shop,19.9396265,72.9346638
+bar,RAMU SHETH (Bear Bar),20.0743304,72.8566251
+bar,shital bar,20.1201554,72.9255963
+bar,Royal INN Bar&Restorant,20.1301610,73.0659558
+bar,balaji wines,17.4580001,79.2594384
+bar,RR WINES,18.7626521,79.4726204
+bar,Aishwarya Bar & Restaurant,17.5118731,78.4479697
+bar,Shreeman Hotel,18.5104170,73.8166493
+bar,Hotel Khybar,18.5177814,73.8436294
+bar,Budget Bar,17.4420157,78.4852905
+bar,Piccolo Bar,15.3623936,75.1264269
+bar,Sitara Bar & Restaurant,14.4682937,75.9133251
+bar,wine shop,23.3788266,85.3239575
+bar,dumuduma bar,20.2428144,85.7861129
+bar,Liquor Paradise,12.9092276,77.5630344
+bar,SIPPY BAR,27.1420840,78.0088076
+bar,Unknown,27.1745594,78.0080947
+bar,TOMAR DAIRY,27.1889754,77.9625593
+bar,bear bar,27.2052130,78.2395843
+bar,Wine Baron,12.9296028,77.5628234
+bar,Kavya Bar,15.1490409,76.8965428
+bar,Vaishali Bar,15.1443966,76.9266640
+bar,Abhashree Bar,21.9022832,77.9077438
+bar,smart  bar,30.5142186,75.6097695
+bar,Unknown,17.3969498,78.5600202
+bar,Giri,12.3105013,76.6580399
+bar,king bar,19.0543924,72.9158261
+bar,CCD,19.0597908,72.9091003
+bar,hanuman bar,19.0594944,72.9132554
+bar,Unknown,26.6447106,74.4159636
+bar,New Ashwini Bar and Restaurant,12.2956580,76.6153036
+bar,Happy Banana Juice Centre,15.6393067,73.7240129
+bar,Khaana Dhaana,15.6366165,73.7265432
+bar,jaiswal bierbar chitegaon,19.7629191,75.2894364
+bar,bar,19.8420128,75.2214223
+bar,Camilo's Bar & Restaurant,15.4670039,73.8071634
+bar,Mumbai Fun In,19.1025973,72.8253422
+bar,The Gem Bar,28.6415015,77.2160786
+bar,Unknown,15.6029644,73.7909555
+bar,Happy Bar and General Stores,15.5912098,73.7718152
+bar,Aniket,15.5863398,73.7565454
+bar,Unknown,15.5807955,73.7474365
+bar,Darshan Bar,12.9549596,77.6532881
+bar,Unknown,19.0721110,72.8393396
+bar,Unique Bar,27.7144440,85.3122611
+bar,Unknown,27.6960033,84.4433641
+bar,vidi bar,19.0231247,73.1092290
+bar,Lawns Way Bar,12.9803467,74.8186874
+bar,Sunil Bar & Restaurant,12.9648151,74.8024597
+bar,Skyye,12.9715333,77.5963921
+bar,Aishwarya Bar N Restaurant,12.9741726,77.6357187
+bar,Balaji bar and restaurant,17.7184962,79.1644545
+bar,Sri Nanjundeshwara bar and restaurant,12.9112404,77.6001886
+bar,Café des arts,27.7165420,85.3124623
+bar,manahari coldstore,27.5396573,84.8072093
+bar,Babu cold store,27.5406285,84.8093555
+biergarten,Bar and Restaurant,12.8708434,77.6556881
+biergarten,English Wine and Beer Shop,28.9217362,77.1063530
+biergarten,Good chicken centre,30.9256820,74.6132200
+biergarten,juice corner,30.9391557,74.6234031
+biergarten,Rinku Juice centre,30.9389600,74.6233653
+biergarten,Unknown,14.1998510,79.8756943
+biergarten,Batuk bhairav khaja ghar,27.6627750,85.3294325
+biergarten,Pokhrel Wine and Liquor Shop,28.2103863,83.9584613
+biergarten,Asmita drug House,28.0634955,81.6219592
+biergarten,Sakura Apiary & Honey Product,28.1516092,84.0289280
+biergarten,Tender coconut,15.6876838,73.7049556
+biergarten,Habiba Cycle,23.7180057,90.4070771
+ice_cream,Naturals,19.0550034,72.8266664
+ice_cream,Baskin-Robbins,12.8496608,77.6638059
+ice_cream,Hangyo Icecream,12.9995673,77.5993940
+ice_cream,Baskin-Robbins,13.0039957,77.5834595
+ice_cream,Shake Sahab,28.6348833,77.2221046
+ice_cream,Naturals,13.0067267,77.5641398
+ice_cream,Corner House,12.9701103,77.6373408
+ice_cream,Baskin-Robbins,12.9209269,77.6514784
+ice_cream,Baskin-Robbins,13.0290328,77.5708477
+ice_cream,Corner House,12.9360490,77.6150661
+ice_cream,Baskin-Robbins,12.9377879,77.6263171
+ice_cream,Baskin-Robbins,13.0996082,77.5889404
+ice_cream,Nature's Basket,12.9782610,77.6431384
+ice_cream,Hangyo Ice Creams,13.3402616,74.7481041
+ice_cream,Corner House,12.9728510,77.5999908
+ice_cream,Baskin Robins,19.0713325,72.8240860
+ice_cream,Corner House,12.9173594,77.5931667
+ice_cream,Nature's Basket,19.1064212,72.8262287
+ice_cream,Baskin-Robbins,13.0219568,77.6398654
+ice_cream,Naturals,12.9714650,77.6008347
+ice_cream,Unknown,27.6738032,85.3727387
+ice_cream,Corner House,12.9884699,77.5769743
+ice_cream,Dessertz,12.9885163,77.5771989
+ice_cream,Baskin-Robbins,27.7181892,85.3192108
+ice_cream,Baskin-Robbins,27.7105020,85.3176593
+ice_cream,Nature's Basket,19.2123321,72.8728884
+ice_cream,Sri Krishna Ice Cream,13.8638438,74.8137148
+ice_cream,Baskin-Robbins,13.0074329,77.5641350
+ice_cream,Polar Bear,12.9914936,77.5386990
+ice_cream,Naturals,18.5231678,73.8475945
+ice_cream,Cream and Fudge Factory,23.7476925,90.3705704
+ice_cream,Baskin-Robbins,12.9928014,77.6614935
+ice_cream,Arun Ice Cream,12.9894445,77.5379861
+ice_cream,Amul Ice Cream,12.9893282,77.5379751
+ice_cream,Corner House,13.0049443,77.6171173
+ice_cream,Ibaco,12.9676509,77.6065580
+ice_cream,Naturals Icecream - Kothrud,18.5023920,73.8157895
+ice_cream,Unknown,13.8452696,75.6925398
+ice_cream,Sujata Mastani,18.5117375,73.8520533
+ice_cream,Ibaco,12.9251387,80.2304440
+ice_cream,Unknown,26.7230895,88.1724549
+ice_cream,Chaman Ice Cream,31.5622749,74.3200174
+ice_cream,Naturals,12.8922730,77.5982637
+ice_cream,Baskin-Robbins,12.9007262,77.5859519
+ice_cream,Unknown,30.7574290,76.7751710
+ice_cream,Naturals,18.5562769,73.8089525
+ice_cream,Baskin-Robbins,12.9170446,77.6719220
+ice_cream,Häagen-Dazs,12.9734322,77.6204609
+ice_cream,vadilal ice-cream parlour,27.6985240,84.4257911
+ice_cream,Unknown,27.5391233,84.8078916
+ice_cream,Unknown,27.5350633,84.8100204
+ice_cream,Sujata Mastani,18.4823361,73.8270307
+ice_cream,Cream Stone,12.9507193,77.6999210
+ice_cream,Unknown,26.2870247,73.0344706
+ice_cream,Baskin-Robbins,13.0297038,80.2453965
+ice_cream,Pinkberry,12.9690331,77.6410328
+ice_cream,Ibaco,12.9801628,77.6372678
+ice_cream,ibaco,12.9713796,80.1425925
+ice_cream,Baskin-Robbins,12.9755430,77.6032210
+ice_cream,Corner House,12.9736712,77.6093156
+ice_cream,Art of Delight,12.9733146,77.6092125
+ice_cream,Baskin-Robbins,27.4774454,89.6386829
+ice_cream,Naturals,12.9702350,77.6445368
+ice_cream,Baskin-Robbins,12.9792774,77.7513439
+ice_cream,Naturals,12.9852423,77.5437542
+ice_cream,Nature's Basket,13.0056797,77.5806627
+ice_cream,Nature's Basket,18.9147040,72.8181018
+ice_cream,Menchie's,12.9795140,77.6410806
+ice_cream,Milano Ice Cream,12.9790679,77.6440136
+ice_cream,Lakeview Milk Bar,12.9681222,77.7493893
+ice_cream,Dinshaw's Shree Sai Corner,21.1197694,79.1114391
+ice_cream,Jimmy's Kitchen,27.4695596,89.6390317
+ice_cream,Arun Icecream Parlor,13.0288210,80.1834360
+ice_cream,Baskin-Robbins,12.8770550,77.5953965
+ice_cream,Corner House,13.0210445,77.6426065
+ice_cream,IceCream Parlour,12.9968593,80.2405386
+ice_cream,Kwality Walls,17.4580725,78.3715880
+ice_cream,Vadilal Ice Cream Parlour,15.5508552,73.8179763
+ice_cream,Fabrica Oriental,15.4978030,73.8308676
+ice_cream,Ibaco,12.9964446,77.6125758
+ice_cream,Unknown,15.1655140,73.9737679
+ice_cream,Cindy's,15.0985209,73.9338447
+ice_cream,Baskin-Robbins,15.1717159,73.9740938
+ice_cream,Baskin Robbins,15.2341923,73.9432699
+ice_cream,Baskin-Robbins,15.6261679,73.7666193
 ice_cream,Unknown,28.0436000,73.3112836
-restaurant,Redrock Resort & Restaurant,27.4283623,72.3745766
-restaurant,Unknown,27.7903030,73.3421090
-restaurant,Unknown,27.7914747,73.3389711
-restaurant,Unknown,28.0407292,73.3312055
-restaurant,Gallops,28.0218626,73.3200972
-restaurant,Rajwara,27.9993577,73.3339652
-restaurant,Unknown,28.0278480,73.3248396
-restaurant,Unknown,27.7912708,73.3401927
-restaurant,Unknown,27.7912381,73.3400979
-restaurant,Unknown,27.6981350,72.6976338
-restaurant,Shan Ed Id,28.0179845,73.3101890
-restaurant,Chandra Niwas,28.0159877,73.3272598
-restaurant,Shri Shiv Sagar Restaurant,28.0190231,73.3165422
-restaurant,Amberwalla,28.0145988,73.3139354
-restaurant,Unknown,28.0188935,73.3162456
-restaurant,Gabbar,28.0289803,73.3292961
-restaurant,Hotel Radhe Krishna palace,27.9935141,73.3224662
-restaurant,Al-Karim,27.9918513,73.3212966
-restaurant,Kai Kabila Restaurant,27.9940964,73.3223518
-restaurant,Tanvi Cafe,28.0093492,73.3000525
-restaurant,Unknown,27.6109448,73.2462481
-restaurant,Laxmi Hotel,28.0145082,73.3140350
-restaurant,Seversl inexpensive Dhabas,28.0202616,73.3177819
-restaurant,Gahlot Restaurant,28.0199296,73.3177160
-restaurant,Jeeman,28.0192380,73.3166767
-school,Unknown,28.0482560,73.3133589
-school,Unknown,28.0473143,73.3123946
-school,Dayananda Public School,28.0225169,73.3280000
-school,Shri jasnath shikshan sansthan,27.7337048,73.6733428
-school,Saint Paul’s School,27.0943800,72.2956724
-fuel,Unknown,28.0673090,73.3412422
-fuel,Unknown,28.0806326,73.3496081
-fuel,BP Jamsar,28.2491389,73.4064752
-fuel,Unknown,28.0395405,73.2102252
-fuel,Jetharam Dudi,28.0241767,73.2907992
-fuel,Unknown,28.0967616,73.8655638
-fuel,Unknown,28.0729260,73.5489790
-fuel,Unknown,27.3655246,72.3400606
-fuel,Indian Oil,27.3795133,72.3482973
-fuel,Unknown,27.3919176,72.3544088
-fuel,Unknown,27.1942846,72.3763133
-fuel,Unknown,27.1005570,72.3451866
-fuel,Unknown,28.0736942,73.5871973
-fuel,Unknown,28.0264700,73.3201630
-fuel,Unknown,27.3195743,73.5874933
-fuel,Bharat,28.9153723,73.8603708
-fuel,Essar,27.3058071,73.6025723
-fuel,Essar,27.3924439,73.5507770
-fuel,Indian Oil,27.4817700,73.5034902
-fuel,Bharat,27.5132563,73.4926964
-fuel,HP,27.6253303,73.4181498
-fuel,H P,27.6529553,73.3792602
-fuel,Indian Oil,27.8211154,73.3023698
-fuel,Unknown,28.2552392,73.4116199
-fuel,Unknown,27.0527907,72.2008697
-fuel,HP,27.0761713,72.2532994
-fuel,Unknown,27.1025509,72.3248797
-fuel,Unknown,27.1521991,72.3941448
-fuel,Unknown,28.0206475,73.3163815
-fuel,Unknown,28.0116156,73.3223206
-fuel,Unknown,27.9944808,73.3062724
-fuel,Unknown,27.9665508,73.3011529
-fuel,Unknown,28.0120116,73.3220711
-atm,Unknown,28.0095351,73.3508206
-atm,Unknown,27.8472024,73.2011968
-atm,Unknown,28.0118201,73.3220690
-atm,Unknown,27.7914546,73.3415751
-atm,Unknown,28.0137764,73.3151513
-atm,Unknown,28.0315347,73.3164595
-bank,United Bank of India,27.1998808,73.7320445
-bank,bank of baroda,27.1987603,73.7405106
-bank,Unknown,28.0136719,73.3160428
-clinic,"Get Well Nursing Home, Bikaner",28.0102211,73.3429115
-clinic,Surana Nursing Home,28.0040758,73.3274786
-clinic,Marothi Clinic,27.5565283,73.4738952
-clinic,Bafna Clinic,27.9829047,73.3010771
-clinic,R K Orthopaedic and Trauma Centre,28.0162760,73.3361820
-clinic,GESI Clinic,28.0146724,73.3233432
-clinic,Harsh Clinic,28.0209016,73.2992635
-clinic,Guru Kripa Homoeo Clinic,28.0146317,73.3137530
-clinic,Dr. M.G. Periwal Clinic,27.5585699,73.4720116
-clinic,Ambika Clinic,28.0262125,73.3186948
-clinic,Dr. Gurupal Clinic,28.5123333,72.8100994
-clinic,Dr. Santosh Chandak Child Clinic,27.9883995,73.3013617
-clinic,Swasthya Seva Clinic,28.0509786,73.2879698
-clinic,Taparia Nursing Home,27.5565656,73.4740839
-clinic,Dr Ashok Sharma's Clinic,28.0093268,73.3312701
-clinic,Dr. Manak Gujrani Clinic,28.0040216,73.3269418
-clinic,Roshni Gupta Clinic,28.5052088,72.8130828
-clinic,Janta Clinic,28.0030086,73.2712978
-clinic,Dr. Mohammad Salim Clinic,28.0018441,73.3278728
-clinic,Amba Eye Care,28.7002330,72.5951586
-clinic,Swami Homeo Clinic,28.0171380,73.3153140
-clinic,Purohit Medicose,27.5574074,73.4720313
-clinic,Narul Clinic,28.4881772,73.7412674
-clinic,Saaol Heart Centre,27.9937631,73.3363194
-clinic,Jai Kachhawa Clinic,28.0220150,73.3132543
-clinic,Dr. Mohit Bansal's Clinic,28.0140937,73.3244915
-clinic,Mind Care Clinic,28.0135343,73.3241127
-clinic,Yash Clinic,27.2138029,73.7306171
-clinic,Naveen Clinic,27.1989840,73.7465066
-clinic,Rathore Clinic,27.2184066,73.7155467
-clinic,Dr. Sahab Clinic,27.1240223,72.3776722
-clinic,Dr. Dinesh Sharma Clinic,27.1263760,72.3685410
-clinic,S.G Vyas Clinic,27.1220280,72.3770788
-dentist,Unknown,28.0160154,73.3165242
-dentist,Pareek Dental Clinic,27.5592540,73.4790008
-dentist,Periwal Dental Clinic & Implant Centre,27.5589366,73.4765123
-dentist,Sunder Dental Hospital,27.5567168,73.4720812
-dentist,Shri Jain Dental Clinic & Implant Centre,27.5565617,73.4715110
-dentist,Jodhpur Dental Care,27.1271340,72.3679600
-doctors,Dr. Lokesh Sarswat,27.5515594,73.4764526
-doctors,Dr. Ram Saraswat,28.7071912,72.5987133
-doctors,Dr. Manoj Meena,27.9975200,73.3324070
-doctors,Dr. Ghanshyam Panwar,28.0273210,73.3181790
-doctors,Dr. Ramesh Poonia,27.8416291,72.9607188
-doctors,Dr. M.Y. Joiya Kolayat,27.8413749,72.9608827
-doctors,Dr. Ashok Singhl,27.9890591,73.3025953
-doctors,Dr. Shyam Bajaj,27.5610416,73.4804534
-doctors,Dr. Deep Chand,28.0068928,73.3497701
-doctors,Dr. Vedprakash,28.0244980,73.3760700
-doctors,Dr. Anita Beniwal,27.1927401,73.7149013
-doctors,Dr. R.K. Suthar,27.2018726,73.7242299
-doctors,Dr. Pradeep Chaudhary,27.1847908,73.7403208
-doctors,Dr. Kailash Khoja,27.1896798,73.7283286
-doctors,Dr. Mukesh Chouhan,27.1302316,72.3591874
-hospital,SP Med. College's Diagnostics,28.0068594,73.3303338
-hospital,J.D.Bagree Institute Of Surgical Sciences,28.0047291,73.3361920
-hospital,Haldi Ram Moolchand Hospital,28.0112440,73.3300227
-hospital,Kalra Health Care Pvt Ltd,27.9998083,73.3338073
-hospital,Bhaskar Hospital and Research Center Pvt Ltd,27.2031426,73.7216735
-hospital,Bikaner Eye Hospital and Research Centre,28.0103560,73.3133031
-hospital,Rawat Hospital,28.0030839,73.3276785
-hospital,MN Hospital and Research Centre,28.0273702,73.3253002
-hospital,Tulsi Dharnia Memorial Cancer Hospital,28.0154116,73.3333111
-hospital,Shri Asharam Memorial Navjeevan Hospital,27.2035946,73.7244992
-hospital,ASG Eye Hospitals,28.0103264,73.3187695
-hospital,"District Hospital, Bikaner",28.0205207,73.3024282
-hospital,Vyas Eye Care Center,28.0039680,73.3275671
-hospital,Shivam Hospital and Pathri Nivaran Kendra,27.1908071,73.7372996
-hospital,Chalana Hospital and Research Centre,28.0116098,73.3543758
-hospital,Dr.Tanveer Malawat Hospital and Research Centre,28.0095792,73.3188754
-hospital,Dr. Meenakshi Gomber,28.0256428,73.2985269
-hospital,Pratap Prasuti Grih,28.0051983,73.3099477
-hospital,"Government Hospital, 5 Dol",28.8159982,72.8363792
-hospital,Government Hospital Rajasar Bhatiyan,28.4920280,73.3478030
-hospital,"Government Hospital, Mahajan",28.7847428,73.8468217
-hospital,Governmet Hospital Sheikhsar,28.6047033,73.9744808
-hospital,Kalu Government Hospital,28.3762764,73.8877349
-hospital,"Government Hospital, Godu",27.9991770,72.2693290
-hospital,"Government Hospital,Barsingsar",27.8260150,73.2067144
-hospital,"Government Hospital, Badnun",27.9243920,73.7764250
-hospital,"District Hospital, Bikaner",28.0205156,73.3028960
-hospital,"Government Hospital, Kesar Desar Jatan",27.8562040,73.4899440
-hospital,"Government Hospital, Kelansar",27.3445923,72.9341173
-hospital,"Government Hospital, Jangloo",27.6774004,73.2364868
-hospital,"Government Hospital, Koodsoo",27.5447356,73.3467786
-hospital,Governmet Hospital Sadoo Bari,27.6386501,73.9901709
-hospital,"Government Hospital, Alai",27.3293082,73.5819848
-hospital,Governmet Hospital Shribalaji,27.4246629,73.5514241
-hospital,"Government Hospital, Mundwa",27.0608610,73.8207060
-hospital,"Government Hospital, Champasar",27.2657175,73.0659439
-hospital,"Government Hospital, Chawandiya",27.1726820,73.4198990
-hospital,"Government Hospital, Nagaur",27.2079840,73.7372150
-hospital,"Government Hospital, Karlu",27.0055600,73.6954690
-hospital,"Government Hospital, Bodwa",27.0751250,73.9527620
-hospital,Government Hospital Taausar,27.1599450,73.7388100
-hospital,"Government Hospital, Aau",27.2037579,72.8468997
-hospital,District Hospital Nagaur,27.2255210,73.6968390
-hospital,Global Hospital and Research Centre,28.0455930,73.3278160
-hospital,Goodwill Eye & General Hospital,28.0003042,73.3297509
-hospital,Apple Children Hospital,28.0200130,73.2953030
-hospital,Dhanvantari Hospital,28.4882988,73.7387545
-hospital,Surana Nursing Home,27.5591689,73.4725798
-hospital,Bhiwani Hospital,28.0020454,73.3452330
-hospital,Rajasthan Nursing Home,28.0016854,73.3230837
-hospital,Beniwal Hospital,28.0156574,73.3363100
-hospital,Nipun Hospital,27.8495041,72.9650510
-hospital,Dr. Vijay Tundwal Hospital,28.0228778,73.3769603
-hospital,ESI Hospital,28.0234808,73.2878197
-hospital,Rajasthan Nursing Home,28.0077449,73.3158387
-hospital,Shri Krishna NeuroSpine and Multispeciality Hospital,28.0102202,73.3436011
-hospital,Shri Ram Hospital,28.0138182,73.3239605
-hospital,City Hospital,28.4935229,73.7457891
-hospital,Shubham Nursing Home,28.0221341,73.2995086
-hospital,Navjeevan Hospital & Research Centre,28.0214033,73.2892907
-hospital,Kaswan Hospital,28.0140848,73.3287922
-hospital,Vardaan Hospital,28.0062968,73.3421349
-hospital,Government T.B. Hospital,28.0082000,73.3271570
-hospital,Laxmi Hospital,27.5602283,73.4719462
-hospital,Somani Nursing Home,27.5540286,73.4778353
-hospital,Bishnoi Hospital,27.9933071,73.3197725
-hospital,LN Hospital,27.9865635,73.2844440
-hospital,Balaji Hospital,28.0088122,73.3310970
-hospital,Baheti Eye Hospital,27.5589099,73.4727302
-hospital,Sanjeevani Hospital,28.0268457,73.3023550
-hospital,New Apollo Hospital and Multi Speciality Centre,28.0150806,73.3233999
-hospital,Choudhary Eye Hospital and Opticals,28.4836679,73.7439295
-hospital,Rawat ENT Hospital,28.0035819,73.3270772
-hospital,Bikana Hospital & Research Centre,28.0242636,73.2967181
-hospital,Aarogyam Multi Speciality Hospital,28.0111760,73.3160460
-hospital,Mathur Hospital & Research Centre,28.0104227,73.3171330
-hospital,Sugni Devi Jaisraj Baid Hospital and Research Centre,28.0066880,73.3079520
-hospital,Floral Hospital,27.9974216,73.3143267
-hospital,Shanti Memorial Hospital,27.9999227,73.3235193
-hospital,Rajasthan Naturopathy Hospital,27.9923203,73.3025743
-hospital,P.M.C.T. Hospital,27.5626662,73.4806281
-hospital,Soni Hospital,27.5600799,73.4724590
-hospital,Binnani Hospital and IVF Centre,27.9946366,73.3300873
-hospital,Dr. Shyam Agrawal Child Care Hospital,28.0220392,73.2974431
-hospital,Rajni Hospital,28.0217884,73.2964670
-hospital,N.W. Railway Divisional Hospital,28.0320412,73.3063543
-hospital,Marwar Hospital,28.0146421,73.3222724
-hospital,Arya Hospital,27.9873413,73.3348765
-hospital,Marudhar Hospital,27.1908388,73.7382772
-hospital,ASG Eye Hospital,27.2045966,73.7230042
-hospital,Divya Sai Hospital,27.1978530,73.7527430
-hospital,Bhutra Health Care Centre,27.2031381,73.7257817
-hospital,Dental Hospital,27.1994657,73.7459993
-hospital,T.B. Hospital,27.2032575,73.7236905
-hospital,Sri Hariram Dental Care and General Hospital,27.2041708,73.7226325
-hospital,Shree Ram Hospital,27.1949350,73.7409910
-hospital,Sufiya Hospital,27.1715310,73.6432798
-hospital,Marwar Child Care Centre,27.2016066,73.7243458
-hospital,Mahadev Hospital,27.2035450,73.7257420
-hospital,Kala Nursing Home,27.2014163,73.7241418
-hospital,Life Line Hospital,27.2061030,73.7216771
-hospital,Bisu Hospital,27.2055327,73.7218484
-hospital,Harshit Hospital,27.1902600,73.7327412
-hospital,Drishti Eye Hospital,27.2041846,73.7230964
-hospital,Army Hospital,27.2021151,73.7169946
-hospital,Shri Hari Ram Hospital & Research Centre,27.2063803,73.7215259
-hospital,Dr. J K Charan Hospital,27.1984593,73.7508306
-hospital,Dr. Saroj Paliwal Hospital and Infertility Centre,27.1214537,72.3812504
-hospital,Shree Shyam Nursing Home,27.1237362,72.3781535
-hospital,City Light Hospital,27.1259210,72.3809900
-hospital,Kalapurnam General Hospital,27.1153438,72.4154398
-hospital,Shiv Ganga Hospital,27.1303957,72.3678327
-hospital,PBM Hospital PMR Public Medicine and Rehabilitation Wing Building,28.0054657,73.3280749
-arts_centre,IGNP Karyakaram,28.0492775,73.3193828
-cinema,Carnival Cinema,27.9936222,73.3205860
-conference_centre,High Court,28.0212107,73.3218063
-fountain,Unknown,28.0197451,73.3218850
-fountain,Unknown,28.0208796,73.3218653
-fountain,Saif's fountain,27.9914808,73.3216896
-courthouse,District court,27.1995040,73.7270819
-police,Unknown,27.7922017,73.3422415
-police,Police station,27.9939460,73.3334857
-post_office,Head post office,27.1997757,73.7297624
-post_office,Head Post office,28.0208354,73.3159852
-bench,Unknown,28.0123344,73.3117348
-bench,Unknown,28.0129785,73.3118662
-bench,Unknown,28.0114015,73.3113808
-bench,Unknown,28.0130946,73.3117643
-bench,Unknown,28.0128720,73.3118206
-bench,Unknown,28.0137297,73.3114111
-bench,Unknown,28.0116643,73.3108255
-bench,Unknown,28.0131372,73.3111555
-bench,Unknown,28.0127632,73.3110995
-bench,Unknown,28.0117638,73.3114934
-bench,Unknown,28.0116572,73.3115390
-bench,Unknown,28.0130946,73.3111179
-bench,Unknown,28.0125736,73.3110187
-bench,Unknown,28.0118585,73.3115283
-bench,Unknown,28.0114654,73.3109597
-bench,Unknown,28.0122018,73.3116517
-bench,Unknown,28.0122160,73.3109945
-bench,Unknown,28.0131538,73.3112976
-bench,Unknown,28.0131040,73.3119816
-bench,Unknown,28.0120692,73.3115685
-bench,Unknown,28.0118774,73.3108309
-bench,Unknown,28.0129880,73.3111420
-bench,Unknown,28.0124789,73.3118367
-bench,Unknown,28.0120028,73.3113353
-bench,Unknown,28.0123155,73.3110374
-bench,Unknown,28.0120763,73.3109489
-bench,Unknown,28.0120077,73.3112279
-bench,Unknown,28.0131017,73.3116919
-bench,Unknown,28.0115412,73.3114720
-bench,Unknown,28.0120313,73.3111179
-bench,Unknown,28.0126304,73.3117804
-bench,Unknown,28.0114228,73.3111930
-bench,Unknown,28.0124363,73.3109865
-bench,Unknown,28.0125831,73.3117697
-bench,Unknown,28.0115270,73.3113888
-bench,Unknown,28.0119745,73.3108390
-bench,Unknown,28.0115009,73.3108257
-bench,Unknown,28.0119911,73.3114585
-bench,Unknown,28.0128814,73.3111152
-bench,Unknown,28.0115175,73.3106887
-drinking_water,Unknown,28.0221212,73.3190292
-shelter,Unknown,28.0128009,73.3118394
-shelter,Unknown,28.0129180,73.3118723
-shelter,Unknown,28.0130448,73.3118126
-shelter,Unknown,28.0127086,73.3117831
-shelter,Unknown,28.0128825,73.3110327
-toilets,Unknown,28.0226650,73.3189490
-toilets,Unknown,28.0292009,73.3230502
-grave_yard,Unknown,28.0524034,73.3156782
-marketplace,Yogi & Yogasan,28.0094004,73.3192161
-place_of_worship,Sai Baba Temple,27.9941172,73.3377737
-place_of_worship,Nandishwar Mahadev Temple,28.0212710,73.2794309
-place_of_worship,Lakshminath (Hindu Temple),28.0045979,73.3002664
+ice_cream,Gelato Italiano,15.5367279,73.8199454
+ice_cream,happy holidays,22.7033723,75.8427928
+ice_cream,Kermal Mahal Kulfi,28.6474152,77.2288691
+ice_cream,naturals,21.2411222,81.6606908
+ice_cream,CELESTY,21.2439890,81.6104019
+ice_cream,Havmor Ice Creams,23.0174138,72.4756688
+ice_cream,Unknown,23.1618902,72.8079924
+ice_cream,Arun Ice Cream Company Direct Store,13.0952123,79.6586626
+ice_cream,Unknown,27.6768579,85.3171252
+ice_cream,Cream Stone,17.4957251,78.3329733
+ice_cream,Baskin-Robbins,17.4137073,78.4071231
+ice_cream,FAB ice cream,12.8979474,77.6079394
+ice_cream,Amul,19.4418276,72.8095132
+ice_cream,Sidra Cool Point,12.9441794,77.5945035
+ice_cream,Nandi Juice and Icecreams,14.7891652,75.9869385
+ice_cream,Arun Icecreams,14.7874744,75.9858736
+ice_cream,Baskin-Robbins,20.9295765,77.7607311
+ice_cream,Top N Town Ice Cream Parlour,20.9380583,77.7752883
+ice_cream,Chaman Ice Cream,31.9788672,74.2218893
+ice_cream,Shani Cold Corner,31.9582081,74.2250704
+ice_cream,Haji Cold Corner,31.7239943,73.9974432
+ice_cream,Baba Kulfi,31.5801222,74.3059541
+ice_cream,Baba Kulfi Wala,31.5768570,74.3173274
+ice_cream,Happy Ending,31.4885199,74.3255482
+ice_cream,Chaman Ice Cream,31.4794890,74.3005538
+ice_cream,Desserts N More,15.5253287,73.8273756
+ice_cream,Ice Touch Ice Cream,29.3906834,71.6723889
+ice_cream,Naturals,28.5514630,77.2053927
+ice_cream,Baskin Robbins,18.9666028,72.8135178
+ice_cream,Pomy's,31.4662698,74.3793209
+ice_cream,Polar bear,12.9048267,77.6759353
+ice_cream,Polar Bear,13.2030915,77.2659754
+ice_cream,Ice Cream parler,21.2679215,81.6180732
+ice_cream,Cold Stone Creamery,12.9146653,77.6761779
+ice_cream,Berrylicious,12.9338158,77.6198404
+ice_cream,Cream House,12.9977674,77.5499952
+ice_cream,Unknown,27.6594826,84.5195846
+ice_cream,Bonkers,12.3228623,76.6346812
+ice_cream,Unknown,18.5154115,73.8499313
+ice_cream,Unknown,27.7187661,85.5200316
+ice_cream,Arun icecream,16.1888125,81.1469179
+ice_cream,Ice Bakery,28.5439030,77.2301277
+ice_cream,Cold Stone Creamery,12.9768750,77.7256826
+ice_cream,Softy station,12.9724885,77.6507419
+ice_cream,Baskins & Robbins,15.2608461,73.9292486
+ice_cream,Unknown,26.9163958,75.8179421
+ice_cream,Naturals,17.4385690,78.3992127
+ice_cream,Aavin Shop,12.9857321,80.2579384
+ice_cream,Baskin Robbins,28.6068930,77.2906357
+ice_cream,Joy Ice Creams,12.9318977,77.5890661
+ice_cream,Snowbite,19.0521623,72.8238975
+ice_cream,Unknown,26.9229950,75.8257091
+ice_cream,Andersens Icecream,31.5210028,74.3509069
+ice_cream,kuremal mohanlal kulfiwale,28.6476472,77.2269058
+ice_cream,Amul ice cream parlour,15.3867385,73.8456655
+ice_cream,Magnum Ice Cream - Emporium Mall,31.4680715,74.2661934
+ice_cream,Ice Curl - Emporium Mall,31.4676982,74.2645377
+ice_cream,Marble Slab Creamery Pakistan,31.5067804,74.3568263
+ice_cream,Naturals,28.5714856,77.2373191
+ice_cream,Amul Icecream Parlour,15.5577792,74.0149422
+ice_cream,Arun Ice Creams,12.9973648,77.5483946
+ice_cream,Vadilals,12.9406476,77.5427806
+ice_cream,Polar Bear,12.9373819,77.5490738
+ice_cream,Cream n Bites,12.9386517,77.5522656
+ice_cream,Baskin-Robbins,12.9480048,77.5699568
+ice_cream,Arctic Bites,12.9511952,77.5774603
+ice_cream,samgam,16.3837168,80.4359889
+ice_cream,Unknown,27.3243973,86.0802951
+ice_cream,Amul Parlor,23.0321809,72.5052786
+ice_cream,Havmor Ice Cream,28.7122097,77.1309064
+ice_cream,"Amul, gp ice cream parlour",17.4001683,78.4569645
+ice_cream,Salgaonkar,15.6055877,73.7460012
+ice_cream,Eskimos,17.4417124,78.3579309
+ice_cream,Cream stone,17.4428929,78.3554372
+ice_cream,Choclate room,17.4415787,78.3580621
+ice_cream,Hot 'N' Chili Ice-cream Parlour,28.0577400,81.6235236
+ice_cream,Unknown,26.9767829,86.3828405
+ice_cream,Amul,23.0128218,72.5066003
+ice_cream,Kriti Icream Center,28.0538815,81.6210761
+ice_cream,Havmor Ice Cream,17.3600731,78.4722873
+ice_cream,Arum ice creams,16.2352310,80.0457437
+ice_cream,Hfc,16.4813119,79.8848569
+ice_cream,Hi-fi,16.2283206,80.0491263
+ice_cream,Mövenpick,23.7421013,90.4099599
+ice_cream,Prakash Proteins,23.2680661,77.3421540
+ice_cream,Top and Town,23.2734361,77.3440060
+ice_cream,Bhairunath Ice Cream,23.2720789,77.3410927
+ice_cream,Kajal Ice Cream,23.2731516,77.3408684
+ice_cream,Shree Krishna Ice -Cream,28.2339095,83.9788190
+ice_cream,Night Food Market,25.4510376,81.8737839
+ice_cream,Quality walls,17.4414221,78.3806922
+ice_cream,Goldah ice bar,31.4397790,73.0223000
+ice_cream,Bharkadevi IceCream,20.0339770,73.8038880
+ice_cream,Shree Krishna Ice Cream,28.2080704,83.9686239
+ice_cream,Amul Ice Cream,31.7033327,76.9411124
+ice_cream,Amul Treats,31.7055299,76.9363540
+ice_cream,ibaco,17.0066447,81.7948134
+ice_cream,Karve Ice-cream,18.5876365,73.7838738
+ice_cream,Himalyan Ice-cream,28.2134514,84.0075561
+ice_cream,Baskin-Robbins,22.5522106,88.3525571
+ice_cream,Giani's,28.5363144,77.2113421
+ice_cream,Himadri Ice Creams,12.9865814,77.5558215
+ice_cream,Marvel +Xerox +Stationary,15.2773092,73.9621300
+ice_cream,dairy parlour,16.4473733,80.6118492
+ice_cream,Naturals,19.0527460,72.8997282
+ice_cream,Havmor,28.5511522,77.2045076
+ice_cream,Giani,28.5513013,77.2045766
+ice_cream,Baskin Robbins,28.5485369,77.2369153
+ice_cream,Rajmandir,18.5018057,73.8093127
+ice_cream,Amul,18.5023895,73.8048120
+ice_cream,Amul,18.5179185,73.8381256
+ice_cream,Corner House,13.0021237,77.6615626
+ice_cream,Amul Ice-cream Parlour,18.4906079,73.8232642
+ice_cream,Omm Ice Cream Shop,20.1399534,85.5110751
+ice_cream,Ibaco,17.4667720,78.4938107
+ice_cream,Oh so stoned,17.4589185,78.5003757
+ice_cream,Iceberg,15.8012607,78.0487460
+ice_cream,Natural Ice Cream,12.9304826,77.6331908
+ice_cream,Mantap Ice Cream,12.9747988,77.5756766
+ice_cream,Polar Bear,12.9161291,77.6519293
+ice_cream,Cream and Stone,12.9124823,77.6386317
+ice_cream,Naturals,12.9130110,77.6802694
+ice_cream,The Icy Island,27.7552628,85.4195522
+ice_cream,DDC Dairy Ltd,27.7175176,85.3150464
+ice_cream,Giani,28.5622334,77.2450357
+ice_cream,Unknown,28.2106007,83.9569405
+ice_cream,Baskin-Robbins,12.9618934,77.7013316
+ice_cream,Sudha Milk Parlour,26.1247124,85.4050458
+ice_cream,Unknown,19.1609730,72.9445406
+ice_cream,Ice Cream Works,12.9217823,77.5853030
+ice_cream,Roll Over,12.8994481,77.5859306
+ice_cream,Apsara IceCreams,12.9121661,77.5862870
+ice_cream,Shomota Ice Factory,22.5423965,90.6727946
+ice_cream,Cocoberry,28.5347957,77.2080378
+ice_cream,Amul,18.5402774,73.8296921
+ice_cream,Oh So Stoned,18.5674295,73.7761183
+ice_cream,Pandit Kulfi,26.9267387,75.8277588
+ice_cream,Naturals,22.5505805,88.3547740
+ice_cream,Bistro 57,28.6351241,77.2212339
+ice_cream,Naturals,19.0550034,72.8266664
+ice_cream,Baskin-Robbins,12.8496608,77.6638059
+ice_cream,Hangyo Icecream,12.9995673,77.5993940
+ice_cream,Baskin-Robbins,13.0039957,77.5834595
+ice_cream,Shake Sahab,28.6348833,77.2221046
+ice_cream,Naturals,13.0067267,77.5641398
+ice_cream,Corner House,12.9701103,77.6373408
+ice_cream,Baskin-Robbins,12.9209269,77.6514784
+ice_cream,Baskin-Robbins,13.0290328,77.5708477
+ice_cream,Corner House,12.9360490,77.6150661
+ice_cream,Baskin-Robbins,12.9377879,77.6263171
+ice_cream,Baskin-Robbins,13.0996082,77.5889404
+ice_cream,Nature's Basket,12.9782610,77.6431384
+ice_cream,Hangyo Ice Creams,13.3402616,74.7481041
+ice_cream,Corner House,12.9728510,77.5999908
+ice_cream,Baskin Robins,19.0713325,72.8240860
+ice_cream,Corner House,12.9173594,77.5931667
+ice_cream,Nature's Basket,19.1064212,72.8262287
+ice_cream,Baskin-Robbins,13.0219568,77.6398654
+ice_cream,Naturals,12.9714650,77.6008347
+ice_cream,Unknown,27.6738032,85.3727387
+ice_cream,Corner House,12.9884699,77.5769743
+ice_cream,Dessertz,12.9885163,77.5771989
+ice_cream,Baskin-Robbins,27.7181892,85.3192108
+ice_cream,Baskin-Robbins,27.7105020,85.3176593
+ice_cream,Nature's Basket,19.2123321,72.8728884
+ice_cream,Sri Krishna Ice Cream,13.8638438,74.8137148
+ice_cream,Baskin-Robbins,13.0074329,77.5641350
+ice_cream,Polar Bear,12.9914936,77.5386990
+ice_cream,Naturals,18.5231678,73.8475945
+ice_cream,Cream and Fudge Factory,23.7476925,90.3705704
+ice_cream,Baskin-Robbins,12.9928014,77.6614935
+ice_cream,Arun Ice Cream,12.9894445,77.5379861
+ice_cream,Amul Ice Cream,12.9893282,77.5379751
+ice_cream,Corner House,13.0049443,77.6171173
+ice_cream,Ibaco,12.9676509,77.6065580
+ice_cream,Naturals Icecream - Kothrud,18.5023920,73.8157895
+ice_cream,Unknown,13.8452696,75.6925398
+ice_cream,Sujata Mastani,18.5117375,73.8520533
+ice_cream,Ibaco,12.9251387,80.2304440
+ice_cream,Unknown,26.7230895,88.1724549
+ice_cream,Chaman Ice Cream,31.5622749,74.3200174
+ice_cream,Naturals,12.8922730,77.5982637
+ice_cream,Baskin-Robbins,12.9007262,77.5859519
+ice_cream,Unknown,30.7574290,76.7751710
+ice_cream,Naturals,18.5562769,73.8089525
+ice_cream,Baskin-Robbins,12.9170446,77.6719220
+ice_cream,Häagen-Dazs,12.9734322,77.6204609
+ice_cream,vadilal ice-cream parlour,27.6985240,84.4257911
+ice_cream,Unknown,27.5391233,84.8078916
+ice_cream,Unknown,27.5350633,84.8100204
+ice_cream,Sujata Mastani,18.4823361,73.8270307
+ice_cream,Cream Stone,12.9507193,77.6999210
+ice_cream,Unknown,26.2870247,73.0344706
+ice_cream,Baskin-Robbins,13.0297038,80.2453965
+ice_cream,Pinkberry,12.9690331,77.6410328
+ice_cream,Ibaco,12.9801628,77.6372678
+ice_cream,ibaco,12.9713796,80.1425925
+ice_cream,Baskin-Robbins,12.9755430,77.6032210
+ice_cream,Corner House,12.9736712,77.6093156
+ice_cream,Art of Delight,12.9733146,77.6092125
+ice_cream,Baskin-Robbins,27.4774454,89.6386829
+ice_cream,Naturals,12.9702350,77.6445368
+ice_cream,Baskin-Robbins,12.9792774,77.7513439
+ice_cream,Naturals,12.9852423,77.5437542
+ice_cream,Nature's Basket,13.0056797,77.5806627
+ice_cream,Nature's Basket,18.9147040,72.8181018
+ice_cream,Menchie's,12.9795140,77.6410806
+ice_cream,Milano Ice Cream,12.9790679,77.6440136
+ice_cream,Lakeview Milk Bar,12.9681222,77.7493893
+ice_cream,Dinshaw's Shree Sai Corner,21.1197694,79.1114391
+ice_cream,Jimmy's Kitchen,27.4695596,89.6390317
+ice_cream,Arun Icecream Parlor,13.0288210,80.1834360
+ice_cream,Baskin-Robbins,12.8770550,77.5953965
+ice_cream,Corner House,13.0210445,77.6426065
+ice_cream,IceCream Parlour,12.9968593,80.2405386
+ice_cream,Kwality Walls,17.4580725,78.3715880
+ice_cream,Vadilal Ice Cream Parlour,15.5508552,73.8179763
+ice_cream,Fabrica Oriental,15.4978030,73.8308676
+ice_cream,Ibaco,12.9964446,77.6125758
+ice_cream,Unknown,15.1655140,73.9737679
+ice_cream,Cindy's,15.0985209,73.9338447
+ice_cream,Baskin-Robbins,15.1717159,73.9740938
+ice_cream,Baskin Robbins,15.2341923,73.9432699
+ice_cream,Baskin-Robbins,15.6261679,73.7666193
+ice_cream,Unknown,28.0436000,73.3112836
+ice_cream,Gelato Italiano,15.5367279,73.8199454
+ice_cream,happy holidays,22.7033723,75.8427928
+ice_cream,Kermal Mahal Kulfi,28.6474152,77.2288691
+ice_cream,naturals,21.2411222,81.6606908
+ice_cream,CELESTY,21.2439890,81.6104019
+ice_cream,Havmor Ice Creams,23.0174138,72.4756688
+ice_cream,Unknown,23.1618902,72.8079924
+ice_cream,Arun Ice Cream Company Direct Store,13.0952123,79.6586626
+ice_cream,Unknown,27.6768579,85.3171252
+ice_cream,Cream Stone,17.4957251,78.3329733
+ice_cream,Baskin-Robbins,17.4137073,78.4071231
+ice_cream,FAB ice cream,12.8979474,77.6079394
+ice_cream,Amul,19.4418276,72.8095132
+ice_cream,Sidra Cool Point,12.9441794,77.5945035
+ice_cream,Nandi Juice and Icecreams,14.7891652,75.9869385
+ice_cream,Arun Icecreams,14.7874744,75.9858736
+ice_cream,Baskin-Robbins,20.9295765,77.7607311
+ice_cream,Top N Town Ice Cream Parlour,20.9380583,77.7752883
+ice_cream,Chaman Ice Cream,31.9788672,74.2218893
+ice_cream,Shani Cold Corner,31.9582081,74.2250704
+ice_cream,Haji Cold Corner,31.7239943,73.9974432
+ice_cream,Baba Kulfi,31.5801222,74.3059541
+ice_cream,Baba Kulfi Wala,31.5768570,74.3173274
+ice_cream,Happy Ending,31.4885199,74.3255482
+ice_cream,Chaman Ice Cream,31.4794890,74.3005538
+ice_cream,Desserts N More,15.5253287,73.8273756
+ice_cream,Ice Touch Ice Cream,29.3906834,71.6723889
+ice_cream,Naturals,28.5514630,77.2053927
+ice_cream,Baskin Robbins,18.9666028,72.8135178
+ice_cream,Pomy's,31.4662698,74.3793209
+ice_cream,Polar bear,12.9048267,77.6759353
+ice_cream,Polar Bear,13.2030915,77.2659754
+ice_cream,Ice Cream parler,21.2679215,81.6180732
+ice_cream,Cold Stone Creamery,12.9146653,77.6761779
+ice_cream,Berrylicious,12.9338158,77.6198404
+ice_cream,Cream House,12.9977674,77.5499952
+ice_cream,Unknown,27.6594826,84.5195846
+ice_cream,Bonkers,12.3228623,76.6346812
+ice_cream,Unknown,18.5154115,73.8499313
+ice_cream,Unknown,27.7187661,85.5200316
+ice_cream,Arun icecream,16.1888125,81.1469179
+ice_cream,Ice Bakery,28.5439030,77.2301277
+ice_cream,Cold Stone Creamery,12.9768750,77.7256826
+ice_cream,Softy station,12.9724885,77.6507419
+ice_cream,Baskins & Robbins,15.2608461,73.9292486
+ice_cream,Unknown,26.9163958,75.8179421
+ice_cream,Naturals,17.4385690,78.3992127
+ice_cream,Aavin Shop,12.9857321,80.2579384
+ice_cream,Baskin Robbins,28.6068930,77.2906357
+ice_cream,Joy Ice Creams,12.9318977,77.5890661
+ice_cream,Snowbite,19.0521623,72.8238975
+ice_cream,Unknown,26.9229950,75.8257091
+ice_cream,Andersens Icecream,31.5210028,74.3509069
+ice_cream,kuremal mohanlal kulfiwale,28.6476472,77.2269058
+ice_cream,Amul ice cream parlour,15.3867385,73.8456655
+ice_cream,Magnum Ice Cream - Emporium Mall,31.4680715,74.2661934
+ice_cream,Ice Curl - Emporium Mall,31.4676982,74.2645377
+ice_cream,Marble Slab Creamery Pakistan,31.5067804,74.3568263
+ice_cream,Naturals,28.5714856,77.2373191
+ice_cream,Amul Icecream Parlour,15.5577792,74.0149422
+ice_cream,Arun Ice Creams,12.9973648,77.5483946
+ice_cream,Vadilals,12.9406476,77.5427806
+ice_cream,Polar Bear,12.9373819,77.5490738
+ice_cream,Cream n Bites,12.9386517,77.5522656
+ice_cream,Baskin-Robbins,12.9480048,77.5699568
+ice_cream,Arctic Bites,12.9511952,77.5774603
+ice_cream,samgam,16.3837168,80.4359889
+ice_cream,Unknown,27.3243973,86.0802951
+ice_cream,Amul Parlor,23.0321809,72.5052786
+ice_cream,Havmor Ice Cream,28.7122097,77.1309064
+ice_cream,"Amul, gp ice cream parlour",17.4001683,78.4569645
+ice_cream,Salgaonkar,15.6055877,73.7460012
+ice_cream,Eskimos,17.4417124,78.3579309
+ice_cream,Cream stone,17.4428929,78.3554372
+ice_cream,Choclate room,17.4415787,78.3580621
+ice_cream,Hot 'N' Chili Ice-cream Parlour,28.0577400,81.6235236
+ice_cream,Unknown,26.9767829,86.3828405
+ice_cream,Amul,23.0128218,72.5066003
+ice_cream,Kriti Icream Center,28.0538815,81.6210761
+ice_cream,Havmor Ice Cream,17.3600731,78.4722873
+ice_cream,Arum ice creams,16.2352310,80.0457437
+ice_cream,Hfc,16.4813119,79.8848569
+ice_cream,Hi-fi,16.2283206,80.0491263
+ice_cream,Mövenpick,23.7421013,90.4099599
+ice_cream,Prakash Proteins,23.2680661,77.3421540
+ice_cream,Top and Town,23.2734361,77.3440060
+ice_cream,Bhairunath Ice Cream,23.2720789,77.3410927
+ice_cream,Kajal Ice Cream,23.2731516,77.3408684
+ice_cream,Shree Krishna Ice -Cream,28.2339095,83.9788190
+ice_cream,Night Food Market,25.4510376,81.8737839
+ice_cream,Quality walls,17.4414221,78.3806922
+ice_cream,Goldah ice bar,31.4397790,73.0223000
+ice_cream,Bharkadevi IceCream,20.0339770,73.8038880
+ice_cream,Shree Krishna Ice Cream,28.2080704,83.9686239
+ice_cream,Amul Ice Cream,31.7033327,76.9411124
+ice_cream,Amul Treats,31.7055299,76.9363540
+ice_cream,ibaco,17.0066447,81.7948134
+ice_cream,Karve Ice-cream,18.5876365,73.7838738
+ice_cream,Himalyan Ice-cream,28.2134514,84.0075561
+ice_cream,Baskin-Robbins,22.5522106,88.3525571
+ice_cream,Giani's,28.5363144,77.2113421
+ice_cream,Himadri Ice Creams,12.9865814,77.5558215
+ice_cream,Marvel +Xerox +Stationary,15.2773092,73.9621300
+ice_cream,dairy parlour,16.4473733,80.6118492
+ice_cream,Naturals,19.0527460,72.8997282
+ice_cream,Havmor,28.5511522,77.2045076
+ice_cream,Giani,28.5513013,77.2045766
+ice_cream,Baskin Robbins,28.5485369,77.2369153
+ice_cream,Rajmandir,18.5018057,73.8093127
+ice_cream,Amul,18.5023895,73.8048120
+ice_cream,Amul,18.5179185,73.8381256
+ice_cream,Corner House,13.0021237,77.6615626
+ice_cream,Amul Ice-cream Parlour,18.4906079,73.8232642
+ice_cream,Omm Ice Cream Shop,20.1399534,85.5110751
+ice_cream,Ibaco,17.4667720,78.4938107
+ice_cream,Oh so stoned,17.4589185,78.5003757
+ice_cream,Iceberg,15.8012607,78.0487460
+ice_cream,Natural Ice Cream,12.9304826,77.6331908
+ice_cream,Mantap Ice Cream,12.9747988,77.5756766
+ice_cream,Polar Bear,12.9161291,77.6519293
+ice_cream,Cream and Stone,12.9124823,77.6386317
+ice_cream,Naturals,12.9130110,77.6802694
+ice_cream,The Icy Island,27.7552628,85.4195522
+ice_cream,DDC Dairy Ltd,27.7175176,85.3150464
+ice_cream,Giani,28.5622334,77.2450357
+ice_cream,Unknown,28.2106007,83.9569405
+ice_cream,Baskin-Robbins,12.9618934,77.7013316
+ice_cream,Sudha Milk Parlour,26.1247124,85.4050458
+ice_cream,Unknown,19.1609730,72.9445406
+ice_cream,Ice Cream Works,12.9217823,77.5853030
+ice_cream,Roll Over,12.8994481,77.5859306
+ice_cream,Apsara IceCreams,12.9121661,77.5862870
+ice_cream,Shomota Ice Factory,22.5423965,90.6727946
+ice_cream,Cocoberry,28.5347957,77.2080378
+ice_cream,Amul,18.5402774,73.8296921
+ice_cream,Oh So Stoned,18.5674295,73.7761183
+ice_cream,Pandit Kulfi,26.9267387,75.8277588
+ice_cream,Naturals,22.5505805,88.3547740
+ice_cream,Bistro 57,28.6351241,77.2212339
+pub,XYZ,30.9236083,75.7623591
+pub,Verka Milk Booth,30.8491906,76.1064401
+pub,German Club - Rest House Society,23.7935770,90.4197537
+pub,American Club - AEEA,23.8025240,90.4102484
+pub,Netherland Recreation Center (Dutch Club),23.8030800,90.4139058
+pub,British High Commission Club,23.7992294,90.4197753
+pub,Australian Club,23.8001554,90.4132375
+pub,Canadian Club,23.7967291,90.4210727
+pub,Unknown,28.4667736,77.0614275
+pub,High Time,13.0398535,80.2449822
+pub,Harrys Pub,17.4365274,78.4464444
+pub,Bike & Barrels,13.0402957,80.2437770
+pub,Zaras,13.0456864,80.2588530
+pub,Shakura Bar,23.7414508,90.3957873
+pub,Westminister,13.0295981,80.2496967
+pub,Rhapsody,13.0460179,80.2479281
+pub,Leather Bar,13.0528394,80.2497445
+pub,Fort St George,13.0581484,80.2471894
+pub,Gulshan Club,23.7947064,90.4107834
+pub,La Diplomat,23.7816653,90.4176499
+pub,TASMAC,12.9641291,80.2121529
+pub,Machaan,28.4996949,77.0961326
+pub,Sunny Garden (Everest Rock Bar),27.6886150,86.7313415
+pub,Sathya's,12.9250640,77.6328706
+pub,MyBar,28.6405551,77.2107627
+pub,Thirteenth Floor,12.9752596,77.6048953
+pub,Jack's Corner,15.2504566,73.9273103
+pub,Hall of Fame,17.4326693,78.4066828
+pub,TGIF,17.4185512,78.4240063
+pub,Club,30.3729520,75.5403701
+pub,Busaba,18.9222319,72.8322099
+pub,10 Downing Street,17.4361119,78.4572136
+pub,Club 8,17.4362758,78.4572753
+pub,Firangi Paani,17.4119579,78.4505263
+pub,Sun n Moon Bar and Restaurant,15.2460151,73.9228209
+pub,Art Escape,15.2504578,73.9227602
+pub,Vagabond Bar and Restaurant,15.3361261,73.9064309
+pub,X-Lounge,23.7934268,90.4056533
+pub,Heart Cup Cafe,17.4573611,78.3686709
+pub,Xtronic Pub and Lounge Bar,30.7393252,76.7863117
+pub,F Cafe and Lounge,17.4573565,78.3688935
+pub,Unknown,31.5092673,74.3228034
+pub,Chrome,17.7199683,83.3196816
+pub,Froth On Top,12.8735993,74.8518393
+pub,Haveli Bar Restaurant,17.4615417,78.3672648
+pub,Iceland,31.4739337,74.3572969
+pub,Kamaki's,15.5564179,73.7544231
+pub,The Juke Box,12.9363640,77.6147769
+pub,Sixtyfour,12.9366058,77.6149730
+pub,Purple Haze,12.9332689,77.6147839
+pub,Madan Pub,12.9359010,77.6149260
+pub,Sherlock's Pub,12.9946747,77.6150372
+pub,Sun Pub,12.9094182,77.5274725
+pub,J cubeez,12.9257822,77.5640113
+pub,Pecos,12.9737360,77.6072937
+pub,Ideal Cafe,18.9557202,72.8131297
+pub,Pelican Pub,12.3178359,76.6251578
+pub,Pegs and pints,12.9244905,77.5653351
+pub,Gusto,12.3070497,76.6163213
+pub,Texas Bar,16.7073403,74.2487772
+pub,The Biere Club,12.9709587,77.5975559
+pub,Guzzlers Inn,12.9736858,77.6068869
+pub,maharjan newai khaja ghar,27.6700803,85.3324423
+pub,Honacha,27.6736747,85.3248069
+pub,Honacha,27.6740547,85.3250105
+pub,All Star Sports Bar,27.7384384,85.3353257
+pub,Toit,12.9794113,77.6406278
+pub,newari khaja ghar,27.6321878,85.3908857
+pub,Unknown,27.6692009,85.2766003
+pub,Sadikshya Khaja Ghar,27.6687960,85.2767418
+pub,WTF,19.1284942,72.8172840
+pub,Rooftop restaurant,27.7035139,85.3070540
+pub,The Irish House,19.0616755,72.8293973
+pub,Toto's Garage,19.0624858,72.8298004
+pub,Ubique Hotel & Restaurant-cum-Bar,22.7629135,88.3637669
+pub,Wall Junction Chiya Pasal,27.6888582,85.3982833
+pub,PWO house,28.4574910,77.0764090
+pub,Unknown,23.7250303,90.3904889
+pub,Extreme Sports Bar,17.4648777,78.5033703
+pub,Chitwan Bar,27.5761273,84.4927084
+pub,Purple Haze,12.9504876,77.6999864
+pub,The Pint Room,12.8762310,77.5959821
+pub,International Club,23.8002066,90.4136868
+pub,Cafe Mojo,12.8743129,74.8492338
+pub,Independence Brewing Company,19.1289427,72.8190702
+pub,The Spring Club,22.5494789,88.4010016
+pub,Oval,22.5818422,88.4493170
+pub,Sadanand,12.9895999,74.7998567
+pub,Famous Tea shop,12.9350216,79.1521280
+pub,Rajadhani Pub,12.9787644,77.5750024
+pub,Unknown,12.3114270,76.6589809
+pub,Jamaica Inn,15.1754679,73.9479697
+pub,Kulti Club,23.7319414,86.8442558
+pub,Watson's Pub,12.9943998,77.5945632
+pub,Viva Pub,15.5177245,73.7675683
+pub,Arbor Brewing Company,12.9703092,77.6109836
+pub,Revolution,15.5378287,73.7644379
+pub,The Biere Street,12.9626309,77.7507675
+pub,Pop Tates,19.1300887,72.8214871
+pub,Deurali MonkeyBar,28.1900185,83.0890705
+pub,Unknown,12.9619603,77.6420069
+pub,Bootleggers,12.9712735,77.5974847
+pub,Sherpa hotel,27.6556674,85.3215269
+pub,Bullet Club,19.7282341,85.1964211
+pub,CP Club,21.1559869,79.0552084
+pub,Bob's Bar,12.9671468,77.6412417
+pub,District 6,13.0124022,77.5547800
+pub,Unknown,15.5775865,73.7469592
+pub,6Pack,15.5765762,73.7460499
+pub,Purple Haze,12.3382882,76.6168895
+pub,rijal store,27.5388777,84.8074335
+pub,Bangalore Brew Works,12.9680185,77.6019458
+pub,Brewberrys,12.9254043,77.6748140
+pub,House of Spirit,12.9516940,77.6994711
+pub,Kingfisher Blue,12.9517442,77.7000910
+pub,RUDE LOUNGE,19.1108939,72.9080099
+pub,Xtreme Sports Bar,12.9111440,77.6761815
+pub,Busy Bee,28.2108905,83.9569283
+pub,H3O,12.9620032,77.6419066
+pub,Vapour,12.9694282,77.6411133
+pub,LOFT 38,12.9714296,77.6410321
+pub,Aquila Bar,12.9651581,77.6412777
+pub,21st Amendment,12.9659700,77.6412101
+pub,Watson's,12.9673327,77.6411618
+pub,Hoppipola,12.9751841,77.6034702
+pub,Lais Bar & Restaurant,12.9758164,77.6021776
+pub,Down Town Pub,12.9729508,77.6085761
+pub,Shakespeare's Pub,12.9577457,77.7009447
+pub,Kadambini,12.9571564,77.7018603
+pub,Shri Sarathi Restaurant and Bar,12.9591054,77.6612287
+pub,Narthaki,12.9733555,77.6093639
+pub,Baywatch,12.9721037,77.6078626
+pub,Kuteera,15.4178273,75.0428482
+pub,Three Wise Men,19.0844697,72.8355686
+pub,The Railway,23.7502577,90.4086504
+pub,Monkey Bar,28.5372110,77.1471275
+pub,Cafe Mojo,15.4979652,73.8250245
+pub,Butter's,15.4932420,73.8362499
+pub,Zucco Restro Bar,12.9787019,77.6411945
+pub,Harati Newari,27.7207168,85.3085274
+pub,Longuinhos,15.2719415,73.9577267
+pub,Soro,15.6012710,73.7612900
+pub,Watson's Ulsoor,12.9908548,77.6192753
+pub,Sams Cottages and Resto Pub,15.2839470,73.9136100
+pub,Linson Pub,15.3571020,73.9257700
+pub,43 Madhughat hou soc,18.6330799,73.8399757
+pub,Bistrobar,12.9713768,77.6474537
+pub,Tiger Pub,27.4762899,89.6363824
+pub,winner pub,27.4733513,89.6371988
+pub,Norzang Restaurant,27.4728289,89.6374389
+pub,Everest Irish Pub,27.7167144,85.3101427
+pub,Unknown,27.4723088,89.6414819
+pub,Unknown,27.4699128,89.6405266
+pub,Unknown,16.9998612,73.3595682
+pub,Unknown,27.4698709,89.6404073
+pub,The Pub,15.5893700,73.8120600
+pub,Top Gear,15.5009604,73.8288232
+pub,Ace`s The Pub & Restaurant,15.4971640,73.8250126
+pub,1522 the Pub,13.0078684,77.5570406
+pub,K27 - The Pub,12.9216335,77.5702729
+pub,Kaffeine,28.5535626,77.1941956
+pub,Unknown,24.1028049,90.5965957
+pub,Joey's pub,27.0396783,88.2655448
+pub,Unknown,27.7191869,85.3571358
+pub,Unknown,23.9144000,90.2599058
+pub,Wayside Inn,15.1727604,73.9846045
+pub,Unknown,27.7163835,85.3017218
+pub,Downtown Pub and Bistro,15.5348256,73.8238635
+pub,Hapi Beer Co.,19.0491012,72.8290132
+pub,Unknown,28.6491765,77.1437436
+pub,SP road Secunderabad pub,17.4414309,78.4906151
+pub,Unknown,28.0661518,81.6355304
+pub,Indian Oil,22.4319379,88.4680120
+pub,Sam's Bar,27.7162695,85.3100553
+pub,Tom & Jerry's,27.7155749,85.3104848
+pub,Irish Pub,28.2106179,83.9562989
+pub,Unknown,19.8628571,75.3156477
+pub,Brew Bot,19.1412727,72.8332274
+pub,Jimmys,12.9289101,77.5914708
+pub,Hic!,15.3128097,73.9090004
+pub,Hammered,12.9860536,77.5949314
+pub,Unknown,27.4694480,89.6389378
+pub,The Druid Garden,13.0636119,77.5913837
+pub,Perreira Bar,15.3071440,73.9971308
+pub,The Warehouse,12.9751329,77.6470448
+pub,3 Page Bar and Restaurant,12.9711493,77.6057474
+pub,Unknown,27.6019668,85.2893462
+pub,Head Tattar,31.2280125,71.0821806
+pub,Jimi's Beer Cafe,12.9409559,77.6241477
+pub,Unknown,27.7200436,85.3871987
+pub,Unknown,27.7200403,85.3871868
+pub,Nizampet,18.1291715,78.5307777
+pub,Irish Pub,27.8042645,86.7104058
+pub,Slug,13.0446352,77.6208812
+pub,Woodside Inn,18.9249021,72.8318781
+pub,Blyton's Bar,13.0638577,77.5901963
+pub,Unknown,27.6437479,85.3150339
+pub,Unknown,26.9960157,85.1183151
+pub,The Weekly - Brewhouse & Kitchen,12.9350324,77.6089973
+pub,Avon Bar And Kitchen,12.9358056,77.6084211
+pub,Johnny Fox RestoBar & Pub,12.9352198,77.6093401
+pub,Harry's Bar And Cafe,12.9343841,77.6127469
+pub,Fenny's Lounge & Kitchen,12.9351887,77.6135481
+pub,Koramangala Social,12.9355957,77.6141769
+pub,The Local,12.9407272,77.6244407
+pub,Over The Top,12.9344948,77.6236101
+pub,Fandom Gillys Redefined,12.9333881,77.6235890
+pub,Myu Bar at Gilly's Redefined,12.9334502,77.6236120
+pub,Brooks and Bonds Brewery,12.9342194,77.6234330
+pub,Crawl Street,12.9325612,77.6138214
+pub,Indigo XP,12.9328538,77.6140068
+pub,Gilly's Resto Bar,12.9329953,77.6146513
+pub,Sherlocks Pub,12.9342494,77.6160805
+pub,Happy Brew,12.9339697,77.6154797
+pub,Tilt Gastro Lounge,12.9341449,77.6155709
+pub,The Boozy Griffin,12.9344559,77.6159732
+pub,Bira 91 Taproom,12.9312594,77.6329642
+pub,Plan B,12.9674384,77.7147179
+pub,Unknown,27.7182257,85.3501023
+pub,Pls Dnt Tlk,22.5471967,88.3523673
+pub,Biergarten Brewery & Kitchen,12.9824221,77.7086483
+pub,turtles club,27.7138713,85.3113073
+pub,Sounds and Sprites,17.4425942,78.3961412
+pub,Meat&Fish,15.6385423,73.7246713
+pub,Paddy Foley’s Irish Pub,27.7151033,85.3103767
+pub,Unknown,27.6300407,85.5229630
+pub,Imperfecto,28.5547346,77.1951084
+pub,Geist Brewing Taproom,13.0115956,77.5553917
+pub,Unknown,18.7996427,84.1343018
+pub,pub ,18.7996884,84.1344091
+pub,r.pub,19.1702899,83.4025140
+pub,Century club,17.7108317,83.3149753
+pub,Unknown,17.7069874,83.3111162
+pub,Brother Barley Brewing Company,12.9121766,77.6368606
+pub,Jetlag,13.0122579,77.5541209
+pub,Unknown,19.1184941,72.9113629
+pub,Crafters - The Tap House,19.1185802,72.9113588
+pub,Brew Kings,12.9264213,77.5002730
+pub,Bajrang DJ Sounds Ankoli,19.6066560,78.5721149
+pub,Unknown,27.3981245,89.4227462
+pub,36 DownTown,17.4358323,78.4006704
+pub,Unknown,30.6986508,76.8490664
+pub,Aurum Brew Works,12.9107458,77.6856277
+pub,Unknown,27.7168286,85.3095797
+pub,Brew Bros,30.6768335,76.7225341
+pub,Club rogue,17.4297641,78.4110228
+pub,10 Downing Street,17.4526995,78.3632696
+pub,The Pub,15.5891438,73.8126052
+pub,Float Brewery,13.0225688,77.6435164
+pub,Billy's BrewStris,18.5566688,73.8088812
+pub,Geometry Gastropub,13.0081080,77.5569521
+pub,Straight Up,13.0695841,77.6518339
+pub,Unknown,27.7127352,85.3179074
+pub,RK Beer bar and permit room,18.3886576,72.9279391
+pub,Tap Out Pub,12.9137236,77.6664546
+pub,Unknown,27.6327616,85.3176660
+pub,moonshine,17.4142386,78.4077027
+pub,AZZURO,18.5671883,73.7435608
+pub,Club Illusion,13.0024317,76.1089898
+pub,Mirage,12.9750192,77.6025201
+pub,RCB Bar and Cafe,12.9754530,77.6023766
+pub,BLR Brewing Company,12.8679234,77.5430553
+pub,Bar Stock Exchange,12.9763045,77.6020903
+pub,Bar Stock Exchange Juhu,19.1153408,72.8347073
+pub,Old Street Cafe & Bar,19.0546125,72.8258171
+pub,Unknown,13.0284621,77.5719342
+pub,Elephant and Co.,18.5643913,73.7803936
+pub,SkyDeck,12.9748695,77.6075707
+pub,Chin Lung,12.9718552,77.6066212
+pub,Communiti,12.9724329,77.6082882
+cafe,Café,12.9637430,76.7266703
+cafe,Day Scholar Canteen,30.8610966,75.8627100
+cafe,Lories Tea shop,13.6432720,79.5152008
+cafe,Chai-Unchai,12.8944356,77.6024475
+cafe,Bikaner Misthan Bhandhar,30.8606322,75.8592181
+cafe,Cafe Coffee Day,28.5334920,77.1518947
+cafe,Services Club,31.5185277,74.3777319
+cafe,Unknown,31.5379372,74.3536993
+cafe,Shisha Jazz Cafe,18.5391279,73.9049627
+cafe,Unknown,28.5392027,77.1944440
+cafe,German Bakery,18.5396234,73.8873711
+cafe,Cafe Coffee Day,12.9998739,80.2518509
+cafe,All night canteen,28.3603778,75.5894167
+cafe,andora;Cafe Andora,19.0573435,72.8276847
+cafe,A1 Bakery,19.0546237,72.8264717
+cafe,Unknown,30.4079110,78.2891171
+cafe,Barista,13.0607136,80.2509829
+cafe,Cafe Coffee Day,13.0823329,80.2181614
+cafe,Anokhi,13.0285657,80.2503649
+cafe,Coffee Day,12.5720280,77.0122051
+cafe,Coffee Central,13.0470673,80.2455216
+cafe,The Lobby Lounge,13.0064818,80.2053411
+cafe,Qwikys,12.9857701,80.2458097
+cafe,Cafe Coffee Day,13.0008239,80.2696481
+cafe,Cafe Coffee Day,12.9754961,77.6412437
+cafe,Old Madras Baking Company,12.9697383,77.6003775
+cafe,Hermann Helmers Bakery,27.6783303,85.3126120
+pub,XYZ,30.9236083,75.7623591
+pub,Verka Milk Booth,30.8491906,76.1064401
+pub,German Club - Rest House Society,23.7935770,90.4197537
+pub,American Club - AEEA,23.8025240,90.4102484
+pub,Netherland Recreation Center (Dutch Club),23.8030800,90.4139058
+pub,British High Commission Club,23.7992294,90.4197753
+pub,Australian Club,23.8001554,90.4132375
+pub,Canadian Club,23.7967291,90.4210727
+pub,Unknown,28.4667736,77.0614275
+pub,High Time,13.0398535,80.2449822
+pub,Harrys Pub,17.4365274,78.4464444
+pub,Bike & Barrels,13.0402957,80.2437770
+pub,Zaras,13.0456864,80.2588530
+pub,Shakura Bar,23.7414508,90.3957873
+pub,Westminister,13.0295981,80.2496967
+pub,Rhapsody,13.0460179,80.2479281
+pub,Leather Bar,13.0528394,80.2497445
+pub,Fort St George,13.0581484,80.2471894
+pub,Gulshan Club,23.7947064,90.4107834
+pub,La Diplomat,23.7816653,90.4176499
+pub,TASMAC,12.9641291,80.2121529
+pub,Machaan,28.4996949,77.0961326
+pub,Sunny Garden (Everest Rock Bar),27.6886150,86.7313415
+pub,Sathya's,12.9250640,77.6328706
+pub,MyBar,28.6405551,77.2107627
+pub,Thirteenth Floor,12.9752596,77.6048953
+pub,Jack's Corner,15.2504566,73.9273103
+pub,Hall of Fame,17.4326693,78.4066828
+pub,TGIF,17.4185512,78.4240063
+pub,Club,30.3729520,75.5403701
+pub,Busaba,18.9222319,72.8322099
+pub,10 Downing Street,17.4361119,78.4572136
+pub,Club 8,17.4362758,78.4572753
+pub,Firangi Paani,17.4119579,78.4505263
+pub,Sun n Moon Bar and Restaurant,15.2460151,73.9228209
+pub,Art Escape,15.2504578,73.9227602
+pub,Vagabond Bar and Restaurant,15.3361261,73.9064309
+pub,X-Lounge,23.7934268,90.4056533
+pub,Heart Cup Cafe,17.4573611,78.3686709
+pub,Xtronic Pub and Lounge Bar,30.7393252,76.7863117
+pub,F Cafe and Lounge,17.4573565,78.3688935
+pub,Unknown,31.5092673,74.3228034
+pub,Chrome,17.7199683,83.3196816
+pub,Froth On Top,12.8735993,74.8518393
+pub,Haveli Bar Restaurant,17.4615417,78.3672648
+pub,Iceland,31.4739337,74.3572969
+pub,Kamaki's,15.5564179,73.7544231
+pub,The Juke Box,12.9363640,77.6147769
+pub,Sixtyfour,12.9366058,77.6149730
+pub,Purple Haze,12.9332689,77.6147839
+pub,Madan Pub,12.9359010,77.6149260
+pub,Sherlock's Pub,12.9946747,77.6150372
+pub,Sun Pub,12.9094182,77.5274725
+pub,J cubeez,12.9257822,77.5640113
+pub,Pecos,12.9737360,77.6072937
+pub,Ideal Cafe,18.9557202,72.8131297
+pub,Pelican Pub,12.3178359,76.6251578
+pub,Pegs and pints,12.9244905,77.5653351
+pub,Gusto,12.3070497,76.6163213
+pub,Texas Bar,16.7073403,74.2487772
+pub,The Biere Club,12.9709587,77.5975559
+pub,Guzzlers Inn,12.9736858,77.6068869
+pub,maharjan newai khaja ghar,27.6700803,85.3324423
+pub,Honacha,27.6736747,85.3248069
+pub,Honacha,27.6740547,85.3250105
+pub,All Star Sports Bar,27.7384384,85.3353257
+pub,Toit,12.9794113,77.6406278
+pub,newari khaja ghar,27.6321878,85.3908857
+pub,Unknown,27.6692009,85.2766003
+pub,Sadikshya Khaja Ghar,27.6687960,85.2767418
+pub,WTF,19.1284942,72.8172840
+pub,Rooftop restaurant,27.7035139,85.3070540
+pub,The Irish House,19.0616755,72.8293973
+pub,Toto's Garage,19.0624858,72.8298004
+pub,Ubique Hotel & Restaurant-cum-Bar,22.7629135,88.3637669
+pub,Wall Junction Chiya Pasal,27.6888582,85.3982833
+pub,PWO house,28.4574910,77.0764090
+pub,Unknown,23.7250303,90.3904889
+pub,Extreme Sports Bar,17.4648777,78.5033703
+pub,Chitwan Bar,27.5761273,84.4927084
+pub,Purple Haze,12.9504876,77.6999864
+pub,The Pint Room,12.8762310,77.5959821
+pub,International Club,23.8002066,90.4136868
+pub,Cafe Mojo,12.8743129,74.8492338
+pub,Independence Brewing Company,19.1289427,72.8190702
+pub,The Spring Club,22.5494789,88.4010016
+pub,Oval,22.5818422,88.4493170
+pub,Sadanand,12.9895999,74.7998567
+pub,Famous Tea shop,12.9350216,79.1521280
+pub,Rajadhani Pub,12.9787644,77.5750024
+pub,Unknown,12.3114270,76.6589809
+pub,Jamaica Inn,15.1754679,73.9479697
+pub,Kulti Club,23.7319414,86.8442558
+pub,Watson's Pub,12.9943998,77.5945632
+pub,Viva Pub,15.5177245,73.7675683
+pub,Arbor Brewing Company,12.9703092,77.6109836
+pub,Revolution,15.5378287,73.7644379
+pub,The Biere Street,12.9626309,77.7507675
+pub,Pop Tates,19.1300887,72.8214871
+pub,Deurali MonkeyBar,28.1900185,83.0890705
+pub,Unknown,12.9619603,77.6420069
+pub,Bootleggers,12.9712735,77.5974847
+pub,Sherpa hotel,27.6556674,85.3215269
+pub,Bullet Club,19.7282341,85.1964211
+pub,CP Club,21.1559869,79.0552084
+pub,Bob's Bar,12.9671468,77.6412417
+pub,District 6,13.0124022,77.5547800
+pub,Unknown,15.5775865,73.7469592
+pub,6Pack,15.5765762,73.7460499
+pub,Purple Haze,12.3382882,76.6168895
+pub,rijal store,27.5388777,84.8074335
+pub,Bangalore Brew Works,12.9680185,77.6019458
+pub,Brewberrys,12.9254043,77.6748140
+pub,House of Spirit,12.9516940,77.6994711
+pub,Kingfisher Blue,12.9517442,77.7000910
+pub,RUDE LOUNGE,19.1108939,72.9080099
+pub,Xtreme Sports Bar,12.9111440,77.6761815
+pub,Busy Bee,28.2108905,83.9569283
+pub,H3O,12.9620032,77.6419066
+pub,Vapour,12.9694282,77.6411133
+pub,LOFT 38,12.9714296,77.6410321
+pub,Aquila Bar,12.9651581,77.6412777
+pub,21st Amendment,12.9659700,77.6412101
+pub,Watson's,12.9673327,77.6411618
+pub,Hoppipola,12.9751841,77.6034702
+pub,Lais Bar & Restaurant,12.9758164,77.6021776
+pub,Down Town Pub,12.9729508,77.6085761
+pub,Shakespeare's Pub,12.9577457,77.7009447
+pub,Kadambini,12.9571564,77.7018603
+pub,Shri Sarathi Restaurant and Bar,12.9591054,77.6612287
+pub,Narthaki,12.9733555,77.6093639
+pub,Baywatch,12.9721037,77.6078626
+pub,Kuteera,15.4178273,75.0428482
+pub,Three Wise Men,19.0844697,72.8355686
+pub,The Railway,23.7502577,90.4086504
+pub,Monkey Bar,28.5372110,77.1471275
+pub,Cafe Mojo,15.4979652,73.8250245
+pub,Butter's,15.4932420,73.8362499
+pub,Zucco Restro Bar,12.9787019,77.6411945
+pub,Harati Newari,27.7207168,85.3085274
+pub,Longuinhos,15.2719415,73.9577267
+pub,Soro,15.6012710,73.7612900
+pub,Watson's Ulsoor,12.9908548,77.6192753
+pub,Sams Cottages and Resto Pub,15.2839470,73.9136100
+pub,Linson Pub,15.3571020,73.9257700
+pub,43 Madhughat hou soc,18.6330799,73.8399757
+pub,Bistrobar,12.9713768,77.6474537
+pub,Tiger Pub,27.4762899,89.6363824
+pub,winner pub,27.4733513,89.6371988
+pub,Norzang Restaurant,27.4728289,89.6374389
+pub,Everest Irish Pub,27.7167144,85.3101427
+pub,Unknown,27.4723088,89.6414819
+pub,Unknown,27.4699128,89.6405266
+pub,Unknown,16.9998612,73.3595682
+pub,Unknown,27.4698709,89.6404073
+pub,The Pub,15.5893700,73.8120600
+pub,Top Gear,15.5009604,73.8288232
+pub,Ace`s The Pub & Restaurant,15.4971640,73.8250126
+pub,1522 the Pub,13.0078684,77.5570406
+pub,K27 - The Pub,12.9216335,77.5702729
+pub,Kaffeine,28.5535626,77.1941956
+pub,Unknown,24.1028049,90.5965957
+pub,Joey's pub,27.0396783,88.2655448
+pub,Unknown,27.7191869,85.3571358
+pub,Unknown,23.9144000,90.2599058
+pub,Wayside Inn,15.1727604,73.9846045
+pub,Unknown,27.7163835,85.3017218
+pub,Downtown Pub and Bistro,15.5348256,73.8238635
+pub,Hapi Beer Co.,19.0491012,72.8290132
+pub,Unknown,28.6491765,77.1437436
+pub,SP road Secunderabad pub,17.4414309,78.4906151
+pub,Unknown,28.0661518,81.6355304
+pub,Indian Oil,22.4319379,88.4680120
+pub,Sam's Bar,27.7162695,85.3100553
+pub,Tom & Jerry's,27.7155749,85.3104848
+pub,Irish Pub,28.2106179,83.9562989
+pub,Unknown,19.8628571,75.3156477
+pub,Brew Bot,19.1412727,72.8332274
+pub,Jimmys,12.9289101,77.5914708
+pub,Hic!,15.3128097,73.9090004
+pub,Hammered,12.9860536,77.5949314
+pub,Unknown,27.4694480,89.6389378
+pub,The Druid Garden,13.0636119,77.5913837
+pub,Perreira Bar,15.3071440,73.9971308
+pub,The Warehouse,12.9751329,77.6470448
+pub,3 Page Bar and Restaurant,12.9711493,77.6057474
+pub,Unknown,27.6019668,85.2893462
+pub,Head Tattar,31.2280125,71.0821806
+pub,Jimi's Beer Cafe,12.9409559,77.6241477
+pub,Unknown,27.7200436,85.3871987
+pub,Unknown,27.7200403,85.3871868
+pub,Nizampet,18.1291715,78.5307777
+pub,Irish Pub,27.8042645,86.7104058
+pub,Slug,13.0446352,77.6208812
+pub,Woodside Inn,18.9249021,72.8318781
+pub,Blyton's Bar,13.0638577,77.5901963
+pub,Unknown,27.6437479,85.3150339
+pub,Unknown,26.9960157,85.1183151
+pub,The Weekly - Brewhouse & Kitchen,12.9350324,77.6089973
+pub,Avon Bar And Kitchen,12.9358056,77.6084211
+pub,Johnny Fox RestoBar & Pub,12.9352198,77.6093401
+pub,Harry's Bar And Cafe,12.9343841,77.6127469
+pub,Fenny's Lounge & Kitchen,12.9351887,77.6135481
+pub,Koramangala Social,12.9355957,77.6141769
+pub,The Local,12.9407272,77.6244407
+pub,Over The Top,12.9344948,77.6236101
+pub,Fandom Gillys Redefined,12.9333881,77.6235890
+pub,Myu Bar at Gilly's Redefined,12.9334502,77.6236120
+pub,Brooks and Bonds Brewery,12.9342194,77.6234330
+pub,Crawl Street,12.9325612,77.6138214
+pub,Indigo XP,12.9328538,77.6140068
+pub,Gilly's Resto Bar,12.9329953,77.6146513
+pub,Sherlocks Pub,12.9342494,77.6160805
+pub,Happy Brew,12.9339697,77.6154797
+pub,Tilt Gastro Lounge,12.9341449,77.6155709
+pub,The Boozy Griffin,12.9344559,77.6159732
+pub,Bira 91 Taproom,12.9312594,77.6329642
+pub,Plan B,12.9674384,77.7147179
+pub,Unknown,27.7182257,85.3501023
+pub,Pls Dnt Tlk,22.5471967,88.3523673
+pub,Biergarten Brewery & Kitchen,12.9824221,77.7086483
+pub,turtles club,27.7138713,85.3113073
+pub,Sounds and Sprites,17.4425942,78.3961412
+pub,Meat&Fish,15.6385423,73.7246713
+pub,Paddy Foley’s Irish Pub,27.7151033,85.3103767
+pub,Unknown,27.6300407,85.5229630
+pub,Imperfecto,28.5547346,77.1951084
+pub,Geist Brewing Taproom,13.0115956,77.5553917
+pub,Unknown,18.7996427,84.1343018
+pub,pub ,18.7996884,84.1344091
+pub,r.pub,19.1702899,83.4025140
+pub,Century club,17.7108317,83.3149753
+pub,Unknown,17.7069874,83.3111162
+pub,Brother Barley Brewing Company,12.9121766,77.6368606
+pub,Jetlag,13.0122579,77.5541209
+pub,Unknown,19.1184941,72.9113629
+pub,Crafters - The Tap House,19.1185802,72.9113588
+pub,Brew Kings,12.9264213,77.5002730
+pub,Bajrang DJ Sounds Ankoli,19.6066560,78.5721149
+pub,Unknown,27.3981245,89.4227462
+pub,36 DownTown,17.4358323,78.4006704
+pub,Unknown,30.6986508,76.8490664
+pub,Aurum Brew Works,12.9107458,77.6856277
+pub,Unknown,27.7168286,85.3095797
+pub,Brew Bros,30.6768335,76.7225341
+pub,Club rogue,17.4297641,78.4110228
+pub,10 Downing Street,17.4526995,78.3632696
+pub,The Pub,15.5891438,73.8126052
+pub,Float Brewery,13.0225688,77.6435164
+pub,Billy's BrewStris,18.5566688,73.8088812
+pub,Geometry Gastropub,13.0081080,77.5569521
+pub,Straight Up,13.0695841,77.6518339
+pub,Unknown,27.7127352,85.3179074
+pub,RK Beer bar and permit room,18.3886576,72.9279391
+pub,Tap Out Pub,12.9137236,77.6664546
+pub,Unknown,27.6327616,85.3176660
+pub,moonshine,17.4142386,78.4077027
+pub,AZZURO,18.5671883,73.7435608
+pub,Club Illusion,13.0024317,76.1089898
+pub,Mirage,12.9750192,77.6025201
+pub,RCB Bar and Cafe,12.9754530,77.6023766
+pub,BLR Brewing Company,12.8679234,77.5430553
+pub,Bar Stock Exchange,12.9763045,77.6020903
+pub,Bar Stock Exchange Juhu,19.1153408,72.8347073
+pub,Old Street Cafe & Bar,19.0546125,72.8258171
+pub,Unknown,13.0284621,77.5719342
+pub,Elephant and Co.,18.5643913,73.7803936
+pub,SkyDeck,12.9748695,77.6075707
+pub,Chin Lung,12.9718552,77.6066212
+pub,Communiti,12.9724329,77.6082882
+fast_food,Athicas Canteen,12.8942130,77.6025681
+fast_food,Darbar,28.4528666,77.0406221
+fast_food,Unknown,28.5099306,77.1682190
+fast_food,McDonald's,28.5574267,77.1635699
+fast_food,Unknown,26.6603126,79.1752507
+fast_food,Bikanervala,28.4689302,77.0638804
+fast_food,Unknown,28.4689088,77.0669775
+fast_food,Domino's,28.4113681,77.0432317
+fast_food,Meals House,12.8696335,77.6540449
+fast_food,Food n Drinks,12.8507304,77.6573836
+fast_food,Unknown,18.7924703,73.2974499
+fast_food,McDonald's,18.5457237,73.9062599
+fast_food,Nirula's,28.4106834,77.0431666
+fast_food,Haldiram's,21.1418145,79.0820420
+fast_food,Haldiram's,21.1414942,79.0608763
+fast_food,Verka Milk Bar,30.2898333,75.8337204
+fast_food,Srinidhi Sagar,12.9593353,77.6385869
+fast_food,Saravana Bhavan,13.0345162,80.2690082
+fast_food,KFC,12.9782444,77.6407376
+fast_food,Subway,12.9637134,77.6403936
+fast_food,Planet Yumm,12.9969184,80.2713903
+fast_food,KFC,17.4507642,78.3793915
+fast_food,Pizza Corner,17.4506168,78.3792198
+fast_food,TIBBS Frankies,19.0550612,72.8307379
+fast_food,Basket-Ball Canteen,17.4476500,78.3478760
+fast_food,Saravana Bhavan,12.8375981,79.7039669
+fast_food,Kalpakkam Canteen,12.5029186,80.1545529
+fast_food,Haldiram's,13.0453726,80.2669904
+fast_food,Domino's,28.6457998,77.1722681
+fast_food,Subway,13.0614085,80.2487161
+fast_food,Domino's,13.0354864,80.2496631
+fast_food,Pizza Hut,23.7474430,90.3702179
+fast_food,Star Kabab,23.7475099,90.3702012
+fast_food,Marrybrown,13.0717985,80.2029951
+fast_food,Subway,13.0266378,80.2326761
+fast_food,Saravana Bhavan,13.0443330,80.2644982
+fast_food,McDonald's,30.5500060,76.4868812
+fast_food,Om Sweets,28.4529218,77.0502790
+fast_food,Pupil,13.0010132,80.2709043
+fast_food,Cozee,13.0010049,80.2708185
+fast_food,Besant Fast Food,13.0005366,80.2667244
+fast_food,Bhatia Sweet Shop & Fast Food,30.7693916,76.7922462
+fast_food,Dosa Camp,13.0483946,77.5426609
+fast_food,Unknown,28.5190366,77.1613391
+fast_food,Domino's,12.8417186,77.6465145
+fast_food,Pav Bhaji,13.0024438,77.5838636
+fast_food,Fruit Shop on Greams Road,13.0603070,80.2546115
+fast_food,Hajiali Juice Centre,13.0603857,80.2548150
+fast_food,Sea Shell,13.0574642,80.2551093
+fast_food,Baba Chiken,30.8897197,75.8306755
+fast_food,Food Court,28.4939209,77.0932012
+fast_food,Bademiya Seekh Kebab Stall,18.9231497,72.8325111
+fast_food,McDonald's,28.5500151,77.2511173
+fast_food,Subway,28.5500689,77.2510928
+fast_food,Rajasthani Parotha Point,12.9514719,77.5774905
+fast_food,Arya Vysya Refreshments,12.9510029,77.5776381
+fast_food,Unknown,12.9512912,77.5774906
+fast_food,Chai,28.2450663,83.9637347
+fast_food,Ganesh Upahara,13.0468252,77.5494119
+food_court,The Bay,12.9939354,77.6609577
+food_court,Mess B,13.0188470,77.5629281
+food_court,Mess A,13.0189607,77.5625244
+food_court,Sharma Refreshment,30.8675382,75.8668252
+food_court,Food Court,28.6144090,77.2767565
+food_court,Food Court,18.7497964,73.5186464
+food_court,Transit,12.9343647,77.6110938
+food_court,McDonald's,31.2843072,75.6658622
+food_court,Dining Halls,13.2763312,75.3439575
+food_court,Food Court,29.3919468,79.4551000
+food_court,KMC Food Court,13.3532091,74.7859029
+food_court,IITM-RP Food Court,12.9903880,80.2427276
+food_court,Aharam - The Food Court,12.8761229,77.5961005
+food_court,Christ University Food Court,12.9346460,77.6067313
+food_court,RightO,12.4954054,76.8036841
+food_court,vinayaka food grains,13.2147764,79.0990026
+food_court,Food Court,15.3646062,75.1240170
+food_court,Saras Parlur,26.8619406,75.8065239
+food_court,pandit pani puri,27.7007887,84.4255385
+food_court,Pappu Hotel,30.5048006,76.6280408
+food_court,Murugan Idli Shop,12.9021275,79.4801260
+food_court,G.M. Rao Dhaba,17.6990473,77.5562026
+food_court,Unknown,17.4157378,78.5518155
+food_court,Unknown,27.5518860,83.8422129
+food_court,Unknown,27.7061944,84.3547083
+food_court,Unibic Foods,12.9694598,77.6416844
+food_court,Unknown,12.9353215,77.6944935
+food_court,GSB Canteen,23.7361427,90.4067393
+food_court,Sai Ram Hot Chips,13.0015441,77.6298704
+food_court,Jumde Bhajewala,20.8418342,79.3217881
+food_court,Janatha Hotel,12.9483365,77.5988241
+food_court,Puran Dhaka Biriyani,23.7558387,90.4111648
+food_court,Dhaka Kabab Ghor,23.7508345,90.4091425
+food_court,Cafetaria,15.5681829,74.0258829
+food_court,Chadpur Hotel,23.7152484,90.4258086
+food_court,Tripty Hotel,23.7338157,90.3828470
+food_court,Jadubhai Tehari House,23.7806615,90.4079772
+food_court,Babor Ali Biriani House,23.7178277,90.4253970
+food_court,KHANA KHAZANA,21.2431969,81.6143896
+food_court,Rajasthani Thali,21.2434044,81.6131723
+food_court,Bikaner,23.1684338,72.8170668
+food_court,Naval Officers Mess,28.5725158,77.1389666
+food_court,Unknown,13.0506655,77.6214043
+food_court,Ramadarshana Hotel,14.7874309,75.9859863
+food_court,Abhiruchi,14.7893053,75.9866917
+ice_cream,Naturals,19.0550034,72.8266664
+ice_cream,Baskin-Robbins,12.8496608,77.6638059
+ice_cream,Hangyo Icecream,12.9995673,77.5993940
+ice_cream,Baskin-Robbins,13.0039957,77.5834595
+ice_cream,Shake Sahab,28.6348833,77.2221046
+ice_cream,Naturals,13.0067267,77.5641398
+ice_cream,Corner House,12.9701103,77.6373408
+ice_cream,Baskin-Robbins,12.9209269,77.6514784
+ice_cream,Baskin-Robbins,13.0290328,77.5708477
+ice_cream,Corner House,12.9360490,77.6150661
+ice_cream,Baskin-Robbins,12.9377879,77.6263171
+ice_cream,Baskin-Robbins,13.0996082,77.5889404
+ice_cream,Nature's Basket,12.9782610,77.6431384
+ice_cream,Hangyo Ice Creams,13.3402616,74.7481041
+ice_cream,Corner House,12.9728510,77.5999908
+ice_cream,Baskin Robins,19.0713325,72.8240860
+ice_cream,Corner House,12.9173594,77.5931667
+ice_cream,Nature's Basket,19.1064212,72.8262287
+ice_cream,Baskin-Robbins,13.0219568,77.6398654
+ice_cream,Naturals,12.9714650,77.6008347
+ice_cream,Unknown,27.6738032,85.3727387
+ice_cream,Corner House,12.9884699,77.5769743
+ice_cream,Dessertz,12.9885163,77.5771989
+ice_cream,Baskin-Robbins,27.7181892,85.3192108
+ice_cream,Baskin-Robbins,27.7105020,85.3176593
+ice_cream,Nature's Basket,19.2123321,72.8728884
+ice_cream,Sri Krishna Ice Cream,13.8638438,74.8137148
+ice_cream,Baskin-Robbins,13.0074329,77.5641350
+ice_cream,Polar Bear,12.9914936,77.5386990
+ice_cream,Naturals,18.5231678,73.8475945
+ice_cream,Cream and Fudge Factory,23.7476925,90.3705704
+ice_cream,Baskin-Robbins,12.9928014,77.6614935
+ice_cream,Arun Ice Cream,12.9894445,77.5379861
+ice_cream,Amul Ice Cream,12.9893282,77.5379751
+ice_cream,Corner House,13.0049443,77.6171173
+ice_cream,Ibaco,12.9676509,77.6065580
+ice_cream,Naturals Icecream - Kothrud,18.5023920,73.8157895
+ice_cream,Unknown,13.8452696,75.6925398
+ice_cream,Sujata Mastani,18.5117375,73.8520533
+ice_cream,Ibaco,12.9251387,80.2304440
+ice_cream,Unknown,26.7230895,88.1724549
+ice_cream,Chaman Ice Cream,31.5622749,74.3200174
+ice_cream,Naturals,12.8922730,77.5982637
+ice_cream,Baskin-Robbins,12.9007262,77.5859519
+ice_cream,Unknown,30.7574290,76.7751710
+ice_cream,Naturals,18.5562769,73.8089525
+ice_cream,Baskin-Robbins,12.9170446,77.6719220
+ice_cream,Häagen-Dazs,12.9734322,77.6204609
+ice_cream,vadilal ice-cream parlour,27.6985240,84.4257911
+ice_cream,Unknown,27.5391233,84.8078916
+ice_cream,Unknown,27.5350633,84.8100204
+ice_cream,Sujata Mastani,18.4823361,73.8270307
+ice_cream,Cream Stone,12.9507193,77.6999210
+ice_cream,Unknown,26.2870247,73.0344706
+ice_cream,Baskin-Robbins,13.0297038,80.2453965
+ice_cream,Pinkberry,12.9690331,77.6410328
+ice_cream,Ibaco,12.9801628,77.6372678
+ice_cream,ibaco,12.9713796,80.1425925
+ice_cream,Baskin-Robbins,12.9755430,77.6032210
+ice_cream,Corner House,12.9736712,77.6093156
+ice_cream,Art of Delight,12.9733146,77.6092125
+ice_cream,Baskin-Robbins,27.4774454,89.6386829
+ice_cream,Naturals,12.9702350,77.6445368
+ice_cream,Baskin-Robbins,12.9792774,77.7513439
+ice_cream,Naturals,12.9852423,77.5437542
+ice_cream,Nature's Basket,13.0056797,77.5806627
+ice_cream,Nature's Basket,18.9147040,72.8181018
+ice_cream,Menchie's,12.9795140,77.6410806
+ice_cream,Milano Ice Cream,12.9790679,77.6440136
+ice_cream,Lakeview Milk Bar,12.9681222,77.7493893
+ice_cream,Dinshaw's Shree Sai Corner,21.1197694,79.1114391
+ice_cream,Jimmy's Kitchen,27.4695596,89.6390317
+ice_cream,Arun Icecream Parlor,13.0288210,80.1834360
+ice_cream,Baskin-Robbins,12.8770550,77.5953965
+ice_cream,Corner House,13.0210445,77.6426065
+ice_cream,IceCream Parlour,12.9968593,80.2405386
+ice_cream,Kwality Walls,17.4580725,78.3715880
+ice_cream,Vadilal Ice Cream Parlour,15.5508552,73.8179763
+ice_cream,Fabrica Oriental,15.4978030,73.8308676
+ice_cream,Ibaco,12.9964446,77.6125758
+ice_cream,Unknown,15.1655140,73.9737679
+ice_cream,Cindy's,15.0985209,73.9338447
+ice_cream,Baskin-Robbins,15.1717159,73.9740938
+ice_cream,Baskin Robbins,15.2341923,73.9432699
+ice_cream,Baskin-Robbins,15.6261679,73.7666193
+ice_cream,Unknown,28.0436000,73.3112836
+ice_cream,Gelato Italiano,15.5367279,73.8199454
+ice_cream,happy holidays,22.7033723,75.8427928
+ice_cream,Kermal Mahal Kulfi,28.6474152,77.2288691
+ice_cream,naturals,21.2411222,81.6606908
+ice_cream,CELESTY,21.2439890,81.6104019
+ice_cream,Havmor Ice Creams,23.0174138,72.4756688
+ice_cream,Unknown,23.1618902,72.8079924
+ice_cream,Arun Ice Cream Company Direct Store,13.0952123,79.6586626
+ice_cream,Unknown,27.6768579,85.3171252
+ice_cream,Cream Stone,17.4957251,78.3329733
+ice_cream,Baskin-Robbins,17.4137073,78.4071231
+ice_cream,FAB ice cream,12.8979474,77.6079394
+ice_cream,Amul,19.4418276,72.8095132
+ice_cream,Sidra Cool Point,12.9441794,77.5945035
+ice_cream,Nandi Juice and Icecreams,14.7891652,75.9869385
+ice_cream,Arun Icecreams,14.7874744,75.9858736
+ice_cream,Baskin-Robbins,20.9295765,77.7607311
+ice_cream,Top N Town Ice Cream Parlour,20.9380583,77.7752883
+ice_cream,Chaman Ice Cream,31.9788672,74.2218893
+ice_cream,Shani Cold Corner,31.9582081,74.2250704
+ice_cream,Haji Cold Corner,31.7239943,73.9974432
+ice_cream,Baba Kulfi,31.5801222,74.3059541
+ice_cream,Baba Kulfi Wala,31.5768570,74.3173274
+ice_cream,Happy Ending,31.4885199,74.3255482
+ice_cream,Chaman Ice Cream,31.4794890,74.3005538
+ice_cream,Desserts N More,15.5253287,73.8273756
+ice_cream,Ice Touch Ice Cream,29.3906834,71.6723889
+ice_cream,Naturals,28.5514630,77.2053927
+ice_cream,Baskin Robbins,18.9666028,72.8135178
+ice_cream,Pomy's,31.4662698,74.3793209
+ice_cream,Polar bear,12.9048267,77.6759353
+ice_cream,Polar Bear,13.2030915,77.2659754
+ice_cream,Ice Cream parler,21.2679215,81.6180732
+ice_cream,Cold Stone Creamery,12.9146653,77.6761779
+ice_cream,Berrylicious,12.9338158,77.6198404
+ice_cream,Cream House,12.9977674,77.5499952
+ice_cream,Unknown,27.6594826,84.5195846
+ice_cream,Bonkers,12.3228623,76.6346812
+ice_cream,Unknown,18.5154115,73.8499313
+ice_cream,Unknown,27.7187661,85.5200316
+ice_cream,Arun icecream,16.1888125,81.1469179
+ice_cream,Ice Bakery,28.5439030,77.2301277
+ice_cream,Cold Stone Creamery,12.9768750,77.7256826
+ice_cream,Softy station,12.9724885,77.6507419
+ice_cream,Baskins & Robbins,15.2608461,73.9292486
+ice_cream,Unknown,26.9163958,75.8179421
+ice_cream,Naturals,17.4385690,78.3992127
+ice_cream,Aavin Shop,12.9857321,80.2579384
+ice_cream,Baskin Robbins,28.6068930,77.2906357
+ice_cream,Joy Ice Creams,12.9318977,77.5890661
+ice_cream,Snowbite,19.0521623,72.8238975
+ice_cream,Unknown,26.9229950,75.8257091
+ice_cream,Andersens Icecream,31.5210028,74.3509069
+ice_cream,kuremal mohanlal kulfiwale,28.6476472,77.2269058
+ice_cream,Amul ice cream parlour,15.3867385,73.8456655
+ice_cream,Magnum Ice Cream - Emporium Mall,31.4680715,74.2661934
+ice_cream,Ice Curl - Emporium Mall,31.4676982,74.2645377
+ice_cream,Marble Slab Creamery Pakistan,31.5067804,74.3568263
+ice_cream,Naturals,28.5714856,77.2373191
+ice_cream,Amul Icecream Parlour,15.5577792,74.0149422
+ice_cream,Arun Ice Creams,12.9973648,77.5483946
+ice_cream,Vadilals,12.9406476,77.5427806
+ice_cream,Polar Bear,12.9373819,77.5490738
+ice_cream,Cream n Bites,12.9386517,77.5522656
+ice_cream,Baskin-Robbins,12.9480048,77.5699568
+ice_cream,Arctic Bites,12.9511952,77.5774603
+ice_cream,samgam,16.3837168,80.4359889
+ice_cream,Unknown,27.3243973,86.0802951
+ice_cream,Amul Parlor,23.0321809,72.5052786
+ice_cream,Havmor Ice Cream,28.7122097,77.1309064
+ice_cream,"Amul, gp ice cream parlour",17.4001683,78.4569645
+ice_cream,Salgaonkar,15.6055877,73.7460012
+ice_cream,Eskimos,17.4417124,78.3579309
+ice_cream,Cream stone,17.4428929,78.3554372
+ice_cream,Choclate room,17.4415787,78.3580621
+ice_cream,Hot 'N' Chili Ice-cream Parlour,28.0577400,81.6235236
+ice_cream,Unknown,26.9767829,86.3828405
+ice_cream,Amul,23.0128218,72.5066003
+ice_cream,Kriti Icream Center,28.0538815,81.6210761
+ice_cream,Havmor Ice Cream,17.3600731,78.4722873
+ice_cream,Arum ice creams,16.2352310,80.0457437
+ice_cream,Hfc,16.4813119,79.8848569
+ice_cream,Hi-fi,16.2283206,80.0491263
+ice_cream,Mövenpick,23.7421013,90.4099599
+ice_cream,Prakash Proteins,23.2680661,77.3421540
+ice_cream,Top and Town,23.2734361,77.3440060
+ice_cream,Bhairunath Ice Cream,23.2720789,77.3410927
+ice_cream,Kajal Ice Cream,23.2731516,77.3408684
+ice_cream,Shree Krishna Ice -Cream,28.2339095,83.9788190
+ice_cream,Night Food Market,25.4510376,81.8737839
+ice_cream,Quality walls,17.4414221,78.3806922
+ice_cream,Goldah ice bar,31.4397790,73.0223000
+ice_cream,Bharkadevi IceCream,20.0339770,73.8038880
+ice_cream,Shree Krishna Ice Cream,28.2080704,83.9686239
+ice_cream,Amul Ice Cream,31.7033327,76.9411124
+ice_cream,Amul Treats,31.7055299,76.9363540
+ice_cream,ibaco,17.0066447,81.7948134
+ice_cream,Karve Ice-cream,18.5876365,73.7838738
+ice_cream,Himalyan Ice-cream,28.2134514,84.0075561
+ice_cream,Baskin-Robbins,22.5522106,88.3525571
+ice_cream,Giani's,28.5363144,77.2113421
+ice_cream,Himadri Ice Creams,12.9865814,77.5558215
+ice_cream,Marvel +Xerox +Stationary,15.2773092,73.9621300
+ice_cream,dairy parlour,16.4473733,80.6118492
+ice_cream,Naturals,19.0527460,72.8997282
+ice_cream,Havmor,28.5511522,77.2045076
+ice_cream,Giani,28.5513013,77.2045766
+ice_cream,Baskin Robbins,28.5485369,77.2369153
+ice_cream,Rajmandir,18.5018057,73.8093127
+ice_cream,Amul,18.5023895,73.8048120
+ice_cream,Amul,18.5179185,73.8381256
+ice_cream,Corner House,13.0021237,77.6615626
+ice_cream,Amul Ice-cream Parlour,18.4906079,73.8232642
+ice_cream,Omm Ice Cream Shop,20.1399534,85.5110751
+ice_cream,Ibaco,17.4667720,78.4938107
+ice_cream,Oh so stoned,17.4589185,78.5003757
+ice_cream,Iceberg,15.8012607,78.0487460
+ice_cream,Natural Ice Cream,12.9304826,77.6331908
+ice_cream,Mantap Ice Cream,12.9747988,77.5756766
+ice_cream,Polar Bear,12.9161291,77.6519293
+ice_cream,Cream and Stone,12.9124823,77.6386317
+ice_cream,Naturals,12.9130110,77.6802694
+ice_cream,The Icy Island,27.7552628,85.4195522
+ice_cream,DDC Dairy Ltd,27.7175176,85.3150464
+ice_cream,Giani,28.5622334,77.2450357
+ice_cream,Unknown,28.2106007,83.9569405
+ice_cream,Baskin-Robbins,12.9618934,77.7013316
+ice_cream,Sudha Milk Parlour,26.1247124,85.4050458
+ice_cream,Unknown,19.1609730,72.9445406
+ice_cream,Ice Cream Works,12.9217823,77.5853030
+ice_cream,Roll Over,12.8994481,77.5859306
+ice_cream,Apsara IceCreams,12.9121661,77.5862870
+ice_cream,Shomota Ice Factory,22.5423965,90.6727946
+ice_cream,Cocoberry,28.5347957,77.2080378
+ice_cream,Amul,18.5402774,73.8296921
+ice_cream,Oh So Stoned,18.5674295,73.7761183
+ice_cream,Pandit Kulfi,26.9267387,75.8277588
+ice_cream,Naturals,22.5505805,88.3547740
+ice_cream,Bistro 57,28.6351241,77.2212339
+pub,XYZ,30.9236083,75.7623591
+pub,Verka Milk Booth,30.8491906,76.1064401
+pub,German Club - Rest House Society,23.7935770,90.4197537
+pub,American Club - AEEA,23.8025240,90.4102484
+pub,Netherland Recreation Center (Dutch Club),23.8030800,90.4139058
+pub,British High Commission Club,23.7992294,90.4197753
+pub,Australian Club,23.8001554,90.4132375
+pub,Canadian Club,23.7967291,90.4210727
+pub,Unknown,28.4667736,77.0614275
+pub,High Time,13.0398535,80.2449822
+pub,Harrys Pub,17.4365274,78.4464444
+pub,Bike & Barrels,13.0402957,80.2437770
+pub,Zaras,13.0456864,80.2588530
+pub,Shakura Bar,23.7414508,90.3957873
+pub,Westminister,13.0295981,80.2496967
+pub,Rhapsody,13.0460179,80.2479281
+pub,Leather Bar,13.0528394,80.2497445
+pub,Fort St George,13.0581484,80.2471894
+pub,Gulshan Club,23.7947064,90.4107834
+pub,La Diplomat,23.7816653,90.4176499
+pub,TASMAC,12.9641291,80.2121529
+pub,Machaan,28.4996949,77.0961326
+pub,Sunny Garden (Everest Rock Bar),27.6886150,86.7313415
+pub,Sathya's,12.9250640,77.6328706
+pub,MyBar,28.6405551,77.2107627
+pub,Thirteenth Floor,12.9752596,77.6048953
+pub,Jack's Corner,15.2504566,73.9273103
+pub,Hall of Fame,17.4326693,78.4066828
+pub,TGIF,17.4185512,78.4240063
+pub,Club,30.3729520,75.5403701
+pub,Busaba,18.9222319,72.8322099
+pub,10 Downing Street,17.4361119,78.4572136
+pub,Club 8,17.4362758,78.4572753
+pub,Firangi Paani,17.4119579,78.4505263
+pub,Sun n Moon Bar and Restaurant,15.2460151,73.9228209
+pub,Art Escape,15.2504578,73.9227602
+pub,Vagabond Bar and Restaurant,15.3361261,73.9064309
+pub,X-Lounge,23.7934268,90.4056533
+pub,Heart Cup Cafe,17.4573611,78.3686709
+pub,Xtronic Pub and Lounge Bar,30.7393252,76.7863117
+pub,F Cafe and Lounge,17.4573565,78.3688935
+pub,Unknown,31.5092673,74.3228034
+pub,Chrome,17.7199683,83.3196816
+pub,Froth On Top,12.8735993,74.8518393
+pub,Haveli Bar Restaurant,17.4615417,78.3672648
+pub,Iceland,31.4739337,74.3572969
+pub,Kamaki's,15.5564179,73.7544231
+pub,The Juke Box,12.9363640,77.6147769
+pub,Sixtyfour,12.9366058,77.6149730
+pub,Purple Haze,12.9332689,77.6147839
+pub,Madan Pub,12.9359010,77.6149260
+pub,Sherlock's Pub,12.9946747,77.6150372
+pub,Sun Pub,12.9094182,77.5274725
+pub,J cubeez,12.9257822,77.5640113
+pub,Pecos,12.9737360,77.6072937
+pub,Ideal Cafe,18.9557202,72.8131297
+pub,Pelican Pub,12.3178359,76.6251578
+pub,Pegs and pints,12.9244905,77.5653351
+pub,Gusto,12.3070497,76.6163213
+pub,Texas Bar,16.7073403,74.2487772
+pub,The Biere Club,12.9709587,77.5975559
+pub,Guzzlers Inn,12.9736858,77.6068869
+pub,maharjan newai khaja ghar,27.6700803,85.3324423
+pub,Honacha,27.6736747,85.3248069
+pub,Honacha,27.6740547,85.3250105
+pub,All Star Sports Bar,27.7384384,85.3353257
+pub,Toit,12.9794113,77.6406278
+pub,newari khaja ghar,27.6321878,85.3908857
+pub,Unknown,27.6692009,85.2766003
+pub,Sadikshya Khaja Ghar,27.6687960,85.2767418
+pub,WTF,19.1284942,72.8172840
+pub,Rooftop restaurant,27.7035139,85.3070540
+pub,The Irish House,19.0616755,72.8293973
+pub,Toto's Garage,19.0624858,72.8298004
+pub,Ubique Hotel & Restaurant-cum-Bar,22.7629135,88.3637669
+pub,Wall Junction Chiya Pasal,27.6888582,85.3982833
+pub,PWO house,28.4574910,77.0764090
+pub,Unknown,23.7250303,90.3904889
+pub,Extreme Sports Bar,17.4648777,78.5033703
+pub,Chitwan Bar,27.5761273,84.4927084
+pub,Purple Haze,12.9504876,77.6999864
+pub,The Pint Room,12.8762310,77.5959821
+pub,International Club,23.8002066,90.4136868
+pub,Cafe Mojo,12.8743129,74.8492338
+pub,Independence Brewing Company,19.1289427,72.8190702
+pub,The Spring Club,22.5494789,88.4010016
+pub,Oval,22.5818422,88.4493170
+pub,Sadanand,12.9895999,74.7998567
+pub,Famous Tea shop,12.9350216,79.1521280
+pub,Rajadhani Pub,12.9787644,77.5750024
+pub,Unknown,12.3114270,76.6589809
+pub,Jamaica Inn,15.1754679,73.9479697
+pub,Kulti Club,23.7319414,86.8442558
+pub,Watson's Pub,12.9943998,77.5945632
+pub,Viva Pub,15.5177245,73.7675683
+pub,Arbor Brewing Company,12.9703092,77.6109836
+pub,Revolution,15.5378287,73.7644379
+pub,The Biere Street,12.9626309,77.7507675
+pub,Pop Tates,19.1300887,72.8214871
+pub,Deurali MonkeyBar,28.1900185,83.0890705
+pub,Unknown,12.9619603,77.6420069
+pub,Bootleggers,12.9712735,77.5974847
+pub,Sherpa hotel,27.6556674,85.3215269
+pub,Bullet Club,19.7282341,85.1964211
+pub,CP Club,21.1559869,79.0552084
+pub,Bob's Bar,12.9671468,77.6412417
+pub,District 6,13.0124022,77.5547800
+pub,Unknown,15.5775865,73.7469592
+pub,6Pack,15.5765762,73.7460499
+pub,Purple Haze,12.3382882,76.6168895
+pub,rijal store,27.5388777,84.8074335
+pub,Bangalore Brew Works,12.9680185,77.6019458
+pub,Brewberrys,12.9254043,77.6748140
+pub,House of Spirit,12.9516940,77.6994711
+pub,Kingfisher Blue,12.9517442,77.7000910
+pub,RUDE LOUNGE,19.1108939,72.9080099
+pub,Xtreme Sports Bar,12.9111440,77.6761815
+pub,Busy Bee,28.2108905,83.9569283
+pub,H3O,12.9620032,77.6419066
+pub,Vapour,12.9694282,77.6411133
+pub,LOFT 38,12.9714296,77.6410321
+pub,Aquila Bar,12.9651581,77.6412777
+pub,21st Amendment,12.9659700,77.6412101
+pub,Watson's,12.9673327,77.6411618
+pub,Hoppipola,12.9751841,77.6034702
+pub,Lais Bar & Restaurant,12.9758164,77.6021776
+pub,Down Town Pub,12.9729508,77.6085761
+pub,Shakespeare's Pub,12.9577457,77.7009447
+pub,Kadambini,12.9571564,77.7018603
+pub,Shri Sarathi Restaurant and Bar,12.9591054,77.6612287
+pub,Narthaki,12.9733555,77.6093639
+pub,Baywatch,12.9721037,77.6078626
+pub,Kuteera,15.4178273,75.0428482
+pub,Three Wise Men,19.0844697,72.8355686
+pub,The Railway,23.7502577,90.4086504
+pub,Monkey Bar,28.5372110,77.1471275
+pub,Cafe Mojo,15.4979652,73.8250245
+pub,Butter's,15.4932420,73.8362499
+pub,Zucco Restro Bar,12.9787019,77.6411945
+pub,Harati Newari,27.7207168,85.3085274
+pub,Longuinhos,15.2719415,73.9577267
+pub,Soro,15.6012710,73.7612900
+pub,Watson's Ulsoor,12.9908548,77.6192753
+pub,Sams Cottages and Resto Pub,15.2839470,73.9136100
+pub,Linson Pub,15.3571020,73.9257700
+pub,43 Madhughat hou soc,18.6330799,73.8399757
+pub,Bistrobar,12.9713768,77.6474537
+pub,Tiger Pub,27.4762899,89.6363824
+pub,winner pub,27.4733513,89.6371988
+pub,Norzang Restaurant,27.4728289,89.6374389
+pub,Everest Irish Pub,27.7167144,85.3101427
+pub,Unknown,27.4723088,89.6414819
+pub,Unknown,27.4699128,89.6405266
+pub,Unknown,16.9998612,73.3595682
+pub,Unknown,27.4698709,89.6404073
+pub,The Pub,15.5893700,73.8120600
+pub,Top Gear,15.5009604,73.8288232
+pub,Ace`s The Pub & Restaurant,15.4971640,73.8250126
+pub,1522 the Pub,13.0078684,77.5570406
+pub,K27 - The Pub,12.9216335,77.5702729
+pub,Kaffeine,28.5535626,77.1941956
+pub,Unknown,24.1028049,90.5965957
+pub,Joey's pub,27.0396783,88.2655448
+pub,Unknown,27.7191869,85.3571358
+pub,Unknown,23.9144000,90.2599058
+pub,Wayside Inn,15.1727604,73.9846045
+pub,Unknown,27.7163835,85.3017218
+pub,Downtown Pub and Bistro,15.5348256,73.8238635
+pub,Hapi Beer Co.,19.0491012,72.8290132
+pub,Unknown,28.6491765,77.1437436
+pub,SP road Secunderabad pub,17.4414309,78.4906151
+pub,Unknown,28.0661518,81.6355304
+pub,Indian Oil,22.4319379,88.4680120
+pub,Sam's Bar,27.7162695,85.3100553
+pub,Tom & Jerry's,27.7155749,85.3104848
+pub,Irish Pub,28.2106179,83.9562989
+pub,Unknown,19.8628571,75.3156477
+pub,Brew Bot,19.1412727,72.8332274
+pub,Jimmys,12.9289101,77.5914708
+pub,Hic!,15.3128097,73.9090004
+pub,Hammered,12.9860536,77.5949314
+pub,Unknown,27.4694480,89.6389378
+pub,The Druid Garden,13.0636119,77.5913837
+pub,Perreira Bar,15.3071440,73.9971308
+pub,The Warehouse,12.9751329,77.6470448
+pub,3 Page Bar and Restaurant,12.9711493,77.6057474
+pub,Unknown,27.6019668,85.2893462
+pub,Head Tattar,31.2280125,71.0821806
+pub,Jimi's Beer Cafe,12.9409559,77.6241477
+pub,Unknown,27.7200436,85.3871987
+pub,Unknown,27.7200403,85.3871868
+pub,Nizampet,18.1291715,78.5307777
+pub,Irish Pub,27.8042645,86.7104058
+pub,Slug,13.0446352,77.6208812
+pub,Woodside Inn,18.9249021,72.8318781
+pub,Blyton's Bar,13.0638577,77.5901963
+pub,Unknown,27.6437479,85.3150339
+pub,Unknown,26.9960157,85.1183151
+pub,The Weekly - Brewhouse & Kitchen,12.9350324,77.6089973
+pub,Avon Bar And Kitchen,12.9358056,77.6084211
+pub,Johnny Fox RestoBar & Pub,12.9352198,77.6093401
+pub,Harry's Bar And Cafe,12.9343841,77.6127469
+pub,Fenny's Lounge & Kitchen,12.9351887,77.6135481
+pub,Koramangala Social,12.9355957,77.6141769
+pub,The Local,12.9407272,77.6244407
+pub,Over The Top,12.9344948,77.6236101
+pub,Fandom Gillys Redefined,12.9333881,77.6235890
+pub,Myu Bar at Gilly's Redefined,12.9334502,77.6236120
+pub,Brooks and Bonds Brewery,12.9342194,77.6234330
+pub,Crawl Street,12.9325612,77.6138214
+pub,Indigo XP,12.9328538,77.6140068
+pub,Gilly's Resto Bar,12.9329953,77.6146513
+pub,Sherlocks Pub,12.9342494,77.6160805
+pub,Happy Brew,12.9339697,77.6154797
+pub,Tilt Gastro Lounge,12.9341449,77.6155709
+pub,The Boozy Griffin,12.9344559,77.6159732
+pub,Bira 91 Taproom,12.9312594,77.6329642
+pub,Plan B,12.9674384,77.7147179
+pub,Unknown,27.7182257,85.3501023
+pub,Pls Dnt Tlk,22.5471967,88.3523673
+pub,Biergarten Brewery & Kitchen,12.9824221,77.7086483
+pub,turtles club,27.7138713,85.3113073
+pub,Sounds and Sprites,17.4425942,78.3961412
+pub,Meat&Fish,15.6385423,73.7246713
+pub,Paddy Foley’s Irish Pub,27.7151033,85.3103767
+pub,Unknown,27.6300407,85.5229630
+pub,Imperfecto,28.5547346,77.1951084
+pub,Geist Brewing Taproom,13.0115956,77.5553917
+pub,Unknown,18.7996427,84.1343018
+pub,pub ,18.7996884,84.1344091
+pub,r.pub,19.1702899,83.4025140
+pub,Century club,17.7108317,83.3149753
+pub,Unknown,17.7069874,83.3111162
+pub,Brother Barley Brewing Company,12.9121766,77.6368606
+pub,Jetlag,13.0122579,77.5541209
+pub,Unknown,19.1184941,72.9113629
+pub,Crafters - The Tap House,19.1185802,72.9113588
+pub,Brew Kings,12.9264213,77.5002730
+pub,Bajrang DJ Sounds Ankoli,19.6066560,78.5721149
+pub,Unknown,27.3981245,89.4227462
+pub,36 DownTown,17.4358323,78.4006704
+pub,Unknown,30.6986508,76.8490664
+pub,Aurum Brew Works,12.9107458,77.6856277
+pub,Unknown,27.7168286,85.3095797
+pub,Brew Bros,30.6768335,76.7225341
+pub,Club rogue,17.4297641,78.4110228
+pub,10 Downing Street,17.4526995,78.3632696
+pub,The Pub,15.5891438,73.8126052
+pub,Float Brewery,13.0225688,77.6435164
+pub,Billy's BrewStris,18.5566688,73.8088812
+pub,Geometry Gastropub,13.0081080,77.5569521
+pub,Straight Up,13.0695841,77.6518339
+pub,Unknown,27.7127352,85.3179074
+pub,RK Beer bar and permit room,18.3886576,72.9279391
+pub,Tap Out Pub,12.9137236,77.6664546
+pub,Unknown,27.6327616,85.3176660
+pub,moonshine,17.4142386,78.4077027
+pub,AZZURO,18.5671883,73.7435608
+pub,Club Illusion,13.0024317,76.1089898
+pub,Mirage,12.9750192,77.6025201
+pub,RCB Bar and Cafe,12.9754530,77.6023766
+pub,BLR Brewing Company,12.8679234,77.5430553
+pub,Bar Stock Exchange,12.9763045,77.6020903
+pub,Bar Stock Exchange Juhu,19.1153408,72.8347073
+pub,Old Street Cafe & Bar,19.0546125,72.8258171
+pub,Unknown,13.0284621,77.5719342
+pub,Elephant and Co.,18.5643913,73.7803936
+pub,SkyDeck,12.9748695,77.6075707
+pub,Chin Lung,12.9718552,77.6066212
+pub,Communiti,12.9724329,77.6082882
+restaurant,Copper Chimney,18.9275710,72.8325747
+restaurant,Malout,30.1902559,74.5001207
+restaurant,Snack Corner,12.8984603,77.6010688
+restaurant,Unknown,12.8973119,77.6015666
+restaurant,The Great Kabab Factory,12.9946821,80.1874068
+restaurant,Park Baluchi,28.4684904,77.0644002
+restaurant,Evolve Electronic City,12.8456194,77.6588954
+restaurant,Baton Rouge,23.7923662,90.4157108
+restaurant,Heritage,23.7909581,90.4174196
+restaurant,Tara,16.6853143,74.4646432
+restaurant,Cafe Green,16.6938217,74.4591770
+restaurant,Chowdary tea stall,16.6936284,74.4605790
+restaurant,The Charcoal Pit,18.5167868,73.8791405
+restaurant,The Great Punjab,18.5364098,73.8973015
+restaurant,Dhaba,28.2972557,77.0670586
+restaurant,Tangerine,13.0392554,80.2556216
+restaurant,Ente Keralam,13.0421141,80.2558968
+restaurant,Suriyas,13.0383186,80.2566708
+restaurant,Ananda,13.0391641,80.2472190
+restaurant,Midnight Express,13.0409358,80.2586973
+restaurant,Sukh Sagar,12.9333646,77.6230728
+restaurant,Udupi Garden,12.9163076,77.6103158
+restaurant,Amruth Park Land,12.8835332,77.7502633
+restaurant,Sodi Non-veg Dhaba,30.6998409,75.8477565
+restaurant,Unknown,28.6069461,77.2299189
+restaurant,Grey Pelican,30.1158119,77.2908314
+restaurant,Shanti Sagar,12.9606568,77.6385011
+restaurant,Nandhini,12.9619513,77.6419064
+restaurant,Pizza Hut,12.9559416,77.6412371
+restaurant,Nandhana,12.9558995,77.6411692
+restaurant,Wunjala,27.7143297,85.3284556
+restaurant,Sukh Sagar,12.9741824,77.5753745
+restaurant,Bhagini,12.9651393,77.6383211
+restaurant,Adyar Ananda Bhavan,12.9543746,77.5930172
+restaurant,Pizza Hut,13.0055904,80.2518220
+restaurant,Taj Tristar,17.4414402,78.4935002
+restaurant,Motel Mamalla,12.6326090,80.1958020
+restaurant,ECR Dhaba,12.7994470,80.2420745
+restaurant,Basera,12.9329807,80.2517763
+restaurant,Quark,12.9854583,80.2364174
+restaurant,Ladies Mess,12.9875968,80.2422869
+restaurant,Maami's Mess,13.0324107,80.2704268
+restaurant,Mayilai Sri Karpagambal Mess,13.0327388,80.2712197
+restaurant,Sangeetha,13.0323689,80.2676459
+restaurant,Vasantha Bhavan,13.0322517,80.2685043
+restaurant,Adyar Ananda Bhavan,13.0340003,80.2677522
+restaurant,Rayer Mess,13.0355223,80.2730140
+restaurant,Benjarong,13.0313113,80.2513502
+restaurant,Okadeys,13.0384527,80.2567668
+restaurant,Amaravati,13.0451417,80.2592552
+restaurant,Kalpaka,13.0468725,80.2605083
+restaurant,Madras Cafe,13.0008164,80.2043612
+restaurant,Sital,29.4889927,79.6302815
+restaurant,Anand Thali,18.5009808,73.9448522
+restaurant,Garden IceCream,17.9352613,73.6879604
+restaurant,Dara's Dhaba,19.2767754,72.8889843
+restaurant,Haveli Inn,19.2933669,72.9052748
+restaurant,Visawa Hotel,18.0876201,73.4422299
+restaurant,Adyar Ananda Bhavan,12.9968115,80.2582413
+restaurant,Windows of the World,17.4502975,78.3816574
+restaurant,Little Italy,13.0609985,80.2475712
+restaurant,Pizza Hut,13.0654260,80.2432841
+restaurant,Mainland China,13.0659169,80.2421706
+restaurant,Good Luck Restaurant,19.0517569,72.8240813
+restaurant,Wonton House Chinese Restaurant,19.0548735,72.8258922
+restaurant,Novelty,13.0889622,80.2790177
+restaurant,Annapurna,13.0747305,80.2626235
+restaurant,Kiyangshi Thai & Chinese Restaurant,23.7949044,90.3531984
+restaurant,Malgudi Restaurant,17.4846794,78.3899283
+restaurant,Olive Garden,17.4450343,78.3859699
+restaurant,Koshy's,12.9756318,77.6014761
+restaurant,Barbecue Nation,13.0454388,80.2331563
+restaurant,Sparkys Diner,13.0729298,80.2526113
+restaurant,Golden Palate Veg,12.6187470,80.1938388
+restaurant,Sea Shore Restaurant,12.6195622,80.1982716
+restaurant,Santana,12.6198954,80.1982825
+restaurant,Mamalla Bhavan,12.6168227,80.1935528
+restaurant,Maharaja,13.0633479,80.2739101
+restaurant,Bowl O China,17.4393202,78.4473624
+restaurant,"Don Pepe, Copper Chimney",13.0458581,80.2581730
+restaurant,Adyar Ananda Bhavan,12.6273756,80.1943135
+restaurant,Paneer soda shop,13.0322882,80.2709135
+restaurant,Corner Juice Shop,13.0333788,80.2569388
+restaurant,Wangs Kitchen,13.0610272,80.2481523
+restaurant,Casa Picola,13.0607599,80.2512477
+restaurant,Bob's Bar,12.9344837,77.6130843
+restaurant,US Pizza,13.0368042,80.2553943
+restaurant,The Wanton,13.0308675,80.2547014
+restaurant,Four Season,23.7514014,90.3679886
+restaurant,Bombay Halwa House,13.0383754,80.2674307
+restaurant,Mathsya,13.0750359,80.2581673
+restaurant,Unknown,13.0342752,80.2467821
+restaurant,Hotel Sangeetha,13.0717149,80.2030895
+restaurant,Adyar Ananda Bhavan,13.0718906,80.2028921
+restaurant,Ajnabee Snacks,13.0677438,80.2566293
+restaurant,Asli Punjabi Rasoi Ghar,13.0650516,80.2589124
+restaurant,Bombay Halwa House,13.0688689,80.2717553
+restaurant,Noodle House,13.0654928,80.2431296
+restaurant,Dominoes Pizza,13.0316532,80.1640666
+restaurant,Lemongrass,13.0287554,80.2532540
+restaurant,Grains of Paradise,13.0276871,80.2526956
+restaurant,Cream Centre,13.0269140,80.2556765
+restaurant,Cappucino,13.0294364,80.2497843
+restaurant,In Seoul,13.0321755,80.2521158
+restaurant,The Crown,13.0403208,80.2437255
+restaurant,Paprika,13.0460421,80.2476349
+restaurant,Aqua,13.0529661,80.2500813
+restaurant,Lotus,13.0528789,80.2498533
+restaurant,Hip Asia,13.0630743,80.2612723
+restaurant,Akasaka,12.9881641,80.2556827
+restaurant,Lemon grass,12.5458091,76.9483858
+restaurant,Bombay Halwa House,13.0851955,80.2449931
+restaurant,Thaali Corner,13.0851761,80.2447589
+restaurant,Sri Sarvana Bhavan,13.0510228,80.0944083
+restaurant,Cornucopia,13.0307571,80.2457033
+restaurant,Dhaba Express,13.0312456,80.2460431
+restaurant,Parvathi Bhavan,13.0387921,80.2570003
+restaurant,Cilantro,13.0064035,80.2057624
+restaurant,Navratna,13.0062581,80.2057624
+restaurant,Kayal,13.0061052,80.2057662
+restaurant,Hotel Garden,13.0425174,77.6140020
+restaurant,Makkhan Sweets,13.0311615,80.2459839
+restaurant,Hill View Cottage Mess,13.6741011,79.3485323
+restaurant,Unknown,13.6783307,79.3512773
+restaurant,Unknown,13.6809613,79.3497513
+restaurant,Unknown,13.6849997,79.3499349
+restaurant,Anna Dhanam,13.6824540,79.3497593
+restaurant,Unknown,13.6841996,79.3455342
+restaurant,TBC,13.6778578,79.3435418
+restaurant,SVGH,13.6792104,79.3409290
+restaurant,Unknown,13.6846919,79.3436037
+restaurant,Holiday Home,30.2128179,74.9403567
+restaurant,Ruchita Restaurant and Bar,23.7806827,90.4030306
+restaurant,M M A Kababs,12.9566296,77.7152069
+restaurant,Unknown,12.9563782,77.7108662
+restaurant,Food Village,12.9278334,80.2521808
+restaurant,Ruchit Palace,19.0971923,73.0259339
+restaurant,Aristocrat,24.4185647,89.5556532
+restaurant,Naveidyam,28.4649041,77.0789762
+restaurant,Pizza Hut,12.9856448,80.2459383
+restaurant,By The Bay,13.0012892,80.2712305
+restaurant,Tasty Jones,13.0010216,80.2706983
+restaurant,Dhaba Express,13.0007325,80.2704376
+restaurant,Hotel Balaji,13.0005700,80.2662523
+restaurant,Eden,12.9970909,80.2679346
+restaurant,Pizza Hut,12.9782249,77.6406320
+college,Guru Nanak Dev Polytechnic,30.8575134,75.8623133
+college,Sri Venkateswara College of Engineering - SVCE,12.9864437,79.9717629
+college,Sri Guru Ram Das Medical College,31.6355264,74.9664088
+college,Unknown,26.6607728,79.1731050
+college,International Business School,12.8630037,77.6594242
+restaurant,Copper Chimney,18.9275710,72.8325747
+restaurant,Malout,30.1902559,74.5001207
+restaurant,Snack Corner,12.8984603,77.6010688
+restaurant,Unknown,12.8973119,77.6015666
+restaurant,The Great Kabab Factory,12.9946821,80.1874068
+restaurant,Park Baluchi,28.4684904,77.0644002
+restaurant,Evolve Electronic City,12.8456194,77.6588954
+restaurant,Baton Rouge,23.7923662,90.4157108
+restaurant,Heritage,23.7909581,90.4174196
+restaurant,Tara,16.6853143,74.4646432
+restaurant,Cafe Green,16.6938217,74.4591770
+restaurant,Chowdary tea stall,16.6936284,74.4605790
+restaurant,The Charcoal Pit,18.5167868,73.8791405
+restaurant,The Great Punjab,18.5364098,73.8973015
+restaurant,Dhaba,28.2972557,77.0670586
+restaurant,Tangerine,13.0392554,80.2556216
+restaurant,Ente Keralam,13.0421141,80.2558968
+restaurant,Suriyas,13.0383186,80.2566708
+restaurant,Ananda,13.0391641,80.2472190
+restaurant,Midnight Express,13.0409358,80.2586973
+restaurant,Sukh Sagar,12.9333646,77.6230728
+restaurant,Udupi Garden,12.9163076,77.6103158
+restaurant,Amruth Park Land,12.8835332,77.7502633
+restaurant,Sodi Non-veg Dhaba,30.6998409,75.8477565
+restaurant,Unknown,28.6069461,77.2299189
+restaurant,Grey Pelican,30.1158119,77.2908314
+restaurant,Shanti Sagar,12.9606568,77.6385011
+restaurant,Nandhini,12.9619513,77.6419064
+restaurant,Pizza Hut,12.9559416,77.6412371
+restaurant,Nandhana,12.9558995,77.6411692
+restaurant,Wunjala,27.7143297,85.3284556
+restaurant,Sukh Sagar,12.9741824,77.5753745
+restaurant,Bhagini,12.9651393,77.6383211
+restaurant,Adyar Ananda Bhavan,12.9543746,77.5930172
+restaurant,Pizza Hut,13.0055904,80.2518220
+restaurant,Taj Tristar,17.4414402,78.4935002
+restaurant,Motel Mamalla,12.6326090,80.1958020
+restaurant,ECR Dhaba,12.7994470,80.2420745
+restaurant,Basera,12.9329807,80.2517763
+restaurant,Quark,12.9854583,80.2364174
+restaurant,Ladies Mess,12.9875968,80.2422869
+restaurant,Maami's Mess,13.0324107,80.2704268
+restaurant,Mayilai Sri Karpagambal Mess,13.0327388,80.2712197
+restaurant,Sangeetha,13.0323689,80.2676459
+restaurant,Vasantha Bhavan,13.0322517,80.2685043
+restaurant,Adyar Ananda Bhavan,13.0340003,80.2677522
+restaurant,Rayer Mess,13.0355223,80.2730140
+restaurant,Benjarong,13.0313113,80.2513502
+restaurant,Okadeys,13.0384527,80.2567668
+restaurant,Amaravati,13.0451417,80.2592552
+restaurant,Kalpaka,13.0468725,80.2605083
+restaurant,Madras Cafe,13.0008164,80.2043612
+restaurant,Sital,29.4889927,79.6302815
+restaurant,Anand Thali,18.5009808,73.9448522
+restaurant,Garden IceCream,17.9352613,73.6879604
+restaurant,Dara's Dhaba,19.2767754,72.8889843
+restaurant,Haveli Inn,19.2933669,72.9052748
+restaurant,Visawa Hotel,18.0876201,73.4422299
+restaurant,Adyar Ananda Bhavan,12.9968115,80.2582413
+restaurant,Windows of the World,17.4502975,78.3816574
+restaurant,Little Italy,13.0609985,80.2475712
+restaurant,Pizza Hut,13.0654260,80.2432841
+restaurant,Mainland China,13.0659169,80.2421706
+restaurant,Good Luck Restaurant,19.0517569,72.8240813
+restaurant,Wonton House Chinese Restaurant,19.0548735,72.8258922
+restaurant,Novelty,13.0889622,80.2790177
+restaurant,Annapurna,13.0747305,80.2626235
+restaurant,Kiyangshi Thai & Chinese Restaurant,23.7949044,90.3531984
+restaurant,Malgudi Restaurant,17.4846794,78.3899283
+restaurant,Olive Garden,17.4450343,78.3859699
+restaurant,Koshy's,12.9756318,77.6014761
+restaurant,Barbecue Nation,13.0454388,80.2331563
+restaurant,Sparkys Diner,13.0729298,80.2526113
+restaurant,Golden Palate Veg,12.6187470,80.1938388
+restaurant,Sea Shore Restaurant,12.6195622,80.1982716
+restaurant,Santana,12.6198954,80.1982825
+restaurant,Mamalla Bhavan,12.6168227,80.1935528
+restaurant,Maharaja,13.0633479,80.2739101
+restaurant,Bowl O China,17.4393202,78.4473624
+restaurant,"Don Pepe, Copper Chimney",13.0458581,80.2581730
+restaurant,Adyar Ananda Bhavan,12.6273756,80.1943135
+restaurant,Paneer soda shop,13.0322882,80.2709135
+restaurant,Corner Juice Shop,13.0333788,80.2569388
+restaurant,Wangs Kitchen,13.0610272,80.2481523
+restaurant,Casa Picola,13.0607599,80.2512477
+restaurant,Bob's Bar,12.9344837,77.6130843
+restaurant,US Pizza,13.0368042,80.2553943
+restaurant,The Wanton,13.0308675,80.2547014
+restaurant,Four Season,23.7514014,90.3679886
+restaurant,Bombay Halwa House,13.0383754,80.2674307
+restaurant,Mathsya,13.0750359,80.2581673
+restaurant,Unknown,13.0342752,80.2467821
+restaurant,Hotel Sangeetha,13.0717149,80.2030895
+restaurant,Adyar Ananda Bhavan,13.0718906,80.2028921
+restaurant,Ajnabee Snacks,13.0677438,80.2566293
+restaurant,Asli Punjabi Rasoi Ghar,13.0650516,80.2589124
+restaurant,Bombay Halwa House,13.0688689,80.2717553
+restaurant,Noodle House,13.0654928,80.2431296
+restaurant,Dominoes Pizza,13.0316532,80.1640666
+restaurant,Lemongrass,13.0287554,80.2532540
+restaurant,Grains of Paradise,13.0276871,80.2526956
+restaurant,Cream Centre,13.0269140,80.2556765
+restaurant,Cappucino,13.0294364,80.2497843
+restaurant,In Seoul,13.0321755,80.2521158
+restaurant,The Crown,13.0403208,80.2437255
+restaurant,Paprika,13.0460421,80.2476349
+restaurant,Aqua,13.0529661,80.2500813
+restaurant,Lotus,13.0528789,80.2498533
+restaurant,Hip Asia,13.0630743,80.2612723
+restaurant,Akasaka,12.9881641,80.2556827
+restaurant,Lemon grass,12.5458091,76.9483858
+restaurant,Bombay Halwa House,13.0851955,80.2449931
+restaurant,Thaali Corner,13.0851761,80.2447589
+restaurant,Sri Sarvana Bhavan,13.0510228,80.0944083
+restaurant,Cornucopia,13.0307571,80.2457033
+restaurant,Dhaba Express,13.0312456,80.2460431
+restaurant,Parvathi Bhavan,13.0387921,80.2570003
+restaurant,Cilantro,13.0064035,80.2057624
+restaurant,Navratna,13.0062581,80.2057624
+restaurant,Kayal,13.0061052,80.2057662
+restaurant,Hotel Garden,13.0425174,77.6140020
+restaurant,Makkhan Sweets,13.0311615,80.2459839
+restaurant,Hill View Cottage Mess,13.6741011,79.3485323
+restaurant,Unknown,13.6783307,79.3512773
+restaurant,Unknown,13.6809613,79.3497513
+restaurant,Unknown,13.6849997,79.3499349
+restaurant,Anna Dhanam,13.6824540,79.3497593
+restaurant,Unknown,13.6841996,79.3455342
+restaurant,TBC,13.6778578,79.3435418
+restaurant,SVGH,13.6792104,79.3409290
+restaurant,Unknown,13.6846919,79.3436037
+restaurant,Holiday Home,30.2128179,74.9403567
+restaurant,Ruchita Restaurant and Bar,23.7806827,90.4030306
+restaurant,M M A Kababs,12.9566296,77.7152069
+restaurant,Unknown,12.9563782,77.7108662
+restaurant,Food Village,12.9278334,80.2521808
+restaurant,Ruchit Palace,19.0971923,73.0259339
+restaurant,Aristocrat,24.4185647,89.5556532
+restaurant,Naveidyam,28.4649041,77.0789762
+restaurant,Pizza Hut,12.9856448,80.2459383
+restaurant,By The Bay,13.0012892,80.2712305
+restaurant,Tasty Jones,13.0010216,80.2706983
+restaurant,Dhaba Express,13.0007325,80.2704376
+restaurant,Hotel Balaji,13.0005700,80.2662523
+restaurant,Eden,12.9970909,80.2679346
+restaurant,Pizza Hut,12.9782249,77.6406320
+dancing_school,ABC Multifilms and Dance School,27.6954297,85.3444910
+dancing_school,Phulawa's School of Dance and Gymnastics,19.0383437,72.8429668
+driving_school,Mishra Motor Training School,26.4651105,80.2929660
+driving_school,Krishna Motor Driving School,28.6167528,77.2876622
+driving_school,KMS driving school,12.9367342,77.6131209
+driving_school,Prabha Driving School,13.3443819,74.7476300
+driving_school,Easy Motor Training Centre,27.6783597,85.3212834
+driving_school,Manju Driving School,12.8920021,77.5789148
+driving_school,Shreekhanda Motor Driving School,27.6816780,85.3415642
+driving_school,Budathoki Driving Training Center,27.6909161,85.3359812
+driving_school,Utility Driving Center,27.7184874,85.3389784
+driving_school,New Gandaki Driving School,27.7268713,85.3331653
+driving_school,Sai Driving School,18.5023626,73.8152963
+driving_school,Maruti Driving School,13.0405681,80.1707117
+driving_school,driving liscence training center,27.6304743,85.5202976
+driving_school,Manasa Mandhara,12.9589102,77.6382683
+driving_school,Bagh Bhairav Driving Center,27.6831944,85.2785584
+driving_school,Maruti Driving School Jyote Motors,20.2498285,85.8409743
+driving_school,Byrava Motor Driving School,12.9588797,77.6596453
+driving_school,Astha Driving Institute,28.2420203,83.9888245
+driving_school,Dahal Driving,28.2411405,83.9889208
+driving_school,Manish Driving Institute,28.2063266,83.9950436
+driving_school,Barahi Driving School,28.2130590,83.9850611
+driving_school,Shekhar Driving School,12.9932191,77.5546749
+driving_school,Maruti Pratham Motors Limited,12.9122756,77.6462847
+driving_school,Unknown,27.6733317,85.3796112
+driving_school,Unknown,27.7189364,85.3546445
+driving_school,Advance Driving Institute,28.2042500,83.9962000
+driving_school,Arfa,31.4761419,74.3428180
+driving_school,Namaste Driving Institute,28.2066622,83.9935000
+driving_school,Rai Moter Driving School,28.2065508,83.9938541
+driving_school,Unknown,27.9759887,83.1288320
+driving_school,puja punam driving centre,27.9762033,83.1282005
+driving_school,Three Star Driving Institute,28.2321274,83.9823045
+driving_school,Unknown,27.6708596,85.2707579
+driving_school,SAAI Driving Training School,12.9722875,77.6492972
+driving_school,Rodrick's driving school,15.2777952,73.9267009
+driving_school,Unknown,27.7257114,85.3360164
+college,Guru Nanak Dev Polytechnic,30.8575134,75.8623133
+college,Sri Venkateswara College of Engineering - SVCE,12.9864437,79.9717629
+college,Sri Guru Ram Das Medical College,31.6355264,74.9664088
+college,Unknown,26.6607728,79.1731050
+college,International Business School,12.8630037,77.6594242
+dancing_school,ABC Multifilms and Dance School,27.6954297,85.3444910
+dancing_school,Phulawa's School of Dance and Gymnastics,19.0383437,72.8429668
+driving_school,Mishra Motor Training School,26.4651105,80.2929660
+driving_school,Krishna Motor Driving School,28.6167528,77.2876622
+driving_school,KMS driving school,12.9367342,77.6131209
+driving_school,Prabha Driving School,13.3443819,74.7476300
+driving_school,Easy Motor Training Centre,27.6783597,85.3212834
+driving_school,Manju Driving School,12.8920021,77.5789148
+driving_school,Shreekhanda Motor Driving School,27.6816780,85.3415642
+driving_school,Budathoki Driving Training Center,27.6909161,85.3359812
+driving_school,Utility Driving Center,27.7184874,85.3389784
+driving_school,New Gandaki Driving School,27.7268713,85.3331653
+driving_school,Sai Driving School,18.5023626,73.8152963
+driving_school,Maruti Driving School,13.0405681,80.1707117
+driving_school,driving liscence training center,27.6304743,85.5202976
+driving_school,Manasa Mandhara,12.9589102,77.6382683
+driving_school,Bagh Bhairav Driving Center,27.6831944,85.2785584
+driving_school,Maruti Driving School Jyote Motors,20.2498285,85.8409743
+driving_school,Byrava Motor Driving School,12.9588797,77.6596453
+driving_school,Astha Driving Institute,28.2420203,83.9888245
+driving_school,Dahal Driving,28.2411405,83.9889208
+driving_school,Manish Driving Institute,28.2063266,83.9950436
+driving_school,Barahi Driving School,28.2130590,83.9850611
+driving_school,Shekhar Driving School,12.9932191,77.5546749
+driving_school,Maruti Pratham Motors Limited,12.9122756,77.6462847
+driving_school,Unknown,27.6733317,85.3796112
+driving_school,Unknown,27.7189364,85.3546445
+driving_school,Advance Driving Institute,28.2042500,83.9962000
+driving_school,Arfa,31.4761419,74.3428180
+driving_school,Namaste Driving Institute,28.2066622,83.9935000
+driving_school,Rai Moter Driving School,28.2065508,83.9938541
+driving_school,Unknown,27.9759887,83.1288320
+driving_school,puja punam driving centre,27.9762033,83.1282005
+driving_school,Three Star Driving Institute,28.2321274,83.9823045
+driving_school,Unknown,27.6708596,85.2707579
+driving_school,SAAI Driving Training School,12.9722875,77.6492972
+driving_school,Rodrick's driving school,15.2777952,73.9267009
+driving_school,Unknown,27.7257114,85.3360164
+kindergarten,Vidyarambh Play School,12.9138920,77.6770532
+kindergarten,Srujan Play Home,13.0604817,77.6251237
+kindergarten,Vinus Play Home and Day Care,13.0250166,77.6435019
+kindergarten,Orkids,13.0233653,77.6362320
+kindergarten,Little Elly,13.0238997,77.6349809
+kindergarten,Smiley Kids,13.0242154,77.6356384
+kindergarten,Shemrock Bright,13.0224361,77.6308334
+kindergarten,Small World,13.0196337,77.6342441
+kindergarten,Orchid Academy,13.0176230,77.6341168
+kindergarten,Masti ki Pathshala (Teach India),28.5158272,77.0453164
+kindergarten,Adarsh Pre School,31.5356215,76.8980328
+kindergarten,Kara4Kids,13.0016562,77.5966870
+kindergarten,Harvest Tender Roots,17.2541555,80.1593708
+kindergarten,mominan anganwadi,17.2443434,80.1483127
+kindergarten,Holymoon,17.2502555,80.1456498
+kindergarten,RR Disney,17.2638295,80.1429513
+kindergarten,Unknown,17.4647297,78.3656126
+kindergarten,Unknown,17.4392089,78.3616271
+kindergarten,Apple Kids,12.9838028,77.7489996
+kindergarten,Sanskar,18.4727647,73.8146186
+kindergarten,Apple Kids,12.9222190,80.1984015
+kindergarten,Manas Microsystems Pvt. Ltd.,18.6278783,73.8369404
+kindergarten,Little Feet,19.1103536,72.8522706
+kindergarten,Unknown,17.4946996,78.3639995
+kindergarten,Klay Day Care,12.9831083,77.7079910
+kindergarten,Bhegas Kinder Garden,17.4529037,78.5287131
+kindergarten,Viha,12.9687203,77.7446763
+kindergarten,Kidzee Play school,12.9272988,77.6375732
+kindergarten,Unknown,12.9286689,77.6354869
+kindergarten,New Presidency School,13.1302265,78.1143633
+kindergarten,Anganawadi,13.1472717,77.3344365
+kindergarten,Blossom Prenursery,13.0045650,77.5493830
+kindergarten,Anubhav Play school,12.9370761,77.6204976
+kindergarten,Vanita Vidyalaya,15.8604224,74.5074009
+language_school,"Alta-Vista, A school of Spanish Language",27.7057461,85.3229725
+language_school,Gurans Language Institute,28.2207127,83.9884179
+kindergarten,Vidyarambh Play School,12.9138920,77.6770532
+kindergarten,Srujan Play Home,13.0604817,77.6251237
+kindergarten,Vinus Play Home and Day Care,13.0250166,77.6435019
+kindergarten,Orkids,13.0233653,77.6362320
+kindergarten,Little Elly,13.0238997,77.6349809
+kindergarten,Smiley Kids,13.0242154,77.6356384
+kindergarten,Shemrock Bright,13.0224361,77.6308334
+kindergarten,Small World,13.0196337,77.6342441
+kindergarten,Orchid Academy,13.0176230,77.6341168
+kindergarten,Masti ki Pathshala (Teach India),28.5158272,77.0453164
+kindergarten,Adarsh Pre School,31.5356215,76.8980328
+kindergarten,Kara4Kids,13.0016562,77.5966870
+kindergarten,Harvest Tender Roots,17.2541555,80.1593708
+kindergarten,mominan anganwadi,17.2443434,80.1483127
+kindergarten,Holymoon,17.2502555,80.1456498
+kindergarten,RR Disney,17.2638295,80.1429513
+kindergarten,Unknown,17.4647297,78.3656126
+kindergarten,Unknown,17.4392089,78.3616271
+kindergarten,Apple Kids,12.9838028,77.7489996
+kindergarten,Sanskar,18.4727647,73.8146186
+kindergarten,Apple Kids,12.9222190,80.1984015
+kindergarten,Manas Microsystems Pvt. Ltd.,18.6278783,73.8369404
+kindergarten,Little Feet,19.1103536,72.8522706
+kindergarten,Unknown,17.4946996,78.3639995
+kindergarten,Klay Day Care,12.9831083,77.7079910
+kindergarten,Bhegas Kinder Garden,17.4529037,78.5287131
+kindergarten,Viha,12.9687203,77.7446763
+kindergarten,Kidzee Play school,12.9272988,77.6375732
+kindergarten,Unknown,12.9286689,77.6354869
+kindergarten,New Presidency School,13.1302265,78.1143633
+kindergarten,Anganawadi,13.1472717,77.3344365
+kindergarten,Blossom Prenursery,13.0045650,77.5493830
+kindergarten,Anubhav Play school,12.9370761,77.6204976
+kindergarten,Vanita Vidyalaya,15.8604224,74.5074009
+language_school,"Alta-Vista, A school of Spanish Language",27.7057461,85.3229725
+language_school,Gurans Language Institute,28.2207127,83.9884179
+library,DHA Library,31.4700266,74.3853365
+restaurant,Copper Chimney,18.9275710,72.8325747
+restaurant,Malout,30.1902559,74.5001207
+restaurant,Snack Corner,12.8984603,77.6010688
+restaurant,Unknown,12.8973119,77.6015666
+restaurant,The Great Kabab Factory,12.9946821,80.1874068
+restaurant,Park Baluchi,28.4684904,77.0644002
+restaurant,Evolve Electronic City,12.8456194,77.6588954
+restaurant,Baton Rouge,23.7923662,90.4157108
+restaurant,Heritage,23.7909581,90.4174196
+restaurant,Tara,16.6853143,74.4646432
+restaurant,Cafe Green,16.6938217,74.4591770
+restaurant,Chowdary tea stall,16.6936284,74.4605790
+restaurant,The Charcoal Pit,18.5167868,73.8791405
+restaurant,The Great Punjab,18.5364098,73.8973015
+restaurant,Dhaba,28.2972557,77.0670586
+restaurant,Tangerine,13.0392554,80.2556216
+restaurant,Ente Keralam,13.0421141,80.2558968
+restaurant,Suriyas,13.0383186,80.2566708
+restaurant,Ananda,13.0391641,80.2472190
+restaurant,Midnight Express,13.0409358,80.2586973
+restaurant,Sukh Sagar,12.9333646,77.6230728
+restaurant,Udupi Garden,12.9163076,77.6103158
+restaurant,Amruth Park Land,12.8835332,77.7502633
+restaurant,Sodi Non-veg Dhaba,30.6998409,75.8477565
+restaurant,Unknown,28.6069461,77.2299189
+restaurant,Grey Pelican,30.1158119,77.2908314
+restaurant,Shanti Sagar,12.9606568,77.6385011
+restaurant,Nandhini,12.9619513,77.6419064
+restaurant,Pizza Hut,12.9559416,77.6412371
+restaurant,Nandhana,12.9558995,77.6411692
+restaurant,Wunjala,27.7143297,85.3284556
+restaurant,Sukh Sagar,12.9741824,77.5753745
+restaurant,Bhagini,12.9651393,77.6383211
+restaurant,Adyar Ananda Bhavan,12.9543746,77.5930172
+restaurant,Pizza Hut,13.0055904,80.2518220
+restaurant,Taj Tristar,17.4414402,78.4935002
+restaurant,Motel Mamalla,12.6326090,80.1958020
+restaurant,ECR Dhaba,12.7994470,80.2420745
+restaurant,Basera,12.9329807,80.2517763
+restaurant,Quark,12.9854583,80.2364174
+restaurant,Ladies Mess,12.9875968,80.2422869
+restaurant,Maami's Mess,13.0324107,80.2704268
+restaurant,Mayilai Sri Karpagambal Mess,13.0327388,80.2712197
+restaurant,Sangeetha,13.0323689,80.2676459
+restaurant,Vasantha Bhavan,13.0322517,80.2685043
+restaurant,Adyar Ananda Bhavan,13.0340003,80.2677522
+restaurant,Rayer Mess,13.0355223,80.2730140
+restaurant,Benjarong,13.0313113,80.2513502
+restaurant,Okadeys,13.0384527,80.2567668
+restaurant,Amaravati,13.0451417,80.2592552
+restaurant,Kalpaka,13.0468725,80.2605083
+restaurant,Madras Cafe,13.0008164,80.2043612
+restaurant,Sital,29.4889927,79.6302815
+restaurant,Anand Thali,18.5009808,73.9448522
+restaurant,Garden IceCream,17.9352613,73.6879604
+restaurant,Dara's Dhaba,19.2767754,72.8889843
+restaurant,Haveli Inn,19.2933669,72.9052748
+restaurant,Visawa Hotel,18.0876201,73.4422299
+restaurant,Adyar Ananda Bhavan,12.9968115,80.2582413
+restaurant,Windows of the World,17.4502975,78.3816574
+restaurant,Little Italy,13.0609985,80.2475712
+restaurant,Pizza Hut,13.0654260,80.2432841
+restaurant,Mainland China,13.0659169,80.2421706
+restaurant,Good Luck Restaurant,19.0517569,72.8240813
+restaurant,Wonton House Chinese Restaurant,19.0548735,72.8258922
+restaurant,Novelty,13.0889622,80.2790177
+restaurant,Annapurna,13.0747305,80.2626235
+restaurant,Kiyangshi Thai & Chinese Restaurant,23.7949044,90.3531984
+restaurant,Malgudi Restaurant,17.4846794,78.3899283
+restaurant,Olive Garden,17.4450343,78.3859699
+restaurant,Koshy's,12.9756318,77.6014761
+restaurant,Barbecue Nation,13.0454388,80.2331563
+restaurant,Sparkys Diner,13.0729298,80.2526113
+restaurant,Golden Palate Veg,12.6187470,80.1938388
+restaurant,Sea Shore Restaurant,12.6195622,80.1982716
+restaurant,Santana,12.6198954,80.1982825
+restaurant,Mamalla Bhavan,12.6168227,80.1935528
+restaurant,Maharaja,13.0633479,80.2739101
+restaurant,Bowl O China,17.4393202,78.4473624
+restaurant,"Don Pepe, Copper Chimney",13.0458581,80.2581730
+restaurant,Adyar Ananda Bhavan,12.6273756,80.1943135
+restaurant,Paneer soda shop,13.0322882,80.2709135
+restaurant,Corner Juice Shop,13.0333788,80.2569388
+restaurant,Wangs Kitchen,13.0610272,80.2481523
+restaurant,Casa Picola,13.0607599,80.2512477
+restaurant,Bob's Bar,12.9344837,77.6130843
+restaurant,US Pizza,13.0368042,80.2553943
+restaurant,The Wanton,13.0308675,80.2547014
+restaurant,Four Season,23.7514014,90.3679886
+restaurant,Bombay Halwa House,13.0383754,80.2674307
+restaurant,Mathsya,13.0750359,80.2581673
+restaurant,Unknown,13.0342752,80.2467821
+restaurant,Hotel Sangeetha,13.0717149,80.2030895
+restaurant,Adyar Ananda Bhavan,13.0718906,80.2028921
+restaurant,Ajnabee Snacks,13.0677438,80.2566293
+restaurant,Asli Punjabi Rasoi Ghar,13.0650516,80.2589124
+restaurant,Bombay Halwa House,13.0688689,80.2717553
+restaurant,Noodle House,13.0654928,80.2431296
+restaurant,Dominoes Pizza,13.0316532,80.1640666
+restaurant,Lemongrass,13.0287554,80.2532540
+restaurant,Grains of Paradise,13.0276871,80.2526956
+restaurant,Cream Centre,13.0269140,80.2556765
+restaurant,Cappucino,13.0294364,80.2497843
+restaurant,In Seoul,13.0321755,80.2521158
+restaurant,The Crown,13.0403208,80.2437255
+restaurant,Paprika,13.0460421,80.2476349
+restaurant,Aqua,13.0529661,80.2500813
+restaurant,Lotus,13.0528789,80.2498533
+restaurant,Hip Asia,13.0630743,80.2612723
+restaurant,Akasaka,12.9881641,80.2556827
+restaurant,Lemon grass,12.5458091,76.9483858
+restaurant,Bombay Halwa House,13.0851955,80.2449931
+restaurant,Thaali Corner,13.0851761,80.2447589
+restaurant,Sri Sarvana Bhavan,13.0510228,80.0944083
+restaurant,Cornucopia,13.0307571,80.2457033
+restaurant,Dhaba Express,13.0312456,80.2460431
+restaurant,Parvathi Bhavan,13.0387921,80.2570003
+restaurant,Cilantro,13.0064035,80.2057624
+restaurant,Navratna,13.0062581,80.2057624
+restaurant,Kayal,13.0061052,80.2057662
+restaurant,Hotel Garden,13.0425174,77.6140020
+restaurant,Makkhan Sweets,13.0311615,80.2459839
+restaurant,Hill View Cottage Mess,13.6741011,79.3485323
+restaurant,Unknown,13.6783307,79.3512773
+restaurant,Unknown,13.6809613,79.3497513
+restaurant,Unknown,13.6849997,79.3499349
+restaurant,Anna Dhanam,13.6824540,79.3497593
+restaurant,Unknown,13.6841996,79.3455342
+restaurant,TBC,13.6778578,79.3435418
+restaurant,SVGH,13.6792104,79.3409290
+restaurant,Unknown,13.6846919,79.3436037
+restaurant,Holiday Home,30.2128179,74.9403567
+restaurant,Ruchita Restaurant and Bar,23.7806827,90.4030306
+restaurant,M M A Kababs,12.9566296,77.7152069
+restaurant,Unknown,12.9563782,77.7108662
+restaurant,Food Village,12.9278334,80.2521808
+restaurant,Ruchit Palace,19.0971923,73.0259339
+restaurant,Aristocrat,24.4185647,89.5556532
+restaurant,Naveidyam,28.4649041,77.0789762
+restaurant,Pizza Hut,12.9856448,80.2459383
+restaurant,By The Bay,13.0012892,80.2712305
+restaurant,Tasty Jones,13.0010216,80.2706983
+restaurant,Dhaba Express,13.0007325,80.2704376
+restaurant,Hotel Balaji,13.0005700,80.2662523
+restaurant,Eden,12.9970909,80.2679346
+restaurant,Pizza Hut,12.9782249,77.6406320
+library,DHA Library,31.4700266,74.3853365
+college,Guru Nanak Dev Polytechnic,30.8575134,75.8623133
+college,Sri Venkateswara College of Engineering - SVCE,12.9864437,79.9717629
+college,Sri Guru Ram Das Medical College,31.6355264,74.9664088
+college,Unknown,26.6607728,79.1731050
+college,International Business School,12.8630037,77.6594242
+dancing_school,ABC Multifilms and Dance School,27.6954297,85.3444910
+dancing_school,Phulawa's School of Dance and Gymnastics,19.0383437,72.8429668
+driving_school,Mishra Motor Training School,26.4651105,80.2929660
+driving_school,Krishna Motor Driving School,28.6167528,77.2876622
+driving_school,KMS driving school,12.9367342,77.6131209
+driving_school,Prabha Driving School,13.3443819,74.7476300
+driving_school,Easy Motor Training Centre,27.6783597,85.3212834
+driving_school,Manju Driving School,12.8920021,77.5789148
+driving_school,Shreekhanda Motor Driving School,27.6816780,85.3415642
+driving_school,Budathoki Driving Training Center,27.6909161,85.3359812
+driving_school,Utility Driving Center,27.7184874,85.3389784
+driving_school,New Gandaki Driving School,27.7268713,85.3331653
+driving_school,Sai Driving School,18.5023626,73.8152963
+driving_school,Maruti Driving School,13.0405681,80.1707117
+driving_school,driving liscence training center,27.6304743,85.5202976
+driving_school,Manasa Mandhara,12.9589102,77.6382683
+driving_school,Bagh Bhairav Driving Center,27.6831944,85.2785584
+driving_school,Maruti Driving School Jyote Motors,20.2498285,85.8409743
+driving_school,Byrava Motor Driving School,12.9588797,77.6596453
+driving_school,Astha Driving Institute,28.2420203,83.9888245
+driving_school,Dahal Driving,28.2411405,83.9889208
+driving_school,Manish Driving Institute,28.2063266,83.9950436
+driving_school,Barahi Driving School,28.2130590,83.9850611
+driving_school,Shekhar Driving School,12.9932191,77.5546749
+driving_school,Maruti Pratham Motors Limited,12.9122756,77.6462847
+driving_school,Unknown,27.6733317,85.3796112
+driving_school,Unknown,27.7189364,85.3546445
+driving_school,Advance Driving Institute,28.2042500,83.9962000
+driving_school,Arfa,31.4761419,74.3428180
+driving_school,Namaste Driving Institute,28.2066622,83.9935000
+driving_school,Rai Moter Driving School,28.2065508,83.9938541
+driving_school,Unknown,27.9759887,83.1288320
+driving_school,puja punam driving centre,27.9762033,83.1282005
+driving_school,Three Star Driving Institute,28.2321274,83.9823045
+driving_school,Unknown,27.6708596,85.2707579
+driving_school,SAAI Driving Training School,12.9722875,77.6492972
+driving_school,Rodrick's driving school,15.2777952,73.9267009
+driving_school,Unknown,27.7257114,85.3360164
+research_institute,Aryabhatta Research Institute of Observational Sciences,29.3594030,79.4580225
+research_institute,AEC CS LAB,13.9968057,74.5577131
+research_institute,Velocita Racing,13.0305521,77.5660376
+research_institute,NATIONAL DAIRY RESEARCH INSTITUTE,29.7006603,76.9858209
+research_institute,Krishi Gram Vikas Kendra,23.4403530,85.4574907
+research_institute,BRAC Center for Development and Management,23.8674376,90.3109138
+research_institute,Indian Grassland and Fodder Research Institute,25.5121507,78.5342173
+research_institute,"Central Sheep and Wool Research Institute,Tonk",26.2967527,75.4318714
+research_institute,G.B. Pant Institute of Himalayan Environment and Development,29.6398285,79.6229437
+research_institute,LV Prasad Eye Reasearch Center,17.3399950,78.3722332
+research_institute,Agriculture Research Instuite,17.3254909,78.3997139
+research_institute,Center For Advanced Factulty Training...,17.3209335,78.4133152
+research_institute,Surya Kanta Kala Zar Reaserch Centre,24.7518171,90.4170382
+research_institute,RIGSS,26.8600868,89.3871255
+research_institute,Thakur Hari Prasad Institute of Research and Rehabilitation for the Mentally Handicapped,17.3652898,78.5305661
+research_institute,Central Electronic Engineering Research Institute (CEERI),28.3661678,75.5842887
+research_institute,Dairy Technology Division,29.7041554,76.9851929
+research_institute,University Canteen,29.7041950,76.9849435
+research_institute,Experimental dairy,29.7048450,76.9848872
+research_institute,Livestock Research Centre,29.7042334,76.9835407
+research_institute,J C BOSE RESEARCH INSTITUTE,25.4575978,81.8572520
+research_institute,Horizontal Testing Lab,27.6197953,85.5378127
+research_institute,BVJ Science Centre,12.9247278,77.5782322
+research_institute,Daffodil It Institute,23.7509137,90.3787857
+research_institute,Deepak Foundation,17.5181793,78.4356325
+research_institute,CRIDA Research Farm,17.3343024,78.5891926
+research_institute,agricultural research institute,17.3223587,78.3992728
+research_institute,Lab L1,29.8635194,77.8956238
+research_institute,Agricultural (Fishery) Research Center,28.1674431,84.0909317
+research_institute,NIPER(National Institute of pharmaceutical education and research),25.6933584,85.2435869
+research_institute,"Krishi Vignana Kendra (KVK), Hirehalli",13.2820601,77.1862048
+research_institute,"Medical Education Centre for Research, Innovation and Training",27.4609755,89.6397019
+research_institute,"Upazila Animal Resources Department, Naogaon Sadar, Bogra - Naogaon Hwy, Naogaon",24.8079264,88.9475191
+research_institute,Indian Institute of Pesticide Formulation,28.5063389,77.0934000
+research_institute,Internal Quality Assurance Cell,20.9403054,77.8019690
+research_institute,Unknown,25.7973301,73.2908361
+research_institute,Old IST block,17.4922537,78.3919233
+research_institute,Bangladesh Rice Research Institute,23.3884046,89.9894998
+research_institute,Bangladesh Agricultural Research Council (BARC),23.7596402,90.3889194
+research_institute,"Krishi Vigyan Kendra,(KVK),Rastakuntubai",18.9306649,83.6113669
+research_institute,Unknown,16.4077866,80.5564197
+research_institute,Laboratory of Molecular and Macromolecular Materials,23.2878617,77.2754980
+training,Krishna Coaching Institute,25.4653342,81.8617836
+training,Unknown,22.6244732,90.0576263
+training,Unknown,22.6244828,90.0576009
+training,Unknown,22.6254758,90.0580748
+training,Unknown,22.6253448,90.0579770
+training,Professors Care Academy,23.8089345,90.3689155
+training,Study Care,23.8089851,90.3692501
+training,Biddakanon Academic Aid,23.8095358,90.3703837
+training,Al Ifadah Arbi Coaching,23.8172171,90.3686431
+training,DAS Computer and Training Center,23.8186810,90.3778696
+training,Golden Sure Success Coaching,23.8165620,90.3753279
+training,Hearten Coaching Centre,23.8188995,90.3667619
+training,Pathsala academic Coaching,23.8172194,90.3686432
+training,Popular Academic Coaching,23.8193360,90.3707820
+training,Bismillah Coaching Centre,23.8144760,90.3750782
+training,Notun Kuri Coaching Centre,23.8158684,90.3737143
+training,Metaphor Academic Care,23.8286098,90.3662456
+training,Pallabi Academic Coaching,23.8242999,90.3668786
+training,Scholar Coaching Home,23.8212482,90.3680689
+training,Shahnaj English Teaching Centre,23.8242955,90.3686076
+training,Star Computer and training centar,23.8159426,90.3677819
+training,Alpha Education English Medium Coaching,23.8248179,90.3605155
+training,Binary IT and Training Center,23.8243912,90.3600644
+training,Dhaka Medical Assistant Training School,23.8258081,90.3645205
+training,Knowledge Coaching Home,23.8264079,90.3609940
+training,Pallabi Nursing Institute (SPKS),23.8279717,90.3628360
+training,Fire Service & Civil Defence Training Complex,23.8080892,90.3679710
+training,Narohna Academy of Administration ,23.2060296,77.4253888
+training,RCVP Naronha Academy of Administration ,23.2061885,77.4252349
+training,Chanakya IAS Academy,28.5882606,77.1685592
+training,L&T Leadership Development Academy (L&T LDA),18.7583957,73.3984895
+training,Supervisors Training Center,12.8644326,74.8428927
+training,Regional Training Institute Mumbai,19.0655537,72.8602202
+training,HCL,17.2420041,78.4765427
+training,Sonali Bank Training Institute,22.8426813,89.5430635
+training,Robotics Training and Workshop,28.5155013,77.2056319
+training,Barry John Acting Studio,28.5650693,77.2485237
+training,TechStack,28.5194093,77.2009034
+training,Texas Review,17.3694382,78.5151901
+training,Science Coaching,23.8117970,90.3686837
+training,i-Gate Bhilai Second Building,21.2130623,81.3164368
+training,i-Gate Bhilai Main Building,21.2119370,81.3136902
+training,Diction Coaching,23.8087036,90.3731907
+training,Netizens IT training center,18.4063214,76.5506892
+training,Bangladesh Skill Development Institute,23.7531740,90.3768172
+training,Unknown,27.5856576,85.5169846
+training,Unknown,27.7138911,83.3002774
+training,DBTI,19.8486495,73.1910512
+training,Music Courses Computer  Training  Korean /English  Language,27.6898164,85.2779832
+training,Mahila Jagaran Doll Center,27.6853408,85.2815310
+training,Sai Om Jon Center,27.6835855,85.2805435
+training,Tipeeka Coffee And Barista Training School,27.7055362,85.3227940
+training,Sairam Computers,12.9229187,79.3321873
+training,Post harvest lab,27.7106512,85.4148659
+research_institute,Aryabhatta Research Institute of Observational Sciences,29.3594030,79.4580225
+research_institute,AEC CS LAB,13.9968057,74.5577131
+research_institute,Velocita Racing,13.0305521,77.5660376
+research_institute,NATIONAL DAIRY RESEARCH INSTITUTE,29.7006603,76.9858209
+research_institute,Krishi Gram Vikas Kendra,23.4403530,85.4574907
+research_institute,BRAC Center for Development and Management,23.8674376,90.3109138
+research_institute,Indian Grassland and Fodder Research Institute,25.5121507,78.5342173
+research_institute,"Central Sheep and Wool Research Institute,Tonk",26.2967527,75.4318714
+research_institute,G.B. Pant Institute of Himalayan Environment and Development,29.6398285,79.6229437
+research_institute,LV Prasad Eye Reasearch Center,17.3399950,78.3722332
+research_institute,Agriculture Research Instuite,17.3254909,78.3997139
+research_institute,Center For Advanced Factulty Training...,17.3209335,78.4133152
+research_institute,Surya Kanta Kala Zar Reaserch Centre,24.7518171,90.4170382
+research_institute,RIGSS,26.8600868,89.3871255
+research_institute,Thakur Hari Prasad Institute of Research and Rehabilitation for the Mentally Handicapped,17.3652898,78.5305661
+research_institute,Central Electronic Engineering Research Institute (CEERI),28.3661678,75.5842887
+research_institute,Dairy Technology Division,29.7041554,76.9851929
+research_institute,University Canteen,29.7041950,76.9849435
+research_institute,Experimental dairy,29.7048450,76.9848872
+research_institute,Livestock Research Centre,29.7042334,76.9835407
+research_institute,J C BOSE RESEARCH INSTITUTE,25.4575978,81.8572520
+research_institute,Horizontal Testing Lab,27.6197953,85.5378127
+research_institute,BVJ Science Centre,12.9247278,77.5782322
+research_institute,Daffodil It Institute,23.7509137,90.3787857
+research_institute,Deepak Foundation,17.5181793,78.4356325
+research_institute,CRIDA Research Farm,17.3343024,78.5891926
+research_institute,agricultural research institute,17.3223587,78.3992728
+research_institute,Lab L1,29.8635194,77.8956238
+research_institute,Agricultural (Fishery) Research Center,28.1674431,84.0909317
+research_institute,NIPER(National Institute of pharmaceutical education and research),25.6933584,85.2435869
+research_institute,"Krishi Vignana Kendra (KVK), Hirehalli",13.2820601,77.1862048
+research_institute,"Medical Education Centre for Research, Innovation and Training",27.4609755,89.6397019
+research_institute,"Upazila Animal Resources Department, Naogaon Sadar, Bogra - Naogaon Hwy, Naogaon",24.8079264,88.9475191
+research_institute,Indian Institute of Pesticide Formulation,28.5063389,77.0934000
+research_institute,Internal Quality Assurance Cell,20.9403054,77.8019690
+research_institute,Unknown,25.7973301,73.2908361
+research_institute,Old IST block,17.4922537,78.3919233
+research_institute,Bangladesh Rice Research Institute,23.3884046,89.9894998
+research_institute,Bangladesh Agricultural Research Council (BARC),23.7596402,90.3889194
+research_institute,"Krishi Vigyan Kendra,(KVK),Rastakuntubai",18.9306649,83.6113669
+research_institute,Unknown,16.4077866,80.5564197
+research_institute,Laboratory of Molecular and Macromolecular Materials,23.2878617,77.2754980
+music_school,Ma-han-bwa Dafa Khala,27.6693613,85.2770265
+music_school,Artusion Studios,30.8816245,75.8167602
+training,Krishna Coaching Institute,25.4653342,81.8617836
+training,Unknown,22.6244732,90.0576263
+training,Unknown,22.6244828,90.0576009
+training,Unknown,22.6254758,90.0580748
+training,Unknown,22.6253448,90.0579770
+training,Professors Care Academy,23.8089345,90.3689155
+training,Study Care,23.8089851,90.3692501
+training,Biddakanon Academic Aid,23.8095358,90.3703837
+training,Al Ifadah Arbi Coaching,23.8172171,90.3686431
+training,DAS Computer and Training Center,23.8186810,90.3778696
+training,Golden Sure Success Coaching,23.8165620,90.3753279
+training,Hearten Coaching Centre,23.8188995,90.3667619
+training,Pathsala academic Coaching,23.8172194,90.3686432
+training,Popular Academic Coaching,23.8193360,90.3707820
+training,Bismillah Coaching Centre,23.8144760,90.3750782
+training,Notun Kuri Coaching Centre,23.8158684,90.3737143
+training,Metaphor Academic Care,23.8286098,90.3662456
+training,Pallabi Academic Coaching,23.8242999,90.3668786
+training,Scholar Coaching Home,23.8212482,90.3680689
+training,Shahnaj English Teaching Centre,23.8242955,90.3686076
+training,Star Computer and training centar,23.8159426,90.3677819
+training,Alpha Education English Medium Coaching,23.8248179,90.3605155
+training,Binary IT and Training Center,23.8243912,90.3600644
+training,Dhaka Medical Assistant Training School,23.8258081,90.3645205
+training,Knowledge Coaching Home,23.8264079,90.3609940
+training,Pallabi Nursing Institute (SPKS),23.8279717,90.3628360
+training,Fire Service & Civil Defence Training Complex,23.8080892,90.3679710
+training,Narohna Academy of Administration ,23.2060296,77.4253888
+training,RCVP Naronha Academy of Administration ,23.2061885,77.4252349
+training,Chanakya IAS Academy,28.5882606,77.1685592
+training,L&T Leadership Development Academy (L&T LDA),18.7583957,73.3984895
+training,Supervisors Training Center,12.8644326,74.8428927
+training,Regional Training Institute Mumbai,19.0655537,72.8602202
+training,HCL,17.2420041,78.4765427
+training,Sonali Bank Training Institute,22.8426813,89.5430635
+training,Robotics Training and Workshop,28.5155013,77.2056319
+training,Barry John Acting Studio,28.5650693,77.2485237
+training,TechStack,28.5194093,77.2009034
+training,Texas Review,17.3694382,78.5151901
+training,Science Coaching,23.8117970,90.3686837
+training,i-Gate Bhilai Second Building,21.2130623,81.3164368
+training,i-Gate Bhilai Main Building,21.2119370,81.3136902
+training,Diction Coaching,23.8087036,90.3731907
+training,Netizens IT training center,18.4063214,76.5506892
+training,Bangladesh Skill Development Institute,23.7531740,90.3768172
+training,Unknown,27.5856576,85.5169846
+training,Unknown,27.7138911,83.3002774
+training,DBTI,19.8486495,73.1910512
+training,Music Courses Computer  Training  Korean /English  Language,27.6898164,85.2779832
+training,Mahila Jagaran Doll Center,27.6853408,85.2815310
+training,Sai Om Jon Center,27.6835855,85.2805435
+training,Tipeeka Coffee And Barista Training School,27.7055362,85.3227940
+training,Sairam Computers,12.9229187,79.3321873
+training,Post harvest lab,27.7106512,85.4148659
+music_school,Ma-han-bwa Dafa Khala,27.6693613,85.2770265
+music_school,Artusion Studios,30.8816245,75.8167602
