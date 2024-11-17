@@ -1,0 +1,853 @@
+Amenity Type,Name,Latitude,Longitude,road,suburb,state_district
+bar,DESI SHARAB DUKHAN,22.0959543,82.1515481,KAPILNAGR ROAD,,Bilaspur
+bar,10 Downing Street,21.2413091,81.6842484,NH53,,Raipur
+bar,Club Paraiso,21.2599271,81.5958741,Gudhiyari Road,,Raipur
+bar,Boozars Lounge,21.2320516,81.6809188,VIP Road,,Raipur
+bar,Z Bar,21.2399174,81.6789196,NH53,,Raipur
+bar,j juice bar,21.2427,81.6436235,NH30,,Raipur
+bar,XtremeSports Bar,21.2339329,81.6801172,VIP Road to City Paradise,,Raipur
+bar,Metro 7X11,21.2403147,81.625387,G.E. Road,,Raipur
+bar,Orchid,21.2517794,81.6480269,NH130B,,Raipur
+bar,Bhato Dhaba,22.1092787,80.5706149,SH47;48,,Balaghat
+bar,Apna Dhaba and Goldi Colddrink,22.1100197,80.5709413,SH47;48,,Balaghat
+bar,Shree dada jalpan grah,22.1102856,80.5711936,SH47,,Balaghat
+cafe,CCD chotpara,21.2383648,81.6403175,stadium road,,Raipur
+cafe,Cafe Coffee Day,21.2362854,81.6854937,NH53,,Raipur
+cafe,café coffee day,21.2745982,81.6880273,vidhan sabha roaD,,Raipur
+cafe,Cafe Coffee Day,21.2559191,81.6296579,Atal Path,,Raipur
+cafe,Cafe Coffee Day,21.1859425,81.7401511,VIP Road Raipur,,Raipur
+cafe,Cafe Confusion,21.2271376,81.650141,NH53,,Raipur
+cafe,H3 cafe,21.22391,81.650734,NH53,,Raipur
+cafe,Momos Adda,21.234348,81.6541646,shyam nagar road,,Raipur
+cafe,Urban Bistro,22.0721701,82.1618509,tikrapara,,Bilaspur
+cafe,giani's,21.2180283,81.3322482,Junwani Road,,Durg
+cafe,Chai Jayka,22.1062645,80.5580342,SH47;48,,Balaghat
+cafe,Nanhe coffee,21.1872011,81.3444606,Central Avenue,,Durg
+fast_food,COMESUM,22.0564365,82.1715105,Station Road,,Bilaspur
+fast_food,Rush & roll,21.2363988,81.6860192,NH53,,Raipur
+fast_food,chaat express,21.236359,81.6860171,NH53,,Raipur
+fast_food,hangout the food court,21.2758612,81.6874678,vidhan sabha roaD,,Raipur
+fast_food,veggies,21.2456999,81.6416804,NH30,,Raipur
+fast_food,KFC,21.2395721,81.684248,NH53,,Raipur
+fast_food,Sam's pizza,21.2170607,81.6565223,NH30,,Raipur
+fast_food,GOLI Vada Pav No. 1,21.2435959,81.6344033,KK Road,,Raipur
+fast_food,shimla fast food,21.2536414,81.6617362,TV Tower Road,,Raipur
+fast_food,Little HUT,21.243981,81.6104305,G.E. Road,,Raipur
+fast_food,Mamamia,21.2237324,81.6515993,NH53,,Raipur
+fast_food,prem kirana,21.4118595,80.9873789,Killapara road,,Khairagarh-Chhuikhadan-Gandai
+fast_food,Bunk class,21.2517898,81.5985313,GE Road,,Raipur
+fast_food,Famous Fast food center,21.1130219,82.0947206,NH353,,Mahasamund
+fast_food,PATEL HOTEL,21.2106686,82.1530774,NH53,,Mahasamund
+fast_food,Domino's,21.2557983,81.6295825,Atal Path,,Raipur
+fast_food,McDonald's,22.0717577,82.1498148,Shrikant Verma Marg,,Bilaspur
+fast_food,Domino's,22.0717282,82.1496841,Shrikant Verma Marg,,Bilaspur
+fast_food,Domino's,22.0938944,82.1253003,mangla road,,Bilaspur
+fast_food,KFC,22.0718248,82.1494248,Shrikant Verma Marg,,Bilaspur
+fast_food,Domino's,22.0982484,82.1556587,SIPAT ROAD,,Bilaspur
+fast_food,Om Ganga Bhelpuri,21.2372988,81.5969802,NH53,,Raipur
+fast_food,Jain Chat and Gupchup Centre,21.2368282,81.5960693,NH53,,Raipur
+fast_food,BIRYANI Cafe Coffe Restaurant,21.2338922,81.5953294,NH53,,Raipur
+food_court,KHANA KHAZANA,21.2431969,81.6143896,G.E. Road,,Raipur
+food_court,Rajasthani Thali,21.2434044,81.6131723,G.E. Road,,Raipur
+food_court,Canteen,21.2494172,81.6062306,GE Road,,Raipur
+ice_cream,naturals,21.2411222,81.6606908,Canal Road,,Raipur
+ice_cream,CELESTY,21.243989,81.6104019,G.E. Road,,Raipur
+ice_cream,Ice Cream parler,21.2679215,81.6180732,shrinagar gondwara road,,Raipur
+ice_cream,Natural Fresh Ice-Cream,21.2156291,81.3223737,Street-7,,Durg
+restaurant,Grand Dhillon,21.2007865,81.323755,Durg Bypass Road,,Durg
+restaurant,Pankh Restaurant,21.100211,81.0367413,Station Road,Chikhali,Rajnandgaon
+restaurant,DADA BIRYANI,22.0573285,82.1705626,Station Road,,Bilaspur
+restaurant,Flora the resturant,21.2473842,81.6434345,NH130B,,Raipur
+restaurant,Café Junoon,21.2341834,81.6516974,shyam nagar road,,Raipur
+restaurant,Mario's,21.2558241,81.6296152,Atal Path,,Raipur
+restaurant,Indian chilly,21.2382441,81.6440812,NH30,,Raipur
+restaurant,Good Food restaurant,21.2405404,81.6306648,GE Road,,Raipur
+restaurant,CCD -GE road,21.241115,81.6609995,Canal Road,,Raipur
+restaurant,Pizza Hut,21.2558937,81.6376719,NH30,,Raipur
+restaurant,Nukkad the teafe,21.2465046,81.6232362,G.E. Road,,Raipur
+restaurant,Bambooza good food hut,21.2382105,81.6438036,NH30,,Raipur
+restaurant,Dominos Tihmapara,21.2169012,81.6547432,NH30,,Raipur
+restaurant,Chugfah Chinees Resturant,21.2495549,81.6573025,Atal Path Expressway Flyover,,Raipur
+restaurant,Madrasi Grill,21.2412648,81.6602206,Canal Road,,Raipur
+restaurant,Nest Bar&Resturant,21.2206038,81.6501992,Pachpedi Naka Flyover,,Raipur
+restaurant,Tantra,21.2362619,81.6855161,NH53,,Raipur
+restaurant,Silk route,21.2363363,81.6860192,NH53,,Raipur
+restaurant,Angle dragon,21.2363135,81.6860192,NH53,,Raipur
+restaurant,Dosa Plaza,21.2362849,81.6860212,NH53,,Raipur
+restaurant,bytes,21.2362661,81.6860183,NH53,,Raipur
+restaurant,muglai n indiana,21.2362415,81.6860183,NH53,,Raipur
+restaurant,Raju dhaba,21.2610729,81.6766873,Kacha main Road,,Raipur
+restaurant,cool delights,21.2749709,81.6880715,vidhan sabha roaD,,Raipur
+restaurant,only noodles,21.2758162,81.6875564,vidhan sabha roaD,,Raipur
+restaurant,Kathi Junction,21.2745596,81.6877778,vidhan sabha roaD,,Raipur
+restaurant,yo china,21.2382141,81.6736877,NH53,,Raipur
+restaurant,Girnar Restaurant,21.2436938,81.6351022,Malviya Main Road,,Raipur
+restaurant,Mocha Express,21.2376896,81.6464063,NH30,,Raipur
+restaurant,Domino's,21.2551038,81.6464992,Atal Path Flyover,,Raipur
+restaurant,Cream center,21.2757963,81.6879073,vidhan sabha roaD,,Raipur
+restaurant,open China,21.2393887,81.68423,NH53,,Raipur
+restaurant,Suruchi,21.2170938,81.6563906,NH30,,Raipur
+restaurant,Sankalp,21.2174235,81.6566793,NH30,,Raipur
+restaurant,Saffron,21.2173618,81.6567748,NH30,,Raipur
+restaurant,Juice Lounge,21.2171636,81.6566634,NH30,,Raipur
+restaurant,Livia The Banquet,21.2173217,81.6565752,NH30,,Raipur
+restaurant,shamrock,21.2521319,81.6495489,Atal Path Flyover,,Raipur
+restaurant,sindhi hotal,21.3942251,81.9719798,NH130B,,Raipur
+restaurant,Jagdish Hotel,21.247689,81.6600675,New Shaanti Nagar Road,,Raipur
+restaurant,Dabbawala,21.2524829,81.6638758,TV Tower Road,,Raipur
+restaurant,Indian Music Restaurant Dhamtari,20.7093983,81.5489566,Mahalaxmi Green colony,,Dhamtari
+restaurant,charlii,21.7354398,81.9441066,SH10,,Baloda Bazar
+restaurant,Science college Canteen,21.247075,81.6019559,GE Road,,Raipur
+restaurant,Makri Hotel,20.3148842,81.4635918,NH30,,Uttar Bastar Kanker
+restaurant,Punjabi Dhaba,21.2526873,81.5984613,GE Road,,Raipur
+restaurant,Noorjahan,21.2520432,81.5980279,GE Road,,Raipur
+restaurant,Bajrang Hotel,21.2549576,81.5940851,Amanaka Flyover,,Raipur
+restaurant,Madrasi Restaurant,21.2416937,81.6360492,Malviya Main Road,,Raipur
+restaurant,Madrasi Bites,21.2516496,81.6475348,NH130B,,Raipur
+restaurant,Madrasi Food Park,21.2462936,81.6059652,G.E. Road,,Raipur
+restaurant,Madrasi Highway,21.2170848,81.6237222,Flyover,,Raipur
+restaurant,Dashmesh Dhaba,21.2431619,81.4993291,NH53,,Durg
+restaurant,Majitola,22.1464734,80.660342,SH47,,Balaghat
+restaurant,Kushre Dhaba,22.1459098,80.6597543,SH47,,Balaghat
+restaurant,Bhadohi Chat Corner,21.2196344,81.3529651,KOHKA KURUD ROAD,,Durg
+restaurant,Highway Dhaba,21.2348483,81.5926767,NH53,,Raipur
+restaurant,ROY DHABA,21.234677,81.5932129,NH53,,Raipur
+restaurant,Juice factory,21.1874052,81.3441108,Central Avenue,,Durg
+restaurant,Manju Mamta,21.244113,81.6338054,KK Road,,Raipur
+restaurant,new nanhe cafe,21.1876983,81.3444751,Central Avenue,,Durg
+restaurant,chaika adda,21.1874662,81.3444922,Central Avenue,,Durg
+restaurant,Real Momos,21.2134002,81.3174221,Smriti Nagar Road,,Durg
+restaurant,Panjabi Bhojnalaya,21.2201228,81.6485934,Pachpedi Naka Flyover,,Raipur
+college,kalyan p g college,21.195625,81.3331817,Garage Road,,Durg
+college,Science College,21.1965463,81.2970984,SH7,,Durg
+college,govt M.V.P.G college Mahasamund,21.1068387,82.095616,NH353,,Mahasamund
+college,Khel Pariser,22.0937966,82.1697333,SIPAT ROAD,,Bilaspur
+college,government dentalcollege,21.2479688,81.6394641,Entrance to SBI and Daga College,,Raipur
+college,Government Engineering College,21.1630598,81.6589768,Kamal Vihar Road,,Raipur
+college,Government .J. yaganandam chittisgarh college,21.2358387,81.6469485,shyam nagar road,,Raipur
+college,Government nagarjuna post graduate college of science,21.2477275,81.6022271,GE Road,,Raipur
+college,Pragati College,21.2470914,81.614792,Shyam Mandir Marg,,Raipur
+college,scince collage,22.0470653,81.6730357,way of scince collage,,
+college,"PG Daga Girls College, Raipur",21.2468627,81.6403859,Entrance to SBI and Daga College,,Raipur
+college,Gurukul College Ground,21.2349293,81.6401107,NH30,,Raipur
+college,govt cg college,21.2357304,81.6469417,shyam nagar road,,Raipur
+college,govt j.yogananad,21.2357342,81.6469051,shyam nagar road,,Raipur
+college,DB Girls College,21.3558144,81.6907668,Kalibadi Road,,Raipur
+college,GOVT. DB GIRLS PG COLLEGE,21.2328154,81.6366541,NH30,,Raipur
+college,Cricket and Hockey Ground,21.2477393,81.6049309,GE Road,,Raipur
+college,Football Ground,21.2490285,81.6069578,GE Road,,Raipur
+college,Govt. Gaind Singh,20.4732058,81.3777729,NH30,,Uttar Bastar Kanker
+college,shyam balaji college,21.1192676,82.0965001,NH353,,Mahasamund
+library,Kamptee Line Library,21.0934953,81.0359949,Kamptee Line,Chikhali,Rajnandgaon
+library,Central Library,21.2452169,81.6077243,GE Road,,Raipur
+library,Central Library,21.2172951,81.3074604,Shri Shankaracharya College Road,,Durg
+training,i-Gate Bhilai Second Building,21.2130623,81.3164368,Smriti Nagar Road,,Durg
+training,i-Gate Bhilai Main Building,21.211937,81.3136902,Smriti Nagar Road,,Durg
+school,gov.hs.school somni,21.1246309,81.1440276,NH53,,Rajnandgaon
+school,DAV Model School,21.1988498,81.2851601,SH7,,Durg
+school,st. joseph school,22.0725283,82.1604023,WAY TO CMD CHOWK,,Bilaspur
+school,Krishna Public School,21.1943876,81.6635818,Kamal Vihar Road,,Raipur
+school,Holy Heartseducational academy,21.2374171,81.6480843,shyam nagar road,,Raipur
+school,Mayoor school,21.2349537,81.6495081,shyam nagar road,,Raipur
+school,Bharat Mata higher secondary school,21.2604534,81.5742895,G.E. Road,,Raipur
+school,Dronacharya public school,21.2188586,81.6522695,NH30,,Raipur
+school,The Radient Way School,21.2451205,81.5880403,Banjarimata road,,Raipur
+school,Holy cross senior secondary school,21.2617556,81.6602541,Mowa Under Bridge,,Raipur
+school,Bharatiya vidya bhuvans R.K. sarda vidya mandir,21.2885051,81.7017642,Raipur Bypass,,Raipur
+school,MGM school,21.2515714,81.6704839,Street Number 6,,Raipur
+school,Ryan International School,21.2474275,81.6883917,NH53,,Raipur
+school,Grass Memorial Ground,21.2385713,81.6450914,NH30,,Raipur
+school,rajkumar college,21.2432541,81.6125936,GE Road,,Raipur
+school,Sarsvati H.S. Girl's School,21.2350301,81.6256611,Main road,,Raipur
+school,Raipur Convent Hr. Sec. School,21.2644553,81.6184735,Gudhiyari Road,,Raipur
+school,SARASWATI SHISHU MANDIR,22.0711594,81.676302,Pandaria Bypass,,Kabirdham
+school,Dani Girls Higher Secondary School,21.2336814,81.6362732,saprey school road,,Raipur
+school,nationl convent,21.2286881,81.6073713,NH53,,Raipur
+school,Govt.School Dumartarai,21.1996875,81.6863964,NH30,,Raipur
+school,aadvani Govt.H.S. School Birgaon,21.3063415,81.6344311,NH30,,Raipur
+school,matadevalay school,21.7300136,81.9600922,SH10,,Baloda Bazar
+school,School Number 1,21.2275847,81.6649533,Mahaveer nagar road,,Raipur
+school,Dronacharya School,21.2214164,81.6624265,Canal Road,,Raipur
+school,LITTILE FLOWER SCHOOL,21.2406958,81.5972333,NIT Road,,Raipur
+school,DANI GIRLS SCHOOL,21.2333529,81.6360801,saprey school road,,Raipur
+school,High School ground,22.1044188,80.5518484,SH47;48,,Balaghat
+school,Shri Venkatesh School,21.2783652,81.6748896,Street no 3,,Raipur
+school,Om shanti Niketan Higher Middle School,21.2785988,81.6689222,Harsh Pride Road,,Raipur
+school,Government Higher Secondary School,21.2661315,81.6624217,Mowa Railway Flyover,,Raipur
+school,Girls School,20.4900346,81.3694839,NH30,,Uttar Bastar Kanker
+school,Boys School,20.4856402,81.3705117,NH30,,Uttar Bastar Kanker
+school,Middle School,20.4680336,81.3646879,NH30,,Uttar Bastar Kanker
+school,Daffodils English School,21.2574871,81.6049235,Gudhiyari Road,,Raipur
+school,DAV Public School Bilaspur,22.0920511,82.1801488,SIPAT ROAD,,Bilaspur
+school,DAV public School Bilaspur Senior Wing,22.0906964,82.1803465,SIPAT ROAD,,Bilaspur
+school,DAV public School Bilaspur Hawan Kund,22.0920306,82.1804226,SIPAT ROAD,,Bilaspur
+school,DAV public School Bilaspur School Ground,22.0911678,82.1803986,SIPAT ROAD,,Bilaspur
+school,Brilliant Public School,22.1018771,82.191203,Behtarai Road,,Bilaspur
+school,Krishna Public School,21.2096318,81.3222215,Cross Street-5,,Durg
+school,Govt Primary School Umarpoti,21.1303859,81.3476775,Durg - Raipur - Arang Expressway,,Durg
+school,Little Kingdom public school,22.0971477,80.550995,SH47,,Balaghat
+school,Govt. Girls High School,22.0124931,80.736596,SH48,,Balaghat
+school,Government Girl's Middle School,22.0121182,80.7367031,SH48,,Balaghat
+school,"Campion School, Raipur",21.2878259,81.7170313,Raipur Bypass,,Raipur
+school,Excel Educational Institute,21.2212188,81.6466481,NH30,,Raipur
+school,Allen Carrier Institute Raipur,21.2234141,81.6453632,NH30,,Raipur
+boat_rental,Ajay book dipo,21.2350032,81.6247099,Main road,,Raipur
+fuel,Petrol Pump,21.1988161,81.2875627,SH7,,Durg
+fuel,Petrol Pump,21.1991215,81.3363171,Garage Road,,Durg
+fuel,torwa petrol pump,22.0672805,82.1833214,NH200,,Bilaspur
+fuel,Petrol Ofisi,22.0930031,82.1237575,NH130A,,Bilaspur
+fuel,Star indian oil,21.2313834,81.6400239,NH30,,Raipur
+fuel,Hindustan Petroleum,21.2334375,81.6489172,shyam nagar road,,Raipur
+fuel,BP petrol bunk,21.2437617,81.6363645,Malviya Main Road,,Raipur
+fuel,all india radio petrolbunk,21.2386177,81.6460842,NH30,,Raipur
+fuel,Jet Fuel Supplier Reliance Industries Limited,21.186824,81.7373219,VIP Road Raipur,,Raipur
+fuel,F R fuels,21.2430639,81.6147915,G.E. Road,,Raipur
+fuel,ravi gas,22.0629262,81.6859431,way to nandi chowk,,
+fuel,HP Petrol Pump,21.2372254,81.6891613,NH53,,Raipur
+fuel,vinu Petrol Pump,21.308663,81.6360082,NH30,,Raipur
+fuel,HP Petrol Pump,21.2953622,81.6368558,NH30,,Raipur
+fuel,Bharat Petroleum,21.2950373,81.6359653,Ring Road No.2,,Raipur
+fuel,Reliance petrol pump,21.2895164,81.625561,Ring Road No.2,,Raipur
+fuel,HP Petrol Pump,21.1870784,81.3378103,Central Avenue,,Durg
+fuel,Hindustan Petroleum,21.252124,81.598232,GE Road,,Raipur
+fuel,Junwani Petrol Pump,21.2181873,81.3175659,Junwani Road,,Durg
+fuel,Agni Bricks,20.269867,81.4921651,NH30,,Uttar Bastar Kanker
+fuel,Bharat Petroleum,21.3349771,81.6218385,NH30,,Raipur
+fuel,HPCL,22.0956446,80.550048,SH47,,Balaghat
+fuel,Bharat Peroleum,22.0983384,80.5497668,SH47,,Balaghat
+fuel,BP,22.0459727,80.7019272,SH48,,Balaghat
+fuel,Bahrat Petrol Pump Pouni Malajkhand,22.0484577,80.6929575,SH48,,Balaghat
+motorcycle_parking,motor stand,22.0569702,82.1712253,Station Road,,Bilaspur
+parking,vehical parking,22.0760086,82.1658602,WAY TO OLD BUS STAND,,Bilaspur
+parking,Science Centre Parking Area,21.2761383,81.683113,Daldal Seoni Main Road,,Raipur
+parking,Vigyan Kendra Parking,21.2757711,81.680646,Daldal Seoni Main Road,,Raipur
+atm,KARNATAKA ATM,22.0573049,82.1706554,Station Road,,Bilaspur
+atm,BOI ATM,22.057288,82.1706918,Station Road,,Bilaspur
+atm,State Bank Of India ATM,21.2471838,81.6140243,Shyam Mandir Marg,,Raipur
+atm,State Bank Of India ATM,21.2465712,81.630591,KK Road,,Raipur
+atm,State Bank Of India ATM,21.2496963,81.6558906,Atal Path Expressway Flyover,,Raipur
+atm,HDFC Bank,21.2547038,81.6403411,NH30,,Raipur
+atm,Central Bank of India ATM,21.2393962,81.6521413,side road,,Raipur
+atm,Central Bank of India ATM,21.2569531,81.6342916,Raman  mandir Road,,Raipur
+atm,Central Bank of India ATM,21.3058112,81.6256862,NH30,,Raipur
+atm,Bank of India,21.2553181,81.6360501,Malviya Main Road,,Raipur
+atm,Bank of India,21.2463094,81.6263989,G.E. Road,,Raipur
+atm,Union Bank Of India ATM,21.2462563,81.6219835,G.E. Road,,Raipur
+atm,Union Bank Of India ATM,21.2449544,81.6394236,NH30,,Raipur
+atm,ICICI Bank ATM,21.2465837,81.6153024,Shyam Mandir Marg,,Raipur
+atm,ICICI Bank ATM,21.2402287,81.6386182,Malviya Main Road,,Raipur
+atm,Punjab National Bank ATM,21.2380262,81.6380392,stadium road,,Raipur
+atm,Dena Bank ATM,21.2595531,81.5731813,G.E. Road,,Raipur
+atm,sbi,21.2584489,81.6602656,Shankar Nagar road,,Raipur
+atm,SBI ATM,21.2351432,81.6248052,Main road,,Raipur
+atm,State bank ATM,20.4907282,81.3682302,NH30,,Uttar Bastar Kanker
+bank,Dhamtari,20.7084545,81.5481305,Mahalaxmi Green colony,,Dhamtari
+bank,Canara Bank,21.199058,81.2854605,SH7,,Durg
+clinic,"Gupta Nursing Home, Durg",21.2000387,81.2827128,SH7,,Durg
+clinic,Pendalwar Nursing Home,22.0665857,82.1804559,NH200,,Bilaspur
+clinic,"Sai Baba Nursing Home, Raipur",21.2254025,81.6590109,NH53,,Raipur
+clinic,Gurukripa Prasuti and Nursing Home,21.2361497,81.6596106,unnamed road,,Raipur
+clinic,Aanchal Nursing Home,21.2286413,81.6644956,Mahaveer nagar road,,Raipur
+clinic,Rawlani Nursing Home,21.2338179,81.6554783,shyam nagar road,,Raipur
+clinic,Mata Laxmi Nursing Home and Investigation Center Pvt Ltd,21.2551367,81.6649966,TV Tower Road,,Raipur
+clinic,Farishta Nursing Home,21.2338498,81.6494626,shyam nagar road,,Raipur
+clinic,Kalda Nursing Home,21.2340048,81.6546674,shyam nagar road,,Raipur
+clinic,Memon Nursing Home,21.2291608,81.6491957,kt road,,Raipur
+clinic,Udm Surgical Centre And Urological Clinic,22.0899247,82.141023,Kududand Road,,Bilaspur
+clinic,"Sahara Nursing Home, Bilaspur",22.0750803,82.1350765,WAY TO RAJIV GANDHI,,Bilaspur
+clinic,Dr. Saleems Iccu and Critical Care Nusing Home,21.2456609,81.6491719,RANI SATI MANDIR COLONY ROAD,,Bilaspur
+clinic,Dr Kalvit Nursing Home and Infertility Center,22.0948132,82.1447915,NH130A,,Bilaspur
+clinic,Aashirwad Laser and Phaco Eye Hospital,22.0857781,82.1413512,Link Road,,Bilaspur
+clinic,Bajaj Nursing Home,22.072442,82.157039,Link Road,,Bilaspur
+clinic,"Upadhyaya Nursing Home, Dhamtari",20.7193136,81.5477356,Mahalaxmi Green colony,,Dhamtari
+clinic,Ojasvi Nursing Home,20.6955531,81.5438882,NH30,,Dhamtari
+clinic,Aarogyadham Nursing Home,21.2575527,81.5897512,Mahoba Bazar Road,,Raipur
+clinic,"Jain Nursing Home, Mahasamund",21.1037043,82.0943419,NH353,,Mahasamund
+clinic,Sarbhai Nursing Home,21.2346441,81.6097623,Mahadev Ghat Main Road,,Raipur
+clinic,R.S. Polyclinic and Diagnostic Center,21.2597924,81.5778489,G.E. Road,,Raipur
+clinic,Dr. Deshkar Nursing Home,22.0966647,82.1290536,mangla road,,Bilaspur
+clinic,"Devika Nursing Home, Sindhi Colony, Station Road, Durg",21.1932224,81.28662,SH7,,Durg
+clinic,Ghosh Surgical Nursing Home,22.0706932,82.169795,tikrapara,,Bilaspur
+clinic,Mehghani Nursing Home and Surgical Centre,22.0865061,82.1521649,sadar bazar,,Bilaspur
+clinic,P.T.M.D. Mishra Memorial Nursing Home and Research,22.0855977,82.1517049,mission hospital road,,Bilaspur
+clinic,"Verma Nursing Home, Bilaspur",22.0673673,82.1562968,Link Road,,Bilaspur
+clinic,Ashok Prasuti Mandir,22.0877065,82.1496034,old sarkanda bridge,,Bilaspur
+clinic,"Swastik Nursing Home, Raipur",21.2355336,81.6559187,Canal Road,,Raipur
+clinic,Bhilai Nursing Home,21.2093283,81.3585717,Flyover,,Durg
+clinic,Sachdev Nursing Home and Diagnostic Entre,21.2461629,81.6240438,G.E. Road,,Raipur
+clinic,"Pandey Nursing Home, Raipur",21.2465695,81.6196019,Shyam Mandir Marg,,Raipur
+clinic,Bhriegu Nursing Home,21.7324015,81.9513828,SH10,,Raipur
+clinic,Srijan Nursing Home,21.229697,81.6550349,shailendra nagar road,,Raipur
+clinic,Bhaskar Eye Care,21.2385456,81.6221456,Main road,,Raipur
+clinic,Dr. Sarna Nursing Home,21.2314597,81.6536857,shailendra nagar road,,Raipur
+clinic,Parakh Nursing Home,21.0946535,81.0272286,Baila Pasara Road,Mamta Nagar,Rajnandgaon
+clinic,Gawari Ivf Center and Nursing Home,21.2616409,81.637803,NH30,,Raipur
+clinic,Samadhan Nursing Home,22.0776877,82.1398569,WAY TO RAJIV GANDHI,,Bilaspur
+clinic,Janaswamy Foundation (Janaswamy Eye Clinic),21.2356911,81.6359375,saprey school road,,Raipur
+clinic,Parag Nursing Home,21.260982,81.6372753,NH30,,Raipur
+clinic,Bagdi Nursing Home,21.2377905,81.6321281,bohra gali,,Raipur
+clinic,Dr Siddiqui Eye Hospital,21.1936875,81.2871954,SH7,,Durg
+clinic,Ahluwalia Nursing Home,21.2502459,81.6293541,KK Road,,Raipur
+clinic,Aditya Nursing Home,21.1118539,82.0978279,Kamla Sadan,,Mahasamund
+clinic,Dubey Nursing Home,22.0775659,82.1579786,Imlipara road,,Bilaspur
+clinic,Agrwal Nursing Home,21.2460936,81.6258404,G.E. Road,,Durg
+clinic,ESIS Dispensary,21.262291,81.637089,NH30,,Raipur
+clinic,Community Health Center Mohala,20.5788164,80.7466269,,,Mohla-Manpur-Ambagarh Chowki
+clinic,"Esi Dispensary, Tumdibod",21.086601,80.891266,NH53,,Rajnandgaon
+clinic,Akruti Clinic,21.1866994,81.2743692,SH7,,Durg
+clinic,Kailash Kanta Nursing Home,21.2413081,81.668609,Atal Path Expressway Flyover,,Raipur
+clinic,Dr M K Sahu clinic,21.180634,81.2879125,Utai Road,,Durg
+clinic,Dr Chakresh Jain Homoeopathic Clinic,21.2388587,81.5986345,NIT Road,,Raipur
+clinic,"Dr Lunia's Gastro, Liver & Advance Endoscopy Center",21.233365,81.6393438,Hanuman nagar road,,Raipur
+clinic,Dr. Devesh Soni's Clinic,21.113091,82.092569,NH353,,Mahasamund
+clinic,Sahu Clinic,21.1037665,82.0990609,NH353,,Mahasamund
+clinic,Kilkari Nursing Home,20.732426,81.207354,Sadar Road,,Balod
+clinic,Bhilai Speech and Hearing Clinic,21.186557,81.280345,Utai Road,,Durg
+clinic,Saroj Nursing Home,21.2226321,81.6605063,Canal Road,,Raipur
+clinic,DR RITESH WALMIK CHILD CLINIC,21.1741267,81.2944071,Utai Road,,Durg
+clinic,Jain Dental Care & Implant Centre,21.235514,81.641912,NH30,,Raipur
+clinic,Nandini Dental Clinic,21.1726495,81.2959181,Utai Road,,Durg
+clinic,Solanki Diabetes-Thyroid-Hormone Clinic,21.2337331,81.6505415,shyam nagar road,,Raipur
+clinic,Mp Nursing Home,21.195465,81.2831188,SH7,,Durg
+clinic,Dr Nisha Yadu Clinic,21.2330248,81.6473066,shyam nagar road,,Raipur
+clinic,Dhillon Nursing Home,21.1919296,81.2862965,SH7,,Durg
+clinic,Women Care Clinic,21.2317874,81.639567,NH30,,Raipur
+clinic,Old Shree sai nursing home,21.1776026,81.2963988,Utai Road,,Durg
+clinic,Dr. S B Mishra Clinic,21.223313,81.6620938,Canal Road,,Raipur
+clinic,Dr.Tamrakar Homeopathy clinic,21.1743209,81.2963188,Utai Road,,Durg
+clinic,SAHU PHYSIOTHERAPY,20.7349033,81.2048444,Sadar Road,,Balod
+clinic,Dr Telang Clinic,21.1877333,81.2818143,Utai Road,,Durg
+clinic,Bagrecha Nursing Home,21.227375,81.6550941,NH53,,Raipur
+clinic,Kothari Nursing Home,21.1863505,81.2754115,SH7,,Durg
+clinic,Sadbhavna Clinic,21.225292,81.657847,NH53,,Raipur
+clinic,Sanjeevani clinic,21.181497,81.287089,Utai Road,,Durg
+clinic,Perfect Skin And Hair Clinic,21.173832,81.2943651,Utai Road,,Durg
+clinic,Ashirya Dental And Polyclinic,21.1701728,81.2966674,Utai Road,,Durg
+clinic,Dr. Chandrawansi Clinic,21.2341727,81.6112236,Mahadev Ghat Main Road,,Raipur
+clinic,Pandey Nursing Home,21.198276,81.287376,SH7,,Durg
+clinic,Narayani heart & diabetes clinic,21.1906609,81.2849234,SH7,,Durg
+clinic,Memon Nursing Home,21.2317325,81.6516221,kt road,,Raipur
+clinic,Dr NareshSwarnkar dental clinic,21.174696,81.293586,Utai Road,,Durg
+clinic,Chhatre Dental Clinic,21.2230034,81.6613465,Canal Road,,Raipur
+clinic,Soni German Homeo and Patanjali Store,21.1742557,81.2969827,Utai Road,,Durg
+clinic,Naik nursing home,21.198724,81.284765,SH7,,Durg
+clinic,Jai Ambey Nursing Home & netralaya,22.074299,82.135715,WAY TO RAJIV GANDHI,,Bilaspur
+clinic,MA AMBEY DENTAL CLINIC,22.063129,81.685806,way to nandi chowk,,
+clinic,Aarav Clinic,21.7015478,81.5436103,NH30,,Bemetara
+clinic,Chetna Health Care,21.7201666,81.5353688,NH30,,Bemetara
+clinic,Sneha Clinic,22.0049034,81.2310346,SH5,,Kabirdham
+clinic,Dr Shekhar Tiwari (Orthopedic and Trauma Center),22.071108,82.142395,TALAPARA,,Bilaspur
+clinic,Dhanwantari Clinic,21.24742,81.660284,New Shaanti Nagar Road,,Raipur
+clinic,Multicare Clinic,22.0030608,81.2292532,SH5,,Kabirdham
+clinic,Shreyansh Diabetic & Heart Clinic,21.2456733,81.6686059,Atal Path Expressway,,Raipur
+clinic,Dr Sandeep Gupta Clinic,22.0835151,82.1419753,Warehouse Road,,Bilaspur
+clinic,Pathak Nursing Home,22.082403,82.141513,Padmshri Pandit Shyamlal Chaturvedi Smart Road,,Bilaspur
+clinic,Mahamaya phisotherapy clinic,22.0809607,82.1409086,WAY TO RAJIV GANDHI,,Bilaspur
+clinic,Arpan sugar clinic,22.089594,82.142458,Kududand Road,,Bilaspur
+clinic,Daniel Skin and Laser Clinic,20.720067,81.5504773,Mahalaxmi Green colony,,Dhamtari
+clinic,Vinayak Dant Chikitsalay,20.26405,81.498639,NH30,,Uttar Bastar Kanker
+clinic,Shri Clinic & Nursing Home,20.7054892,81.5498922,Mahalaxmi Green colony,,Dhamtari
+clinic,Dr. J S Khalsa Eye Specialist,20.7109802,81.5388484,Mahalaxmi Green colony,,Dhamtari
+clinic,Shivam Health Centre,20.3188992,81.0671579,Dalli-Dondi Road,,Uttar Bastar Kanker
+clinic,Shree Gaytri Aarogyam Clinic,20.7141452,81.5352393,Mahalaxmi Green colony,,Dhamtari
+clinic,Vishwas Clinic,20.6964228,81.5533684,Mahalaxmi Green colony,,Dhamtari
+clinic,Rakesh Sahu Skin and Allergic Clinic,20.7015407,81.5511377,Mahalaxmi Green colony,,Dhamtari
+clinic,Mahi Clinic,21.2760779,81.6714857,Daldal Seoni Main Road,,Raipur
+clinic,Sharma Multi-speciality Clinic,21.2069127,81.3473509,Flyover,,Durg
+clinic,Mahamaya hospital,22.1162821,80.5380709,SH48,,Balaghat
+dentist,Gupta Dental Clinic,21.2499178,81.646248,NH130B,,Raipur
+dentist,Chhattisgarh Dental Hospital,21.2377412,81.6377909,stadium road,,Raipur
+dentist,Raipur Multispeciality Dental Hospital,21.2363554,81.6335989,full chock,,Raipur
+dentist,Gayatri Dental Clinic,21.225729,81.65875,NH53,,Raipur
+dentist,Perfect Dental Clinic,20.7249635,81.2009154,NH930,,Balod
+dentist,Shree Dental Clinic,21.113862,82.09343,NH353,,Mahasamund
+dentist,Dave's Multispeciality Dental Care,21.1110193,82.0976365,NH353,,Mahasamund
+dentist,Rathi Dental Care,21.7279056,81.5329615,NH30,,Bemetara
+dentist,Sharma Dental,21.717932,81.533011,NH30,,Bemetara
+dentist,Jyoti Dental Clinic,20.3063574,81.0723248,Dalli-Dondi Road,,Uttar Bastar Kanker
+dentist,Agarwal Dental Hospital,20.7162907,81.5497118,Mahalaxmi Green colony,,Dhamtari
+dentist,Shrivatava Dental Care,20.3028028,81.4682478,NH30,,Uttar Bastar Kanker
+dentist,Siddhanth Dental Hospital,20.7184359,81.5507459,Mahalaxmi Green colony,,Dhamtari
+dentist,Aarna Dental Clinic,20.7076579,81.5460228,Mahalaxmi Green colony,,Dhamtari
+dentist,Clinic,20.493271,81.368999,NH30,,Uttar Bastar Kanker
+dentist,Shri Vinayak Dental Care,22.0995218,80.5497783,SH47,,Balaghat
+doctors,DR. AGRAWAL(leproscopy),21.2438717,81.6122595,G.E. Road,,Raipur
+doctors,dr manu niwasha,21.114204,82.094749,NH353,,Mahasamund
+hospital,Life Care Scan & Research,21.1994701,81.2857545,SH7,,Durg
+hospital,"Gayatri Hospital, Durg",21.198755,81.2856067,SH7,,Durg
+hospital,District Hospital,21.1872237,81.2794181,Utai Road,,Durg
+hospital,ABC,21.1897672,81.2746431,SH7,,Durg
+hospital,bagri nursing home,21.2414376,81.6232005,G.E. Road,,Raipur
+hospital,jila  chikitsalay,22.0741311,82.1583685,WAY TO CMD CHOWK,,Bilaspur
+hospital,Chhattisgarh Institute of Medical Sciences Hospital,22.0888774,82.1520889,RIVER VIEW ROAD,,Bilaspur
+hospital,lal chandani hospital,22.0721506,82.171635,tikrapara,,Bilaspur
+hospital,Ramkrishna Care Hospital,21.2130814,81.6537238,NH30,,Raipur
+hospital,Narayana Hrudayalaya Mmi Hospital (Managed By Narayana Hrudayalaya Pvt Ltd - Bangalore) - Raipur,21.2132613,81.657736,NH30,,Raipur
+hospital,Suyash Superspeciality Hospital,21.2584938,81.6060273,Gudhiyari Road,,Raipur
+hospital,Shri Ganesh Vinayak Eye Hospital,21.2131689,81.6561777,NH30,,Raipur
+hospital,Vardaan Hospital (Unit Of Jindal Medicare),21.2520112,81.6632415,TV Tower Road,,Raipur
+hospital,Bal Gopal Children Hospital and Research Institute,21.2349337,81.6413322,NH30,,Raipur
+hospital,Yashwant Hospital,21.2403202,81.6293508,G.E. Road,,Raipur
+hospital,Balodabazar,21.6611692,82.1411607,SH10,,Baloda Bazar
+hospital,Mittal Hospital,21.260362,81.6587146,Shankar Nagar road,,Raipur
+hospital,Gindodi Devi Memorial Charitable Reserch Center,21.2075561,81.4013372,NH53,,Durg
+hospital,jain mandir,21.2274864,81.6480755,NH30,,Raipur
+hospital,chandak hospital,21.2278656,81.6484364,kt road,,Raipur
+hospital,sukriti hospital,21.2506345,81.649911,NH130B,,Raipur
+hospital,agrwal hospital,22.0681269,81.6912056,NH130A,,
+hospital,primary government hospital Bangoli,21.4005479,81.8506453,Mura road,,Raipur
+hospital,Shri Sai Ganesh Hospital,21.266195,81.6181222,Gudhiyari Road,,Raipur
+hospital,Om Hospital,21.231444,81.6030309,Mahadev Ghat Main Road,,Raipur
+hospital,Manoharlal Government Hospital,21.2077162,81.4011762,NH53,,Durg
+hospital,jeevandeep hospital,21.055395,81.7471376,NH130C,,Raipur
+hospital,mandi gate,21.2663177,81.6639038,NH130B,,Raipur
+hospital,"Mother Mary Hospital, Kanker",20.2817382,81.4867912,NH30,,Uttar Bastar Kanker
+hospital,Navkar Hospital and Maternity Home,21.2284143,81.6545326,kt road,,Raipur
+hospital,sharda hospital birgaon,21.3057768,81.635563,NH30,,Raipur
+hospital,N.K.D. Hospital,21.3054532,81.633495,NH30,,Raipur
+hospital,hospital pt. rsu,21.2428278,81.5936087,Banjarimata road,,Raipur
+hospital,Nursing Home,21.2284159,81.6652611,Mahaveer nagar road,,Raipur
+hospital,hospital ,20.9541995,81.8765709,NH130C,,Gariaband
+hospital,Government Hospital,20.4826283,81.0847547,Dalli-Dondi Road,,Balod
+hospital,Dispensary,21.2514868,81.6023593,GE Road,,Raipur
+hospital,Dhamtari Christian Hospital,20.7185601,81.5515459,Mahalaxmi Green colony,,Dhamtari
+hospital,Karma Hospital,21.2401756,81.6622585,Canal Road,,Raipur
+hospital,Chhattisgarh Eye Hospital,21.2392112,81.6621937,Canal Road,,Raipur
+hospital,Devi Laxmi Hospital,21.2233136,81.6522994,NH53,,Raipur
+hospital,Sanjeevani Cbcc Usa Cancer Hospital,21.2142649,81.6503232,NH30,,Raipur
+hospital,Vinayak Netralaya,22.0762535,82.1526289,Link Road,,Bilaspur
+hospital,"Shri Ram Hospital, Bilaspur",22.0776355,82.1579746,Imlipara road,,Bilaspur
+hospital,Shri Ram Care Hospital - Bilaspur,22.0852783,82.130156,Padmshri Pandit Shyamlal Chaturvedi Smart Road,,Bilaspur
+hospital,Shivangi Hospital,22.0816172,82.1578458,Madhyanagri Chowk,,Bilaspur
+hospital,Shirsti Children Hospital,22.0803115,82.1406912,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,Sai Baba Heart and Kidney Center,22.0758807,82.1344972,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,Onkar Chikitsalaya,22.087836,82.1371939,Warehouse Road,,Bilaspur
+hospital,Nulife Heart Care Emergency Hospital,22.0881452,82.1247594,NH130A,,Bilaspur
+hospital,Ladikar Hospital,22.0751201,82.1605146,WAY TO OLD BUS STAND,,Bilaspur
+hospital,Dr Sharma Hospital and Maternity Home,22.0765493,82.1538533,Link Road,,Bilaspur
+hospital,Care N Cure Multspeciality Hospital,22.0889265,82.1493265,old sarkanda bridge,,Bilaspur
+hospital,Ashirwad Nursing Home,22.086864,82.1481912,sadar bazar,,Bilaspur
+hospital,Bilaspur Hospital,22.097911,82.130435,mangla road,,Bilaspur
+hospital,Budhia Hospital and Maternity Home,22.0855892,82.1473104,sadar bazar,,Bilaspur
+hospital,S.S. Hospital,21.2207349,81.3805121,Nandini Road,,Durg
+hospital,Priyanka Hospital,21.1864725,81.2799159,Utai Road,,Durg
+hospital,Mahima Hospital Utai,21.1175651,81.386854,Durg - Raipur - Arang Expressway,,Durg
+hospital,Lal Bahadur Shastri Civil Hospital,21.2082539,81.3554683,Flyover,,Durg
+hospital,Apollo Bsr Hospital,21.2162229,81.3232684,Junwani Road,,Durg
+hospital,"Aastha Hospital, Durg",21.1172679,81.3874116,Durg - Raipur - Arang Expressway,,Durg
+hospital,Martin Hospital,20.7076893,81.5414648,Mahalaxmi Green colony,,Dhamtari
+hospital,Radiance Hospital And Research Center,22.0021001,81.2433983,NH30,,Kabirdham
+hospital,Kabirdham Fracture Hospital and Trauma Center,22.0018135,81.2432143,NH30,,Kabirdham
+hospital,"Verma Hospital, Durg",21.1893436,81.2768917,SH7,,Durg
+hospital,Swasthya Sanchay,20.7323178,81.2065984,Sadar Road,,Durg
+hospital,Shree Ambe Hospital,21.209254,81.3731965,NH53,,Durg
+hospital,Aashirwad Fertility and Endoscopy Center,21.2346486,81.6077931,Mahadev Ghat Main Road,,Raipur
+hospital,Christian Hospital,22.0706677,81.6874948,NH130A,,
+hospital,Sukhnandan Hospital,22.0707864,81.6944432,NH130A,,
+hospital,Goraj Children Hospital,22.0090424,81.2365269,SH5,,Kabirdham
+hospital,"Samarpan Hospital, Raipur",21.2650092,81.6679336,NH130B,,Raipur
+hospital,Sai Sushrusha Hospital,21.2352073,81.6418236,NH30,,Raipur
+hospital,Sai Kalayan Hospital And Icu,21.2499934,81.6684566,Street Number 6,,Raipur
+hospital,Sai Baba Eye Hospital,21.2595225,81.6370104,NH30,,Raipur
+hospital,Raipur Institute Of Medical Sciences Hospital,21.2419875,81.8368053,NH53,Sector 2,Raipur
+hospital,Prannath Mission Hospital,21.2647055,81.6395652,NH30,,Raipur
+hospital,Piles Care Hospital,21.2454024,81.6468099,Canal Road,,Raipur
+hospital,Tharani Children Hospital And Dental Clinic,21.2248204,81.6595718,NH53,,Raipur
+hospital,Dr. M.R. Bhagwat Memorial Hospital,21.2439374,81.6145067,G.E. Road,,Raipur
+hospital,Kalda Plastic and Cosmetic Surgery Institute and Burn Centre,21.2166146,81.6572553,NH30,,Raipur
+hospital,Shri Sai Krupa Hospital,22.0807299,82.1545695,Imlipara road,,Bilaspur
+hospital,Shri Childrens Hospital,22.0975946,82.1629147,SIPAT ROAD,,Bilaspur
+hospital,Sukham Arogyalya,22.091606,82.1279432,NH130A,,Bilaspur
+hospital,"Mittal Hospital, Bilaspur",22.0845538,82.1533558,Masanganj Road,,Bilaspur
+hospital,Mehta Children Nursing Home,22.0812345,82.1514098,Masanganj Road,,Bilaspur
+hospital,Vidya Hospital And Kidney Centre,21.2491409,81.6617082,TV Tower Road,,Raipur
+hospital,Shri Aurobindo Medical Research Centre,21.2145777,81.6542597,NH30,,Raipur
+hospital,Shree Sai Care Hospital,21.2398899,81.6698393,Atal Path Expressway Flyover,,Raipur
+hospital,Shree Medishine Hospital - Raipur,21.2200322,81.6655757,Canal Road,,Raipur
+hospital,Sarvodaya Hospital and Maternity Center,21.2715555,81.6710436,NH130B,,Raipur
+hospital,Chandulal Chandrakar Hospital,21.2002044,81.3225931,Durg Bypass Road,,Durg
+hospital,Vishal Eye Care,21.0937493,81.0375727,Ramadhin Marg,Chikhali,Rajnandgaon
+hospital,Visharad Hospital,21.2391162,81.6413422,NH30,,Raipur
+hospital,Urmila Memorial Multispeciality Hospital,21.2582818,81.6553302,NH130B,,Raipur
+hospital,"Upadhyay Hospital, Raipur",21.2625908,81.5873668,Mahoba Bazar Road,,Raipur
+hospital,Subham Hospital and Maternity Home,21.2599874,81.6282919,Atal Path,,Raipur
+hospital,Subba Rao Hospital,21.2570692,81.6373428,NH30,,Raipur
+hospital,Srimaa Sarada Arogyadham,21.2308046,81.5954804,Service Road,,Raipur
+hospital,Soni and Kaur Multispeciality Hospital And Maternity Home,20.9683134,81.8837748,NH130C,,Gariaband
+hospital,Sobhagya Hospital,21.2740474,81.6335745,shrinagar,,Raipur
+hospital,"Shri Ram Hospital, Raipur",21.2361049,81.6117065,Mahadev Ghat Main Road,,Raipur
+hospital,Shri Balaji Institute Of Medical Science Pvt Ltd,21.2724251,81.6717492,Way to Celino Paradise,,Raipur
+hospital,"Pathak Hospital, Raipur",21.264633,81.6358182,Fafadih Underpass,,Raipur
+hospital,Gbg Kidney Care Hospital,21.2259317,81.6585526,NH53,,Raipur
+hospital,Parvati Hospital,21.1995218,81.3570089,Central Avenue,,Durg
+hospital,Shri Vinayak Hospital,21.1611586,81.3350889,Utai Road,,Durg
+hospital,Bhilai Gayatri Hospital,21.204333,81.3416523,NH53,,Durg
+hospital,"Suraj Hospital, Durg",21.2013325,81.3214741,NH53,,Durg
+hospital,Modi Hospital,21.2462123,81.6186909,Shyam Mandir Marg,,Raipur
+hospital,Jagjivan Urology Centre,21.2461698,81.6239078,G.E. Road,,Raipur
+hospital,Sahai Hospital,21.2230452,81.656616,NH53,,Raipur
+hospital,"Pragya Hospital, Raipur",21.2443828,81.6601836,Canal Road,,Raipur
+hospital,P D Jethani Memorial Hospital and Diagnostic Center,21.2789978,81.6376406,NH30,,Raipur
+hospital,Nigam Ent Hospital,21.2472973,81.6568963,Atal Path Expressway,,Raipur
+hospital,Ganpati Hospital (Banthia Hospital),21.2458836,81.6474972,RANI SATI MANDIR COLONY ROAD,,Raipur
+hospital,"Yashwant Hospital, Raipur",21.2399062,81.62751,G.E. Road,,Raipur
+hospital,"Tripathi Hospital, Raipur",21.2495084,81.6579813,New Shaanti Nagar Road (SBI),,Raipur
+hospital,Jeewan Memorial Hospital For Plastic Surgery and Uro,21.2496099,81.6580936,NEw Shaanti Nagar Lane No. 05,,Raipur
+hospital,Om Netra Kendra,21.2487035,81.6448975,Canal Road,,Raipur
+hospital,Roopjeevan Hospital,21.2567003,81.6410096,Devendra Nagar Chowk Flyover,,Raipur
+hospital,Jubesta Hospital,21.257246,81.6435068,Devendra Nagar Chowk Flyover,,Raipur
+hospital,"Jain Hospital, Raipur",21.2559026,81.6448666,Devendra Nagar Chowk Flyover,,Raipur
+hospital,Dr. Rajehwari Kulkarni Surgical Hospital And Dia,21.2573909,81.6466855,Devendra Nagar Chowk Flyover,,Raipur
+hospital,"Pragya Hospital, Durg",21.2093754,81.3720323,NH53,,Durg
+hospital,Ekta Institute Of Child Health,21.2471211,81.6566214,Atal Path Expressway,,Raipur
+hospital,Rajiv Lochan Hospital,21.1306021,81.2611278,SH7,,Durg
+hospital,"United Hospital, Rajnandgaon",21.0964902,81.0400478,Old Bus Stand Road,Chikhali,Rajnandgaon
+hospital,"Pushpa Hospital, Durg",20.5914222,81.0740957,Dalli-Dondi Road,,Durg
+hospital,"Sanjivani Hospital, Durg",20.5945789,81.0722882,Dalli-Dondi Road,,Durg
+hospital,Ayush Hospital and Maternity Home,21.2623121,81.6739498,NH130B,,Raipur
+hospital,Ayushman Hospital and Diagnostic Institute,21.2345823,81.6097793,Mahadev Ghat Main Road,,Raipur
+hospital,Bachpan Hospital,21.2293683,81.6000053,Mahadev Ghat Main Road,,Raipur
+hospital,Bhattar Hospital,21.242349,81.6395467,NH30,,Raipur
+hospital,City Hospital And Research Centre,21.2465523,81.6100636,Nalanda Parisar Road,,Raipur
+hospital,Devkripa Hospital and Doctor Plaza,21.2510058,81.6685317,Street Number 6,,Raipur
+hospital,Dr. Jaulkar Ent Hospital,21.2471581,81.6123417,Shyam Mandir Marg,,Raipur
+hospital,Dr. Sandeep Bhagwat Orthopedic Hospital,21.2491114,81.6453123,NH130B,,Raipur
+hospital,Eye and Ent Hospital,21.2495993,81.6461378,NH130B,,Raipur
+hospital,"Heritage Hospital, Raipur",21.2604399,81.6429824,Devendra Nagar Chowk Flyover,,Raipur
+hospital,Jyoti Hospital and Prasuti Griha,21.5563958,81.8090755,,,Raipur
+hospital,K G N Surical and Maternity Centre,21.2342586,81.645458,Hanuman nagar road,,Raipur
+hospital,K.M. Hospital,21.2438524,81.6384199,Choti Gali 2,,Raipur
+hospital,M. M. Hospital,21.2605318,81.6367264,NH30,,Raipur
+hospital,Mahadev Hospital,21.2294448,81.597827,Mahadev Ghat Main Road,,Raipur
+hospital,Mishra Speciality Hospital,21.2615844,81.6380407,NH30,,Raipur
+hospital,Matra Smriti Hospital,21.2686163,81.6197897,shrinagar gondwara road,,Raipur
+hospital,M D Hospital and Iccu,21.2465873,81.6236986,G.E. Road,,Raipur
+hospital,Maa Babmleshwari Dharmarth Chikitsalaya,21.185223,80.7509269,,,Rajnandgaon
+hospital,Mgm Eye Hospital,21.2783101,81.7026642,NH130B,,Raipur
+hospital,Amrit Kalash Hospital,21.2145208,81.2964517,Service Road,,Durg
+hospital,"Shree Balaji Hospital, Durg",21.2103856,81.2948404,"FCI road, Durg by pass",,Durg
+hospital,Rajvanshi Memorial Hospital,21.1821102,81.2670828,SH7,,Durg
+hospital,Suprita Hospital,21.2564347,81.6388497,NH30,,Raipur
+hospital,Luthra Hospital And Research Centre,22.0880849,82.13349,NH130A,,Bilaspur
+hospital,Evangelical Mission Hospital,21.5540159,81.7903335,,,Raipur
+hospital,Lifeworth Super Speciality Hospital,21.2456986,81.6175885,Shyam Mandir Marg,,Raipur
+hospital,"Vardhman Hospital, Durg",21.1906971,81.2863753,SH7,,Durg
+hospital,Shri Manulal Memorial Medical Centre,21.2363311,81.6213289,Main road,,Raipur
+hospital,"Sahu Hospital, Raipur",21.2554704,81.6406797,Devendra Nagar Chowk Flyover,,Raipur
+hospital,Gautam Hospital,20.2985272,81.0748677,Dalli-Dondi Road,,Uttar Bastar Kanker
+hospital,Agrasen Hospital,21.2454224,81.6245992,G.E. Road,,Raipur
+hospital,Nibha Mitra Memorial Hospital,22.0642399,82.1837082,NH200,,Bilaspur
+hospital,Pt.J N M Medical College Hospital,21.251975,81.6391427,NH30,,Raipur
+hospital,Tlm Laprocy Mission Hospital,21.855047,81.920844,NH130,,Bilaspur
+hospital,"Kanwar Hospital, Raipur",21.2532719,81.6651843,TV Tower Road,,Raipur
+hospital,Raipur Hospital,21.2468461,81.6415286,Entrance to SBI and Daga College,,Raipur
+hospital,Sharma Nethralaya,21.2057046,81.3476711,Flyover,,Durg
+hospital,Christian Fellowship Hospital,21.0957177,81.008774,Bypass Road,Basantpur,Rajnandgaon
+hospital,"Sanjeewan Hospital, Raipur",21.2208074,81.6410136,dhamtari road,,Raipur
+hospital,Arihant Netralaya,21.2359599,81.6381209,saprey school road,,Raipur
+hospital,"Jan Kalyan Hospital, Bhilai",21.2367531,81.3688438,Nandini Road,,Durg
+hospital,Government Hospital,22.106051,80.5494484,SH47;48,,Balaghat
+hospital,"Goverment hospital,Birsa",22.012597,80.7371957,SH48,,Balaghat
+hospital,Government Hospital Bhanderi,21.9998105,80.5739906,MD4305,,Balaghat
+hospital,CH Lanji,21.5035417,80.5391997,,,Balaghat
+hospital,Govt.hospital jhuranadi,21.5598578,81.0076632,SH5,,Khairagarh-Chhuikhadan-Gandai
+hospital,Govt. T.B. Hospital,21.2346921,81.6389363,NH30,,Raipur
+hospital,"Government Hospital,Dongargaon",20.9729385,80.8522718,,,Rajnandgaon
+hospital,Government Hospital Lawan,21.641245,82.3328505,NH130B,,Baloda Bazar
+hospital,Government Hospital Farfoud,21.2743757,81.9506788,,,Raipur
+hospital,"Government Hospital ,Lalbhadur Nagar",21.1008705,80.6843504,NH53,,Rajnandgaon
+hospital,Government Hospital Mohala,20.583767,80.747701,,,Rajnandgaon
+hospital,Government Hospital Uparwara,21.117467,81.764341,NH30,,Raipur
+hospital,Dhamdha Government Hospital,21.464124,81.332074,SH7,,Durg
+hospital,Government Hospital Bartori,21.887341,82.153718,Bilha - Raipur Road,,Bilaspur
+hospital,"Government Hospital, Tilda",21.5498742,81.7969593,,,Raipur
+hospital,Government Hospital Dumardihkala,21.2287642,81.0223599,SH5,,Rajnandgaon
+hospital,"Government Hospital ,Arjuni",21.0287296,80.9165918,,,Rajnandgaon
+hospital,DH Baloda Bazar,21.657443,82.155968,SH10,,Baloda Bazar
+hospital,"Govt. Hospital,Gandai",21.6648467,81.0956337,SH5,,Khairagarh-Chhuikhadan-Gandai
+hospital,Kanker Hospital,20.3599899,80.8711312,SH6,,Uttar Bastar Kanker
+hospital,District Hospital Bemetara,21.7020322,81.5337224,SH7,,Bemetara
+hospital,Sharda Hospital,21.0966361,81.042373,Station Para Road,Chikhali,Rajnandgaon
+hospital,"Government Hospital,Purena",21.198736,81.429479,NH53,,Raipur
+hospital,Govt. Hospital Chuikhadan,21.522135,80.9957328,SH5,,Khairagarh-Chhuikhadan-Gandai
+hospital,"Government hospital,Khokhopara",21.23239,81.6223248,Kushalpur Main Road,,Raipur
+hospital,Government hospital Nagri,20.350877,81.957065,SH6,,Dhamtari
+hospital,Govt Hospital Khallari,21.0892506,82.2857419,NH353,,Mahasamund
+hospital,PHC Kochwai,20.662624,82.100825,NH130C,,Gariaband
+hospital,Govt.Hospital S.Lohara Dist - Kawardha,21.8341502,81.1279656,SH 9 Rajnandgaon to Khairagarh,,Kabirdham
+hospital,Government hospital arang,21.1940118,81.9703912,NH53,,Raipur
+hospital,Govt Hospital Rasmada,21.2023017,81.219971,Durg Bypass Road,,Durg
+hospital,Civil Hospital Kurud,20.8311136,81.7169756,NH30,,Dhamtari
+hospital,District Hospital Raipur,21.2317387,81.6401796,NH30,,Raipur
+hospital,Goverment hospital Gobra Nawapara,20.9675515,81.8588705,NH130C,,Raipur
+hospital,Shri Khudadad Dungaji Government Ayurved College Hospital,21.244933,81.605817,GE Road,,Raipur
+hospital,Government Hospital Chhuria,21.006024,80.627374,,,Rajnandgaon
+hospital,Government Hospital Sarona,20.2816174,81.6513923,SH6,,Uttar Bastar Kanker
+hospital,District Hospital Baloda,21.663316,82.149301,SH10,,Mahasamund
+hospital,Government Hospital Shahwada,20.3844054,81.4842001,NH30,,Uttar Bastar Kanker
+hospital,Old District Hospital Mahasamund,21.113837,82.092952,NH353,,Mahasamund
+hospital,DH Gariaband,20.636596,82.057487,NH130C,,Gariaband
+hospital,DH Balod,20.7194052,81.1929819,NH930,,Balod
+hospital,Government Hospital Ahiwara,21.363337,81.422177,Nandini Road,,Durg
+hospital,Government Hospital Sukul Daihan,21.1524796,80.9513985,,,Rajnandgaon
+hospital,"Government Hospital, Ambagarh Chowki",20.7779872,80.7425466,,,Rajnandgaon
+hospital,"Government Hospital ,Khandupara",21.1877304,80.7560204,,,Rajnandgaon
+hospital,Khairagarh Hospital,21.4188612,80.9802645,SH5,,Khairagarh-Chhuikhadan-Gandai
+hospital,Government Hospital Umarwahi,20.8300443,80.8924799,,,Rajnandgaon
+hospital,Government Hospital,21.2300217,81.6598785,NH53,,Raipur
+hospital,Government Hospital Bitkuli,21.6167942,81.9364109,,,Baloda Bazar
+hospital,Labhandhi Government Hospital,21.244877,81.703673,NH53,,Raipur
+hospital,District Hospital Kanker,20.2647118,81.4951987,NH30,,Uttar Bastar Kanker
+hospital,"Government Medical College Hospital,",21.0862077,81.0304339,SH5,Basantpur,Rajnandgaon
+hospital,Government Hospital Charbhata,21.289485,81.0982416,,,Rajnandgaon
+hospital,Government Hospital Chikhalakasa,20.594787,81.07921,College Road,,Balod
+hospital,DH Dhamtari,20.7077865,81.5396588,Mahalaxmi Green colony,,Dhamtari
+hospital,Government Hospital Tumgaon,21.1998067,82.13319,NH53,,Mahasamund
+hospital,Government Hospital BILHA,21.9592255,82.0815993,NH49,,Bilaspur
+hospital,Government Hospital Nawagaon,22.1865928,82.277361,NH130A,,Bilaspur
+hospital,DH MUNGELI,22.0618441,81.6923865,WAY OF GOAL BAZAR,,
+hospital,Government HospitalRuse,22.116948,81.366125,NH130A,,Kabirdham
+hospital,Government Hospital Chakarbhata,22.0077839,82.102456,Airport Road,,Bilaspur
+hospital,"Government hospital,Kawardha",22.0130706,81.2331214,SH5,,Raipur
+hospital,Govt Hospital Navagrh,21.9042187,81.6074143,SH7,,Bemetara
+hospital,"Rural Hospital, Chichgad",20.892648,80.37937,NH543,,Gondiya
+hospital,Goverment Hospital Deori,21.0740686,80.3685432,NH543,,Gondiya
+hospital,"Rural Hospital, Korchi",20.721105,80.481277,SH233,,Gadchiroli
+hospital,"Rural Hospital, Amgaon",21.3597083,80.3872182,NH543,,Gondiya
+hospital,"Rural Hospital, Salekasa",21.3023692,80.4818947,SH249,,Gondiya
+hospital,Duyshant Sonboier,20.726603,81.199321,NH930,,Balod
+hospital,Shri Balaji Hospital,21.2261487,81.6397097,NH30,,Raipur
+hospital,Shree Sai Hospital,21.183643,81.283768,Utai Road,,Durg
+hospital,Umeed Health Care Multispeciality Hospital,20.7166122,81.2240255,NH930,,Balod
+hospital,Jeevan Anmol Hospital,21.2250565,81.6531985,NH53,,Raipur
+hospital,City Hospital,20.634774,82.062087,NH130C,,Gariaband
+hospital,Madhumeet Hospital,21.2401655,81.6698864,Atal Path Expressway Flyover,,Raipur
+hospital,Shri Krishna Hospital,21.223641,81.660207,Canal Road,,Raipur
+hospital,Jawhar Lal Nehru Hospital,21.1701705,81.2956433,Utai Road,,Durg
+hospital,Mary Hospital,21.196056,81.289539,SH7,,Durg
+hospital,Tiwari Hospital,21.114822,82.092009,NH353,,Mahasamund
+hospital,OM Hospital,21.194682,81.293819,SH7,,Durg
+hospital,Raipura Hospital,21.2321504,81.6035435,Mahadev Ghat Main Road,,Raipur
+hospital,Awasthi Hospital,21.231624,81.6540067,shailendra nagar road,,Raipur
+hospital,"SVM, Shailesh Verma Memorial Hospital",21.188345,81.28186,SH7,,Durg
+hospital,Om Superspeciality Hospital,21.2292542,81.5986728,Mahadev Ghat Main Road,,Raipur
+hospital,Mahima Hospital,21.213287,81.294932,Durg Bypass Road,,Durg
+hospital,Shreyansh Hospital,21.1984611,81.2917588,SH7,,Durg
+hospital,Dr Vikas chandrakar,21.118367,82.0755974,NH353,,Mahasamund
+hospital,V Y Hospital,21.182563,81.295535,Utai Road,,Durg
+hospital,Santosh hospital,20.6952232,81.5444069,NH30,,Dhamtari
+hospital,Navjeevan Hospitals,21.223671,81.297633,"FCI road, Durg by pass",,Durg
+hospital,Someshwar private hospital,20.634677,82.060722,NH130C,,Gariaband
+hospital,Kankali Hospital Parisar,21.23854,81.62784,GE Road,,Raipur
+hospital,Anjali Children Hospital,21.22115,81.649675,NH53,,Raipur
+hospital,We Care Super Specialty Hospital,21.235399,81.668942,NH53,,Raipur
+hospital,Jayanti Hospital,21.1928098,81.2903112,SH7,,Durg
+hospital,shri akal purakh hospital,21.1124166,82.1040852,Kamla Sadan,,Mahasamund
+hospital,District Police Hospital,21.2307216,81.6449518,NH30,,Raipur
+hospital,Puspha Hospital,20.7309539,81.2062647,Sadar Road,,Balod
+hospital,Dr Manoj Agrwal,21.2437894,81.6504829,Canal Road,,Raipur
+hospital,Sagar Hospital,20.7226651,81.2089179,NH930,,Balod
+hospital,Avanti Hospital,21.2408235,81.6696319,Atal Path Expressway Flyover,,Raipur
+hospital,Jamul Hospital,21.202262,81.290018,SH7,,Durg
+hospital,RLC Multispeciality Hospital,21.115668,82.086619,NH353,,Mahasamund
+hospital,Anand Shree Hospital,21.233519,81.604322,Mahadev Ghat Main Road,,Raipur
+hospital,Life Line Hospital,21.2328853,81.605519,Mahadev Ghat Main Road,,Raipur
+hospital,Dr. B.C.PINCHA,21.1073412,82.0979943,NH353,,Mahasamund
+hospital,Dr. V.S. Baghel hospital,21.1883813,81.2830465,SH7,,Durg
+hospital,Shriyansh Hospital,20.6371524,82.0585515,NH130C,,Gariaband
+hospital,Shri Jagannath Multispeciality Hospital,21.22998,81.600057,Mahadev Ghat Main Road,,Raipur
+hospital,Gayatri Hospital,21.239345,81.6038105,shanti vihar colony,,Raipur
+hospital,Vijaya durga hospital,21.235824,81.63491,saprey school road,,Raipur
+hospital,Rajdhani Super Speciality Hospital,21.2190325,81.6483451,Pachpedi Naka Flyover,,Raipur
+hospital,Steel City Medical center - Multispeciality Hospital,21.1738543,81.2957491,Utai Road,,Durg
+hospital,Dr Nigam Hospital,21.2350371,81.6517301,shyam nagar road,,Raipur
+hospital,Shubham Hospital,21.23422,81.610285,Mahadev Ghat Main Road,,Raipur
+hospital,Government Homeopathy Hospital,20.7333851,81.203131,Sadar Road,,Balod
+hospital,S R Hospital and Research Centre,21.233098,81.302638,"FCI road, Durg by pass",,Durg
+hospital,ESIC Office,22.077439,82.142981,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,Sai Sanjivani Multi Speciality Hospital,22.009421,81.229208,SH5,,Kabirdham
+hospital,S.K.B. Multispeciality Hospital And Trauma Center,22.0763685,82.1380283,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,Christian Hospital,22.0706408,81.6875909,NH130A,,
+hospital,Virdi Hospital,21.2496368,81.628347,KK Road,,Raipur
+hospital,DKS Super Speciality Hospital,21.2449632,81.6412379,NH30,,Raipur
+hospital,Sihare Children's Hospital,22.075316,82.15646,Link Road,,Bilaspur
+hospital,surya netralaya,22.0051569,81.2129095,SH5,,Kabirdham
+hospital,Mamta Hospital,21.246905,81.631597,KK Road,,Raipur
+hospital,Mahima Hospital,22.0723958,81.6977988,NH130A,,
+hospital,GBR Nihar Hospital Jeora Sirsa Durg,21.2464488,81.3061011,SH7,,Durg
+hospital,The Rembo Eye Optrome,22.0708658,81.6885119,NH130A,,
+hospital,"Om Hospital , Burn Plastic & Cosmetic Surgery Center",21.2451108,81.6301308,KK Road,,Raipur
+hospital,Ayushman Hospital,21.714808,81.535071,NH30,,Bemetara
+hospital,Star Children Hospital,22.076945,82.151318,Link Road,,Bilaspur
+hospital,Parihar Hospital,22.0094638,81.2402217,SH5,,Kabirdham
+hospital,MAKHIJA TEST TUBE BABY CENTRE,22.0758188,82.1544522,Link Road,,Bilaspur
+hospital,Shri Mahaveer Hospital,21.25007,81.6625026,TV Tower Road,,Raipur
+hospital,Megh Hospital,22.007144,81.232399,SH5,,Kabirdham
+hospital,Gaurav Hospital,22.0750606,82.1343434,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,Rakesh Tiwari Homeo Hospital,22.0663285,81.6762074,Pandaria Bypass,,Kabirdham
+hospital,Lotus Hospital & Advance Urology Center,21.2468938,81.6485864,Canal Road,,Raipur
+hospital,Tawari Hospital,21.717226,81.532531,NH30,,Bemetara
+hospital,Kalyani Hospital,22.0780198,82.1464945,TALAPARA,,Bilaspur
+hospital,DR. Jangde nursing home,22.009848,81.242437,NH30,,Kabirdham
+hospital,Shalom Hospital,21.7140807,81.535538,NH30,,Bemetara
+hospital,Sankalp Eye Hospital,22.07383,82.1515684,Shrikant Verma Marg,,Bilaspur
+hospital,Chand Rani Sardari Lal Speciality EYE And ENT Hospital,21.2463682,81.6546202,Canal Road,,Raipur
+hospital,Dr.sumit Tiwari's Asha Super Speciality Dental Hospital,22.0672879,81.6877431,NH130A,,
+hospital,Petals Newborn And Children Hospital,21.245081,81.6245086,G.E. Road,,Raipur
+hospital,Lifeline Hospital,22.0541063,81.683789,SH7;SH10,,
+hospital,Shashwat Hospital,21.244077,81.630207,G.E. Road,,Raipur
+hospital,SRS Multispeciality Hospital,21.736546,81.531788,NH30,,Bemetara
+hospital,mahila hospital,21.698348,81.513734,SH7,,Bemetara
+hospital,seva sadan hospital,22.075635,81.683453,NH130A,,
+hospital,Sagar Multi Speciality Hospital,21.249743,81.667901,Street Number 6,,Raipur
+hospital,RoopJeewan Hospital,22.0059549,81.2340245,SH5,,Kabirdham
+hospital,G. B. Hospital & Meternity Home,22.075165,82.156627,WAY TO CMD CHOWK,,Bilaspur
+hospital,Dr John Hospital,22.072428,81.695476,NH130A,,
+hospital,Sankalp Hospital,21.2467743,81.5723744,Service Road,,Raipur
+hospital,Dr Rupesh Namdev MBBS DMRE,22.087459,82.128862,NH130A,,Bilaspur
+hospital,Uday Children Hospital,22.085066,82.138591,Warehouse Road,,Bilaspur
+hospital,Endoscopy & Surgical Clinic (Cancer Hospital),22.07918,82.14376,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,Saaol Heart Center,22.0781129,82.1318701,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,Narayani Hospital,22.091988,82.1279049,NH130A,,Bilaspur
+hospital,Sunshine hospital,22.0883094,82.1338041,NH130A,,Bilaspur
+hospital,Chaturvedi Dental Hospital,22.0868817,82.1374321,Warehouse Road,,Bilaspur
+hospital,Sanjivani Hospital & Research Centre,22.0845367,82.1385807,Padmshri Pandit Shyamlal Chaturvedi Smart Road,,Bilaspur
+hospital,Dr. Rahalkar Hospital,22.0788948,82.1429837,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,Vandana Hospital,22.091674,82.1263636,NH130A,,Bilaspur
+hospital,Usha memorial Skin & Eye Hospital,22.088088,82.136576,Warehouse Road,,Bilaspur
+hospital,Dr K K Agrawal Heart Center,22.0854926,82.1308819,Padmshri Pandit Shyamlal Chaturvedi Smart Road,,Bilaspur
+hospital,Shri Krishna Hospital,22.092207,82.127634,NH130A,,Bilaspur
+hospital,Shri Prasuti & Shishu Mandir,22.0872608,82.1248915,NH130A,,Bilaspur
+hospital,Aarbee Hospital,22.078938,82.133417,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,City Hospital,20.7117484,81.5380336,Mahalaxmi Green colony,,Dhamtari
+hospital,Dr. Mukesh Lunkad Nursing Home,20.7118074,81.5482104,Mahalaxmi Green colony,,Dhamtari
+hospital,Rameshwaram Hospital,20.7121253,81.5349258,Mahalaxmi Green colony,,Dhamtari
+hospital,Dr. Niranjan Mahawar Hospital,20.7048575,81.5502698,Mahalaxmi Green colony,,Dhamtari
+hospital,Mithali Hospital,20.7290388,81.5571621,NH30,,Dhamtari
+hospital,Shriram Hospital,20.2727113,81.4882959,NH30,,Uttar Bastar Kanker
+hospital,Bal Krishna Hospital,20.7196811,81.5492608,Mahalaxmi Green colony,,Dhamtari
+hospital,Dr. Gangwani,20.6987372,81.5487378,Mahalaxmi Green colony,,Dhamtari
+hospital,Government Hospital,20.3087818,81.0728196,Dalli-Dondi Road,,Uttar Bastar Kanker
+hospital,Gupta Hospital,20.7107405,81.5390552,Mahalaxmi Green colony,,Dhamtari
+hospital,Sarwani Devi Mittal Memorial Hospital,20.7201531,81.5512057,Mahalaxmi Green colony,,Dhamtari
+hospital,Dhamtari Hospital,20.701153,81.5376722,NH30,,Dhamtari
+hospital,Amoda Hospital,20.3788038,81.5779172,,,Uttar Bastar Kanker
+hospital,Manmohan Vaishno Hospital,20.7201515,81.548017,Mahalaxmi Green colony,,Dhamtari
+hospital,Shree Ram Hospital & Research Centre,20.2656456,81.4949333,NH30,,Uttar Bastar Kanker
+hospital,Sahu Hospital,20.7239111,81.5527074,NH30,,Dhamtari
+hospital,Dharmarth Hospital,20.6890597,81.5540511,NH30,,Dhamtari
+hospital,District Veterinary Hospital,20.2789486,81.491495,NH30,,Uttar Bastar Kanker
+hospital,Dr.Iqbal Pervez Orthopaedics Hospital,20.7100111,81.5474168,Mahalaxmi Green colony,,Dhamtari
+hospital,Fracture Trauma Hospital,20.7085686,81.546236,Mahalaxmi Green colony,,Dhamtari
+hospital,Purnima Homeo & Dental Hospital,20.3006381,81.4921146,NH30,,Uttar Bastar Kanker
+hospital,Santosh Hospital,20.7015965,81.554329,Mahalaxmi Green colony,,Dhamtari
+hospital,Sri Badyanath Ayurvedic Dawakhana,20.7215943,81.5538075,NH30,,Dhamtari
+hospital,CG MEDCALS,22.0811651,82.1406438,WAY TO RAJIV GANDHI,,Bilaspur
+hospital,"Government Hospital, Palari",20.8058497,81.4760011,Sangli Rd,,Balod
+hospital,"Government Hospital, Bitkuli",21.6550067,82.2321671,NH130B,,Baloda Bazar
+hospital,"Government Hospital, Charoda",21.2080882,81.4326871,NH53,,Baloda Bazar
+hospital,"Government Hospital, Hirmi",21.5444397,81.9386848,,,Baloda Bazar
+hospital,Malanjik copper project hospital,22.0530043,80.7153971,SH48,,Balaghat
+hospital,A.S.M DENTAL CLINIC,21.2371135,81.5978925,NH53,,Raipur
+hospital,Shreevedam Dental and Aryuvedic Clinic,21.2345837,81.5954368,NH53,,Raipur
+pharmacy,chhattisgarh info tech promotion society,21.2371887,81.6542215,Canal Road,,Raipur
+pharmacy,Med Shop,21.2180302,81.33233,Junwani Road,,Durg
+pharmacy,Mahadev Medicals,21.220885,81.3068661,Junwani Road,,Durg
+pharmacy,Amuley medical and genaeral store,22.0965672,80.5503516,SH47,,Balaghat
+pharmacy,Om medical stors bamhani,22.1277954,80.6366481,SH47,,Balaghat
+pharmacy,Jai Laxmi Medical Stores,21.2369868,81.5978014,NH53,,Raipur
+arts_centre,Nehru Art Gallery,21.1858182,81.343277,Central Avenue,,Durg
+casino,tulshi,22.0798245,82.1845627,SIPAT ROAD,,Bilaspur
+cinema,raj takiz,21.5465696,81.797166,,,Raipur
+cinema,INOX,21.2366336,81.6855766,NH53,,Raipur
+cinema,shyam talkies,21.2357627,81.6325306,full chock,,Raipur
+cinema,Bigcinema,21.2457108,81.6242215,G.E. Road,,Raipur
+cinema,prabhat talkies,21.250197,81.6305431,KK Road,,Raipur
+cinema,raj talkies,21.243927,81.6374024,Choti Gali 2,,Raipur
+cinema,TimeZone,21.2172846,81.6568548,NH30,,Raipur
+cinema,glitz cinemas,21.25637,81.592402,Amanaka Flyover,,Raipur
+cinema,Miraj Cinemas,21.182462,81.3393081,Globe Chowk,,Durg
+cinema,PVR Cinemas,22.0719438,82.1494855,Shrikant Verma Marg,,Bilaspur
+cinema,Cinemark,22.0937512,82.125223,mangla road,,Bilaspur
+fountain,KT Fountain,21.2344771,81.6551974,shyam nagar road,,Raipur
+fountain,KT Fountain,21.2347962,81.6551221,KT Walking Path,,Raipur
+fountain,KT Fountain,21.2351377,81.6550396,KT Walking Path,,Raipur
+studio,Doordarshan Tower,22.1001747,82.1859806,Behtarai Road,,Bilaspur
+studio,OSM Studio,21.2493071,81.6777885,Kacha main Road,,Raipur
+theatre,36 City Mall,22.0935186,82.1252713,NH130A,,Bilaspur
+theatre,Amphitheatre,21.1558647,81.7832606,,,Raipur
+theatre,Cantavil,21.2365172,81.6856556,NH53,,Raipur
+theatre,MirrorMaze,21.2172763,81.6563799,NH30,,Raipur
+theatre,Glitz Cinemas,21.2172832,81.6567885,NH30,,Raipur
+theatre,manuraj,22.0676795,81.6910729,NH130A,,
+theatre,SSTC Auditorium,21.2165074,81.3081014,Shri Shankaracharya College Road,,Durg
+theatre,Rang Mandir,21.236674,81.638783,saprey school road,,Raipur
+courthouse,district court,21.2469584,81.642604,NH130B,,Raipur
+courthouse,Labour court,21.2447686,81.6623322,Atal Path Expressway,,Raipur
+courthouse,High Court of Chhattisgarh,22.0764222,82.1647414,WAY TO OLD BUS STAND,,Bilaspur
+courthouse,Baihar Civil Court,22.1029547,80.5496355,SH47,,Balaghat
+fire_station,Airport Fire Station,21.1837232,81.7385071,VIP Road Raipur,,Raipur
+police,"Mohan Nagar Police Station, Durg",21.1968534,81.2877296,SH7,,Durg
+police,tarbahar police station,22.0703111,82.1604238,Link Road,,Bilaspur
+police,MAHILA THANA,22.0809708,82.1496504,mahila thana road,,Bilaspur
+police,DDU Nagar Police station,21.2515488,81.5954033,Amanaka Flyover,,Raipur
+police,Urla Police station,21.3083942,81.6192122,NH30,,Raipur
+police,Amanaka Police station,21.2507507,81.5876752,Amanaka Road,,Raipur
+police,Tikrapara Police station,21.2206286,81.6415295,Dhamtari Road,,Raipur
+police,Police Station Masturi,21.9910409,82.268568,Masturi Malhar Road,,Bilaspur
+police,New Khursipar Bhilai Police Station,21.2076444,81.4005154,NH53,,Durg
+police,traffic polish station,21.3011125,81.6362925,NH30,,Raipur
+police,Amanaka Police Station,21.2518357,81.5997597,GE Road,,Raipur
+police,Naya Police thana,22.1045941,80.5492665,SH47,,Balaghat
+police,Mowa Police Station,21.2677286,81.6710838,NH130B,,Raipur
+police,Purani Basti Police station,21.2334685,81.6306227,Main road,,Raipur
+police,Police Station,20.4935517,81.3679035,NH30,,Uttar Bastar Kanker
+police,Police Station,22.0430132,80.7133258,SH48,,Balaghat
+post_office,Post Office,20.5840149,81.0764819,Dalli-Dondi Road,,Balod
+post_office,General Post Office,21.2431045,81.6361365,Malviya Main Road,,Raipur
+post_office,india post,21.2543555,81.6514862,NH130B,,Raipur
+post_office,india post,21.259706,81.5772939,G.E. Road,,Raipur
+post_office,india post,21.234121,81.6108084,Mahadev Ghat Main Road,,Raipur
+post_office,india post,21.2538737,81.6617821,TV Tower Road,,Raipur
+post_office,Post-Office,20.4911046,81.3680679,NH30,,Uttar Bastar Kanker
+toilets,Sulabh,21.0978024,81.0284266,Baila Pasara Road,Mamta Nagar,Rajnandgaon
+toilets,Sulabh,21.0971693,81.0287629,unnamed road,Mamta Nagar,Rajnandgaon
+clock,jail tiraha,21.1823303,81.2977905,Utai Road,,Durg
+clock,SANKERPUR OLAT,21.1063981,81.0324684,SH5,Chikhali,Rajnandgaon
+marketplace,lalpur wholesale fruit market,21.2127572,81.6636472,NH30,,Raipur
+marketplace,RAJIV PLAZA,22.0759803,82.1580222,WAY TO CMD CHOWK,,Bilaspur
+marketplace,SHANICHARI BAZAR,22.0843931,82.159114,RIVER VIEW ROAD,,Bilaspur
+marketplace,GOAL BAZAR,22.0653666,81.6883236,WAY OF GOAL BAZAR,,
+marketplace,Turihatri,21.2338544,81.6248754,Main road,,Raipur
+place_of_worship,Jama Masjid Bhilai,21.2013919,81.3500934,Garage Road,,Durg
+place_of_worship,siyadevi,20.6930314,81.3774762,NH930,,Balod
+place_of_worship,danteshwari mata mandir,20.3240065,81.8690707,SH6,,Dhamtari
+place_of_worship,Bamleshwari Mandir,21.1786121,80.750594,,,Rajnandgaon
+place_of_worship,Gurudwara,21.1954852,81.2874049,SH7,,Durg
+place_of_worship,Mennonite Church,21.1881377,81.2841683,Utai Road,,Durg
+place_of_worship,sitla mandir mahasamund,21.1122972,82.093955,NH353,,Mahasamund
+place_of_worship,BUDDHA STATUE,21.1796786,80.7483867,,,Rajnandgaon
+place_of_worship,jagannath mangalam,22.074784,82.1597155,WAY TO RAJIV PLAZA (BLOCK B),,Bilaspur
+place_of_worship,Sacred Heart Roman Catholic Church,22.0600736,82.1685592,Station Road,,Bilaspur
+place_of_worship,GAYATRI PRAGYA PEETH CHATIDIH,22.0958496,82.1583154,RAJSWA COLONY ROAD CHATIDIH,,Bilaspur
+place_of_worship,"Sai mandir koni, bilaspur",22.1340367,82.1241278,Gayatri and desai Dham mandir koni,,Bilaspur
+place_of_worship,Gayatri mandir koni,22.1332496,82.1220564,Gayatri and desai Dham mandir koni,,Bilaspur
+place_of_worship,Hanuman Mandir,22.1353796,82.122488,Way to Barpara Koni,,Bilaspur
+place_of_worship,Raipur christian church,21.2270388,81.6633564,Canal Road,,Raipur
+place_of_worship,Mar thoma church,21.2473406,81.6560022,Atal Path Expressway,,Raipur
+place_of_worship,St.marrys orthodox church,21.255445,81.6670087,TV Tower Road,,Raipur
+place_of_worship,emmanuelle church,21.2252453,81.6434293,NH30,,Raipur
+place_of_worship,jesus calls,21.2388131,81.6560823,Canal Road,,Raipur
+place_of_worship,St.Mathews CNI Church,21.2423112,81.609051,GE Road,,Raipur
+place_of_worship,St. Teresa Church,21.2198637,81.6700697,Amlidih Main Road,,Raipur
+place_of_worship,Kaivalya Dham Jain Temple,21.2470023,81.5285332,Patan - Kumari Rd.,,Durg
+place_of_worship,Banjari mata mandir,21.3136,81.6391246,NH30,,Raipur
+place_of_worship,iskon,21.253025,81.5584171,NH53,,Raipur
+place_of_worship,ayyapatemple,21.26463,81.5733449,Ring Road No.2,,Raipur
+place_of_worship,Shadani Darbar,21.1877141,81.7036271,NH30,,Raipur
+place_of_worship,Ghatarani,20.8279651,82.0597664,,,Gariaband
+place_of_worship,Madarsa Islahul Muslimeen,21.2390481,81.6387531,stadium road,,Raipur
+place_of_worship,Noorani Masjid,21.2492144,81.6498433,Canal Road,,Raipur
+place_of_worship,Anupam Nagar Masjid,21.2602189,81.6645345,TV Tower Road,,Raipur
+place_of_worship,Jama Masjid,21.2384766,81.6352884,full chock,,Raipur
+place_of_worship,hatkeswar temple,21.215779,81.5905263,Mahadev Ghat Main Road,,Raipur
