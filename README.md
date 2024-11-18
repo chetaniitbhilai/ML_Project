@@ -69,4 +69,10 @@ python/python3 app.py
   <li>Process: The backend will process the request. Please allow approximately 10 minutes for the operation to complete.</li>
 </ul>
 
+### Step 5: Get the output
+Your output will look like <br>
+![image](https://github.com/user-attachments/assets/318aee35-6e41-4ecc-ac17-642749397fe1)
+
+
+### Note: Every folder has its own README explaining the contents of the folder
 
