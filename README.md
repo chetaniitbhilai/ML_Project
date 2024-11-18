@@ -35,6 +35,9 @@ Branch - Master <br>
  ┃<br>
  ┗ 📄 README.md - Contents of the directory and how to run the model <br>
 <br>
+
+**For more details to know there is a README file in every directory that explains that directory's content.**
+
 # Running the UI Version of the Model
 
 To set up and run the UI and backend components for the project, follow these steps:
