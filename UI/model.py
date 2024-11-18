@@ -13,7 +13,13 @@ import numpy as np
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import os
-
+import folium
+import numpy as np
+from scipy.spatial import distance_matrix
+import osmnx as ox
+import networkx as nx
+from shapely.geometry import Point
+from shapely.ops import nearest_points
 
 # Load the train data
 train_data = pd.read_csv('updated_data.csv')
@@ -175,9 +181,130 @@ else:
     plt.ylabel('Latitude')
     plt.legend()
     plt.grid(True)
-
     output_path = "output_graph.png"
     plt.savefig(output_path, format="png", dpi=300)  # Save with high quality
     print(f"Graph saved as {output_path}")
     
     plt.show()
+
+
+def plot_single_metro_line(predicted_positions, save_path='predicted_metro_line_map.html'):
+    """
+    Plot predicted metro stations on a map and connect them sequentially along actual roads.
+    
+    Args:
+        predicted_positions: Array of predicted metro station coordinates (latitude, longitude).
+        save_path: Path to save the generated map as an HTML file.
+    """
+    if len(predicted_positions) == 0:
+        print("No predicted metro station locations available.")
+        return
+    
+    # Extract only latitude and longitude
+    predicted_positions = predicted_positions[:, :2]
+    
+    # Calculate the bounding box for the area
+    min_lat, max_lat = predicted_positions[:, 0].min(), predicted_positions[:, 0].max()
+    min_lon, max_lon = predicted_positions[:, 1].min(), predicted_positions[:, 1].max()
+    
+    # Add some padding to the bounding box
+    padding = 0.02  # roughly 2km
+    bbox = (
+        min_lat - padding,
+        min_lon - padding,
+        max_lat + padding,
+        max_lon + padding
+    )
+    
+    # Download the street network
+    G = ox.graph_from_bbox(
+        bbox[0], bbox[2], bbox[1], bbox[3],
+        network_type='drive',
+        simplify=True
+    )
+    
+    # Convert to projected graph for accurate distance calculations
+    G_proj = ox.project_graph(G)
+    
+    # Find the optimal order of stations (using nearest neighbor algorithm)
+    dist_matrix = distance_matrix(predicted_positions, predicted_positions)
+    num_points = len(predicted_positions)
+    visited = [False] * num_points
+    path = [0]
+    visited[0] = True
+    
+    for _ in range(num_points - 1):
+        last_point = path[-1]
+        nearest_neighbor = None
+        min_distance = float('inf')
+        for j in range(num_points):
+            if not visited[j] and dist_matrix[last_point, j] < min_distance:
+                nearest_neighbor = j
+                min_distance = dist_matrix[last_point, j]
+        path.append(nearest_neighbor)
+        visited[nearest_neighbor] = True
+    
+    ordered_positions = predicted_positions[path]
+    
+    # Create a folium map
+    center_lat = predicted_positions[:, 0].mean()
+    center_lon = predicted_positions[:, 1].mean()
+    m = folium.Map(location=[center_lat, center_lon], zoom_start=12)
+    
+    # Function to find nearest node in the graph
+    def get_nearest_node(lat, lon):
+        return ox.distance.nearest_nodes(G, lon, lat)
+    
+    # Plot the road-following path between consecutive stations
+    for i in range(len(ordered_positions) - 1):
+        start_lat, start_lon = ordered_positions[i]
+        end_lat, end_lon = ordered_positions[i + 1]
+        
+        # Find nearest nodes in the road network
+        start_node = get_nearest_node(start_lat, start_lon)
+        end_node = get_nearest_node(end_lat, end_lon)
+        
+        try:
+            # Find the shortest path between the nodes
+            route = nx.shortest_path(G, start_node, end_node, weight='length')
+            
+            # Get the coordinates for the route
+            route_coords = []
+            for node in route:
+                route_coords.append([G.nodes[node]['y'], G.nodes[node]['x']])
+            
+            # Add the route line to the map
+            folium.PolyLine(
+                locations=route_coords,
+                color='green',
+                weight=3,
+                opacity=0.8,
+                popup=f"Section {i+1}"
+            ).add_to(m)
+        except nx.NetworkXNoPath:
+            print(f"No path found between stations {i+1} and {i+2}")
+            # Fall back to direct line if no path is found
+            folium.PolyLine(
+                locations=[[start_lat, start_lon], [end_lat, end_lon]],
+                color='red',
+                weight=3,
+                opacity=0.8,
+                popup=f"Direct connection (no road path found) {i+1}"
+            ).add_to(m)
+    
+    # Add markers for each predicted metro station
+    for idx, (lat, lon) in enumerate(ordered_positions):
+        folium.Marker(
+            [lat, lon],
+            popup=f"Predicted Metro Station {idx + 1}<br>Coordinates: ({lat:.5f}, {lon:.5f})",
+            icon=folium.Icon(color='blue', icon='train')
+        ).add_to(m)
+    
+    # Save the map
+    m.save(save_path)
+    print(f"Map with road-following metro line saved to {save_path}")
+
+# Example usage:
+# reduced_predicted_positions should be a numpy array of shape (n, 2) containing lat/lon coordinates
+plot_single_metro_line(reduced_predicted_positions, save_path='predicted_metro_line_map.html')
+
