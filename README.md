@@ -35,11 +35,38 @@ Branch - Master <br>
  ┃<br>
  ┗ 📄 README.md - Contents of the directory and how to run the model <br>
 <br>
-<br>
-To run the UI version of Model -<br>
-<br>
-git clone https://github.com/chetaniitbhilai/ML_Project.git<br>
-cd UI <br>
-Go live on the index.html<br>
+# Running the UI Version of the Model
+
+To set up and run the UI and backend components for the project, follow these steps:
+
+---
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/chetaniitbhilai/ML_Project.git
+cd UI
+```
+
+### Step 2: Launch the UI
+**Open index.html in your preferred browser.<br>
+You may use a local development server (e.g., Live Server in VS Code) to go live.<br>
+UI Preview:<br>**
+
+![UI Screenshot](https://github.com/user-attachments/assets/1021d28c-37ae-4eb5-8d71-e9c6ceef7e82) <br>
+
+
+### Step 3: Run the Backend
+```bash
+In UI directory 
+python/python3 app.py
+```
+
+### Step 4: 
+<ul>
+  <li>Input: Enter coordinates and radius values in the frontend form.</li>
+  <li>Action: Click on the "Send to Backend" button.</li>
+  <li>Process: The backend will process the request. Please allow approximately 10 minutes for the operation to complete.</li>
+</ul>
 
 
