@@ -6,7 +6,7 @@ This project implements a Graph Convolutional Network (GCN) using PyTorch and Py
 <img src="./cluster.jpg" width="400"> <img src="./disjoint%20graph.jpg" width="400">
 
 ## Files and Structure
-1. **main.py**: Core Python script containing the GCN model, data preprocessing, training, and evaluation functions.
+1. **GCN_model.ipynb**: Core Python script containing the GCN model, data preprocessing, training, and evaluation functions.
 
 2. **edge_embedding.csv**: 
    - Contains the *edge embedding*, representing spatial relationships between nodes.
@@ -65,11 +65,7 @@ pip install scikit-learn pandas numpy
 ## Running the Code
 
 1. Place the required CSV files in the appropriate directory.
-2. Run the script:
-
-```bash
-python main.py
-```
+2. Run the GCN_model.ipynb
 
 ### Outputs
 
