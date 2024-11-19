@@ -118,7 +118,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.01)
 target = torch.randint(0, 2, (data.num_nodes,), dtype=torch.float)  # Binary labels (0 or 1)
 
 # Train the model with accuracy tracking
-epochs = 1000
+epochs = 200
 for epoch in range(epochs):
     model.train()
     optimizer.zero_grad()
