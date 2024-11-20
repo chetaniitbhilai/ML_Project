@@ -1,8 +1,8 @@
 # ML_Project
 Team Name - Outliers <br>
 <br>
-Project - Metro line prediction system 
-Branch - Master <br>
+## Project - Metro line prediction system 
+<br>
 <br>
 📦 Root<br>
  ┣ 📂 UI<br>
